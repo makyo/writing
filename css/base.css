@@ -1,0 +1,21 @@
+body { 
+    font-family: 'Stoke', serif;
+    font-size: 10pt;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato', sans-serif;
+}
+
+h3.alignTop {
+    margin-top: 0;
+}
+
+ol, ul {
+    margin-left: 2em;
+}
+
+footer {
+    margin-top: 2em;
+    font-size: 8pt;
+}
