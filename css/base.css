@@ -16,6 +16,7 @@ ol, ul {
 }
 
 footer {
+    clear: both;
     margin-top: 2em;
     font-size: 8pt;
 }
