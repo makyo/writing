@@ -17,6 +17,8 @@ ol, ul {
 
 footer {
     clear: both;
-    margin-top: 2em;
     font-size: 8pt;
+}
+footer div {
+    padding-top: 2em;
 }
