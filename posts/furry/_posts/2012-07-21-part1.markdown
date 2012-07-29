@@ -1,8 +1,8 @@
---
+-
 layout: post
 title: Part 1 - Participation Mystique
 
---
+-
 
 So.  What is furry?
 
@@ -209,7 +209,7 @@ that's decidedly difficult to answer in a way that's satisfactory to
 all.  Perhaps the best definition to be found is that a furry is someone
 who claims to be a furry.  There are probably some who fall outside this
 definition that others would consider as members of the subculture, but
-it's part of our mystical participation that it be consensual -- one
+it's part of our mystical participation that it be consensual - one
 cannot be forced to identify with something.  I suppose in that sense,
 'furry' winds up being more of an adjective than a noun, though the word
 as an adjective already caries too strong a meaning to be overloaded
@@ -240,7 +240,7 @@ of conventions: certain styles, stances, and actions can identify the
 furry from the non-furry.  It might be wrong to call it a price, but
 membership with the subculture does seem to come with its expectations.
 One is no longer necessarily obligated to be familiar with
-\textit{Watership Down} or \textit{Rescue Rangers} (though, at the time
+_Watership Down_ or _Rescue Rangers_ (though, at the time
 of writing, one should apparently be familiar with the exceedingly
 popular musical genre of Dubstep), for instance.  The criteria for
 participation remain loose enough for us to be a fairly accepting
@@ -249,7 +249,7 @@ time, but there are still some lines, however faint and tested by the
 post-fur crowd (to name only one example) which identify the members as
 furries.
 
-Participation mystiqe -- mystical participation -- is perhaps one of
+Participation mystiqe - mystical participation - is perhaps one of
 the best phrases I've found to be used to define the fandom.  It's not
 something one can or even should whip out when trying to explain the
 subculture of furry to non-members.  The concept of basing part of our
@@ -666,8 +666,8 @@ opinion.
 Watching the shift and change of what we take as given within the fandom
 is a good way to watch the way our subculture grows and changes, itself.
 As we watch these ideas shift from doxa to a division between orthodoxy
-and heterodoxy -- that which is accepted as normal, and that which is
-seen as going against the norm -- to an accepted variety, we can see the
+and heterodoxy - that which is accepted as normal, and that which is
+seen as going against the norm - to an accepted variety, we can see the
 way that new members influence the fandom and how external factors can
 change our social interaction.  The perceived sexualization of furry and
 the consequent backlash from both older and newer members can be seen as
@@ -711,7 +711,7 @@ the end, I stop. It's a strategy that, to my mind, would work almost
 solely for the introspective writer, one who internalizes a subject,
 then blasts it out on to paper (or screen). The idea is that one works
 as one does with watercolor, where there is no real way to correct a
-mistake or change what one has done -- one must simply start at the
+mistake or change what one has done - one must simply start at the
 beginning and continue until one feels that the work is done, then stop.
 There is no editing along the way, as there would be in the "oil
 painting strategy"; with oils, one has the ability to paint over the
@@ -737,7 +737,7 @@ what we take for granted within the fandom.
 
 One of the big things that keeps me coming back to these subjects is the
 standard artist's complaint that I'm never really satisfied with the
-product. I can barely even call myself an artist, here -- so much of what
+product. I can barely even call myself an artist, here - so much of what
 I've done with \adsp is rehashing ideas I've heard of or learned about
 in a non-furry context within the context of furry, and this piece here
 is no exception. Rather, I'm one with artistic habits.
@@ -813,7 +813,7 @@ fandom: we act within and upon it, both taking from and adding to it by
 way of our membership. It works to say it either way: our sociolect is a
 combination of our idiolects because we are a community composed of
 members, and we are a community composed of members because we have our
-sociolect as a combination of our idiolects -- our ways of communicating
+sociolect as a combination of our idiolects - our ways of communicating
 made up of those who communicate with each other.
 
 \includegraphics[scale=0.4]{assets/language-hierarchy.png}
@@ -825,7 +825,7 @@ dialects and sociolects, in turn, are made up of the individial
 idiolects of their members. There, of course, some mixing due to new
 speakers of the language and borrowed terms, but also due to the fact
 that individuals often belong to more than one social group, and thus
-may take part in more than one sociolect or dialect -- my partner is a
+may take part in more than one sociolect or dialect - my partner is a
 machinist, but he is also a furry, for instance. A good example might be
 the apparent dichotomy between "realistic" and "toony" furry art,
 perhaps due to the overlap between the furry subculture and the art
@@ -842,10 +842,10 @@ few terms that become important due to this fact, namely "text",
 "corpus", "medium", and "modality". A "text" is a unit of communication,
 whether it's a journal post, an image and all of its associated
 discussion, such as comments, or a web page like this. A "corpus" is a
-collection of related texts -- this post would be a text, but
-\adjsp would be a corpus -- though it can be taken in
+collection of related texts - this post would be a text, but
+\adjsp would be a corpus - though it can be taken in
 broader terms, such as the collection of all different texts on
-FurAffinity -- images, journals, comments, user pages -- or simply the
+FurAffinity - images, journals, comments, user pages - or simply the
 collection of all texts within our subculture: the furry corpus, if you
 will.
 
@@ -917,7 +917,7 @@ Renaissance period, much of the words to the songs spend time evoking
 romantic imagery. That, and much of the songs we performed weren't
 exactly Madrigals in their own right, but composed later in the Romantic
 or Neo-romantic eras. Put simply, I was a teenager inundated in
-romanticism -- the concept of being able to explain everything only with
+romanticism - the concept of being able to explain everything only with
 logical terms and without the metaphor inherent in romanticism didn't
 jive with me. Additionally, having been brought up by two atheist
 parents, I was going through my own spiritual renaissance at the time,
@@ -950,7 +950,7 @@ following way:
   \item any influence is ascribed not to 'Language' as such or to one
   language as compared with another, but to the use \textit{within a
   language} of one variety rather than another (typically a
-  \textit{sociolect} -- the language used primarily by members of a
+  \textit{sociolect} - the language used primarily by members of a
   particular social group)
   \item emphasis is given to the social context of language use rather
   than to purely linguistic considerations, such as the social pressure in
@@ -961,7 +961,7 @@ This leads us to the next topic of discussion: semiotics. There is
 argument as to whether or not linguistics is a subset of semiotics, or
 vice versa. Whereas linguistics aims to tackle the use and meaning of
 language, semiotics aims to tackle the use and language of meaning. They
-are certainly closely related -- given that language, written language
+are certainly closely related - given that language, written language
 specifically, but also speech, provides a measurable, non-objective
 metric to study, much of semiotics deals with the use of words within a
 certain context to either ascribe or convey meaning, as well as the
@@ -979,8 +979,8 @@ with meaning, nor that it doesn't take the social context into account,
 simply that that focusing specifically on those areas is the realm of
 semiotics, instead.
 
-The process of ascribing meaning to a sign -- be it a word, a gesture,
-music, or some aspect of a piece of visual art -- is known as semiosis.
+The process of ascribing meaning to a sign - be it a word, a gesture,
+music, or some aspect of a piece of visual art - is known as semiosis.
 Semiosis isn't something that happens on it's own, we don't ascribe
 meaning to the word "tree" without having some framework in which to
 ascribe that meaning. Signs are parts in the whole of sign systems or
@@ -1015,7 +1015,7 @@ when a social group forms, a sociolect can form with them due to the way
 the group steers semiosis, the way it finds meaning.
 
 These semiotic niches work much the same way as umwelten, in that they
-can converge and share boundaries -- they all, after all, take part in
+can converge and share boundaries - they all, after all, take part in
 the world of meaning around them, known as the semiosphere. That is,
 something like furry will share its meaning not only with Internet
 culture, but also western culture, anime culture to some extent, and, as
@@ -1053,8 +1053,8 @@ fandom itself.
 \section{Tying it all together}
 
 At some point, the furry fandom started to coalesce. Some would put it
-in the 1980s -- a reader and friend posits that the fandom really got
-started September 1st, 1980 at Noreascon with Steve Gallacci[5] -- some
+in the 1980s - a reader and friend posits that the fandom really got
+started September 1st, 1980 at Noreascon with Steve Gallacci[5] - some
 would put it much, much earlier, and some perhaps later, into the '90s
 when the Internet became truly accessible. For the sake of this article
 and much of this site in general, we'd probably go with some time in the
@@ -1157,7 +1157,7 @@ sign in and of itself. That so many furries today would consider
 Disney's "Robin Hood" to be a furry movie holds meaning both in regards
 to the object of the film and the fuzzy interpretants themselves. It is
 difficult even for me to interpret the movie outside of a furry context
--- I saw it first in Elementary school, and even then spent time drawing
+- I saw it first in Elementary school, and even then spent time drawing
 foxes afterwards. Needless to say, genre's a difficult thing to
 determine from within.
 
@@ -1216,9 +1216,9 @@ draws at conventions is the art-show and dealers den.
 There are more complex forms of communication than static text and
 images, though, and here is where things become quite difficult to
 analyze in any meaningful way. Fursuits, for instance, provide
-communication in a visual medium similar to that as art -- they are
+communication in a visual medium similar to that as art - they are
 pleasing to look at and express the meaning of the character they are
-intended to embody -- but they are also an interactive medium. A medium
+intended to embody - but they are also an interactive medium. A medium
 that can move and talk, can hug and bounce and stalk and take on a life
 of its own.
 
@@ -1286,7 +1286,7 @@ something which does not match the individual themselves out of
 necessity.
 
 This article and any like it will have it's necessary downsides. We
-didn't really get anywhere, all told -- we defined some terms in order to
+didn't really get anywhere, all told - we defined some terms in order to
 help us understand the ways in which we interact with our subculture,
 both through the linguistic concept of a sociolect, a language used
 among our co-fans, and the semiotic concept of a niche, a set of
@@ -1307,7 +1307,7 @@ this broad base of which we are a part, because they provide a
 foundation of words on which we can base our own explanations of what it
 means to be a furry. And, beyond the definitions, it's nice to maintain
 a certain sort of disputability. It allows for a greater membership
-through greater self identification -- more people can become furry
+through greater self identification - more people can become furry
 because the definition of what furry is can accommodate them. And hey,
 that sense of mystery about the fandom is always nice, as well. It's a
 hook for bringing in new members, and for keeping the old ones 
