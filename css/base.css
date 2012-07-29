@@ -12,6 +12,7 @@ h3.alignTop {
     margin-top: 0;
 }
 
+
 ol, ul {
     margin-left: 2em;
 }
@@ -20,16 +21,37 @@ p {
     margin-bottom: 0.75em;
 }
 
+a, a:active {
+    color: #666;
+}
+
+a:visited, a:hover { 
+    color: #888;
+}
+
+h1 a, h1 a:active, h1 a:visited, h1 a:hover,
+a.footnote, a.footnote:active, a.footnote:visited, a.footnote:hover {
+    color: #444;
+    text-decoration: none;
+}
+
 blockquote {
     margin-left: 2em;
     color: #444;
+}
+
+hr {
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
 
 footer {
     clear: both;
     font-size: 8pt;
     position: relative;
+    padding-top: 1em;
 }
 footer div {
+    position: relative;
     margin-top: 3em;
 }

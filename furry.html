@@ -4,8 +4,15 @@ title: On Furry
 header: On Furry
 ---
 
+<p>If there has been any one constant thing in my life these last twelve years, it has been my participation in the furry fandom.  Very few things have captured my interest for as long, nor provided me with as much strong emotion - on both ends of the spectrum, of course - as furry, and I would be hard pressed to imagine my life without it.</p>
+<p>Much of this is cribbed from my own writings at <a href="http://adjectivespecies.com" target="_blank">[adjective][species]</a>.</p>
+<hr />
 <ul>
     {% for post in site.categories.furry %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a><abbr>{{ post.date|date_to_string }}</abbr></li>
+    <li><a href="{{ post.url }}">{{ post.title }}</a> posted in 
+    {% for category in post.categories %}{% if category != "posts" %}
+    <a href="/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %} 
+    {% endif %}{% endfor %} 
+    on {{ post.date|date_to_string }}</li>
     {% endfor %}
 </ul>

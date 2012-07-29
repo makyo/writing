@@ -3,8 +3,15 @@ layout: default
 title: On Suicide
 ---
 
+<p>On March 21st, 2012, I tried to kill myself.</p>
+<p>It's amazing how such a simple statement of fact reflects (at time of writing), months of strange tension, slow recovery, and a whole lot of trying to understand what really happened. It's not a comfortable thing for anyone to discuss, but it's one of those things I need to discuss, need to get off my chest.  A little to much of what makes life meaningful for me now is wrapped up in that one night.</p>
+<hr />
 <ul>
     {% for post in site.categories.suicide %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a><abbr>{{ post.date|date_to_string }}</abbr></li>
+    <li><a href="{{ post.url }}">{{ post.title }}</a> posted in 
+    {% for category in post.categories %}{% if category != "posts" %}
+    <a href="/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %} 
+    {% endif %}{% endfor %} 
+    on {{ post.date|date_to_string }}</li>
     {% endfor %}
 </ul>
