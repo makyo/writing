@@ -261,7 +261,7 @@ got the bases covered: a connection with our characters, no matter the
 source, and our participation forming a portion of our identity as the
 crazy animal-people we are.
 
-\secdivider
+--------------------
 
 It is apparently a rite of passage for every website, blog, and
 individual to take a crack at defining furry.  It's one of those things
@@ -534,7 +534,7 @@ huskies are just targets".
 \textit{Default fur so far: a wolf.}
 
 \begin{center}
-\includegraphics[scale=0.5]{assets/age}
+\includegraphics{assets/age}
 \end{center}
 
 Age also plays an important factor in the fandom. It could be that
@@ -552,7 +552,7 @@ which I still love plenty, mind!
 \textit{Default fur so far: a 22 year old wolf.}
 
 \begin{center}
-\includegraphics[scale=0.7]{assets/sex-gender}
+\includegraphics{assets/sex-gender}
 \end{center}
 
 Geekdom, particularly computer geekdom, has almost always been dominated
@@ -569,7 +569,7 @@ now, let's call it decidedly male.
 \textit{Default fur so far: a 22 year old male wolf.}
 
 \begin{center}
-\includegraphics[scale=0.5]{assets/orientation}
+\includegraphics{assets/orientation}
 \end{center}
 
 Now is when things start to get hairy, if you'll forgive the pun. 
@@ -588,12 +588,12 @@ more visible and vocal nature of the more homosexual portions of the
 population. It could possibly be construed that society as a whole is
 likely divided up fairly evenly along Kinsey's scale, but that, due to
 social, evolutionary, and personal prejudices, we're left with a more
-uneven seeming distribution. Even so\ldots
+uneven seeming distribution. Even so...
 
 \textit{Default fur so far: a 22 year old gay male wolf.}
 
 \begin{center}
-\includegraphics[scale=0.7]{assets/sex-importance}
+\includegraphics{assets/sex-importance}
 \end{center}
 
 The waters get even muddier as we move on, and even the stereotype gets
@@ -629,7 +629,7 @@ to get laid. Cute, huh?}
 \includegraphics[scale=0.3]{assets/randomwolf-raw}
 
 \textit{RandomWolf}\footnote{Art by Floe, used as part of the
-[adjective][species] banner}
+\[adjective\][species] banner}
 \end{center}
 
 So, given our wolf guy here, what's right and what's wrong? Sure, he'll
@@ -693,7 +693,7 @@ While it is difficult to look within ourselves and figure these things
 out now beyond searching for marked categories, it certainly bears
 exploration once they come to light.
 
-\chapter{Meaning within a subculture}
+### Meaning within a subculture
 
 This is an idea that has been tumbling around in my head ever since I
 started this site. In fact, I suppose you could call a lot of my earlier
@@ -717,7 +717,7 @@ There is no editing along the way, as there would be in the "oil
 painting strategy"; with oils, one has the ability to paint over the
 paint already in place without worrying about muddying the painting or
 ruining the paper. As Chandler quotes in the section on the watercolor
-strategy, "rewrite in process \ldots interferes with flow and rhythm, which
+strategy, "rewrite in process ... interferes with flow and rhythm, which
 can only come from a kind of unconscious association with the material"
 (Plimpton, 1989, quoted in Chandler)\cite{chandlerWriting}.
 
@@ -765,7 +765,7 @@ with the fandom, and why the concept of membership is important. If
 nothing else, I find the concepts very interesting, and I think that
 many others will as well.
 
-\secdivider
+--------------------
 
 \section{A Linguistic Introduction}
 
@@ -896,7 +896,7 @@ connecting individuals across distance. Our choice of media is a form of
 communication in a way, though not simply due to the benefits to be
 gained from it. There is more, though, to be sure.
 
-\secdivider
+--------------------
 
 \section{On Semiotics}
 
@@ -1048,7 +1048,7 @@ interpretations meet and generate a coherent idea of furry within more
 than just the individual's point of view that we wind up with the furry
 fandom itself.
 
-\secdivider
+--------------------
 
 \section{Tying it all together}
 
@@ -1258,7 +1258,7 @@ no real easy way to pull it apart, even given as broad a topic as
 semiotics, but by investigating and participating, we always seem to
 expand it all the further.
 
-\secdivider
+--------------------
 
 \section{Conclusion}
 
