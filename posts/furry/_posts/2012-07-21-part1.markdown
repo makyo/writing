@@ -516,7 +516,7 @@ inside jokes contained within it. Furry is far from immune to this, and
 there are several recurring threads.
 
 \begin{center}
-\includegraphics[scale=0.7]{assets/species-breakdown}
+\includegraphics{assets/species-breakdown}
 \end{center}
 
 One definite theme within the fandom is that, to quote
