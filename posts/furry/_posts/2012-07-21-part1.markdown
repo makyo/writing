@@ -1,8 +1,8 @@
--
+---
 layout: post
 title: Part 1 - Participation Mystique
 
--
+---
 
 So.  What is furry?
 
