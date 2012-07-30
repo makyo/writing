@@ -515,27 +515,24 @@ perhaps, measure the strength of a subculture by counting the amount of
 inside jokes contained within it. Furry is far from immune to this, and
 there are several recurring threads.
 
-\begin{center}
-\includegraphics{assets/species-breakdown}
-\end{center}
+![Species Breakdown](/assets/furry/species-breakdown.png)
 
-One definite theme within the fandom is that, to quote
-%http://rikoshi.gd-kun.net/furry.html
+One definite theme within the fandom is that, to 
+[quote](http://rikoshi.gd-kun.net/furry.html)
 an old page, "The Animal Kindgom is full of a plethora of amazing and
 interesting species, and so you'll probably be a Fox or a Wolf". Canids
 seem to far outstrip other species as far as representation within the
 fandom. An 
-%http://forums.furaffinity.net/threads/61671-Furs-By-Species-2
-informal poll shows them making up nearly a third of all respondents. There are even
+[informal
+poll](http://forums.furaffinity.net/threads/61671-Furs-By-Species-2)
+shows them making up nearly a third of all respondents. There are even
 stereotypes that go along with each species (though these have,
 admittedly, weakened over time), such as that "foxes beg for it, while
 huskies are just targets".
 
-\textit{Default fur so far: a wolf.}
+_Default fur so far: a wolf._
 
-\begin{center}
-\includegraphics{assets/age}
-\end{center}
+![Age distribution](/assets/furry/age.png)
 
 Age also plays an important factor in the fandom. It could be that
 something about furry speaks to those just coming of age, or that the
@@ -549,11 +546,9 @@ firmly entrenched within the fandom, myself, by sixteen or so, and here
 I am, twenty-five, and writing a slightly satirical blog about furry -
 which I still love plenty, mind!
 
-\textit{Default fur so far: a 22 year old wolf.}
+_Default fur so far: a 22 year old wolf._
 
-\begin{center}
-\includegraphics{assets/sex-gender}
-\end{center}
+![Sex and Gender](/assets/furry/sex-gender.png)
 
 Geekdom, particularly computer geekdom, has almost always been dominated
 by males. The reasons for this are many and complex, but it seems to be
@@ -566,11 +561,9 @@ while, certain articles from certain magazines. Gender in furry is a
 complicated enough issue to warrant several of its own posts, but for
 now, let's call it decidedly male.
 
-\textit{Default fur so far: a 22 year old male wolf.}
+_Default fur so far: a 22 year old male wolf._
 
-\begin{center}
-\includegraphics{assets/orientation}
-\end{center}
+![Sexual orientation](/assets/furry/orientation.png)
 
 Now is when things start to get hairy, if you'll forgive the pun. 
 The stereotypes still
@@ -590,11 +583,9 @@ likely divided up fairly evenly along Kinsey's scale, but that, due to
 social, evolutionary, and personal prejudices, we're left with a more
 uneven seeming distribution. Even so...
 
-\textit{Default fur so far: a 22 year old gay male wolf.}
+_Default fur so far: a 22 year old gay male wolf._
 
-\begin{center}
-\includegraphics{assets/sex-importance}
-\end{center}
+![Importance of sex](/assets/furry/sex-importance.png)
 
 The waters get even muddier as we move on, and even the stereotype gets
 harder to pin down. Furries have a reputation of being highly sexual
@@ -608,8 +599,8 @@ metric to judge, and it would be hard to rank the fandom amongst other
 subcultures when it comes to sexuality, but it appears that furries, by
 and large, assume that furries are pretty oversexed.
 
-\textit{Default fur so far: a 22 year old gay male wolf looking to get
-laid.}
+_Default fur so far: a 22 year old gay male wolf looking to get
+laid._
 
 And now we're getting into some pretty speculative territory. From
 within, it seems that most of the fandom is made up of socially awkward
@@ -622,15 +613,10 @@ others when they talk about the fandom. I would have left this out due
 to it being so hard to pin down, but considering how large it figures in
 all of the satires of the fandom, I'm not sure I could justify that.
 
-\textit{Default fur: a tipsy, awkward, 22 year old gay male wolf looking
-to get laid. Cute, huh?}
+_Default fur: a tipsy, awkward, 22 year old gay male wolf looking
+to get laid. Cute, huh?_
 
-\begin{center}
-\includegraphics[scale=0.3]{assets/randomwolf-raw}
-
-\textit{RandomWolf}\footnote{Art by Floe, used as part of the
-\[adjective\][species] banner}
-\end{center}
+![RandomWolf](/assets/furry/randomwolf-raw.png)
 
 So, given our wolf guy here, what's right and what's wrong? Sure, he'll
 fit in pretty well, he's certainly welcome within the fandom, but what,
@@ -698,14 +684,14 @@ exploration once they come to light.
 This is an idea that has been tumbling around in my head ever since I
 started this site. In fact, I suppose you could call a lot of my earlier
 posts a sort of fumbling around as I tried to articulate this idea. The
-idea that I'm talking about is the concept of what furry \textit{is}.
+idea that I'm talking about is the concept of what furry _is_.
 That is, not only what a makes a furry a furry, but how is furry a
 thing, and where did we all come from. A lot of the articles on this
 site have come at this idea from different angles, but usually focusing
 on a single aspect or in a stream-of-consciousness manner.
 
-When I write posts for \adsp, I do so in what's called the "watercolor
-strategy", as named by Daniel Chandler in \textit{The Act of Writing}.
+When I write posts for \[a\]\[s\], I do so in what's called the "watercolor
+strategy", as named by Daniel Chandler in _The Act of Writing_.
 That is, for the most part, I start at the beginning, and when I get to
 the end, I stop. It's a strategy that, to my mind, would work almost
 solely for the introspective writer, one who internalizes a subject,
@@ -738,7 +724,7 @@ what we take for granted within the fandom.
 One of the big things that keeps me coming back to these subjects is the
 standard artist's complaint that I'm never really satisfied with the
 product. I can barely even call myself an artist, here - so much of what
-I've done with \adsp is rehashing ideas I've heard of or learned about
+I've done with \[a\]\[s\] is rehashing ideas I've heard of or learned about
 in a non-furry context within the context of furry, and this piece here
 is no exception. Rather, I'm one with artistic habits.
 
@@ -767,7 +753,7 @@ many others will as well.
 
 --------------------
 
-\section{A Linguistic Introduction}
+#### A Linguistic Introduction
 
 I'd like to begin here with a basic introduction on some of the
 linguistics that are involved in exploring meaning in the fandom.
@@ -804,7 +790,7 @@ other within the context of their social group.
 
 Similarly, the fandom has started to pull together its own sociolect
 formed of the collected idiolects of its members. That we have our own
-"jargon" with words like "fursona", "hybrid", and "taur"[2] that goes
+"jargon" with words like "fursona", "hybrid", and "taur"\[2\] that goes
 along with our membership to this nebulous group helps to define the
 fact that we have become a more well-defined subculture, or, to put it
 better, a community. A community, in this sense, is a coherent group
@@ -816,7 +802,7 @@ members, and we are a community composed of members because we have our
 sociolect as a combination of our idiolects - our ways of communicating
 made up of those who communicate with each other.
 
-\includegraphics[scale=0.4]{assets/language-hierarchy.png}
+![Language hierarchy](/assets/furry/language-hierarchy.png)
 
 Put this way, we can come up with a sort of hierarchy of language. A
 language is comprised of dialects and sociolects, subsets of the overall
@@ -843,7 +829,7 @@ few terms that become important due to this fact, namely "text",
 whether it's a journal post, an image and all of its associated
 discussion, such as comments, or a web page like this. A "corpus" is a
 collection of related texts - this post would be a text, but
-\adjsp would be a corpus - though it can be taken in
+\[adjective\]\[species\] would be a corpus - though it can be taken in
 broader terms, such as the collection of all different texts on
 FurAffinity - images, journals, comments, user pages - or simply the
 collection of all texts within our subculture: the furry corpus, if you
@@ -857,7 +843,7 @@ would be the modality, whereas that can be divided into written words
 read off a screen on a web page, or spoken words shared among a group of
 friends at a convention. The reason I'm bringing up these terms is that,
 taken together, they form our social interaction within the fandom, and
-the reason that it's \textit{important} is because, in particular, our choices
+the reason that it's _important_ is because, in particular, our choices
 of media and corpi are language in and of themselves: that is, that we
 rely on the Internet for so much of our communication, whether out of
 necessity or desire, and allow the idiolects that we've formed on the
@@ -873,7 +859,7 @@ specific media of SecondLife, through comments on submissions on FA,
 through MUCKs, MUDs, IRC, and IMs. The actual means of interaction
 within each is different from each other, and certainly different than
 other media. For instance, posing actions, and thus role-playing, are
-quite simple on MU*s and IRC, and thus more common, whereas the same is
+quite simple on MU\*s and IRC, and thus more common, whereas the same is
 not true of instant messages and the less-immediate form of comment
 threads and forums. The latter concept of IMC becomes particularly
 evident in SecondLife, where the action taken by your character on the
@@ -898,7 +884,7 @@ gained from it. There is more, though, to be sure.
 
 --------------------
 
-\section{On Semiotics}
+#### On Semiotics
 
 When I first heard about the Sapir-Whorf Hypothesis, I rejected it
 immediately. It states, in brief, that the way we conceive of the world
@@ -937,25 +923,23 @@ I'm no longer fifteen, though, and things have changed. I have had my
 own experience with the way that meaning comes to us through language or
 signs of some sort, not least of all with my attempts at such things
 with these articles. I think that I might now call myself a believer in
-Moderate Whorfianism. In his book \textit{The Act of Writing}, Daniel
+Moderate Whorfianism. In his book _The Act of Writing_, Daniel
 Chandler explains that many linguists would find extreme Whorfianism
 hard to swallow, but may accept a weak version of it as defined in the
 following way:
 
-\begin{itemize}
-  \item the emphasis is on the potential for thinking to be 'influenced'
+* the emphasis is on the potential for thinking to be 'influenced'
   rather than unavoidably 'determined' by language;
-  \item it is a two-way process, so that 'the kind of language we use' is
+* it is a two-way process, so that 'the kind of language we use' is
   also influenced by 'the way we see the world'
-  \item any influence is ascribed not to 'Language' as such or to one
-  language as compared with another, but to the use \textit{within a
-  language} of one variety rather than another (typically a
-  \textit{sociolect} - the language used primarily by members of a
+* any influence is ascribed not to 'Language' as such or to one
+  language as compared with another, but to the use _within a
+  language_ of one variety rather than another (typically a
+  _sociolect_ - the language used primarily by members of a
   particular social group)
-  \item emphasis is given to the social context of language use rather
+* emphasis is given to the social context of language use rather
   than to purely linguistic considerations, such as the social pressure in
-  particular contexts to use language in one way rather than another.[1]
-\end{itemize}
+  particular contexts to use language in one way rather than another.\[1\]
 
 This leads us to the next topic of discussion: semiotics. There is
 argument as to whether or not linguistics is a subset of semiotics, or
@@ -998,7 +982,7 @@ anthropomorphics interacting online (the sociolect of furries on the
 Internet).
 
 This all goes to show that semiotics goes beyond the individual. The
-webcomic xkcd recently performed quite a feat[3] by displaying a
+webcomic xkcd recently performed quite a feat\[3\] by displaying a
 different comic to different viewers. The comic that was chosen depended
 not only on the viewer's choice of browser, but also on their location
 and even the size of their browser window. The title of the comic was
@@ -1021,10 +1005,10 @@ something like furry will share its meaning not only with Internet
 culture, but also western culture, anime culture to some extent, and, as
 a whole, belongs to this whole perceived world around us. Beyond the
 semiosphere, "language not only does not function, it does not
-exist."[4] Without some framework for meaning, be it words, visual art,
+exist."\[4\] Without some framework for meaning, be it words, visual art,
 music, or anything, there is only formless thought.
 
-\includegraphics[scale=0.4]{assets/semiotic-hierarchy.png}
+![Semiotic hierarchy](/assets/furry/semiotic-hierarchy.png)
 
 If we were to modify our language hierarchy to be about semiotics
 (helpfully done in advance), it would look something like this, then.
@@ -1050,11 +1034,11 @@ fandom itself.
 
 --------------------
 
-\section{Tying it all together}
+#### Tying it all together
 
 At some point, the furry fandom started to coalesce. Some would put it
 in the 1980s - a reader and friend posits that the fandom really got
-started September 1st, 1980 at Noreascon with Steve Gallacci[5] - some
+started September 1st, 1980 at Noreascon with Steve Gallacci\[5\] - some
 would put it much, much earlier, and some perhaps later, into the '90s
 when the Internet became truly accessible. For the sake of this article
 and much of this site in general, we'd probably go with some time in the
@@ -1074,7 +1058,7 @@ now they were in the process of finding meaning in the fact that there
 was a cultural identity to be had, and assigning it to the signs of
 "funny animal" and furry, to foxes and cats leading extraordinary or
 banal lives, to the very feeling of membership. In her book
-\textit{Straight}, Hanne Blank makes a similar argument that the growth
+_Straight_, Hanne Blank makes a similar argument that the growth
 of heterosexuality (and its complement, homosexuality) was due in part
 to the process of self identificiation, the semiosis among individuals
 that reached a critical mass after a few influential authors such as
@@ -1130,7 +1114,7 @@ there wouldn't be much discussion to have).
 What this means is that someone can certainly contribute to the
 sociolect without necessarily becoming a member of the society which
 owns it. There are more than enough examples of this to go around:
-\textit{Watership Down} and "Robin Hood", or perhaps Coyote or Raven or
+_Watership Down_ and "Robin Hood", or perhaps Coyote or Raven or
 Jackal. The creators of these signs and contexts did not necessarily
 take up membership in the furry social group, but they certainly did add
 to the niche of language and meaning that has been carved out over the
@@ -1150,7 +1134,7 @@ think of furry literature just as easily as one considers fantasy
 literature, or perhaps historical fiction. There is an underlying topic
 that lays beneath the corpi of all three genres. However, as Chandler
 puts it, "The classification and hierarchical taxonomy of genres is not
-a neutral and 'objective' procedure."[6] The important point here is
+a neutral and 'objective' procedure."\[6\] The important point here is
 that the difference between objective and subjective interpretation is,
 in the terms of semiotics, the act of subjective interpretation is a
 sign in and of itself. That so many furries today would consider
@@ -1181,7 +1165,7 @@ participating as well has the risk of coming up with an incomplete
 mental map of what all is going on. A good example of this (and I do
 mean good - the studies are well worth reading) would be the work of
 Kathleen Gerbasi, such as her study Furries A to Z (Anthropomoprhism to
-Zoomorphism)[7]. While the study is well conducted and provides a good,
+Zoomorphism)\[7\]. While the study is well conducted and provides a good,
 in-depth look at the fandom, entries to her livejournal page indicate an
 involvement with the fandom not quite at the level of membership, but
 perhaps above simple scientific observation.
@@ -1195,7 +1179,7 @@ investigated. That's what gaining knowledge is all about.
 
 Finally, the furry corpus in particular is extremely difficult to
 analyze. This is mostly due to the proliferation of texts, media, and
-modalities. We produce \textit{a lot}. It is to the point where it's
+modalities. We produce _a lot_. It is to the point where it's
 even difficult to break the corpus down beyond lines other than simply
 different media. Even those lines are blurred by the profuse
 cross-sharing of information across media, such as the reposting on
@@ -1234,7 +1218,7 @@ non-furs. There's a way that we act, which likely has much more to do
 with the idea of shared membership and social status than an interest in
 animals. JM, for instance, writes about the prevalence of geekiness and
 the behavioral norms that go along with it as they pertain to our
-fandom[8].
+fandom\[8\].
 
 There are subtle cues and portions of our sociolect all over the place,
 though, and it doesn't always have to do with direct communication
@@ -1260,7 +1244,7 @@ expand it all the further.
 
 --------------------
 
-\section{Conclusion}
+#### Conclusion
 
 This thing we call "furry" is clearly more difficult to pin down than
 one simple article or even a whole website will cover. It's something
@@ -1316,7 +1300,7 @@ interested, too.
 I know this has been a little out of the norm, but I wanted to actually
 take my time to research an article and provide a more coherent look at
 the reasons for studying the fandom, and for this site in general. These
-things \textit{are} important to us, too. The meanings we create
+things _are_ important to us, too. The meanings we create
 determine our interactions within the fandom and how they take place.
 Beyond that, though, by participating in our community as members, we
 contribute to it. This is how we grow, explore, and find meaning,
@@ -1329,40 +1313,40 @@ The meanings inherent in these relations surround us and help define our
 membership, and we're certainly always creating more. If nothing else,
 there's always more work to go when it comes to exploring the furry
 subculture.
-\begin{comment}
-<h2>Citations</h2>
-[1] Chandler, Daniel. "The Act of Writing". <a
+
+#### Citations
+
+1. Chandler, Daniel. "The Act of Writing". <a
 href="http://www.aber.ac.uk/media/Documents/act/act.html"
 target="_blank">http://www.aber.ac.uk/media/Documents/act/act.html</a>
 accessed April 3, 2012.
 
-[2] Zik. "furry lexicon". <a
+2. Zik. "furry lexicon". <a
 href="http://pastebin.com/GR7MqsnJ">http://pastebin.com/GR7MqsnJ</a>
 accessed, April 2, 2012.
 
-[3] Munroe, Randall. "Umwelt". <a href="http://xkcd.com/1037/"
+3. Munroe, Randall. "Umwelt". <a href="http://xkcd.com/1037/"
 target="_blank">http://xkcd.com/1037/</a> accessed April 1, 2012.
 
-[4] Lotman, Yuri M. On the semiosphere. (Translated by Wilma Clark) Sign
+4. Lotman, Yuri M. On the semiosphere. (Translated by Wilma Clark) Sign
 Systems Studies, 33.1 (2005). <a
 href="http://www.ut.ee/SOSE/sss/Lotman331.pdf"
 target="_blank">http://www.ut.ee/SOSE/sss/Lotman331.pdf</a> accessed
 April 5, 2012.
 
-[5] Geddes, M." The History of the Furry Fandom, Pt 1" (2012).
+5. Geddes, M." The History of the Furry Fandom, Pt 1" (2012).
 
-[6] Chandler, Daniel. "An Introduction to Genre Theory". <a
+6. Chandler, Daniel. "An Introduction to Genre Theory". <a
 href="http://www.aber.ac.uk/media/Documents/intgenre/intgenre1.html"
 target="_blank">http://www.aber.ac.uk/media/Documents/intgenre/intgenre1.html</a>
 accessed April 7, 2012.
 
-[7] Gerbasi, Kathleen. "Furries A to Z (Anthropomorphism to Zoomorphism)
+7. Gerbasi, Kathleen. "Furries A to Z (Anthropomorphism to Zoomorphism)
 in "Society and Animals", 16, 197-222. <a
 href="http://www2.asanet.org/sectionanimals/articles/GerbasilFurries.pdf"
 target="_blank">http://www2.asanet.org/sectionanimals/articles/GerbasilFurries.pdf</a>
 accessed March 15, 2012.
 
-[8] JM. "Geeks". <a href="http://adjectivespecies.com/2012/04/09/geeks/"
+8. JM. "Geeks". <a href="http://adjectivespecies.com/2012/04/09/geeks/"
 target="_blank">http://adjectivespecies.com/2012/04/09/geeks/</a>
 accessed April 9, 2012.
-\end{comment}
