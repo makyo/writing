@@ -101,3 +101,223 @@ or even terror involved in the sensation, and there are some of the
 physical symptoms that fit within the cliche: racing pulse and tunnel
 vision among them.
 
+Anyway, the whole point of bringing this up is that, by the end of the
+year 2011, I was experiencing panic attacks with increasing severity and
+frequency, and others started to notice.  James, of course, noticed them
+right away, and several friends, including my boss at my job, who had me
+nearly in tears at one point as he handed me a check for a thousand
+dollars and a recommendation for a psychiatrist.
+
+I started seeing Dr. Johnston, one of Colorado's best psychiatrists
+according to word around the block, near the beginning of 2012.  One of
+the things we did immediately was attempt to set up a series of
+discussions as to what exactly was causing these panic attacks, and why
+they were affecting me so strongly.  I walked into our first meeting
+with a bit of a script, as I felt was appropriate, since I needed to get
+an idea of what I was feeling across quickly and efficiently.
+
+"I'm having an inappropriate reaction to stress, I think," I told him.
+"I start to panic and it leads to a lot of depression, suicidal
+ruminations, and trouble concentrating." This topic wound on between 
+us over the next six months, and I'm sure
+I'll get more into the results later, but for now, I think it'd help
+more to explain how things felt to me.
+
+I've always had some sort of issues with control.  I've always needed to
+be on top of a situation, and all of my deepest fears, all of those
+things that I would ruminate on during panic attacks, would surround the
+fact that I was not in control of a situation.  Being falsely accused,
+for example, is a prime selection: being prosecuted or locked up for
+something that I did not do was frightening enough, but toss in the fact
+that I have no control to prove otherwise, whether through marshalling
+of evidence or sheer persuasion based on personality, and I'm totally
+lost in a spiral of anxiety.
+
+More to the point, however, the doctor also put me on two perscriptions
+\- one daily and one meant to be taken as needed for more severe panic
+attacks.  The first was Clonazepam, a type of anxiolytic that is
+intended to remain in the system for about thirty-six hours.  The point
+of that was to take, in my case, half a pill twice daily and maintain a
+constant level of it in my system, allowing me to react in a calmer
+fashion to the world around me.  The latter was Lorazepam, which, while
+it had the effect of stopping just about any panic attack that hit me,
+also had the effect of sending me to bed right away; it was to be used
+as needed for "breakthrough" panic.
+
+Things started to look up.  I would occasionally still sneak into James'
+room to lay down with him, as I had been doing during high-anxiety
+moments, in order to calm myself down, but I felt like things were
+moving to a better place.
+
+I remember, about two or three weeks into starting on the medication,
+that I remarked on Twitter that I was a "firm believer in modern
+medicine."  These stupid little pills (and I mean little; the Lorazepam
+was smaller than a match-head) had caused me to just...calm down.  While
+I certainly still had this urge to be in control of a situation, not
+being in control did not lead to me freaking out, complete with tunnel
+vision, pounding heart, and thoughts of driving my car off a bridge.  I
+was *pleased as peach* that they worked.  I was ecstatic.
+
+--------------------
+
+## During
+
+The way that work works, really is not all that complicated, though it
+sure seems like it from an outside perspective.  We do work for a
+client, and the general order of events is:
+
+1. They give us a requirements document - basically a specification of
+   what our work should be
+2. We develop locally and make occasional deployments to a dev
+   environment visible only interally.
+3. When finished, we move our work to a QA environment for the client to
+   test and ensure it meets spec.  We fix any defects they find.
+4. When an agreed-upon date arrives, we move our work from QA into the
+   production environment, where the client does validation and it
+   eventually goes live,
+
+On March 5th, 2012, this went wrong.  Rather, everything went smoothly,
+but we found out a few days later that some old data in the system would
+be causing some problems.  Our goal, rather than having a new
+requirements document to work from, was to fix this defect and prepare
+for a production release as soon as possible.
+
+This was a setback, of course, but I was ramping up my medication, and
+it seemed as though everything would be going fine.  We had found a
+work-around to allow the old data to work properly, and it was the type
+of thing that would be a fairly simple push to fix.  Everything was
+tested out and seemed to be working just fine.  We were all happy, and a
+date of March 20th was decided on for the secondary release.
+
+Actually, the release went swimmingly.  It was a smooth transition into
+the new product and there was relatively little production validation,
+so we all went to bed fairly happy on the night of the 20th.
+
+That always surprises me.  Everything went well.
+
+On Wednesday the 21st, everything was still going well. I had an
+appointment with Dr. Johnston, and we talked mostly about the release,
+and how it had gone fairly well with a strange sense of calm and
+distance from the whole matter.  The appointment was held over the
+phone, as we were moving from one office to the other at the time, and I
+had to move all of my work kit from one building to another, but we hung
+up feeling as though this weight that had been sitting on my shoulders
+had been lifted off, and everything was looking better.  There was a
+void in my life, but that was to be expected, as the last two weeks had
+contained so much surrounding this one stressor.
+
+That strange void did not let up throughout the day, however.  Sure,
+everything had gone well, but I had been living off anxiety for the last
+however-many-weeks, and for things to suddenly drop in such a fashion
+was a strange event to me.  I couldn't quite internalize that we were
+_done_.  We had nothing left to do.
+
+On the drive home, the weird sensation morphed into a more familiar
+anxiety and stress that I had known for the past weeks.  Sure, the
+release had gone well, but so had the previous one, and it had taken a
+few days for the problems to be discovered.  Would further problems be
+discovered?
+
+I was pretty quiet when I got home, but I usually am, so I didn't feel
+as though anything was out of place.  I made dinner for James and
+myself, and settled in to watch a little bit of Babylon 5.  It's a
+cheesy old show, but I figured something lightweight like that would
+help to put my mind at ease.  
+
+James went to bed about fifteen minutes into the one-hour pilot in 
+order to get up in time for work.  By this point, things were starting
+to get strange, from my point of view, and here is where we need to take
+a step back.
+
+I sat, slouched in front of my computer, watching probably the
+world's prime example of tacky, wooden acting.  At hand was my
+keyboard, his phone, an empty glass, a stick of deoderant, and a
+multi-tool used for working on computers.  Always a fiddler, I spent
+most of my time picking up my phone, unlocking the screen, and
+putting it back down again, but hands wander, and they wandered
+eventually to the multi-tool.
+
+It took a lot of playing around with the tool, expanding all of the
+different parts and putting them back together again, before, without
+thinking about it, I settled on the knife attachment.  The fact that
+the show was running in the background had left my conscious thought,
+as had the fact that he was playing with a rather dull knife.  All
+that was going through my mind was...nothing.
+
+Nothing.
+
+No input seemed to reach me, and though my breathing had picked
+up and my eyes had gone wide, I was not reacting to the over-wrought
+acting on the monitors in front of him, nor was I paying attention as
+he dragged the ridiculously dull blade of the knife down along my
+forearms.  I was...empty.
+
+It took a few pretty firm scratches in order to awaken any other levels
+of consciousness.  To be honest, I'm kind of guessing at the previous
+few paragrams, because I really don't know what happened.  I zoned out,
+it felt like, and the next thing I know, some internal part of me was
+screaming at myself to wake the fuck up, because I had somehow found the
+box containing the Xacto wood-carving tools and was playing with the
+knife in there - infinitely sharper than the multi-tool - and some part
+of me had woken up to the fact.
+
+Even so, I felt as though I was still observing someone I know doing
+something terribly embarrassing, making a fool of themselves as they sat
+in front of the tackiest sci-fi show available and played with a razor
+blade.  Perhaps it was the sheer amount of ridiculous cliche that woke
+me up to what was going on, because, even as I write this, I can't help
+but shake my head at how _stupid_ it all sounds.  It's like something
+out of some terrible middle-schooler's journal (and I know, I kept an
+extensive journal in middle school).
+
+What really woke me up was watching this person-who-was-me somehow go
+into 'fuck it' mode and tear the shit out of his right arm from one end
+to the other with a very sharp, very new razor blade.
+
+Waking up is the best analogy out there, I believe.  It was like that
+rush of coming to your senses after a nightmare, the pulling forward and
+the re-anchoring, the flood of adrenaline in preparation for flight.  It
+wasn't necessarily the cut that woke me, though, but the second or so
+before when I entered that 'fuck it' mode, and I was too slow, too
+confused and frightened to stop this person-who-was-me from pulling the
+ultimate embarrassing act: trying to commit suicide while watching a
+dumb '90s science fiction show.
+
+Before I continue, I want to add my own personal amendment to what I
+just wrote.  I mention that it sounds like some terrible journal of a
+thirteen year old, and that's true. However, I really _have_ to make the
+point that this was legitimately surprising to me.  I had had my fair
+share of suicidal ruminations, of thinking all sorts of what if
+thoughts: what if I drove my car off a bridge? What if I shot myself?
+Whta if I drowned?  These were all so far from the realm of actual
+possibility, however, that there was no connection to reality.  They
+were thoughts that _scared_ me, they were why I went to see someone,
+because they were abnormal.
+
+To have one of them actualized was absolutely the most terrifying
+experience to date.
+
+I cut fairly deep along about seven inches of my forearm, and the
+reaction was immediate.  I dropped the knife with a clatter to my desk
+and clamped my hand immediately around my arm with surprising speed -
+although the cut started to bleed immediately, there was surprisingly
+little blood loss of any kind.
+
+Within seconds I was overtaken with guilt-ridden sobs.  I stopped the
+show with my elbow on the spacebar and sat, huddled in my computer
+chair, curled around my arm and crying for the fact that I was,
+apparently, decidedly crazy.
+
+It took probably ten minutes for me to realize that me crying like some
+characature of myself, huddled over one of the deepest cuts I've
+received in my life was not going to do anything.  Struggling to keep
+quiet, I slowly made my way to the bed, then the floor, then the door,
+before eventually collapsing in the hallway just outside my door.  I
+would be totally unable to do anything about this, I realized.
+
+I started whispering James' name, then eventually swallowed the
+miniscule bit of pride I had left and called out loud enough to wake him
+up.  "Can you come help me?" I asked.  It took asking two more times
+before he got up.  I found out later that he thought I had made a mess
+and just wanted help cleaning up, thinking that I should just clean up
+my own messes.  A good point, that.
