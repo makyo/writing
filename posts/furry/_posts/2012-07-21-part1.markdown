@@ -59,7 +59,7 @@ subculture than saying "cartoon animals" will ever convey.
 For this first section, we'll explore what makes a furry and why
 defining the subculture _is_ as difficult as it is.
 
-### Participation Mystique
+## Participation Mystique
 
 Despite the frequent use of the word, I am more of the opinion that furry
 is a subculture than a fandom. Part of the problem with being a writer,
@@ -372,9 +372,9 @@ to be furry art specifically, art may be considered furry art if it's
 enjoyed by furry.  This is the source of the strife with Boyett's book,
 and part of the reason for the confusion in definitions.
 
-% conclude
+<!-- conclude -->
 
-### Doxa
+## Doxa
 
 There were many sources of inspiriation for writing this.  Not simply
 sources of furry information, or of stuff that might make it into the
@@ -680,7 +680,7 @@ While it is difficult to look within ourselves and figure these things
 out now beyond searching for marked categories, it certainly bears
 exploration once they come to light.
 
-### Meaning within a subculture
+## Meaning within a subculture
 
 This is an idea that has been tumbling around in my head ever since I
 started this site. In fact, I suppose you could call a lot of my earlier
@@ -754,7 +754,7 @@ many others will as well.
 
 --------------------
 
-#### A Linguistic Introduction
+### A Linguistic Introduction
 
 I'd like to begin here with a basic introduction on some of the
 linguistics that are involved in exploring meaning in the fandom.
@@ -885,7 +885,7 @@ gained from it. There is more, though, to be sure.
 
 --------------------
 
-#### On Semiotics
+### On Semiotics
 
 When I first heard about the Sapir-Whorf Hypothesis, I rejected it
 immediately. It states, in brief, that the way we conceive of the world
@@ -1035,7 +1035,7 @@ fandom itself.
 
 --------------------
 
-#### Tying it all together
+### Tying it all together
 
 At some point, the furry fandom started to coalesce. Some would put it
 in the 1980s - a reader and friend posits that the fandom really got
@@ -1245,7 +1245,7 @@ expand it all the further.
 
 --------------------
 
-#### Conclusion
+### Conclusion
 
 This thing we call "furry" is clearly more difficult to pin down than
 one simple article or even a whole website will cover. It's something
@@ -1315,7 +1315,7 @@ membership, and we're certainly always creating more. If nothing else,
 there's always more work to go when it comes to exploring the furry
 subculture.
 
-#### Citations
+### Citations
 
 1. Chandler, Daniel. "The Act of Writing". <a
 href="http://www.aber.ac.uk/media/Documents/act/act.html"
