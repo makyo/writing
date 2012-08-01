@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Part 1
+permalink: /:categories/part1/
 
 ---
 
