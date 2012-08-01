@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction
+permalink: /furry/introduction/
 
 ---
 

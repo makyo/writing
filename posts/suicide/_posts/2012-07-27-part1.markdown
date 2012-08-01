@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Part 1
-permalink: /:categories/part1/
+permalink: /suicide/part1/
 
 ---
 

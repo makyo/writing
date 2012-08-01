@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Part 1 - Participation Mystique
+permalink: /furry/part1/
 
 ---
 
