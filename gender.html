@@ -1,0 +1,17 @@
+---
+layout: category
+title: On Gender
+---
+
+<p>Gender is a big thing.  A huge thing.  It's bigger than a lot of people give it credit, and I think that's somethign that I started to understand in my early twenties, when it started to cause some problems for me.  It's not a binary, and even calling it a spectrum seems to deny a lot of the depth behind the social and psychological construction that is gender.</p>
+<p>I've been exploring gender for a while now in a few different ways, but am only just starting to write about it.  I started with a blog, which I've moved here, but will be adding additional writings as time goes on.</p>
+<hr />
+<ul>
+    {% for post in site.categories.gender %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> posted in 
+    {% for category in post.categories %}{% if category != "posts" %}
+    <a href="/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %} 
+    {% endif %}{% endfor %} 
+    on {{ post.date|date_to_string }}</li>
+    {% endfor %}
+</ul>
