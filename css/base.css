@@ -55,3 +55,14 @@ footer div {
     position: relative;
     margin-top: 3em;
 }
+
+#post {
+    max-width: 60em;
+    margin: 0 auto;
+    padding: 1em !important;
+}
+
+#post img {
+    max-width: 30em;
+    margin: 0 auto;
+}
