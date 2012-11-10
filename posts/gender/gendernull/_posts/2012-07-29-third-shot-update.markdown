@@ -4,7 +4,7 @@ layout: post
 
 ---
 
-Daniel mentioned last time that he wasn't sure how much there was to say on the recordings anymore, which I suppose is understandable, given how much we got out of the way on our first try, so there's no interview transcript to post from yesterday, when we each took the third shot of Depo.
+James mentioned last time that he wasn't sure how much there was to say on the recordings anymore, which I suppose is understandable, given how much we got out of the way on our first try, so there's no interview transcript to post from yesterday, when we each took the third shot of Depo.
 
 This was, by far, the roughest of all the shots, so far (granted, with a history of four total, that might not be saying much).  I nicked a nerve in the process of the injection and now it feels like someone hit me in the thigh with a hammer.  Additionally, rather than the normal, pre-filled syringes that we've been using before, these were little 1ml single-use vials, and we had to use our own syringes.
 

@@ -22,4 +22,4 @@ Offline, of course, ‘it' as a pronoun for a person has the potential to be inc
 
 When pressed on twitter, I said that it depends, for myself.  I freely accept the awkwardness of gender-neutral pronouns in the spoken word, so I'm totally okay with masculine pronouns when spoken, but online, it really depends.  If someone is talking about something I did at work, say, masculine pronouns are fine there, as well.  In general, Spivak or Singular They is fine, or ‘it' depending on where I am online, because I feel that matches me more closely, but really, it's totally up to whomever is talking to me.  I have no qualms, and would be just as comfortable (now, at least) being referred to with feminine pronouns, or any number of the alternatives that have cropped up for intersex and hermaphroditic persons or avatars.
 
-Joseph.  It who writes too much.  Just a thought!
+Matthew.  It who writes too much.  Just a thought!
