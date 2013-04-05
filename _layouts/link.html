@@ -29,8 +29,8 @@
         <header>
             <div class="wrapper">
                 <h1><a href="/">Writing</a></h1>
-                <h2>
-                    {{page.title}}
+                <h2 class="linktitle">
+                    &rarr; <a href="page.link" target="_blank">{{page.title}}</a>
                 </h2>
                 <p>Posted in
                     {% for category in page.categories %}{% if category != "posts" %}
