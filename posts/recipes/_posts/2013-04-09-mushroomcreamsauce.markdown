@@ -3,12 +3,11 @@ title: Mushroom Cream Sauce
 layout: post
 
 ---
-Mushroom Cream Sauce
-====================
+## Mushroom Cream Sauce
 
 This was JD's birthday dinner for 2013, and it went over very well.  This is based loosely off our standard stroganoff recipe, except that it uses heavy cream and brandy instead of sour cream and wine.  This is a pretty standard mushroom cream sauce, but we spiced it up with truffle oil and spicy italian sausage.
 
-## Ingredients
+### Ingredients
 
 * 8-12 oz mushrooms, preferably two kinds (I used maitake and shiitake)
 * 2 tbsp unsalted butter
@@ -22,7 +21,7 @@ This was JD's birthday dinner for 2013, and it went over very well.  This is bas
 * dash of truffle oil (optional)
 * 2 Italian sausage links (optional)
 
-## Preparation
+### Preparation
 
 1. (Skip to step 3 if not using sausage)  Slice sausage and fry until cooked in a skillet over medium heat.
 2. Remove the sausage, but leave the grease in the skillet.
