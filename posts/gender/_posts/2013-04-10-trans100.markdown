@@ -1,7 +1,7 @@
 ---
+layout: link
 title: The Trans 100 2013
 link: http://wehappytrans.com/news-media/the-trans-100-2013-inaugural-edition-u-s/
-layout: link
 
 ---
 
