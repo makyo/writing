@@ -39,7 +39,6 @@
             <section class="wrapper">
                 <h3 class="alignTop">Categories</h3>
                 <ul>
-                    <!--<li><a href="/posts/suicide">On Suicide</a></li>-->
                     <li><a href="/posts/furry">On Furry</a></li>
                     <li>
                         <a href="/posts/gender">On Gender</a>
@@ -49,11 +48,13 @@
                 <h3>Recent posts</h3>
                 <ul>
                     {% for post in site.posts limit:5 %}
+                    {% unless post.categories contains 'suicide' or post.categories contains 'gendernull' %}
                     <li><a href="{{ post.url }}">{{ post.title }}</a> posted in 
                     {% for category in post.categories %}{% if category != "posts" %}
                     <a href="/posts/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %} 
                     {% endif %}{% endfor %} 
                     on {{ post.date|date_to_string }}</li>
+                    {% endunless %}
                     {% endfor %}
                 </ul>
             </section>
