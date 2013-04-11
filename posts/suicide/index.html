@@ -11,7 +11,7 @@ title: On Suicide
     {% for post in site.categories.suicide %}
     <li><a href="{{ post.url }}">{{ post.title }}</a> posted in 
     {% for category in post.categories %}{% if category != "posts" %}
-    <a href="/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %} 
+    <a href="/posts/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %} 
     {% endif %}{% endfor %} 
     on {{ post.date|date_to_string }}</li>
     {% endfor %}

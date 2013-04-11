@@ -34,7 +34,7 @@
                 </h2>
                 <p>Posted in
                     {% for category in page.categories %}{% if category != "posts" %}
-                    <a href="/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %} 
+                    <a href="/posts/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %} 
                     {% endif %}{% endfor %} 
                     on {{ page.date|date_to_string }}
                 </p>
