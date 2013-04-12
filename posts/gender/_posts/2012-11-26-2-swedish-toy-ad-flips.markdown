@@ -1,6 +1,6 @@
 ---
 layout: link
-title: Up is Down and Girls are Boys: Swedish Toy Ad Flips the Script on Christmas
+title: "Up is Down and Girls are Boys: Swedish Toy Ad Flips the Script on Christmas"
 link: http://gawker.com/5963362/
 
 ---

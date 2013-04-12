@@ -36,7 +36,7 @@ This seems rather broad and sweeping to me, though I am notoriously conflict ave
 
 Cheers.
 
-——-
+-----
 
 Note - I've shortened the title considerably.  Here is the full citation: 
 

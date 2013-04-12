@@ -1,6 +1,6 @@
 ---
 layout: link
-title: Gender and Race: How Overlapping Stereotypes Affect Our Personal and Professional Decisions
+title: "Gender and Race: How Overlapping Stereotypes Affect Our Personal and Professional Decisions"
 link: http://www.sciencedaily.com/releases/2012/12/121203131702.htm
 
 ---
