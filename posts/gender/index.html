@@ -6,14 +6,34 @@ title: On Gender
 <p>Gender is a big thing.  A huge thing.  It's bigger than a lot of people give it credit, and I think that's somethign that I started to understand in my early twenties, when it started to cause some problems for me.  It's not a binary, and even calling it a spectrum seems to deny a lot of the depth behind the social and psychological construction that is gender.</p>
 <p>I've been exploring gender for a while now in a few different ways, but am only just starting to write about it.  I started with a Tumblr blog, which I'm in the process of moving here, but will be adding additional writings as time goes on.</p>
 <hr />
-<ul>
+<div id="pages">
+    <div class="pageLinksContainer">
+        <a class="pageLink prevLink">&larr;</a>
+        <span class="pageLinks"></span>
+        <a class="pageLink nextLink">&rarr;</a>
+    </div>
+    <div class="items"></div>
+</div>
+<script type="text/javascript" src="/js/paginator.js"></script>
+<script type="text/javascript" src="/js/templates.js"></script>
+<script type="text/javascript">
+    var posts = [
     {% for post in site.categories.gender %}
-    {% unless post.categories contains 'gendernull' %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> posted in 
-    {% for category in post.categories %}{% if category != "posts" %}
-    <a href="/posts/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %} 
-    {% endif %}{% endfor %} 
-    on {{ post.date|date_to_string }}</li>
-    {% endunless %}
+        {% unless post.categories contains 'gendernull' %}
+        {
+            url: "{{ post.url }}",
+            title: "{{ post.title|escape }}",
+            categories: [
+                {% for category in post.categories %}{% if category != "posts" %}
+                "{{ category }}"{% if forloop.last != true %},{% endif %} 
+                {% endif %}{% endfor %} 
+            ],
+            cycle: "{% cycle "odd", "even" %}",
+            type: "{{ post.layout }}",
+            postDate: "{{ post.date|date_to_string }}"
+        }{% unless forloop.last %},{% endunless %}
+        {% endunless %}
     {% endfor %}
-</ul>
+    ];
+    var p = new Paginator(posts, '#pages', Handlebars.templates.postList);
+</script>
