@@ -1,9 +1,34 @@
 var Paginator = (function($) {
+  /*
+  A simple Paginator for a list of items.
+
+  Use the Paginator like so:
+
+  <div id="pages">
+    <div class="items"></div>
+    <div>
+      <span class="prevLink">&larr;</span>
+      <span class="pageLinks"></span>
+      <span class="nextLink">&rarr;</span>
+    </div>
+  </div>
+  <script type="text/javascript" src="jquery.js"></script>
+  <script type="text/javascript" src="paginator.js"></script>
+  <script type="text/javascript" src="yourCompiledHandlebarsTemplate.js"></script>
+  <script type="text/javascript">
+    // If you'd like to use the location.hash to store the current page, use the following line:
+    Paginator.prototype.useHash = true;
+
+    var p = new Paginator(listOfItems, '#pages', Handlebars.templates.yourTemplate);
+  </script>
+  */
   function Paginator(list, pageElement, pageTemplate) {
     this.list = list;
     this.lastPage = Math.ceil(this.list.length / this.itemsPerPage) - 1;
     this.el = $(pageElement);
     this.pageTemplate = pageTemplate;
+    this.pageNumber = window.location.hash && this.useHash ?
+      parseInt(window.location.hash.split('#')[1], 10) - 1 : 0;
 
     var self = this;
 
@@ -21,17 +46,20 @@ var Paginator = (function($) {
     this.setPage(this.pageNumber);
   };
 
+  // Number of items to show on a page
   Paginator.prototype.itemsPerPage = 5;
 
-  Paginator.prototype.pageNumber = window.location.hash ?
-      parseInt(window.location.hash.split('#')[1], 10) - 1 : 0;
+  // Whether or not to use the location.hash to store the current page
+  Paginator.prototype.useHash = false;
 
   Paginator.prototype.setPage = function(pageNumber) {
     if (pageNumber < 0 || pageNumber > this.lastPage) {
       return;
     }
     this.pageNumber = pageNumber;
-    window.location.hash = pageNumber + 1;
+    if (this.useHash) {
+      window.location.hash = pageNumber + 1;
+    }
     this._buildPage();
   };
 
@@ -78,21 +106,3 @@ var Paginator = (function($) {
   return Paginator;
 })(jQuery);
 
-/*
-   Use the Paginator like so:
-
-   <div id="pages">
-     <div class="items"></div>
-     <div>
-       <span class="prevLink">&larr;</span>
-       <span class="pageLinks"></span>
-       <span class="nextLink">&rarr;</span>
-     </div>
-   </div>
-   <script type="text/javascript" src="jquery.js"></script>
-   <script type="text/javascript" src="paginator.js"></script>
-   <script type="text/javascript" src="yourCompiledHandlebarsTemplate.js"></script>
-   <script type="text/javascript">
-     var p = new Paginator(listOfItems, '#pages', Handlebars.templates.yourTemplate);
-   </script>
-*/

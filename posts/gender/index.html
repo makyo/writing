@@ -35,5 +35,9 @@ title: On Gender
         {% endunless %}
     {% endfor %}
     ];
+
+    // Use the location.hash for storing the current page
+    Paginator.prototype.useHash = true;
+
     var p = new Paginator(posts, '#pages', Handlebars.templates.postList);
 </script>
