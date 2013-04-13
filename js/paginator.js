@@ -47,6 +47,7 @@ var Paginator = (function($) {
     } else {
       // Enable next link
       this.el.find('.nextLink').removeClass('disabled')
+        .unbind('click')
         .click(function() {
           self.setPage(self.pageNumber + 1);
         });
@@ -59,6 +60,7 @@ var Paginator = (function($) {
     } else {
       // Enable prev link
       this.el.find('.prevLink').removeClass('disabled')
+        .unbind('click')
         .click(function() {
           self.setPage(self.pageNumber - 1);
         });
