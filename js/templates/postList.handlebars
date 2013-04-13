@@ -1,6 +1,6 @@
 {{#each items}}
 <div class="item {{ cycle }}">
-    <a href="{{ url }}">{{ title }}</a> [{{ type }}]<br />
+    <a href="{{ url }}">{{ title }}</a> <i class="itemType">[{{ type }}]</i><br />
     Posted in {{#each categories }}<a href="/posts/{{ this }}">{{ this }}</a>, {{/each}} on {{ postDate }}
 </div>
 {{/each}}

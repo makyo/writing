@@ -94,6 +94,10 @@ footer div {
     background-color: #eee;
 }
 
+.item .itemType {
+    font-size: 75%;
+}
+
 #post {
     max-width: 60em;
     margin: 0 auto;
