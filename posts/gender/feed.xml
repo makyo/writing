@@ -1,0 +1,24 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>{{ site.name }}: On Gender</title>
+		<description>{{ site.description }}, posts in the gender category</description>
+		<link>{{ site.url }}</link>
+		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+		{% for post in site.categories.gender limit:10 %}
+			<item>
+                <title>{{ post.title }} [{{ post.layout }}]</title>
+				<description>{{ post.content | xml_escape }}</description>
+				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+                <link>{% if post.link %}{{ post.link }}{% else %}{{ site.url }}{{ post.url }}{% endif %}</link>
+                <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+                {% for category in post.categories %}{% unless category == "posts" %}
+                <category domain="{{ site.url }}/posts/{{ category }}">{{ category }}</category>
+                {% endunless %}{% endfor %}
+			</item>
+		{% endfor %}
+	</channel>
+</rss>

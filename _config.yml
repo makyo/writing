@@ -3,7 +3,9 @@ auto:        false
 server:      false
 server_port: 4000
 baseurl:    /
-url: http://192.168.1.1:4000
+url: http://writing.drab-makyo.com
+name: Writing - Drab Makyo
+description: Writing (on various topics) from Matthew Scott
 
 source:      .
 destination: ./_site
