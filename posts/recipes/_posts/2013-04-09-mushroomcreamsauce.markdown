@@ -3,8 +3,8 @@ title: Mushroom Cream Sauce
 layout: post
 
 ---
-## Mushroom Cream Sauce
 
+<img alt="Served with bread" src="/assets/recipes/mushroomcreamsauce.png" style="float:left;margin-right:2em;" />
 This was JD's birthday dinner for 2013, and it went over very well.  This is based loosely off our standard stroganoff recipe, except that it uses heavy cream and brandy instead of sour cream and wine.  This is a pretty standard mushroom cream sauce, but we spiced it up with truffle oil and spicy italian sausage.
 
 ### Ingredients
@@ -20,6 +20,7 @@ This was JD's birthday dinner for 2013, and it went over very well.  This is bas
 * splash brandy or white/rose wine
 * dash of truffle oil (optional)
 * 2 Italian sausage links (optional)
+<br clear="all" />
 
 ### Preparation
 
