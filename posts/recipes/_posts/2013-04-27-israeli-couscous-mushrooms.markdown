@@ -15,6 +15,7 @@ I bought about 5-6 cups of Israeli couscous on a whim the other day and wasn't e
 * 8-12 oz mushrooms, preferably multiple kinds (I used a mixed bunch)
 * 3 tbsp Lillet or sweet white wine
 * 1 tbsp honey
+* 1 tsp rubbed sage
 * 2 links spicy sausage (optional)
 * 2 cloves minced garlic
 * 2 green onions
@@ -27,7 +28,7 @@ I bought about 5-6 cups of Israeli couscous on a whim the other day and wasn't e
 2. Add the broth to the couscous and bring to a boil, then set, uncovered, to simmer for about 10-12 minutes until the liquid is all either evaporated or absorbed, stirring occasionally.
 3. While the couscous is simmering, slice up the sausage into thin disks (if using) and start frying in a separate skillet.
 4. Cut up the mushrooms how you please (see below) and add to the sausage with another tbsp of nice olive oil.
-5. Once the mushrooms have started to cook down and lose some of their mass/absorb some of the oil, add the Lillet or wine, the garlic, and the honey, stirring frequently.
+5. Once the mushrooms have started to cook down and lose some of their mass/absorb some of the oil, add the Lillet or wine, the garlic, the sage, and the honey, stirring frequently.
 6. If the mushrooms and sausage (if using) finish first, move them to the serving bowl.  Once the couscous is finished, toss with the mushroom mixture.
 
 Serve with something bright like a Vesper or sparkling water with a dash of citrus bitters.  Goes well cold as well, with a dash of basalmic vinegar.
