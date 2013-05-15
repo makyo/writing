@@ -1,6 +1,6 @@
 ---
 title: Tabbouleh
-type: post
+layout: post
 
 ---
 

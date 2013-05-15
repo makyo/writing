@@ -1,6 +1,6 @@
 ---
 title: Ground Lamb and Olive Tapenade
-type: post
+layout: post
 
 ---
 
