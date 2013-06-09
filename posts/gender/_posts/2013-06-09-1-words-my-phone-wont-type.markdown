@@ -50,6 +50,7 @@ little...out there.
 * nipple
 * vibrator
 * rectum
+* genitalia
 
 ## Words Android will type
 
