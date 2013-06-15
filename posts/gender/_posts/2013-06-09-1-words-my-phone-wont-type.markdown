@@ -34,7 +34,7 @@ little...out there.
 
 * suck
 * sex
-* sexality
+* sexuality
 * penis
 * vagina
 * clitoris
