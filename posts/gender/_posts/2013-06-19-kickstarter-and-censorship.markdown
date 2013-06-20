@@ -83,7 +83,7 @@ source.  There are, of course, some ways to interpret this petition to not let
 *Above The Game* be funded as censorship, but here are the reasons which I
 disagree.
 
-1. Censorship the prevention of the flow of information.  The point of the
+1. Censorship is the prevention of the flow of information.  The point of the
    campaign here is to prevent Kickstarter from funding the publishing.  The
    flow of information began back on Reddit, and although the author removed the
    posts, it will continue to flow there as long as there is a sink for that
