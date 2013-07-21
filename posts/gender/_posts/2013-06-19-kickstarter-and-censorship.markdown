@@ -133,7 +133,7 @@ Do I think the book's awful?  Yes.
 
 Do I think it objectifies women and perpetuates rape culture?  Definitely.  
 
-Do I not want it around? Certainly.  
+Do I not want it around me? Certainly.  
 
 Do I want to censor the creator?  Absolutely not.  
 
