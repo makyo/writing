@@ -1,0 +1,123 @@
+---
+layout: link
+link: http://adjectivespecies.com/2011/11/30/first-impressions/
+
+---
+
+The world is headed in some pretty interesting directions when it comes to
+things like Augmented Reality.  From little things, like QR codes next to items
+to allow further investigation of them, Google Goggles, which overlays locations
+of restaurants or other map markers on a real-time video of your surroundings as
+taken by your phone's camera to all of the [concept
+videos](http://vimeo.com/search/videos/search:augmented%20reality/st/27d7a185) coming
+out from various places around the 'net.  One of the more important, if not the
+most important, uses of AR is the addition of a data layer over what we perceive
+around us.  Need to know more about someone from their business card?  Snap the
+QR code on it and find out all you need.  It's that simple, and let me tell you,
+furries are totally prepared for this additional layer of information: we're
+already pros.<!--more-->
+
+We're used to multi-layered channels of communication, in this fandom.  With the
+majority of our interaction taking place online, we talk, role play, and chat
+plenty, but we're usually not doing only that.  There is still the base layer of
+our communication online, the words and ideas going from one person to another,
+or among several people, but there are several things that change the way we
+interact, and especially change first impressions.  When we meet someone for the
+first time online, we have plenty of subtle ways of extracting information from
+or about them, and several of them without the other person's knowledge that
+we're doing so.
+
+When you're interacting with others on a MUCK, such as FurryMUCK or Tapestries,
+you have several tools at your disposal to tell you more about the person than
+you could ever find out in real life without knowing them for years.  MUCKs are
+text-only, so one of the first commands you learn is 'look', which will provide
+you with a short description of how someone looks; an obvious addition for the
+primarily visually-oriented furry.  Beyond that, however, there are commands
+such as `wi` or `wixxx`, WhatIsz, which will show you what a person is
+interested in (or *not* interested in) in areas both clean and dirty.
+ Some of these are specific enough that they would likely not even crop up
+between a couple with no online interaction for years.  Another tool that's
+available is, depending on the muck `cinfo` or `pinfo` - character information
+or player information.  Even more free form than WhatIsz, these commands will
+let you know not only about the character, but about the person behind eFox or
+iWolf you're chatting up, as much as they'll let on.
+
+It's not just on MUCKs that we have these additional layers of subliminal
+conversation going on.  Even on IRC where such commands are much more limited,
+we still have the rest of the internet available to us, and by far, FurAffinity
+has changed and helped this the most.  As soon as you see someone's name online,
+there's a good chance that you'll be able to just look them up on FA and find
+out a good deal about them, from where they live to the types of things they're
+into judging by the art they favorite there.  FA isn't the only site out there,
+of course, and you can also find out much more explicit detail on sites like
+F-List and The Rabbit Hole, not to mention other art sites like VCL, SoFurry,
+and e621.
+
+These are so entrenched in the furry fandom that, writing this, I keep feeling
+like it's not even worth mentioning.  Every time I think that, though I remember
+that it's one of the things that helps to set us apart from other subcultures
+out there.  The fact that we can and will find out more about the people we're
+interested in based on a few short commands or a quick search online sounds
+pretty sinister - it's just not something people in general do, at least not to
+the same extent.  If you apply for a new job, you can expect to be Googled,
+Facebooked, and LinkedIn by your potential new employer, but that's about as
+close as you'll get to someone looking up personal information about you.  It's
+so totally normal for us that we haven't realized that it's changed the way we
+make our first impressions of each other.  In an AR sense, this is roughly
+equivalent to walking down the street and seeing someone rather attractive, only
+to find out via a little thought-bubble above their head that they secretly
+really enjoy being spanked, bitten, and tied up when they have sex.
+
+If you meet someone within the fandom now, it's easy to find out more
+information on them than you would ever find out otherwise.  Friendships are
+formed more quickly than outside the subculture and are based on much more
+in-depth knowledge of each other.  Add in the benefit of sex without physical
+consequences through playing around online and you've got a strange basis for a
+culture that relies almost entirely on a multi-layered channel of communication.
+ The more I think about how different these first and lasting impressions are
+within the fandom, the more I think it stems from the previously mentioned
+difference between character and self that is inherent within furry: we are so
+eager to use any tools available to us to more completely represent our
+characters online that we're willing to change the basics of personal
+interaction in order to accomplish it.  Add in the anonymity provided by the
+internet and you have a whole subculture that is far more willing to share
+personal details with those that they haven't even met yet than most any group
+out there, online or offline.
+
+Interacting in person with other furries, particularly at conventions, is a
+strange mix of "normal interactions" as well as some amount of this
+multi-layered communication. I'm sure that much of this has to do with how
+generally tech-literate furries, or at least the con-going crowd are.  If you
+meet someone at a convention, you'll likely to do it by scanning their
+con-badges for images of their character or a recognizable name, rather than,
+say, looking at a face (the "con-greeting").  With the information contained on
+a standard con-badge, one still has as much to go on as on IRC - namely, the
+ability to look someone up on FA and figure out more about them.  Maybe I'll try
+an experiment with FC 2012 and make a QR code badge and see just who all
+interacts with it.
+
+Beyond that, however, I wonder just how much of our in-depth first impressions
+translate outside of the fandom, but into other, tightly knit groups.  If, say,
+an academic winds up at SIGGRAPH or a designer winds up at TED, meets someone in
+the halls, and notices a convention badge with a name on it, chances are good
+that they'll be able to go check on their work somewhere on the internet.
+ However, these examples are academic and professional, not social, and I
+haven't had the opportunity to go to, say, an anime or comic convention to see
+if lasting personal or even sexual relationships are formed in quite the same
+way as they are within our own subculture.  Would I be able to go to Nan Desu
+Kan, a local anime convention, and expect to meet two or three people there whom
+I would be able to instantly look up on my intelligent telephone, know intimate
+details about, form lasting friendships with?
+
+With this confused blur from total immersion in our characters to the
+unobstructed view of self that we provide glimpses of, our mixed-up concept of
+first impressions within the furry fandom is understandable.  These first
+impressions are based not only on the actions of a persona as we perceive them,
+but also the more static metadata left behind on the other layers of
+communication within the fandom, whether it's information left on FA, attributes
+on f-list or within a command such as `wi`, or art, visual or otherwise, of a
+character doing whatever that character does, providing a glimpse of how that
+avatar moves within the larger arena of the whole subculture, or even reacts to
+the world at large.  Perhaps it really is no big surprise that the furry
+community is both incredibly tight knit and also renowned for the drama that it
+puts itself through.
