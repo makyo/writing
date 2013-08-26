@@ -4,13 +4,13 @@ link: http://adjectivespecies.com/2011/12/28/online-relationships/
 
 ---
 
-I spent a night a while back cooking dinner for my fiancé , who was sick with
-the flu and a sinus infection. Though I was either cooking or working, we had a
-few moments of banality together, talking about work or taking NyQuil for the
-night. Eventually, I sent him to bed before he could start another TV show; I
-was feeling jealous that I was working so much and he had taken the day off. We
-said our goodnights and our I love yous, and he left to go lay down. As he did
-so, I was immediately struck by how weird the whole evening was to me, then
+I spent a night a while back cooking dinner for my fianc&eacute;, who was sick
+with the flu and a sinus infection. Though I was either cooking or working, we
+had a few moments of banality together, talking about work or taking NyQuil for
+the night. Eventually, I sent him to bed before he could start another TV show;
+I was feeling jealous that I was working so much and he had taken the day off.
+We said our goodnights and our I love yous, and he left to go lay down. As he
+did so, I was immediately struck by how weird the whole evening was to me, then
 fascinated that such would be the case. The whole night was totally banal, as
 are so many others, but it took place in person: something relatively unique to
 me and seemingly uncommon in the circles in which I hang out in the fandom. Even
