@@ -10,10 +10,10 @@ home, so I'm starting up a new section here, which won't show up on its own,
 just as a place for me to dump some of this stuff.
 
 I've been dealing with generalized anxiety disorder for...well, forever, but
-it's really come to the forefront in my adult life.  Since I started college,
-the anxiety has really come to the forefront, and since I left college, it has
-all but taken over my life.  I am always - *always* - anxious, and it affects
-every aspect of my day, and in a variety of ways.
+it's really become obvious in my adult life.  Since I started college, the
+anxiety has really come to the forefront, and since I left college, it has all
+but taken over.  I am always - *always* - anxious, and it affects every aspect
+of my day, and in a variety of ways.
 
 Not all of the ways are bad, of course; I consider myself reasonably happy,
 hardly living in some sort of stressful hell.  Anxiety informs a lot of
