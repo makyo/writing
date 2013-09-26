@@ -61,10 +61,12 @@ here I was, personally removed from many such social senses, and the sense of
 identity as other faded.
 
 That's been good for me in a lot of ways because of the comfortable reprieve
-I've been granted, but I'm not convinced that I've grown all that much,  I feel
+I've been granted, but I'm not convinced that I've grown all that much.  I feel
 bad when I have to act, look, or seem a certain way, when James and I go out or
 I take part in meetings, but other than that, I have no resistance to push
-against and thus few chances to grow.
+against and thus few chances to grow.  It's not exactly stasis, because I'm
+hardly totally comfortable or happy with where or what I am, I just have none of
+the direction provided by identity that I used to.
 
 In that vein, I've been intentionally playing a bit more with expression.  I
 borrowed a friend's sewing machine (hi, sorry, I'll get it back to you soon!)
@@ -87,4 +89,4 @@ This is another part of this.  I want to talk about it openly.  I want to have
 discussions, instructions, and insults.  Help me out here, even if it's to tell
 me that I'm wrong and in what ways.  Tell me on Twitter, in the comments, or
 email or whatever.  I just need some outside source, some direction (towards or
-away), and maybe I'll feel a bit more momentum.
+away), even a little identity, and maybe I'll feel a bit more momentum.
