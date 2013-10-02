@@ -184,9 +184,13 @@ took on sort of a cartoonish or movie-like quality, seeming scripted or
 mechanical, but this extended even to emotions and social interaction.  The
 strongest instance previously had been with the suicide attempt, but that was
 accompanied by depersonalization, where I felt as though I were not a real
-person, but simply a set of actions tied to a sack of meat.  Lacking that this
-time, the surreal aspect of interacting within the context of my relationships
-felt especially sinister.
+person, but simply a set of actions tied to a sack of meat.  This occurred later
+on in March, and again in May, in a similar 'delusional' fashion, with various
+forms of self-harm that felt as though the act would cause a rush of relief, a
+bringing to sharper clarity, or even a release of pressure (literally).
+
+Lacking that this time, the surreal aspect of interacting within the context of
+my relationships felt especially sinister.
 
 The end result is, as I had discussed with both partners as well as my doctor,
 an attempt to wrangle this under control with the goal to keep it under control,
