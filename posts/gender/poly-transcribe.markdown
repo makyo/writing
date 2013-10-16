@@ -4,6 +4,10 @@ title: Transcription of Floe's Poly Comic
 
 ---
 
+*This is a transcription of Floe's delightful comic/blog about polyamory. The
+original is available
+[here](http://floedoodles.tumblr.com/post/63795191135/this-should-be-in-correct-order-a-thing-about)*
+
 Today is National Coming Out Day! I wanted to make a post about something really
 important to me: the topic of Polyamory.
 
