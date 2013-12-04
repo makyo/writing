@@ -15,8 +15,9 @@ a popularity contest, just a fun way to help with giving for the holidays!
 
 I've got a lot of stuff.  *We* have a lot of stuff.  It's just part of the
 accumulated past of more than two families.  The last thing we really need is
-more *things*.  In that vein, and after the experience of donating to the ASPCA
-last year, I've decided to repeat the experiment. 
+more *things*.  In that vein, and after [the experience of donating to the ASPCA
+last year](http://adjectivespecies.com/2012/12/19/on-giving/), I've decided to
+repeat the experiment. 
 
 Additionally, due to cancer and internal bleeding, [my dog Millie was put down
 earlier this year](/posts/personal/2013/10/06/millie/).  Millie was adopted from
