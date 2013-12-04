@@ -11,7 +11,7 @@ twitter](https://twitter.com/drab_makyo/status/408284722972749824).
 
 Additionally, I will be donating $1 to the [Humane Society of Boulder
 Valley](http://boulderhumane.org) for ever retweet of [this status update on
-twitter](https://twitter.com).
+twitter](https://twitter.com/drab_makyo/status/408378552023666688).
 
 I will donate no less than $500 to each charity, and no more than $2000 total (I
 still have to support the house!), but if the numbers differ, I will use the
