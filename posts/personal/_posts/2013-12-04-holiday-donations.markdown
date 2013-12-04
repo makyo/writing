@@ -6,9 +6,10 @@ layout: post
 Hi!  Thanks for reading this.  After the success of last year's combined drive
 on Twitter, and in memory of my pup Millie, I will be donating $1 to the [Humane
 Society of the United States](http://www.humanesociety.org/) for every retweet
-of [this status update on twitter](http://twitter.com).  I will donate no less
-than $500 (and, just to be safe, no more than $2000); this isn't a popularity
-contest, just a fun way to help with giving for the holidays!
+of [this status update on
+twitter](https://twitter.com/drab_makyo/status/408284722972749824).  I will
+donate no less than $500 (and, just to be safe, no more than $2000); this isn't
+a popularity contest, just a fun way to help with giving for the holidays!
 
 ### Why?
 
