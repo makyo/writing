@@ -46,3 +46,7 @@ Mission:
 > relief agency for animals, and we provide direct care for thousands of animals
 > at our sanctuaries and rescue facilities, wildlife rehabilitation centers, and
 > mobile veterinary clinics.
+
+It was brought to my attention that it is not clear that HSUS is not affiliated
+with local Humane Societies.  This isn't a statement about either HSUS or
+HS-Boulder, as both do fantastic work!
