@@ -7,9 +7,16 @@ Hi!  Thanks for reading this.  After the success of last year's combined drive
 on Twitter, and in memory of my pup Millie, I will be donating $1 to the [Humane
 Society of the United States](http://www.humanesociety.org/) for every retweet
 of [this status update on
-twitter](https://twitter.com/drab_makyo/status/408284722972749824).  I will
-donate no less than $500 (and, just to be safe, no more than $2000); this isn't
-a popularity contest, just a fun way to help with giving for the holidays!
+twitter](https://twitter.com/drab_makyo/status/408284722972749824).  
+
+Additionally, I will be donating $1 to the [Humane Society of Boulder
+Valley](http://boulderhumane.org) for ever retweet of [this status update on
+twitter](https://twitter.com/drab_makyo/status/408378552023666688).
+
+I will donate no less than $500 to each charity, and no more than $2000 total (I
+still have to support the house!), but if the numbers differ, I will use the
+*larger* number for both (again, up to $2000); this isn't a popularity contest,
+just a fun way to help with giving for the holidays!
 
 ### Why?
 
@@ -27,7 +34,7 @@ he kicked her and broke her back leg, which then healed improperly.  Even so,
 she was a trooper, and followed my mom on hikes for years.  This is one small
 thing I can do in her honor.
 
-### The Charity
+### The Charities
 
 The Humane Society of the United States is [highly
 rated](http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3848#.Up9ierWJDAQ)
@@ -46,3 +53,20 @@ Mission:
 > relief agency for animals, and we provide direct care for thousands of animals
 > at our sanctuaries and rescue facilities, wildlife rehabilitation centers, and
 > mobile veterinary clinics.
+
+It was brought to my attention that it is not clear that HSUS is *not*
+affiliated with local Humane Societies, though they do operate shelters in five
+states and work with various local shelters throughout the US.  This isn't a
+statement about either HSUS or local shelters, as both do fantastic work!  In
+order to more properly address this concern, I will also be donating to The
+Humane Society of Boulder Valley, the shelter that took in Millie, as well as
+one of our current pups, Falcon!
+
+Mission:
+
+> It is the mission of the Humane Society of Boulder Valley to protect and
+> enhance the lives of companion animals by promoting healthy relationships
+> between pets and people. We were founded more than a century ago in 1902, yet
+> this mission holds true today as we counter animal neglect and cruelty and
+> partner with other animal welfare organizations, sharing our mutual mission of
+> saving more animals' lives.
