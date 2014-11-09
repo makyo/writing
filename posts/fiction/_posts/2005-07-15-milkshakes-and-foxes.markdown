@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Milkshakes and Foxes
+rating: X
 
 ---
 
