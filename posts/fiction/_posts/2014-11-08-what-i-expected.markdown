@@ -941,7 +941,7 @@ Sascha's neck.
 
 They had fallen asleep with their clothes on, for lack of any pajamas. The night
 had drawn out for another hour or so of whispered conversation in bed, keeping
-quiet lest they way Volare and Vish. Sascha had fallen asleep dressed and
+quiet lest they wake Volare and Vish. Sascha had fallen asleep dressed and
 crying, but safe against their friend, feeling his bulk behind them as something
 of comfort rather than as something to cause anxiety.
 
