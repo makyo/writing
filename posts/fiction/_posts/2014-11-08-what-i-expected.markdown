@@ -895,26 +895,39 @@ The tears came harder.
 
 -----
 
-> SkylarkMink: you awake?  > > Mavcheets: Just getting ready. what's up. you
-okay?  > > SkylarkMink: no.  > > SkylarkMink: can I come by > > Mavcheets: sure,
-just be quiet. V and V are asleep, was packing
+> SkylarkMink: you awake?
+> 
+> Mavcheets: Just getting ready. what's up. you okay?
+> 
+> SkylarkMink: no.
+> 
+> SkylarkMink: can I come by
+> 
+> Mavcheets: sure, just be quiet. V and V are asleep, was packing
 
 -----
 
-> Sky I'm sorry, drank too much :( > > Direct message from @ShdwWolf
+> Sky I'm sorry, drank too much :(
+> 
+> Direct message from @ShdwWolf
 
 -----
 
-> Sky, take your time, but please come back :( > > Direct message from @ShdwWolf
+> Sky, take your time, but please come back :(
+> 
+> Direct message from @ShdwWolf
 
 -----
 
-> Mav sent me a dm, can we talk > > Direct message from @ShdwWolf
+> Mav sent me a dm, can we talk
+> 
+> Direct message from @ShdwWolf
 
 -----
 
-> Mav says your okay and sleeping there, talk tomorrow pls? :( > > Direct
-message from @ShdwWolf
+> Mav says your okay and sleeping there, talk tomorrow pls? :(
+> 
+> Direct message from @ShdwWolf
 
 -----
 
