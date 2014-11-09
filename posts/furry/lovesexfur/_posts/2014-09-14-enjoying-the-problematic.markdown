@@ -4,8 +4,7 @@ title: Enjoying the Problematic
 
 ---
 
-<a
-href="http://adjectivespecies.com/2014/06/25/trends-within-trends/">Recently</a>,
+[Recently](http://adjectivespecies.com/2014/06/25/trends-within-trends/),
 on \[a\]\[s\], I wrote about the ways in which one may interact with furry in
 different ways, and how these little trends with in the larger trend of furry
 (such as the micro/macro communities, etc.) lead to a more durable fandom
@@ -30,28 +29,27 @@ problematic.<!--more-->
 > Yackal (@Irid0n) <a href="https://twitter.com/Irid0n/status/508649770899238913">September 7, 2014</a>
 
 The most obvious instance of the problematic within furry is that of
-problematic content.  Zoophilia, which was tackled in <a
-href="http://adjectivespecies.com/2013/01/14/why-zoophilia-is-a-furry-issue/">this
-article by JM</a> is probably one of the bigger subjects that registers as
-problematic to most people, as the reaction by Iridon above shows.  As JM
-mentions in the opening line of his article, zoophilia is fairly visible within
-furry in a great many ways, from the art, to the members of the fandom
-interested in the subject.  Zoophilia strikes many as problematic due in part
-to the issue of consent - never mind whether or not your partner issues
-consent, how can sex be seen as consenting when your partner is not even
-capable of *giving* consent?
+problematic content.  Zoophilia, which was tackled in [this article by
+JM](http://adjectivespecies.com/2013/01/14/why-zoophilia-is-a-furry-issue/) is
+probably one of the bigger subjects that registers as problematic to most
+people, as the reaction by Iridon above shows.  As JM mentions in the opening
+line of his article, zoophilia is fairly visible within furry in a great many
+ways, from the art, to the members of the fandom interested in the subject.
+Zoophilia strikes many as problematic due in part to the issue of consent -
+never mind whether or not your partner issues consent, how can sex be seen as
+consenting when your partner is not even capable of *giving* consent?
 
-Along similar lines is the proliferation of <a
-href="http://adjectivespecies.com/2012/07/16/in-defence-of-cub-porn/">cub
-porn</a> within our subculture.  This also touches on consent out of the
-understanding that underaged characters may not understand sexuality full
-enough to be able to give informed consent - or to deny giving consent - when
-necessary.  In JM's treatment of the subject, he bring's up Dan Savage's idea
-of "gold-star pedophiles", as individuals who, while they enjoy the idea of
-sexual acts with underaged people, never act on the urges, which can be seen as
-a way of addressing and responding to the problematic nature of cub porn.  It's
-a way to address one's urges without acting them out in a situation where
-consent cannot be assured to be given.
+Along similar lines is the proliferation of [cub
+porn](http://adjectivespecies.com/2012/07/16/in-defence-of-cub-porn/) within
+our subculture.  This also touches on consent out of the understanding that
+underaged characters may not understand sexuality full enough to be able to
+give informed consent - or to deny giving consent - when necessary.  In JM's
+treatment of the subject, he bring's up Dan Savage's idea of "gold-star
+pedophiles", as individuals who, while they enjoy the idea of sexual acts with
+underaged people, never act on the urges, which can be seen as a way of
+addressing and responding to the problematic nature of cub porn.  It's a way to
+address one's urges without acting them out in a situation where consent cannot
+be assured to be given.
 
 More general than problematic content is the idea of problemantic trends or
 sub-subcultures within the furry subculture.  While many of these may revolve
@@ -61,31 +59,30 @@ and tend to be the kernel at the center of sub-subcultures within the fandom -
 tight- or loose-knit groups that form out of a shared interest in a particular
 topic.
 
-One of these trends was <a
-href="https://www.weasyl.com/journal/61156/rant-stop-using-herm-shemale-cuntboy-for-your-porn">called
-out</a> in a self-styled "rant" by the user <a
-href="https://www.weasyl.com/~rampack">rampack</a> at Weasyl, and specifically
-called out the use of the terms "herm", "shemale", and "cuntboy" as being
-problematic.  The trend of characters that mix both primary and secondary
-sexual characteristics of both classical biological sexes within furry is
-nothing new, and has been around at least since I joined the fandom, nearly
-fifteen years ago.  It was enlightening for me, seeing an explanation of why
-something that is seen almost as commonplace within our subculture is
-problematic, and seeing the discussion that the post engendered.  Feelings are
-strong on both sides of the issue.
+One of these trends was [called
+out](https://www.weasyl.com/journal/61156/rant-stop-using-herm-shemale-cuntboy-for-your-porn)
+in a self-styled "rant" by the user [rampack](https://www.weasyl.com/~rampack)
+at Weasyl, and specifically called out the use of the terms "herm", "shemale",
+and "cuntboy" as being problematic.  The trend of characters that mix both
+primary and secondary sexual characteristics of both classical biological sexes
+within furry is nothing new, and has been around at least since I joined the
+fandom, nearly fifteen years ago.  It was enlightening for me, seeing an
+explanation of why something that is seen almost as commonplace within our
+subculture is problematic, and seeing the discussion that the post engendered.
+Feelings are strong on both sides of the issue.
 
 Another instance of a trend being called out as problematic comes from furry
-writer Robert Baird in an excellent essay on the act of <a
-href="http://notwithabang.com/post/96879328026/rob-checks-his-privilege">checking
-his own privilege</a> when it comes to the fact that some of his stories
-include non-consensual or what appear on the surface to be non-consensual sex
-(I know that sounds weasely for me to say, but I'm trying not to spoil some of
-his very well written stories; I promise it fits in well with the plot) and
-even things such as cheating and impregnation.  The essay, in part, describes
-the ways in which a creator of content that follows a problematic trend must at
-the very least acknowledge the problematic nature of their works.   The essay
-itself is about much, much more than just that, as I'll bring up later, but
-worth a read all the same.
+writer Robert Baird in an excellent essay on the act of [checking his own
+privilege](http://notwithabang.com/post/96879328026/rob-checks-his-privilege)
+when it comes to the fact that some of his stories include non-consensual or
+what appear on the surface to be non-consensual sex (I know that sounds weasely
+for me to say, but I'm trying not to spoil some of his very well written
+stories; I promise it fits in well with the plot) and even things such as
+cheating and impregnation.  The essay, in part, describes the ways in which a
+creator of content that follows a problematic trend must at the very least
+acknowledge the problematic nature of their works.   The essay itself is about
+much, much more than just that, as I'll bring up later, but worth a read all
+the same.
 
 A third way in which the problematic intersects with furry is that of
 problematic creators.  This is hardly intended to be a call-out post, so I
@@ -130,7 +127,9 @@ liking the things you like - it raises all sorts of questions:
 > * How much do you care about a creator’s personal life?
 > * Does it matter whether the creator is living or dead?
 > 
-> (This list comes from an <a href="http://whatever.scalzi.com/2014/03/19/reader-request-week-2014-6-enjoying-problematic-things/">excellent essay</a> on the subject by writer John Scalzi, and is definitely worth the read.)
+> (This list comes from an [excellent
+> essay](http://whatever.scalzi.com/2014/03/19/reader-request-week-2014-6-enjoying-problematic-things/)
+> on the subject by writer John Scalzi, and is definitely worth the read.)
 
 Consciously chosen or not, what is needed is conscious treatment of the subject -
 whether it's a piece of media, a subject matter, or a problematic creator.
@@ -138,10 +137,10 @@ Although it may be easier to simply enjoy something without thinking about the
 consequences of that thing in particular, it's important to our interaction
 with those around us and our place within a culture, subculture, or interest
 group not to treat things in so cavalier a manner.  An essay puts this in an
-elegant <a
-href="http://www.socialjusticeleague.net/2011/09/how-to-be-a-fan-of-problematic-things/">three
-part list</a>, which is worth reading on its own for the author's explanations
-of each of these items:
+elegant [three part
+list](http://www.socialjusticeleague.net/2011/09/how-to-be-a-fan-of-problematic-things/),
+which is worth reading on its own for the author's explanations of each of
+these items:
 
 1. Acknowledge that the thing you like is problematic, and do not make excuses
    for it.

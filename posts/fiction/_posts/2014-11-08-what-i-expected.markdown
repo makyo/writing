@@ -639,7 +639,7 @@ Delete delete.
 Delete delete.
 
 > Good evening last night. Caught up with friends, had a fantastic time with
-@ShdwWolf. Glad I could make it.
+> @ShdwWolf. Glad I could make it.
 
 They pondered for a second before hitting send. It would be enough to state that
 the night had been positive without necessarily tipping their hand as to how
