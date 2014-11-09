@@ -37,7 +37,7 @@
                     <a href="/posts/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %} 
                     {% endif %}{% endfor %} 
                     {%if page.date %}on {{ page.date|date_to_string }}{% endif %}
-                    {% if post.rating %}<em>Rated: {{ post.rating }}</em>{% endif %}</li>
+                    {% if page.rating %}<em> - Rated: {{ page.rating }}</em>{% endif %}</li>
                 </p>
  
             </div>
