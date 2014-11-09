@@ -41,6 +41,7 @@
             <section class="wrapper">
                 <h3 class="alignTop">Categories</h3>
                 <ul>
+                    <li><a href="/posts/fiction">Fiction</a></li>
                     <li>
                         <a href="/posts/furry">On Furry</a>
                         <ul>
@@ -51,9 +52,9 @@
                     <li>
                         <a href="/posts/gender">On Gender</a>
                     </li>
+                    <li><a href="/posts/personal">Personal</a></li>
                     <li><a href="/posts/recipes">Recipes</a></li>
                     <li><a href="/posts/tech">Tech</a></li>
-                    <li><a href="/posts/personal">Personal</a></li>
                 </ul>
                 <h3>Recent posts</h3>
                 <ul>
@@ -63,7 +64,8 @@
                     {% for category in post.categories %}{% if category != "posts" %}
                     <a href="/posts/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %} 
                     {% endif %}{% endfor %} 
-                    on {{ post.date|date_to_string }}</li>
+                    on {{ post.date|date_to_string }}
+                    {% if post.rating %}<em>Rated: {{ post.rating }}</em>{% endif %}</li>
                     {% endunless %}
                     {% endfor %}
                 </ul>

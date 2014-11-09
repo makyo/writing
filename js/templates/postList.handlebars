@@ -2,5 +2,6 @@
 <div class="item {{ cycle }}">
     <a href="{{ url }}">{{ title }}</a> <i class="itemType">[{{ type }}]</i><br />
     Posted in {{#each categories }}<a href="/posts/{{ this }}">{{ this }}</a>, {{/each}} on {{ postDate }}
+    {{#if rating}}<br />Rated: {{rating}}{{/if}}
 </div>
 {{/each}}
