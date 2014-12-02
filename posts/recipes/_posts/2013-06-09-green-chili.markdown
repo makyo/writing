@@ -22,7 +22,7 @@ very easy starting point; feel free to play with the flavors!
 * dried regano
 * very small pinch ground cinnamon (optional)
 * 2 tbsp tequila (optional)
-* 2 tsp lime juice (optional
+* 2 tsp lime juice (optional)
 
 ### Preparation
 
