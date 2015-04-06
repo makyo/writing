@@ -75,11 +75,13 @@ advantages and disadvantages to each:
 #### Thin charms
 
 * Advantages:
+
     * Change to the code of the services does not mean change to the code of the
       charm.
     * Charms are much smaller, and thus are uploaded to the environment fairly
       quickly.
 * Disadvantages:
+
     * Services will require access to wherever the source or binary to be
       deployed.  In Warren, that's the GitHub repository, but it may be a PPA or
       other source of packages.  In some clouds, access such as this may be
@@ -90,6 +92,7 @@ advantages and disadvantages to each:
 #### Thick charms
 
 * Advantages:
+
     * You can be guaranteed that the code that is in the charm is the only code
       that will be deployed in the service without having to use any
       work-arounds for pinning fetched source at a revision or tag.
@@ -97,6 +100,7 @@ advantages and disadvantages to each:
       about fetching source and building, and since no external sources are
       required, you can safely deploy behind a strict firewall.
 * Disadvantages:
+
     * Thick charms are rather large and may take a bit of time to actually
       deploy, since the charm will need to be uploaded to the environment either
       from your local machine or from the charmstore.
