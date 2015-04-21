@@ -56,7 +56,7 @@ This was shown to me early on in an interview question:
 > Given a private jet in a hanger, find out how much it weighs.
 
 Answers ranged from "cut it in half again and again into smaller parts until you
-can place one on a scale" as a sort of Xeno's Paradox of plane-weighing, to
+can place one on a scale" as a sort of Zeno's Paradox of plane-weighing, to
 "fill it with a known amount of jet fuel and fly it until it crashes."
 
 The answer that the interviewer was looking for, however, was "Google it".
