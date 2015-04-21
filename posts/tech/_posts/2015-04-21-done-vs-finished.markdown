@@ -46,10 +46,8 @@ of software development is strongly imbued with "guess culture".  In this
 dichotomy, social interaction between actors is divided into either "guess
 culture" or "ask culture", which describes the ways in which the actor will act
 when confronted with a problem they do not know how to solve.  In software,
-you're expected to either
-
-a. know how to solve the problem, or
-b. know how to figure it out yourself.
+you're expected to either a) know how to solve the problem, or b) know how to
+figure it out yourself.
 
 This was shown to me early on in an interview question:
 
