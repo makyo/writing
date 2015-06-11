@@ -48,7 +48,7 @@ grades that I brought home than my experience in school.  In some senses, we
 were in line with each other and our expectations of what a parent-child
 relationship should be, and in others, we found ourselves at odds.
 
-Even so, we things wound up working out alright for sixth grade.  I moved in
+Even so, things wound up working out alright for sixth grade.  I moved in
 with my dad, and moved to a new school.  I had to spend one more year in
 elementary school, as Jefferson county didn't start junior high until seventh
 grade, but it served me well.  I wound up in a 'gifted and talented' program at
