@@ -5,7 +5,7 @@ title: Running Away
 ---
 
 <img src="/assets/personal/mandi--running-away-small--makyo.jpg"
-style="max-width:none;" />
+style="max-width:100%;" />
 
 I think we all have a lot of formative moments in our lives.  For me, it was
 stuff like coming out, the realization of my own mortality, the suicide attempt,
