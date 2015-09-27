@@ -1,0 +1,65 @@
+\documentclass[12pt,letterpaper,oneside]{memoir}
+
+%%% Resets
+% memoir defines footruleskip, we want fancyhdr's
+\let\footruleskip\undefined
+\DisemulatePackage{setspace}
+
+%%% Packages
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{lastpage}
+\usepackage{setspace}
+
+%%% Headers/Footers
+\pagestyle{fancyplain}
+\fancyhf{}
+\fancyheadoffset[r]{.01in}
+\fancyhead[R]{Rum and Coke / Makyo / \thepage\ of \pageref{LastPage}}
+
+%%% Font
+\renewcommand*\rmdefault{ptm}
+\renewcommand*\ttdefault{pcr}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+%%% Spacing
+\onehalfspacing
+\usepackage[top=1in, bottom=1in, right=1in, left=1in]{geometry}
+
+%%% Commands
+\newcommand\secdiv{
+  \begin{center}
+    \#
+  \end{center}
+}
+
+%%% Title
+\title{Rum and Coke\\Three Short Stories from a Furry Convention}
+\author{Madison ``Makyo'' Scott-Clary}
+\date{September, 2015\\24,793 words\\Typeset editing draft}
+
+\begin{document}
+  \maketitle
+
+  \newpage
+  \tableofcontents
+
+  \input{preface}
+
+  \input{what-i-expected}
+
+  \input{how-many}
+
+  \input{again}
+
+  \input{about-the-author}
+
+
+\end{document}
