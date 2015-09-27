@@ -1,1 +1,5 @@
 _site/*
+*.aux
+*.log
+*.out
+*.toc
