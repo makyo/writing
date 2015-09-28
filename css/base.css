@@ -13,6 +13,11 @@ header {
     border-bottom: 1px dotted #ccc;
 }
 
+.navbar-brand img {
+    height: 35px;
+    margin-top: -7px;
+}
+
 .linktitle {
     background-color: #eee;
     border-top: 1px solid #ccc;
