@@ -15,12 +15,15 @@
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
         <link href="http://fonts.googleapis.com/css?family=Playfair+Display:400,400italic" rel="stylesheet" type="text/css" />
-        <link rel="stylesheet" href="/css/ggs.css" /> 
+        <link rel="stylesheet" href="/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="/css/bootstrap-theme.min.css" />
         <link rel="stylesheet" href="/css/base.css" />
 
-        <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml" title="RSS feed" />
+        <link rel="alternate" type="application/rss+xml" href="{{ site.url }}{{ page.url|replace:"index.html","feed.xml" }}" title="RSS feed" />
 
-        <script src="/js/ggs.js"></script>
+        <script type="text/javascript" src="/js/jquery-2.1.4.min.js"></script>
+        <script type="text/javascript" src="/js/handlebars-runtime-2.0.0.js"></script>
+        <script type="text/javascript" src="/js/bootstrap.min.js"
 
         <!--[if lt IE 9]>
         <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -29,7 +32,18 @@
 
     <body lang="en">
         <header>
-            <div class="wrapper">
+            <nav class="navbar navbar-default navbar-static-top">
+                <div class="container-fluid">
+                    <a class="navbar-brand" href="http://drab-makyo.com">Drab Makyo</a>
+                    <div class="navbar-collapse collapse">
+                        <ul class="navbar-nav nav">
+                            <li><a href="/">Home</a></li>
+                            <li><a href="/long-form">Long Form</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <div class="container">
                 <h1><a href="/">Writing</a></h1>
                 <h2>
                     {{page.title}}
@@ -37,47 +51,49 @@
             </div>
         </header>
 
-        <article id="twoway">
-            <section class="wrapper">
-                <h3 class="alignTop">Categories</h3>
-                <ul>
-                    <li><a href="/posts/fiction">Fiction</a></li>
-                    <li>
-                        <a href="/posts/furry">On Furry</a>
-                        <ul>
-                            <li><a href="/posts/adjspecies">[adjective][species]</a></li>
-                            <li><a href="/posts/lovesexfur">Love &#x25E6; Sex &#x25E6; Fur</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="/posts/gender">On Gender</a>
-                    </li>
-                    <li><a href="/posts/personal">Personal</a></li>
-                    <li><a href="/posts/recipes">Recipes</a></li>
-                    <li><a href="/posts/tech">Tech</a></li>
-                </ul>
-                <h3>Recent posts</h3>
-                <ul>
-                    {% for post in site.posts limit:5 %}
-                    {% unless post.categories contains 'suicide' or post.categories contains 'gendernull' or post.rating contains 'X' %}
-                    <li><a href="{{ post.url }}">{{ post.title }}</a> posted in 
-                    {% for category in post.categories %}{% if category != "posts" %}
-                    <a href="/posts/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %} 
-                    {% endif %}{% endfor %} 
-                    on {{ post.date|date_to_string }}
-                    {% if post.rating %}<em>Rated: {{ post.rating }}</em>{% endif %}</li>
-                    {% endunless %}
-                    {% endfor %}
-                </ul>
-            </section>
-            <section class="wrapper">
-                {{content}}
-            </section>
+        <article class="container">
+            <div class="row">
+                <section class="col-md-4">
+                    <h3 class="alignTop">Categories</h3>
+                    <ul>
+                        <li><a href="/posts/fiction">Fiction</a></li>
+                        <li>
+                            <a href="/posts/furry">On Furry</a>
+                            <ul>
+                                <li><a href="/posts/adjspecies">[adjective][species]</a></li>
+                                <li><a href="/posts/lovesexfur">Love &#x25E6; Sex &#x25E6; Fur</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/posts/gender">On Gender</a>
+                        </li>
+                        <li><a href="/posts/personal">Personal</a></li>
+                        <li><a href="/posts/recipes">Recipes</a></li>
+                        <li><a href="/posts/tech">Tech</a></li>
+                    </ul>
+                    <h3>Recent posts</h3>
+                    <ul>
+                        {% for post in site.posts limit:5 %}
+                        {% unless post.categories contains 'suicide' or post.categories contains 'gendernull' or post.rating contains 'X' %}
+                        <li><a href="{{ post.url }}">{{ post.title }}</a> posted in
+                        {% for category in post.categories %}{% if category != "posts" %}
+                        <a href="/posts/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %}
+                        {% endif %}{% endfor %}
+                        on {{ post.date|date_to_string }}
+                        {% if post.rating %}<em>Rated: {{ post.rating }}</em>{% endif %}</li>
+                        {% endunless %}
+                        {% endfor %}
+                    </ul>
+                </section>
+                <section class="col-md-8">
+                    {{content}}
+                </section>
+            </div>
         </article>
 
         <footer>
-            <div class="wrapper">
-                <a href="http://lib.jnsq.us/license/cc-by-nc-sa" target="_blank"><img src="http://lib.jnsq.us/licenses/small/by-nc-sa_inline.png" alt="CC BY-NC-SA (Attribution-NonCommercial-ShareAlike)" /> Madison Scott-Clary, 2012</a> under the CC BY-NC-SA (Attribution-NonCommercial-ShareAlike) license
+            <div class="container">
+                <a href="http://lib.jnsq.us/license/cc-by-nc-sa" target="_blank"><img src="http://lib.jnsq.us/licenses/small/by-nc-sa_inline.png" alt="CC BY-NC-SA (Attribution-NonCommercial-ShareAlike)" /> Madison Scott-Clary, 2012-2015</a> under the CC BY-NC-SA (Attribution-NonCommercial-ShareAlike) license
             </div>
         </footer>
     </body>

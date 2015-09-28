@@ -3,3 +3,4 @@ _site/*
 *.log
 *.out
 *.toc
+.DS_Store

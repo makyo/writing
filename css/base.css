@@ -1,4 +1,4 @@
-body { 
+body {
     font-family: 'Playfair Display', serif;
     font-size: 12pt;
     color: #222;
@@ -6,6 +6,11 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Playfair Display', serif;
+}
+
+header {
+    margin-bottom: 1.5em;
+    border-bottom: 1px dotted #ccc;
 }
 
 .linktitle {
@@ -32,7 +37,7 @@ a, a:active {
     color: #666;
 }
 
-a:visited, a:hover { 
+a:visited, a:hover {
     color: #888;
 }
 
@@ -59,6 +64,7 @@ footer {
     font-size: 8pt;
     position: relative;
     padding-top: 1em;
+    border-top: 1px dotted #ccc;
 }
 footer div {
     position: relative;
