@@ -9,6 +9,7 @@
 \usepackage{fancyhdr}
 \usepackage{graphicx}
 \usepackage{hyperref}
+\usepackage{pdfpages}
 
 %%% Headers/Footers
 \pagestyle{fancyplain}
@@ -50,12 +51,16 @@
 \date{}
 
 \begin{document}
+
+  \includepdf{cover.pdf}
+
   \frontmatter
   \pagenumbering{roman}
   \maketitle
-  
+  \vspace{6in}
+
   \begin{center}
-    \includegraphics[height=12pt]{by-nc-sa_inline} \copyright Madison Scott-Clary, 2015
+    Copyright \copyright Madison Scott-Clary, 2015
   \end{center}
 
   \newpage
