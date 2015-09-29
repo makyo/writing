@@ -1,6 +1,7 @@
 ---
-layout: category
+layout: post
 title: Long-Form Works
+comments: false
 
 ---
 

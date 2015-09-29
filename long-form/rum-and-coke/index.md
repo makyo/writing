@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Rum and Coke: Three Stories from a Furry Convention"
 
 ---

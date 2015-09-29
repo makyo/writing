@@ -29,9 +29,8 @@ h3.alignTop {
     margin-top: 0;
 }
 
-
-ol, ul {
-    margin-left: 2em;
+.panel-footer {
+    text-align: center;
 }
 
 p {
@@ -118,7 +117,7 @@ footer div {
 }
 
 #post img {
-    max-width: 30em;
+    max-width: 60%;
     margin: 0 auto;
 }
 
