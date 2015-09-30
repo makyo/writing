@@ -14,4 +14,4 @@ These three short pieces of erotica explore the unique aspects of romance and se
 
 -----
 
-*Rum and Coke* is currently in **rough draft** form, and is available for free.  You can download the print copy as a PDF [here](rum-and-coke--print.pdf).
+*Rum and Coke* is available for free.  You can download the print copy as a PDF [here](rum-and-coke--print.pdf).
