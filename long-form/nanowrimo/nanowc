@@ -1,0 +1,52 @@
+#!/bin/bash
+
+# nanowc - compute the word count or percent completed of a NaNoWriMo (or any fixed word count) project
+#
+# By Matthew Scott
+
+
+# This script needs the following environmental variables declared:
+# 
+# NANOWRIMODIR - the directory (full path) containing all the files of your NaNoWriMo project
+# NANOWRIMOGOAL - the amount of words that is your goal for NaNoWriMo (i.e.: 50000)
+
+if [ "$1" = "--help" ]; then
+    echo "nanowc - compute the word-count or percent completed of a NANoWriMo (or any fixed word-count) project"
+    echo
+    echo "  nanowc [--percent[ full]]"
+    echo "Compute the word count, a simple integer percent useful for conky, or a full floating point percent"
+    echo "  nanowc --help"
+    echo "This message"
+    echo 
+    echo "Environment Variables:"
+    echo "  NANOWRIMODIR - the full path to the directory containing all the files of the project"
+    echo "  NANOWRIMOGOAL - the amount of words required for the project"
+    exit 0
+fi
+
+if [ ! $NANOWRIMODIR ]; then
+    echo "Please set the environmental variable NANOWRIMODIR to the directory containing the project's files"
+    exit 1
+fi
+
+if [ ! $NANOWRIMOGOAL ]; then
+    echo "Please set the environmental variable NANOWRIMOGOAL to a number representing the word-count goal"
+    exit 1
+fi
+
+WC=`wc -w \`ls $NANOWRIMODIR/* 2> /dev/null\` 2> /dev/null /dev/null | grep "total" | sed -e '/total/ !d' -e 's/total$//' -e 's/ *//g'`
+if [ "$1" = "--percent" ]; then
+    let LPERCENT=$[$WC * 100 / $NANOWRIMOGOAL]
+    if [ $LPERCENT -gt 100 ]; then
+        let PERCENT=100
+    else
+        if [ "$2" = "full" ]; then
+            PERCENT=`echo "scale=2; $WC * 100 / $NANOWRIMOGOAL" | bc`
+        else
+            PERCENT=$LPERCENT
+        fi
+    fi
+    echo $PERCENT
+else
+    echo $WC"/"$NANOWRIMOGOAL
+fi
