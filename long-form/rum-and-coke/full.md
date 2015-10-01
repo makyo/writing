@@ -1302,7 +1302,7 @@ Michael swallowed roughly at the sure signs of dominance that remained in his ex
 
 "I'm me, and all you need to be is my little pet roo, just once more."
 
-Michael swallowed hard once more, keeping his hands flat against the fabric of the dividing wall behind him.  The alcohol, the dominance, the familiarity all worked in Glade's favor, and he couldn't do much to surpress the excitement that had lingered since that violent outburst that had ended their relationship in the first place.
+Michael swallowed hard once more, keeping his hands flat against the fabric of the dividing wall behind him.  The alcohol, the dominance, the familiarity all worked in Glade's favor, and he couldn't do much to suppress the excitement that had lingered since that violent outburst that had ended their relationship in the first place.
 
 All he had to do was reconcile that it was really over, and on agreeable terms.
 
