@@ -43,7 +43,7 @@ Father starts reading about demonology in some book, oldest son is depressed, ha
         * initial worries about drugs, but the lack of any social connections, much less drug connections puts lie to that
         * father sits with him a few times at the old house, finding him sitting with a book, the same book each time, but with very little progress in reading, just staring and feeling awful.
         * the opposite of depression is vitality - son already starting to seem dead inside, except for the hurting.
-    * Haunting starts to pick up with actual occurences at home - smell of smoke, phantom touches, etc, difficult for painfully rational dad
+    * Haunting starts to pick up with actual occurrences at home - smell of smoke, phantom touches, etc, difficult for painfully rational dad
 * Act 3
     * Kid goes missing for dinner, then further - 3am
     * The story of getting to the son with the daughter - the tribulations of making it out of the relative safety of the home to the abandoned house next door
