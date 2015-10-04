@@ -4,27 +4,27 @@ title: Inner Demons - Outline
 comments: false
 ---
 
-Father starts reading about demonology in some book, oldest son is depressed, haunting starts, gets worse over time, resolution is demon from book starts trashing everything in this guys life, solution is they all have to go to demon (in relative's house? estranged wife?), surrounded by perfect calm and everything in it's place wherever they go, tell son to kill himself, demon is stopped, but with laughter, exactly as it had said in the book. Everything back to normal, only the family remembers what happened, only thing different is oldest son still dead of suicide, book is missing
+Family moves, oldest son is depressed, haunting starts, gets worse over time, solution is they all have to go to demon, surrounded by perfect calm and everything in it's place wherever they go, tell son to kill himself, demon is stopped, but with laughter, exactly as it had willed. Everything back to normal, only the family remembers what happened, only thing different is oldest son still dead of suicide
 
 ## Cast
 * Father:
-    * Joseph
+    * Jeff Perez
     * Architect
     * Single father
 * Mother:
      * dead
-     * Karen
+     * Karen Perez-Gray
 * Son:
-    * Justin
+    * Justin Perez
     * Musician, but still figuring himself out, maybe 16 or 17
 * Daughter:
-    * Kayla/Kay-bear
+    * Kayla/Kay-bear Perez
     * Elementary school, looks up to her brother a lot
 * demon:
     * G&auml;ap?
     * Ose?
 * Aunt:
-    * Alice
+    * Alice Perez
     * takes care of Kayla after
 
 -----

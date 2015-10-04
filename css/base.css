@@ -126,3 +126,18 @@ footer div {
     padding-top: 0.5em;
     margin-top: 0.5em;
 }
+
+#wcgraph .entry-label {
+    display: inline-block;
+    width: 85px;
+}
+
+#wcgraph .entry-bar {
+    display: inline-block;
+    background-color: #888;
+    border: 1px solid #fff;
+    padding: 0 2px 2px 0;
+    color: #fff;
+    text-align: right;
+    clear: right;
+}
