@@ -5,7 +5,7 @@ title: "NaNoWriMo 2008: The Consequences of Dissonance"
 
 Boy meets girl, but with a little twist.
 
-![A Winner Is Me!](nano_08_winner_large.gif)
+![A Winner Is Me!](nano_08_winner_large.gif) 58643/50000
 
 I wrote this in 2008, and I feel that I've come a lot further as a writer since then.  While I may revisit it at some point, I'm considering it abandoned for now.  Even so, I've posted it here for posterity's sake.
 
