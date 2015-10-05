@@ -2,6 +2,7 @@
 build:
 	pdflatex inner-demons.tex
 	pdflatex inner-demons.tex
+	$(MAKE) wordcount
 
 .PHONY: wordcount
 wordcount:
