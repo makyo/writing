@@ -48,7 +48,7 @@ Really, the story is about Jeff (and thus, the reader) being totally unable to c
     * Haunting starts to pick up with actual occurrences at home - smell of smoke, phantom touches, etc, difficult for painfully rational dad
     * Start searching for new house, no one is happy here for more obvious reasons than it being new.
 * Act 3
-    * Kid goes missing for dinner, then further - 3am
+    * Justin goes missing for dinner
     * The story of getting to the son with the daughter - the tribulations of making it out of the relative safety of the home to the abandoned house next door
         * passing through 'gates' to reach him
             1. Fear
@@ -57,10 +57,10 @@ Really, the story is about Jeff (and thus, the reader) being totally unable to c
             4. Blood
             5. Fire
             6. Blackness
-            7. Filth (Kayla shows up here) (soot, slick, oily, feeling dirty, making the feeling of cleanliness that Kayla feels mentioned in the epilogue more important)
+            7. Filth (Kayla shows up here, time passes weird, almost 3 am) (soot, slick, oily, feeling dirty, making the feeling of cleanliness that Kayla feels mentioned in the epilogue more important)
             8. Desperation
             9. Pain
-    * encounter with demon and son's suicide
+    * 3am encounter with demon and son's suicide
         * discussion with demon
         * son's suicide
         * demon's laughter

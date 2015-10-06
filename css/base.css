@@ -127,6 +127,11 @@ footer div {
     margin-top: 0.5em;
 }
 
+#wcgraph {
+    max-height: 130px;
+    overflow: auto;
+}
+
 #wcgraph .entry-label {
     display: inline-block;
     width: 85px;

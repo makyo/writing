@@ -4,7 +4,7 @@ title: Inner Demons
 comments: false
 ---
 
-Jeff Perez has just moved to a new city and a new state with his two children.  While his daughter, Kayla, appears to be adapting well to her new school, making new friends and pursuing as many art classes as an elementary school can provide, Justin appears to be having more trouble.  Much more trouble.  There's only so much a single father can do, but, as things get more and more horrifying, Jeff finds himself doing whatever he can to help out his son.
+Jeff Perez has just moved to a new city and a new state with his two children.  While he begins the process of adaptation jut fine, his children have more trouble.  Kayla disappears into the world of her art and Justin appears to be having more trouble.  Much more trouble, and of a harder to understand nature.  There's only so much a single father can do, but as the world around them gets more and more horrifying, Jeff finds himself doing everything in his power to keep his family safe.
 
 ### Word Count Stats
 

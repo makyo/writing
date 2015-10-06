@@ -10,16 +10,23 @@
   }
 
   d3.csv('wordcount.csv', function(data) {
-    var max = parseInt(data[data.length - 1].wordcount, 10);
+    data.reverse();
+    var max = parseInt(data[0].wordcount, 10);
+
+    // Enter
     var entry = vis.selectAll('div.entry')
         .data(data)
       .enter().append('div')
         .classed('entry', true);
+
+    // Date label
     entry.append('div')
       .classed('entry-label', true)
       .text(function(d) {
         return d.date;
       });
+
+    // Wordcount bar
     entry.append('div')
       .classed('entry-bar', true)
       .style('width', function(d) {
