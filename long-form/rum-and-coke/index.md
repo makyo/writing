@@ -14,10 +14,10 @@ These three short pieces of erotica explore the unique aspects of romance and se
 
 -----
 
-*Rum and Coke* is available for free.
+*Rum and Coke* is available here for free.
 
 You can read it [here](full)
 
 You can download the print copy as a PDF [here](rum-and-coke--print.pdf).
 
-If you'd like to purchase the piece to read on your Kindle or other supported device and help support me creating more, you can find it on amazon [here](http://www.amazon.com/Rum-Coke-Three-Stories-Convention-ebook/dp/B0160RTUWK/)
+If you'd like to purchase the piece to read on your Kindle or other supported device and help support me in creating more works like this, you can find it for $0.99 on Amazon [here](http://www.amazon.com/Rum-Coke-Three-Stories-Convention-ebook/dp/B0160RTUWK/)
