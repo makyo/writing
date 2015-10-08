@@ -36,7 +36,7 @@
       .text(function(d) {
         var width = parseInt(d.wordcount, 10) / max * 200;
         if (width < 50) {
-          return '';
+          return '…';
         }
         return d.wordcount;
       })
