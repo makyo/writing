@@ -50,7 +50,7 @@ Really, the story is about Jeff (and thus, the reader) being totally unable to c
 * Act 3
     * Justin goes missing for dinner
     * The story of getting to the son with the daughter - the tribulations of making it out of the relative safety of the home to the abandoned house next door
-        * passing through 'gates' to reach him
+        * passing through 'gates' to reach him - falls to ground with each gate
             1. Fear
             2. Anger (invisible resistance)
             3. Tears
@@ -68,3 +68,7 @@ Really, the story is about Jeff (and thus, the reader) being totally unable to c
     * who knows what happened.  Writing a letter/journal, trying to get ideas out?
         * When David heard that Absolom was slain, he went up into his chamber over the gate and cried, "My son, my son, would God I had died for thee"
         * Daughter won't talk except at school (how much of this is the father being crushed versus the daughter's own grief?)
+    * Left over:
+        * burnt and singed hair
+        * memories
+        * the feeling of grease and dirt that never quite comes clean
