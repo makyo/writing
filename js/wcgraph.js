@@ -10,6 +10,10 @@
   }
 
   d3.csv('wordcount.csv', function(data) {
+    if (data === null) {
+      vis.text('No wordcount data.')
+      return;
+    }
     data.reverse();
     var max = parseInt(data[0].wordcount, 10);
 
