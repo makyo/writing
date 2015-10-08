@@ -57,6 +57,9 @@ Really, the story is about Jeff (and thus, the reader) being totally unable to c
             4. Blood
             5. Fire
             6. Blackness
+                * Cut to Kayla
+                * Problems from her point of view, talking with teachers
+                * Making her way out to her dad after midnight
             7. Filth (Kayla shows up here, time passes weird, almost 3 am) (soot, slick, oily, feeling dirty, making the feeling of cleanliness that Kayla feels mentioned in the epilogue more important)
             8. Desperation
             9. Pain
