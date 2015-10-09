@@ -6,7 +6,7 @@ comments: false
 
 Family moves, oldest son is depressed, haunting starts, gets worse over time, solution is they all have to go to demon, surrounded by perfect calm and everything in it's place wherever they go, tell son to kill himself, demon is stopped, but with laughter, exactly as it had willed. Everything back to normal, only the family remembers what happened, only thing different is oldest son still dead of suicide
 
-Really, the story is about Jeff (and thus, the reader) being totally unable to comprehend what Justin is going through.  It is big and horrifying and totally inaccessible to anyone but Justin.
+Really, the story is about Jeff (and thus, the reader) being totally unable to comprehend what Justin is going through.  It is big and horrifying and totally inaccessible to anyone but Justin.  The ultimate folly is not asking for help.
 
 ## Cast
 * Father:
@@ -45,6 +45,9 @@ Really, the story is about Jeff (and thus, the reader) being totally unable to c
         * initial worries about drugs, but the lack of any social connections, much less drug connections puts lie to that
         * father sits with him a few times at the old house, finding him sitting with a book, the same book each time, but with very little progress in reading, just staring and feeling awful.
         * the opposite of depression is vitality - son already starting to seem dead inside, except for the hurting.
+    * Kayla starts drawing flowers
+        * draws the attention of her art teacher, who gives her encouragement
+        * Conversations about the source of art - "Where are you getting this?" "From inside my head" "but what is your inspiration?" "Flowers.  Fields full of flowers.  Organized and disorganized," etc
     * Haunting starts to pick up with actual occurrences at home - smell of smoke, phantom touches, etc, difficult for painfully rational dad
     * Start searching for new house, no one is happy here for more obvious reasons than it being new.
 * Act 3

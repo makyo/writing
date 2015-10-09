@@ -33,6 +33,7 @@ September, 2015
 
 *This work of fiction is erotic in nature and contains graphic descriptions of sex.  It is not intended for minors.  Additionally, the first piece touches on the topic of non-consensual sex -- remember to always, always get consent from your partner or partners!*
 
+-----
 
 ### What I Expected
 
@@ -588,6 +589,7 @@ They drifted back into quiet for a good long while afterward, each watching the 
 
 "And everything after," he agreed.
 
+-----
 
 ### How Many
 
@@ -1083,6 +1085,7 @@ Andrew smiled, more earnestly this time.
 
 Ian let Andrew precede him out of the bathroom. He thought for a moment, smiled, and hung up his towel. Anxiety quelled, he headed back out into the room, to both his partners.
 
+-----
 
 ### Again
 
@@ -1491,6 +1494,8 @@ Michael thought for a moment, then shrugged, "Probably not.  Not in the same way
 Bomber looked down and nodded.
 
 Michael laughed and leaned over to hug both arms around his friend, "Hey, don't worry, whatever happens happens, not leaving my friends behind at all."
+
+-----
 
 ### About the Author
 
