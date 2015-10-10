@@ -15,7 +15,7 @@
 \pagestyle{fancyplain}
 \fancyhf{}
 \fancyheadoffset[r]{.01in}
-\fancyhead[R]{TITLE / Scott-Clary / \thepage\ of \pageref{LastPage}}
+\fancyhead[R]{The Furry Condition / Scott-Clary / \thepage\ of \pageref{LastPage}}
 
 %%% Font
 \renewcommand*\rmdefault{ptm}
@@ -40,16 +40,31 @@
 }
 
 %%% Title
-\title{TITLE}
+\title{The Furry Condition}
 \author{Madison Scott-Clary}
 
 \begin{document}
+  \frontmatter
+  \pagenumbering{roman}
   \maketitle
 
   \newpage
 
   \tableofcontents
 
+  \chapter*{Preface}
+  \addcontentsline{toc}{chapter}{Preface}
+
+  \mainmatter
+  \chapter{About Furries}
   \input{content/a01}
+
+  \chapter{Character and Participation}
+
+  \chapter{Furry Life}
+
+  \chapter{Experiencing Furry}
+
+  \chapter{The Furry Condition}
 
 \end{document}
