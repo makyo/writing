@@ -23,8 +23,7 @@ Really, the story is about Jeff (and thus, the reader) being totally unable to c
     * Kayla/Kay-bear Perez
     * Elementary school, looks up to her brother a lot
 * demon:
-    * G&auml;ap?
-    * Ose?
+    * Os&eacute;
 * Aunt:
     * Alice Perez
     * takes care of Kayla after
