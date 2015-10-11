@@ -41,6 +41,7 @@ Really, the story is about Jeff (and thus, the reader) being totally unable to c
 * Act 2
     * Haunting starts
         * dreams for everyone, starting with and most intensely affecting daughter
+        * Nightmare about wife dying for Jeff (car crash on her way home, called by the coroner, Kayla still a toddler)
     * son starts spending time at half-constructed abandoned house next door reading and thinking, much, much more depressed
         * initial worries about drugs, but the lack of any social connections, much less drug connections puts lie to that
         * father sits with him a few times at the old house, finding him sitting with a book, the same book each time, but with very little progress in reading, just staring and feeling awful.
