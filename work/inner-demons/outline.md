@@ -13,14 +13,15 @@ Really, the story is about Jeff (and thus, the reader) being totally unable to c
     * Jeff Perez
     * Architect
     * Single father
+    * Fear of fire, tries to pass that on, but unsafe with guns, which justin gets
 * Mother:
      * dead
      * Karen Perez-Gray
 * Son:
-    * Justin Perez
+    * Justin Perez-Gray
     * Musician, but still figuring himself out, maybe 16 or 17
 * Daughter:
-    * Kayla/Kay-bear Perez
+    * Kayla/Kay-bear Perez-Gray
     * Elementary school, looks up to her brother a lot
 * demon:
     * Os&eacute;
