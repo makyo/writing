@@ -26,7 +26,7 @@ Really, the story is about Jeff (and thus, the reader) being totally unable to c
 * demon:
     * Os&eacute;
 * Aunt:
-    * Alice Perez
+    * Alice Gray
     * takes care of Kayla after
 
 -----
