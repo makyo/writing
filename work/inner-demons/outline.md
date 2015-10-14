@@ -15,8 +15,12 @@ Really, the story is about Jeff (and thus, the reader) being totally unable to c
     * Single father
     * Fear of fire, tries to pass that on, but unsafe with guns, which justin gets
 * Mother:
-     * dead
-     * Karen Perez-Gray
+    * dead
+    * Karen Perez-Gray
+* Dog:
+    * dead
+    * Benji
+    * reason for moving
 * Son:
     * Justin Perez-Gray
     * Musician, but still figuring himself out, maybe 16 or 17
