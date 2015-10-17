@@ -7,7 +7,7 @@ rating: PG
 
 Two foxes walked into a bar.
 
-Well, okay, a diner, but most of those are outfitted with a bar type area - you know the type - which is close enough.  Both were full of giggles, outfitted with grins and their most casual of "nice" clothes.  Somehow managing to look similar without related, the two got along as though they were brothers.  One was taller than the other, and though both were thin, he came off as lanky, whereas the the shorter fox seemed more waifish than anything - more of a track runner than his friend, the basketball player.
+Well, okay, a diner, but most of those are outfitted with a bar type area - you know the type - which is close enough.  Both were full of giggles, outfitted with grins and their most casual of "nice" clothes.  Somehow managing to look similar without being related, the two got along as though they were brothers.  One was taller than the other, and though both were thin, he came off as lanky, whereas the the shorter fox seemed more waifish than anything - more of a track runner than his friend, the basketball player.
 
 Although the restaurant was nearly empty - its only other customer being one of those old hound dogs who sits at the bar, nursing his second cup of coffee while staring at the gold flakes on the formica counter as if they might somehow swirl into formation to reveal the deepest secrets of the universe, the solutions to all problems - the two jovial friends made their way to the corner booth and plopped down across from each other.
 
