@@ -92,7 +92,7 @@ The check had "get a room" scrawled across it, and "on the house" scribbled
 hastily at the bottom.  Taking that as their cue to leave, the pair made a
 clumsy escape from the diner, followed by the disdainful gaze of the rollercat.
 
-~
+-----
 
 Safe in the basement of the larger fox's house - the closer of the two - the
 duo sat stiffly, awkwardly on an overstuffed couch.  Both had been silent on
@@ -192,4 +192,3 @@ Several minutes later found both foxes in much the same position, holding close
 against each other with one damp and one clean paw each, sharing one last
 vanilla flavored kiss or three before dozing off leaning against the other,
 sore necks be damned.
-
