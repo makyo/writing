@@ -39,11 +39,11 @@ With the other fox still leaning forward like that, it didn't take much for the 
 
 Clear even to the waitress, who had rolled up at a rather inopportune moment to refill the untouched coffees. With a snap of her gum and a slightly grumpy look, she jotted quickly on the check, slapped down on the table, grumbled, "I should've known," and pushed off towards the kitchen.
 
-The two foxes sat in stunned silence for several seconds as the insides of each of their ears blushed a matching shade of pink.  The larger foxes shaky paws fiddled with the check for lack of anything better to do, while the smaller fox sat still, eyes wide and welling up with frightened tears.
+The two foxes sat in stunned silence for several seconds as the insides of each of their ears blushed a matching shade of pink.  The larger fox's shaky paws fiddled with the check for lack of anything better to do, while the smaller fox sat still, eyes wide and welling up with frightened tears.
 
 The check had "get a room" scrawled across it, and "on the house" scribbled hastily at the bottom.  Taking that as their cue to leave, the pair made a clumsy escape from the diner, followed by the disdainful gaze of the rollercat.
 
-Once they had made it out onto the curb, the warm evening air a welcome change after the spreading coldness from the shared shake, the two foxes, gave a cautious look back through the glass into the diner, the waitress still watching them from behind the counter.
+Once they had made it out onto the curb, the warm evening air a welcome change after the spreading coldness from the shared shake, the two foxes gave a cautious look back through the glass into the diner, the waitress still watching them from behind the counter.
 
 They decided on home, instead.
 
