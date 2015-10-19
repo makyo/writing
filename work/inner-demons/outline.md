@@ -41,11 +41,21 @@ Really, the story is about Jeff (and thus, the reader) being totally unable to c
     * New schools
         * two kids, younger daughter and older son
     * Beginning of signs that son is depressed, not just upset over move
-        * Makes it through a quarter, hasn't joined extracurricular activities, no friends - all expected, but also stops listening to music, starts occasionally missing dinner, etc.
+        * Makes it through a quarter, hasn't joined extracurricular activities, no friends - all expected, but also stops playing music except on headphones, starts occasionally missing dinner, etc.
 * Act 2
     * Haunting starts
-        * dreams for everyone, starting with and most intensely affecting daughter
-        * Nightmare about wife dying for Jeff (car crash on her way home, called by the coroner, Kayla still a toddler)
+        * dreams for everyone
+        * Jeff: Nightmare about wife dying for Jeff (car crash on her way home, called by the coroner, Kayla still a toddler) - all of jeff's dreams are about the inability to help, reach, punch, touch, etc.
+        * Acts:
+            1. dreams
+            2. Books crash to floor
+            3. Flushes of heat and cold
+            4. Phantom touches
+            5. Mice (can't be found by pest control)
+            6. Brown outs (neighbors don't experience)
+            7. Rotting food (forced to eat out)
+            8. ??
+            9. ??
     * son starts spending time at half-constructed abandoned house next door reading and thinking, much, much more depressed
         * initial worries about drugs, but the lack of any social connections, much less drug connections puts lie to that
         * father sits with him a few times at the old house, finding him sitting with a book, the same book each time, but with very little progress in reading, just staring and feeling awful.
@@ -69,8 +79,8 @@ Really, the story is about Jeff (and thus, the reader) being totally unable to c
                 * Problems from her point of view, talking with teachers
                 * Making her way out to her dad after midnight
             7. Filth (Kayla shows up here, time passes weird, almost 3 am) (soot, slick, oily, feeling dirty, making the feeling of cleanliness that Kayla feels mentioned in the epilogue more important)
-            8. Desperation
-            9. Pain
+            8. Desperation ???
+            9. Pain ???
     * 3am encounter with demon and son's suicide
         * discussion with demon
         * son's suicide

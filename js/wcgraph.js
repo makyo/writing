@@ -39,7 +39,9 @@
       })
       .text(function(d) {
         var width = parseInt(d.wordcount, 10) / max * 200;
-        if (width < 50) {
+        if (width < 20) {
+          return '\u00A0';
+        } else if (width < 50) {
           return '…';
         }
         return d.wordcount;
