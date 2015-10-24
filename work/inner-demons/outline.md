@@ -49,7 +49,7 @@ Really, the story is about Jeff (and thus, the reader) being totally unable to c
         * Acts:
             1. dreams
             2. Books crash to floor
-            3. Flushes of heat and cold
+            3. Flushes of heat and cold (cold around Kayla, hot around Justin)
             4. Phantom touches
             5. Mice (can't be found by pest control)
             6. Brown outs (neighbors don't experience)
