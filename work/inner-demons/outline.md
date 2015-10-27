@@ -36,7 +36,7 @@ Really, the story is about Jeff (and thus, the reader) being totally unable to c
 -----
 
 * Act 1
-    * Moving to new house
+    * Moving to new house (from NM to new england)
         * Why? Single father, architect, new job maybe?
     * New schools
         * two kids, younger daughter and older son
