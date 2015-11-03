@@ -11,10 +11,10 @@ When RJ gets Lost in the 'net, stuck without a way to return to the world outsid
 * RJ
     * guy who gets lost
     * AwDae online b/c canid muzzle - gender neutral
-    * Surrounded by theatre troupe, who bat for him
+    * Surrounded by theater troupe, who bat for him
     * no romantic interest - asexual
     * Sound
-    * Born in US, moved to UK for the theatres after studying sound design
+    * Born in US, moved to UK for the theaters after studying sound design
 * Priscilla/Prisca - cat
 * Sasha
     * Friend online from hs, gets in touch with Caitlin later on
@@ -33,7 +33,7 @@ When RJ gets Lost in the 'net, stuck without a way to return to the world outsid
 
 ## Setting
 
-* Small theatre in Soho, London
+* Small theater in Soho, London
 * The Crown Pub - online gathering spot
 
 ## Overview
@@ -43,13 +43,13 @@ When RJ gets Lost in the 'net, stuck without a way to return to the world outsid
     * Another as a doctor/specialist tries to rescue patient but is working against political power b/c net plays an All-Thing like role in government, is being used, those in charge don't want that shaken
 * Getting Lost
     * Few hundred out of eight billion
-* Sequel or expland about AI sort of like Wintermute or Lobsters in Accelerando
+* Sequel or expand about AI sort of like Wintermute or Lobsters in Accelerando
 
 -----
 
 * Act 1
-    * RJ works in a theatre, explanation of connecting to devices
-        1. Shutting theatre down
+    * RJ works in a theater, explanation of connecting to devices
+        1. Shutting theater down
         2. Online life
         3. Back story
             1. High school with Sasha
@@ -58,6 +58,7 @@ When RJ gets Lost in the 'net, stuck without a way to return to the world outsid
             4. moving to London
     * CR struggles with funding
     * RJ gets Lost
+        * realm like hs, but empty, although he can hear occasional whispers from outside, just as one inside could feel a touch and pull back
 * Act 2
     * RJ explores, discovers secret
         * those in control steering net All-Thing through software
@@ -70,5 +71,5 @@ When RJ gets Lost in the 'net, stuck without a way to return to the world outsid
     * CR into hiding, dives in after RJ
     * RJ starting to lose himself by now
     * Difficulty bringing him back
-    * The theatre does it, love of creation
+    * The theater does it, love of creation
     * Make it back, bring with the secret
