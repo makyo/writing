@@ -43,6 +43,7 @@ When RJ gets Lost in the 'net, stuck without a way to return to the world outsid
     * Another as a doctor/specialist tries to rescue patient but is working against political power b/c net plays an All-Thing like role in government, is being used, those in charge don't want that shaken
 * Getting Lost
     * Few hundred out of eight billion
+    * Carter's Hunch: Passes like memetic contagion among connected groups as more people find out through friends.
 * Sequel or expand about AI sort of like Wintermute or Lobsters in Accelerando
 
 -----
@@ -58,7 +59,11 @@ When RJ gets Lost in the 'net, stuck without a way to return to the world outsid
             4. moving to London
     * CR struggles with funding
     * RJ gets Lost
+        * One more night of rehearsal, happens toward end of night
+            * Removing him via safety mechanism of lifting hand from cradle doesn't help
+            * Slow transition, almost doesn't notice, winds up in sound booth of HS
         * realm like hs, but empty, although he can hear occasional whispers from outside, just as one inside could feel a touch and pull back
+    * CR searches into transmission of getting lost
 * Act 2
     * RJ explores, discovers secret
         * those in control steering net All-Thing through software
