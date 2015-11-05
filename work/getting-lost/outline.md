@@ -9,7 +9,7 @@ When RJ gets Lost in the 'net, stuck without a way to return to the world outsid
 
 ## Cast
 * RJ
-    * guy who gets lost
+    * person who gets lost
     * AwDae online b/c canid muzzle - gender neutral
     * Surrounded by theater troupe, who bat for him
     * no romantic interest - asexual
@@ -44,8 +44,7 @@ When RJ gets Lost in the 'net, stuck without a way to return to the world outsid
 * Getting Lost
     * Few hundred out of eight billion
     * Carter's Hunch: Passes like memetic contagion among connected groups as more people find out through friends.
-* Sequel or expand about AI sort of like Wintermute or Lobsters in Accelerando
-
+* ~~Sequel or expand about AI sort of like Wintermute or Lobsters in Accelerando~~
 -----
 
 * Act 1
@@ -60,13 +59,13 @@ When RJ gets Lost in the 'net, stuck without a way to return to the world outsid
     * CR struggles with funding
     * RJ gets Lost
         * One more night of rehearsal, happens toward end of night
-            * Removing him via safety mechanism of lifting hand from cradle doesn't help
+            * Removing em via safety mechanism of lifting hand from cradle doesn't help
             * Slow transition, almost doesn't notice, winds up in sound booth of HS
-        * realm like hs, but empty, although he can hear occasional whispers from outside, just as one inside could feel a touch and pull back
+        * realm like hs, but empty, although ey can hear occasional whispers from outside, just as one inside could feel a touch and pull back
     * CR searches into transmission of getting lost
 * Act 2
     * RJ explores, discovers secret
-        * those in control steering net All-Thing through software
+        * those in control steering net Direct Democracy Representative (All Thing) through software, fight between Western Federation and Russian Bloc.
         * easter eggs planted to steer votes
     * CR brought onto the case
         * Pressure against investigation
