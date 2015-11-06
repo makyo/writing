@@ -64,12 +64,14 @@ When RJ gets Lost in the 'net, stuck without a way to return to the world outsid
         * realm like hs, but empty, although ey can hear occasional whispers from outside, just as one inside could feel a touch and pull back
     * CR searches into transmission of getting lost
 * Act 2
-    * RJ explores, discovers secret
-        * those in control steering net Direct Democracy Representative (All Thing) through software, fight between Western Federation and Russian Bloc.
-        * easter eggs planted to steer votes
     * CR brought onto the case
         * Pressure against investigation
         * Start hunting through more esoteric (underground?) for solution
+    * RJ explores
+        *
+    * RJ discovers secret
+        * those in control steering net Direct Democracy Representative (All Thing) through software, fight between Western Federation and Russian Bloc.
+        * easter eggs planted to steer votes
 * Act 3
     * Shadowy MP brought to light through mooks
     * CR into hiding, dives in after RJ
