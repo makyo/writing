@@ -2,6 +2,8 @@
 build:
 	pdflatex getting-lost.tex
 	pdflatex getting-lost.tex
+	pdflatex first-glimpse.tex
+	pdflatex first-glimpse.tex
 	$(MAKE) wordcount
 
 .PHONY: wordcount

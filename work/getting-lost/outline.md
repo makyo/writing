@@ -5,9 +5,12 @@ title: Getting Lost
 
 Embed in computers story
 
-When RJ gets Lost in the 'net, stuck without a way to return to the world outside, he finds himself torn between accepting his fate and the struggle to escape.  Meanwhile, Dr. Carter Ramirez, a specialist in the Lost, finds himself meeting with a surprising amount of political pressure when attending to RJ's case.  Much more is bound up in the case of the Lost than appears at first glance.
+'net as asylum, a place to put uncomfortable people when they get in the way.
+
+When RJ gets Lost in the 'net, stuck without a way to return to the world outside, ey finds emself torn between accepting his fate and the struggle to escape.  Meanwhile, Dr. Carter Ramirez, a specialist in the Lost, finds herself meeting with a surprising amount of political pressure when attending to RJ's case.  Much more is bound up in the case of the Lost than appears at first glance.
 
 ## Cast
+Plot 1:
 * RJ
     * person who gets lost
     * AwDae online b/c canid muzzle - gender neutral
@@ -29,7 +32,13 @@ When RJ gets Lost in the 'net, stuck without a way to return to the world outsid
     * lights
 * Sarai
     * stage manager
+
+Plot 2:
 * Dr. Carter Ramirez
+* Sanders - neurochem - govt. plant to keep things away from truth
+* Prakash Das - neurochem spec on the case
+* Avery Croft - stats and history on the case
+* Sandra - lawyer on the case
 
 ## Setting
 
@@ -68,12 +77,13 @@ When RJ gets Lost in the 'net, stuck without a way to return to the world outsid
         * Pressure against investigation
         * Start hunting through more esoteric (underground?) for solution
     * RJ explores
-        *
+        * tasks/puzzles that lead him closer or further from meaning, pervading sense that ey can figure things out
     * RJ discovers secret
         * those in control steering net Direct Democracy Representative (All Thing) through software, fight between Western Federation and Russian Bloc.
         * easter eggs planted to steer votes
 * Act 3
     * Shadowy MP brought to light through mooks
+    * Sanders as government plant to foil CR
     * CR into hiding, dives in after RJ
     * RJ starting to lose himself by now
     * Difficulty bringing him back
