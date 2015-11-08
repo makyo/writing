@@ -35,10 +35,16 @@ Plot 1:
 
 Plot 2:
 * Dr. Carter Ramirez
-* Sanders - neurochem - govt. plant to keep things away from truth
-* Prakash Das - neurochem spec on the case
-* Avery Croft - stats and history on the case
-* Sandra - lawyer on the case
+* Sanders
+    * neurochem
+    * govt. plant to keep things away from truth
+* Prakash Das
+    * neurochem spec on the case
+    * Russian Bloc spy
+* Avery Croft
+    * stats and history on the case
+* Sandra
+    * lawyer on the case
 
 ## Setting
 
@@ -74,10 +80,14 @@ Plot 2:
     * CR searches into transmission of getting lost
 * Act 2
     * CR brought onto the case
-        * Pressure against investigation
-        * Start hunting through more esoteric (underground?) for solution
+        * Pressure against investigation, Start hunting through more esoteric (underground?) for solution
+            1. the way the genderqueer fall through the gaps
     * RJ explores
         * tasks/puzzles that lead him closer or further from meaning, pervading sense that ey can figure things out
+            1. explore hs, find it all there to the last detail
+                * clue of Cicero's DDR records
+                * Mic left on, sign that someone might be helping from the outside?
+                * finds mic by turning up house sound and making noise until ey gets feedback, stops by turning mic off
     * RJ discovers secret
         * those in control steering net Direct Democracy Representative (All Thing) through software, fight between Western Federation and Russian Bloc.
         * easter eggs planted to steer votes
