@@ -11,7 +11,7 @@ When RJ gets Lost in the 'net, stuck without a way to return to the world outsid
 
 ## Cast
 Plot 1:
-* RJ
+* RJ Brewster (patient 0224ebe8 \ptRJ)
     * person who gets lost
     * AwDae online b/c canid muzzle - gender neutral
     * Surrounded by theater troupe, who bat for him
@@ -24,7 +24,8 @@ Plot 1:
     * skunk
 * Debarre
     * weasel
-* Cicero
+* Collin Jackson (patient aca973d7 \ptCollin)
+    * Cicero online
     * Debarre's boyfriend
     * Cat
     * Got lost early on
@@ -82,15 +83,18 @@ Plot 2:
     * CR brought onto the case
         * Pressure against investigation, Start hunting through more esoteric (underground?) for solution
             1. the way the genderqueer fall through the gaps
+            2. Getting in contact with the troupe
     * RJ explores
         * tasks/puzzles that lead him closer or further from meaning, pervading sense that ey can figure things out
             1. explore hs, find it all there to the last detail
                 * clue of Cicero's DDR records
                 * Mic left on, sign that someone might be helping from the outside?
                 * finds mic by turning up house sound and making noise until ey gets feedback, stops by turning mic off
+            2. List of Cicero's votes - shift in currency without a corresponding vote.
     * RJ discovers secret
         * those in control steering net Direct Democracy Representative (All Thing) through software, fight between Western Federation and Russian Bloc.
         * easter eggs planted to steer votes
+        * On the 'net nothing disappears completely, so powers that be started disappearing people
 * Act 3
     * Shadowy MP brought to light through mooks
     * Sanders as government plant to foil CR
@@ -99,3 +103,9 @@ Plot 2:
     * Difficulty bringing him back
     * The theater does it, love of creation
     * Make it back, bring with the secret
+
+## Critique
+
+* Too wordy to meet word goals
+* Sentences too long, break them up some
+* Use semicolons
