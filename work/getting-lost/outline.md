@@ -33,6 +33,8 @@ Plot 1:
     * lights
 * Sarai
     * stage manager
+* Carl Johansson
+    * director
 
 Plot 2:
 * Dr. Carter Ramirez
@@ -83,7 +85,8 @@ Plot 2:
     * CR brought onto the case
         * Pressure against investigation, Start hunting through more esoteric (underground?) for solution
             1. the way the genderqueer fall through the gaps
-            2. Getting in contact with the troupe
+            2. Getting in contact with the troupe by going to theater
+            3. Gets put in touch with Sasha
     * RJ explores
         * tasks/puzzles that lead him closer or further from meaning, pervading sense that ey can figure things out
             1. explore hs, find it all there to the last detail
@@ -99,6 +102,7 @@ Plot 2:
     * Shadowy MP brought to light through mooks
     * Sanders as government plant to foil CR
     * CR into hiding, dives in after RJ
+        * CR can't get Lost, would be too suspicious
     * RJ starting to lose himself by now
     * Difficulty bringing him back
     * The theater does it, love of creation
