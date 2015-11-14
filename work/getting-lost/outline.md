@@ -99,7 +99,7 @@ Plot 2:
         * easter eggs planted to steer votes
         * On the 'net nothing disappears completely, so powers that be started disappearing people
 * Act 3
-    * Shadowy MP brought to light through mooks
+    * Shadowy govt Representative brought to light through mooks
     * Sanders as government plant to foil CR
     * CR into hiding, dives in after RJ
         * CR can't get Lost, would be too suspicious
