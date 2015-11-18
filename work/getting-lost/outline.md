@@ -86,7 +86,7 @@ Plot 2:
         * Pressure against investigation, Start hunting through more esoteric (underground?) for solution
             1. the way the genderqueer fall through the gaps
             2. Getting in contact with the troupe by going to theater
-            3. Gets put in touch with Sasha
+            3. Gets put in touch with Sasha by Johansson
     * RJ explores
         * tasks/puzzles that lead him closer or further from meaning, pervading sense that ey can figure things out
             1. explore hs, find it all there to the last detail
@@ -100,13 +100,14 @@ Plot 2:
         * On the 'net nothing disappears completely, so powers that be started disappearing people
 * Act 3
     * Shadowy govt Representative brought to light through mooks
-    * Sanders as government plant to foil CR
-    * CR into hiding, dives in after RJ
-        * CR can't get Lost, would be too suspicious
+        * Sanders as government plant to foil CR
+        * CR into hiding, dives in after RJ
+            * CR can't get Lost, would be too suspicious
+        * Not the Russian Bloc, personal power within WF
     * RJ starting to lose himself by now
-    * Difficulty bringing him back
-    * The theater does it, love of creation
-    * Make it back, bring with the secret
+        * Difficulty bringing him back
+        * The theater does it, love of creation
+        * Make it back, bring with the secret
 
 ## Critique
 
