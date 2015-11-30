@@ -87,6 +87,7 @@ Plot 2:
             1. the way the genderqueer fall through the gaps
             2. Getting in contact with the troupe by going to theater
             3. Gets put in touch with Sasha by Johansson
+            4. Sneakily talking to Sasha.
     * RJ explores
         * tasks/puzzles that lead him closer or further from meaning, pervading sense that ey can figure things out
             1. explore hs, find it all there to the last detail
@@ -104,8 +105,9 @@ Plot 2:
         * CR into hiding, dives in after RJ
             * CR can't get Lost, would be too suspicious
         * Not the Russian Bloc, personal power within WF
-    * RJ starting to lose himself by now
-        * Difficulty bringing him back
+    * RJ starting to lose emself by now
+        * pulling back is a protocol, protocols can be ignored
+        * Difficulty bringing em back
         * The theater does it, love of creation
         * Make it back, bring with the secret
 
