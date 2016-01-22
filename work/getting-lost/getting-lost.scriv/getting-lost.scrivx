@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="buzzell" Modified="2015-12-31 15:29:31 -0700" ModID="285EDBC6-31F2-4E3D-B308-E4E0EBC0BA4F">
+    <Binder>
+        <BinderItem ID="0" UUID="246E0304-45EB-4733-95C0-7D7F2FED1A62" Type="DraftFolder" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+            <Title>Manuscript</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>4</SelectedSubdocumentIDs>
+                <OutlinerExpandedState>
+                    <ItemID>100</ItemID>
+                </OutlinerExpandedState>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="4" UUID="3FD0FE4C-F651-488B-8041-D6FB0D7583C5" Type="Folder" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 15:47:00 -0700">
+                    <Title>RJ/AwDae</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="6" UUID="FD67C641-E13A-41F0-AEC0-EE27A9EE1BE8" Type="Text" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 15:26:05 -0700">
+                            <Title>Shutting down the theater</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>2</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>11092,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="61" UUID="BB9C6E9C-1569-44B4-AF36-E579EED241DB" Type="Text" Created="2015-12-30 14:50:32 -0700" Modified="2015-12-30 14:53:46 -0700">
+                            <Title>In the Crown Pub</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>11060,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="62" UUID="2FE7ECC6-5328-470D-93E4-7BE0271463F3" Type="Text" Created="2015-12-30 14:54:13 -0700" Modified="2015-12-30 15:23:59 -0700">
+                            <Title>Going to bed</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>7770,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="63" UUID="078B2D3F-3629-4637-A960-E375CD342F87" Type="Folder" Created="2015-12-30 14:56:05 -0700" Modified="2015-12-30 15:23:25 -0700">
+                    <Title>Dr. Carter Ramirez</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs>64-65</SelectedSubdocumentIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="64" UUID="3447A595-8A4F-4957-A078-51CD58786C8E" Type="Text" Created="2015-12-30 14:56:28 -0700" Modified="2015-12-30 15:26:39 -0700">
+                            <Title>A late night at the office</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4622,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="65" UUID="6E7FEAC5-1085-4A2A-A835-CBC149F5EE38" Type="Text" Created="2015-12-30 14:57:37 -0700" Modified="2015-12-30 15:24:09 -0700">
+                            <Title>A hunch about furries</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2141,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="66" UUID="A2BC863D-A8A1-4730-BB62-C9C4DA3D8E8B" Type="Folder" Created="2015-12-30 15:00:58 -0700" Modified="2015-12-30 15:46:53 -0700">
+                    <Title>RJ/AwDae</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="67" UUID="DE442926-E033-41D9-847A-28943440B0EA" Type="Text" Created="2015-12-30 15:01:05 -0700" Modified="2015-12-30 15:30:14 -0700">
+                            <Title>Research on Cicero</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8447,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="68" UUID="F5934EAC-DB4F-412E-8D9E-8A8D8C379A36" Type="Text" Created="2015-12-30 15:06:50 -0700" Modified="2015-12-30 15:26:39 -0700">
+                            <Title>Rehearsal, things go sideways</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6479,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="69" UUID="421B56C2-4E40-4140-B6A0-0AAD8B7495A9" Type="Text" Created="2015-12-30 15:08:18 -0700" Modified="2015-12-30 15:26:39 -0700">
+                            <Title>Theater notices</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>849,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="70" UUID="FFD6330E-CEC9-44C2-AB7F-7053B520F815" Type="Text" Created="2015-12-30 15:10:29 -0700" Modified="2015-12-30 15:24:24 -0700">
+                            <Title>Waking up</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>860,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="71" UUID="AFA14D34-5912-496B-94C9-329E607738A1" Type="Text" Created="2015-12-30 15:11:06 -0700" Modified="2015-12-30 15:26:39 -0700">
+                            <Title>Emergency</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1602,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="72" UUID="0BAD23D0-A980-4885-8EDE-28D2C8BE60F7" Type="Text" Created="2015-12-30 15:11:40 -0700" Modified="2015-12-30 15:24:24 -0700">
+                            <Title>Lockers</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>587,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="73" UUID="DDF2A157-0318-48C1-864C-E0A686CD67FC" Type="Folder" Created="2015-12-30 15:31:14 -0700" Modified="2015-12-30 16:04:55 -0700">
+                    <Title>Dr. Carter Ramirez</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="74" UUID="F593EEBF-B6DE-4471-A802-871B13B24CE3" Type="Text" Created="2015-12-30 15:32:15 -0700" Modified="2015-12-30 15:47:09 -0700">
+                            <Title>Timebox</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>6615,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="75" UUID="18C9FEC1-8E8B-4974-B346-16437BFD37BC" Type="Text" Created="2015-12-30 15:34:09 -0700" Modified="2015-12-30 15:47:09 -0700">
+                            <Title>Correlations</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2012,4</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="77" UUID="A96EF00F-A532-42EE-8292-ACBE06204A22" Type="Folder" Created="2015-12-30 15:47:28 -0700" Modified="2015-12-30 16:05:02 -0700">
+                    <Title>AwDae</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="78" UUID="0BE7CE39-961D-4FDF-ABA0-15C188A55CFB" Type="Text" Created="2015-12-30 15:47:36 -0700" Modified="2015-12-30 16:04:25 -0700">
+                            <Title>Back at school</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3488,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="79" UUID="29B2BB1F-9640-46C9-A3A5-3A3BCFFF5B03" Type="Text" Created="2015-12-30 15:48:38 -0700" Modified="2015-12-30 16:04:25 -0700">
+                            <Title>To the auditorium</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3091,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="80" UUID="FC12EFD8-270A-47B1-AC1A-8684355645C2" Type="Text" Created="2015-12-30 15:49:22 -0700" Modified="2015-12-30 16:04:25 -0700">
+                            <Title>A plan is formed</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2845,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="81" UUID="880451CB-1148-42CD-8F4C-4946894BC075" Type="Folder" Created="2015-12-30 15:52:43 -0700" Modified="2015-12-30 16:05:08 -0700">
+                    <Title>Dr. Carter Ramirez</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="82" UUID="E075E3A9-41DA-4190-B0ED-A4D7FD2C76F8" Type="Text" Created="2015-12-30 15:52:52 -0700" Modified="2015-12-30 16:04:09 -0700">
+                            <Title>The neutrois problem, lunch</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8722,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="84" UUID="CE30A60B-81CA-4A8C-9D98-4ED9A49D9B10" Type="Folder" Created="2015-12-30 16:06:48 -0700" Modified="2015-12-30 20:31:22 -0700">
+                    <Title>AwDae</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="85" UUID="D5A71564-643F-48D3-B523-46EC52D38F5C" Type="Text" Created="2015-12-30 16:06:54 -0700" Modified="2015-12-30 16:19:11 -0700">
+                            <Title>Administrivia</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9692,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="87" UUID="B7C65466-1DC3-4DD7-93FE-CD61FD9DF106" Type="Folder" Created="2015-12-30 16:12:06 -0700" Modified="2015-12-30 16:12:14 -0700">
+                    <Title>Dr. Carter Ramirez</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs>88-90</SelectedSubdocumentIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="88" UUID="3D00E4D8-542E-425E-A620-A2B922235751" Type="Text" Created="2015-12-30 16:12:18 -0700" Modified="2015-12-30 16:18:08 -0700">
+                            <Title>Plans</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>593,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="89" UUID="FEC65997-CE62-44CE-9A91-DC15E7BD82AB" Type="Text" Created="2015-12-30 16:13:36 -0700" Modified="2015-12-30 16:18:08 -0700">
+                            <Title>Thoughts on Sanders</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2749,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="90" UUID="5FA2BAD2-52AF-4B2F-BC99-4F96F7127B5B" Type="Text" Created="2015-12-30 16:15:19 -0700" Modified="2015-12-30 20:04:40 -0700">
+                            <Title>Meet with Johansson</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4719,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="91" UUID="F6D562CE-ABDF-4BBB-8880-FB104C6C997D" Type="Folder" Created="2015-12-30 20:00:54 -0700" Modified="2015-12-30 20:01:02 -0700">
+                    <Title>AwDae</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="92" UUID="95858A24-F180-4A7C-AC4C-CD857A25159E" Type="Text" Created="2015-12-30 20:01:05 -0700" Modified="2015-12-30 20:03:11 -0700">
+                            <Title>Sleeping arrangements</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4829,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="93" UUID="227DA820-EBA0-48C5-9D9B-94EE1DE82C7C" Type="Folder" Created="2015-12-30 20:03:52 -0700" Modified="2015-12-30 20:04:07 -0700">
+                    <Title>Dr. Carter Ramirez</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="94" UUID="35671316-B5DF-44A8-B559-B4E9C72AAF9D" Type="Text" Created="2015-12-30 20:04:14 -0700" Modified="2015-12-30 20:31:37 -0700">
+                            <Title>In the pub with Johansson</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>308,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="95" UUID="5526D813-D556-407A-BA70-2FBA4D73BE36" Type="Folder" Created="2015-12-30 20:08:03 -0700" Modified="2015-12-30 20:08:08 -0700">
+                    <Title>AwDae</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="96" UUID="0F37BF1F-92CE-4DE8-86E9-29055CDE4440" Type="Text" Created="2015-12-30 20:08:12 -0700" Modified="2015-12-30 20:10:22 -0700">
+                            <Title>Outside</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>3361,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="97" UUID="0F5F07F7-168B-4D95-BDDD-6C6FE07F42F9" Type="Text" Created="2015-12-30 20:10:27 -0700" Modified="2015-12-30 20:11:15 -0700">
+                            <Title>Getting ready</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2860,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="98" UUID="96419048-8325-4D01-9C4A-71D12508A23F" Type="Text" Created="2015-12-30 20:11:19 -0700" Modified="2015-12-30 20:11:48 -0700">
+                            <Title>Leaving school</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1700,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="100" UUID="6732B134-1877-4BC4-A1D0-DB700E5C84B9" Type="Folder" Created="2015-12-30 20:30:57 -0700" Modified="2015-12-30 20:31:26 -0700">
+                    <Title>Dr. Carter Ramirez</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="17" UUID="6FEBFE1E-7F1C-4D73-810A-3F1B05BD0392" Type="Folder" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>51</SelectedSubdocumentIDs>
+            </CorkboardAndOutliner>
+            <DefaultChildTemplateID>21</DefaultChildTemplateID>
+            <Children>
+                <BinderItem ID="51" UUID="592DD3C7-6590-4F48-9ED0-BE711F3CC805" Type="Folder" Created="2015-12-30 14:30:28 -0700" Modified="2015-12-30 14:30:50 -0700">
+                    <Title>RJ's Plot</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="44" UUID="BAD413A4-6BEE-4EAA-9844-130AA55980D6" Type="Text" Created="2015-12-30 14:12:48 -0700" Modified="2015-12-30 14:27:56 -0700">
+                            <Title>RJ Brewster / AwDae / patient 0224ebe8 (\ptRJ)</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>40,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="45" UUID="5C9476CD-4790-41AA-B5DF-602D6D2871BE" Type="Text" Created="2015-12-30 14:20:51 -0700" Modified="2015-12-30 14:21:40 -0700">
+                            <Title>Sasha</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>54,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="46" UUID="1A67B294-9551-4B3B-9D64-9D529C022E5D" Type="Text" Created="2015-12-30 14:23:11 -0700" Modified="2015-12-30 14:24:21 -0700">
+                            <Title>Debarre</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>96,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="47" UUID="137C88AA-EC1C-4912-98FB-3B8203DFC755" Type="Text" Created="2015-12-30 14:24:30 -0700" Modified="2015-12-30 14:26:00 -0700">
+                            <Title>Collin Jackson / Cicero / patient aca973d7 (\ptCollin</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>93,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="48" UUID="A5D7F270-B164-4CFC-9D82-00CE93CBFBCD" Type="Text" Created="2015-12-30 14:26:16 -0700" Modified="2015-12-30 14:27:35 -0700">
+                            <Title>Carl Johansson</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>157,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="49" UUID="CECC25E0-B2FE-44DC-9589-EC047A7639F7" Type="Text" Created="2015-12-30 14:28:41 -0700" Modified="2015-12-30 14:29:06 -0700">
+                            <Title>Caitlin</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>86,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="50" UUID="AF899725-A490-4D82-95F8-A6DE5DC49A2D" Type="Text" Created="2015-12-30 14:29:20 -0700" Modified="2015-12-30 14:30:19 -0700">
+                            <Title>Sarai</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>75,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="53" UUID="60D062D9-6AA4-4137-8B01-A7CB3CD4A0B4" Type="Folder" Created="2015-12-30 14:31:49 -0700" Modified="2015-12-30 14:31:53 -0700">
+                    <Title>Carter's Plot</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="52" UUID="B9A1DE7E-EE75-49E1-ADB5-D62A62DB2D3A" Type="Text" Created="2015-12-30 14:30:54 -0700" Modified="2015-12-30 14:31:42 -0700">
+                            <Title>Dr. Carter Ramirez</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>68,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="54" UUID="02CF1E4B-A82F-4026-B92F-86EC881D9460" Type="Text" Created="2015-12-30 14:32:00 -0700" Modified="2015-12-30 14:36:05 -0700">
+                            <Title>Sanders</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>207,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="55" UUID="0D792AD6-043A-4DBC-A636-09DADF70994A" Type="Text" Created="2015-12-30 14:33:33 -0700" Modified="2015-12-30 14:36:01 -0700">
+                            <Title>Prakash Das</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>114,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="56" UUID="DD73CC9A-2CAF-484C-A517-CE3DB3F19134" Type="Text" Created="2015-12-30 14:34:41 -0700" Modified="2015-12-30 14:36:07 -0700">
+                            <Title>Avery Croft</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>171,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="57" UUID="E31D5146-FE22-4035-B253-57E137E5FB41" Type="Text" Created="2015-12-30 14:36:19 -0700" Modified="2015-12-30 14:36:50 -0700">
+                            <Title>Sandra</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                                <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>103,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="18" UUID="B2BDA47C-0164-414A-ACE3-72B9544127D6" Type="Folder" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+            <Title>Places</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Locations (Map).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <DefaultChildTemplateID>22</DefaultChildTemplateID>
+            <Children>
+                <BinderItem ID="58" UUID="151375D1-2A5C-45C2-BB82-CB3739865536" Type="Text" Created="2015-12-30 14:42:44 -0700" Modified="2015-12-30 14:44:55 -0700">
+                    <Title>Theater in London</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>324,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="59" UUID="6792E82B-3A8E-435A-B93C-AE795DFAD8DC" Type="Text" Created="2015-12-30 14:45:09 -0700" Modified="2015-12-30 14:46:10 -0700">
+                    <Title>The Crown Pub</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>208,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="60" UUID="B6ADFC9F-7338-476F-9848-088CA1B3D030" Type="Text" Created="2015-12-30 14:46:38 -0700" Modified="2015-12-30 14:47:14 -0700">
+                    <Title>RJ's High School</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="29" UUID="9B6029DB-6656-4057-B6FB-C63965CFB863" Type="Folder" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+            <Title>Front Matter</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Front Matter.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="30" UUID="A2322DFC-F718-41CE-B2D6-9E1EDDDF6038" Type="Folder" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+                    <Title>Manuscript Format</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="11" UUID="0C2FC4F8-5049-4F7E-A4EF-C13863F642C1" Type="Text" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:41:06 -0700">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                                <NotesTextSelection>564,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>119,15</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="31" UUID="D7A8ECEA-D82D-4EF8-AAC2-6B3F6DA41F35" Type="Folder" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+                    <Title>Paperback Novel</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="38" UUID="1B3F63D3-7BA9-46A1-8CB4-7DD7E343EE9F" Type="Text" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                                <NotesTextSelection>169,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>23,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="37" UUID="4A5E04F9-4552-428F-AD4D-791D8E597E7F" Type="Text" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+                            <Title>Copyright</Title>
+                            <MetaData>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                                <NotesTextSelection>55,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="35" UUID="DAEB32BD-3C76-477C-B9FF-6BF9256AAC2B" Type="Text" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+                            <Title>Blank Page</Title>
+                            <MetaData>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                                <NotesTextSelection>197,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>13,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="32" UUID="C84F9F50-ACA9-4EF8-B791-27C6A0842931" Type="Folder" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+                    <Title>E-Book</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="34" UUID="D71C66ED-B164-496F-90CB-34596A271329" Type="Image" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+                            <Title>Cover</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScaleFactor>1.0</ImageScaleFactor>
+                                <ImageRotation>None</ImageRotation>
+                                <ImageScalesProportionally>No</ImageScalesProportionally>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="D3695F01-BB1A-4176-9A40-3C7F75F63903" Type="ResearchFolder" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+            <Title>Research</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="20" UUID="80EEA89D-E943-4B0F-A182-87ECA4104761" Type="Folder" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+            <Title>Template Sheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="21" UUID="37FCAAF7-3244-4803-AEF7-E34C518EB1FB" Type="Text" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>32,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="22" UUID="A0D27DA0-73CC-45B7-95C2-97FF2B2AE77A" Type="Text" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+                    <Title>Setting Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>33,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="7F8970D9-7414-41B8-B156-9570D9903F89" Type="TrashFolder" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+            <Title>Trash</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <Children>
+                <BinderItem ID="36" UUID="1E438976-F4B6-4849-B264-DF8478ACF9E1" Type="Text" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+                    <Title>Dedication</Title>
+                    <MetaData>
+                        <PageBreakBefore>Yes</PageBreakBefore>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CompileAsIs>Yes</CompileAsIs>
+                        <NotesTextSelection>55,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>11,23</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="33" UUID="183D43A4-9AC9-490E-94B6-B7B79B0D8B3B" Type="Text" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+                    <Title>Dedication</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CompileAsIs>Yes</CompileAsIs>
+                        <NotesTextSelection>55,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="76" UUID="685C45BB-8D09-4F29-AFA8-8F116D61E9B3" Type="Text" Created="2015-12-30 15:47:16 -0700" Modified="2015-12-30 15:47:19 -0700">
+                    <Title>AwDae</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="83" UUID="F546B285-857D-4D0A-8115-9DF0268E84BD" Type="Text" Created="2015-12-30 16:06:40 -0700" Modified="2015-12-30 16:06:40 -0700">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="86" UUID="E2F7DBF1-F5C8-4360-8183-7E03FC3ADC13" Type="Text" Created="2015-12-30 16:11:53 -0700" Modified="2015-12-30 16:12:00 -0700">
+                    <Title>Dr. Carter Ramirez</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="99" UUID="AB5EA3B6-6DB3-4059-AB78-E8933245645F" Type="Text" Created="2015-12-30 20:18:51 -0700" Modified="2015-12-30 20:18:51 -0700">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="39" UUID="35C7576E-05FF-4B6B-98C5-F1435FAF8840" Type="Folder" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+                    <Title>Sample Output</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="43" UUID="53F68969-7AE5-4C93-B384-785B5CC3B9D6" Type="PDF" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+                            <Title>Standard Manuscript</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="40" UUID="B9FB0E6B-6397-4927-A612-02C37A67D114" Type="PDF" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+                            <Title>Paperback Novel</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>0</CurrentPDFPage>
+                            </MediaSettings>
+                        </BinderItem>
+                        <BinderItem ID="41" UUID="2FABA154-25D6-4B5C-9615-40B7AB5174B8" Type="Image" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+                            <Title>iBooks E-book</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScaleFactor>1.0</ImageScaleFactor>
+                                <ImageRotation>None</ImageRotation>
+                                <ImageScalesProportionally>No</ImageScalesProportionally>
+                            </MediaSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="12" UUID="C28653CB-0C8B-43E3-812B-642F54F9627C" Type="Text" Created="2015-12-30 14:11:44 -0700" Modified="2015-12-30 14:11:44 -0700">
+                    <Title>Novel Format</Title>
+                    <MetaData>
+                        <LabelID>5</LabelID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Information.tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="101" UUID="CB2E3778-E2A9-4854-99FF-8978FD5BF97E" Type="Text" Created="2015-12-30 20:34:36 -0700" Modified="2015-12-30 20:39:16 -0700">
+            <Title>Outline</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>1141,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.962266 0.962266 0.962266">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">ldots</SearchSettings>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="1" Color="0.95 0.915 0.331946">Idea</Label>
+            <Label ID="5" Color="0.8914 0.527776 0.221996">Notes</Label>
+            <Label ID="6" Color="0.913917 0.1 0.184488">Character Notes</Label>
+            <Label ID="2" Color="0.281815 0.7 0.0">Chapter</Label>
+            <Label ID="4" Color="0.276539 0.557792 1.0">Scene</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="6">Title Page</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectProperties>
+        <ProjectTitle>Getting Lost</ProjectTitle>
+        <AbbreviatedTitle>Getting Lost</AbbreviatedTitle>
+        <FullName></FullName>
+        <LastName>Scott-Clary</LastName>
+        <FirstName>Madison</FirstName>
+    </ProjectProperties>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 06:24:39 -0600" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2015-12-31 15:29:29 -0700"></PreviousSession>
+    </ProjectTargets>
+    <TemplateFolderUUID>80EEA89D-E943-4B0F-A182-87ECA4104761</TemplateFolderUUID>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>
