@@ -20,10 +20,10 @@ One of those throw-stuff-in-a-pot recipes that turned out good.  This time, howe
 
 ### Preperation
 
-1. dice and sautee the salt pork over medium heat, adding the onion once the fat has started to render.
+1. Dice and sautee the salt pork over medium heat, adding the onion once the fat has started to render.
 2. Mince and add the garlic once the onions are translucent, sautee for another 5 minutes.
 3. Add the stock and bring to a boil.
-4. dice and add the tomatoes, then chop and add the chard, and bring back to a boil.
+4. Dice and add the tomatoes, then chop and add the chard, and bring back to a boil.
 5. Reduce to a simmer and add the bay leaf.  Simmer for 45 minutes.
 6. Add the barley and simmer for another 15 minutes.
 7. Stir in the sour cream, salt, and pepper, and simmer for another five minutes, then serve
