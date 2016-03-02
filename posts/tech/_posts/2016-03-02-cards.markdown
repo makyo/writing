@@ -3,7 +3,9 @@ layout: post
 title: Juju Cards
 ---
 
-One of the new things that we've been working on over on the Juju UI team is a means of exposing the charms and bundles that people write is through the use of cards.  Cards are a simple concept that allows others to see at a glance both what it is that you're offering and a means to test it out.  Juju is perfect for this because it's so easy to spin up a local environment and then `juju deploy [x]`!
+One of the new things that we've been working on over on the Juju UI team is the idea of cards.
+
+Cards are a simple concept that allows others to see at a glance both what that you're offering and a means to test it out.  Juju is perfect for this because it's so easy to spin up a local environment and then `juju deploy [x]`!
 
 Here's an example for a relatively complex bundle:
 
