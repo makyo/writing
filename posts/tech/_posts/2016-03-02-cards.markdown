@@ -18,7 +18,7 @@ These also work for charms:
 
 Of course, they are nicely responsive:
 
-<div class="juju-card" data-id="openstack-base" style="width:250px;float:left"></div>
+<div class="juju-card" data-id="openstack-base" style="width:250px;float:left;margin-right:1em"></div>
 
 <div class="juju-card" data-id="mediawiki" style="width:250px;float:left"></div>
 
