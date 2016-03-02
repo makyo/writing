@@ -11,6 +11,7 @@ Here's an example for a relatively complex bundle:
 <div class="juju-card" data-id="plumgrid-ons"></div>
 
 These also work for charms:
+
 <div class="juju-card" data-id="wordpress"></div>
 
 Of course, they are nicely responsive:
@@ -18,5 +19,7 @@ Of course, they are nicely responsive:
 <div class="juju-card" data-id="openstack-base" style="width:250px;float:left"></div>
 
 <div class="juju-card" data-id="mediawiki" style="width:250px;float:left"></div>
+
+<br clear="all" />
 
 Check out how to build cards for your own charms [here](https://jujucharms.com/community/cards)!  This is a new technology that we're playing around with, and we're still ironing out features to include and where cards can be embedded, but they're perfect for your product's site.
