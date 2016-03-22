@@ -23,6 +23,8 @@ I went with 8 grams of tea in a 120ml gaiwan and water starting at 195&deg;F.  T
 
 I rinsed the tea twice for about 15 seconds each time.  The scent off the lid of the gaiwan was a lot of dried apricot, plum, some camphor, and the distinct scent of raking leaves in autumn.  Very pleasant, a total opposite from those bland, muddy tuochas I had before.
 
+I started steeping at 10 seconds, and went up five seconds for each steep.
+
 ![The soup](/assets/tasting/mp-s15-3.jpg)
 
 ### Steeps 1 and 2
