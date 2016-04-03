@@ -47,13 +47,15 @@ I had leafed through the chapter on *Artemisia absinthum* without too much inter
 ![Sweetening absinthe with sugar.](/assets/tasting/naa-sugar.jpg)
 <small>*Sweetening absinthe with sugar.*</small>
 
-Real absinthe is much more complex, and much more beautiful, than simply wormwood and solvent.  There was in fact an entire world hidden beneath the surface of this topic.  This also helps to explain my interest in tea of late, as well.  Finding out that the more one looks into some topic, the more there is to find about it, is very appealing to me.  I love finding all of the ways in which things can be explored.
+Real absinthe is much more complex, and much more beautiful, than simply wormwood and ethanol.  There was in fact an entire world hidden beneath the surface of this topic.  This also helps to explain my interest in tea of late, as well.  Finding out that the more one looks into some topic, the more there is to find about it, is very appealing to me.  I love finding all of the ways in which things can be explored.
 
 So I moved on from my cheap Czech absinthes to researching absinthes more worthy of the name.
 
 I wound up finding my way to another site, one more focused on the types of absinthes that I had spent so much time reading about.  I came away with a few purchases -- a few less expensive 750ml bottles and a few sample bottles of some pricier, but more highly rated absinthes -- and waited impatiently for the shipment to arrive.  I was not without some trepidation, as I was only nineteen or twenty at the time, and if I had to sign for the bottles, I would be quite out of luck.  Alas, I was lucky, and DHL simply dropped the well-packed bottles on our stoop.
 
-The first two absinthes I tried were both from Distillerie Paul Devoille.  I got both the Verte de Fougerolles and Blanche de Fougerolles absinthes.  Absinthe can be divided up into two general categories, of verte and blanche.  Both follow the same production steps, which I'll outline a little later on, but the verte style has an additional coloring step, where some select herbs are macerated in the clear product to add a bit of additional flavor and the green color that everyone associates with absinthe.
+The first two absinthes I tried were both from Distillerie Paul Devoille.  I got both the Verte de Fougerolles and Blanche de Fougerolles absinthes.
+
+Absinthe can be divided up into two general categories, of verte and blanche.  Both follow the same production steps, which I'll outline a little later on, but the verte style has an additional coloring step, where some select herbs are macerated in the clear product to add a bit of additional flavor and the green color that everyone associates with absinthe.
 
 Both of these were wonderful introductions to the world of absinthes, which I was quickly diving into.  They were complex, leading with anise, then delving into wonderful worlds of various different herbal flavors.  The verte was a little more peppery, I remember, than the blanche, and had a bit more of a fennel flavor to it.  I was hooked.
 
@@ -67,7 +69,7 @@ The first truly American absinthe that I had was produced by Leopold Bros., base
 
 <img src="/assets/tasting/naa-leopold.jpg" style="width: 40%; margin: 0 1em 1em 0;" align="left" />
 
-Leopold Bros. absinthe is an interesting one.  [The Leopold Bros. Distillery](http://www.leopoldbros.com/) first came to my attention through their blackberry flavorted whiskey, an unoaked whiskey flavored with blackberry syrup.  It's a delightful combination that wound up in a drink at my local bar, Elliot's.  I ran to the store to pick some up after learning about the ingredients of the drink, and right there next to it on the shelf was the Leopold Bros. absinthe.
+Leopold Bros. absinthe is an interesting one.  [The Leopold Bros. Distillery](http://www.leopoldbros.com/) first came to my attention through their blackberry flavored whiskey, an unoaked whiskey flavored with blackberry syrup.  It's a delightful combination that wound up in a drink at my local bar, Elliot's.  I ran to the store to pick some up after learning about the ingredients of the drink, and right there next to it on the shelf was the Leopold Bros. absinthe.
 
 I hadn't been drinking absinthe in quite a while -- I'd run out of my initial order of french absinthes, and didn't really want to pick up any more for the outrageous international shipping costs.  I grabbed a bottle of this on a whim and took it home.
 
@@ -100,7 +102,7 @@ When prepared with sugar, the absinthe differs in that the fresh, astringent hys
 ![From France, new takes on vintage absinthes from Jade.](/assets/tasting/naa-french-absinthes.jpg)
 <small>*From France, new takes on vintage absinthes from Jade Liquors.*</small>
 
-As is perhaps obvious, absinthe has a storied history.  Although much of this can be attributed to folklore, absinthe was originally created in Switzerland by one Dr. Ordinaire, who first sold the concoction as a healthful tonic.  From Ordinaire, the recpie passed to his housekeeper, and from his housekeeper to her two daughters, who continued to sell the supposed cure-all.
+As is perhaps obvious, absinthe has a storied history.  Although much of this can be attributed to folklore, absinthe was originally created in Switzerland by one Dr. Ordinaire, who first sold the concoction as a healthful tonic.  From Ordinaire, the recipe passed to his housekeeper, and from his housekeeper to her two daughters, who continued to sell the supposed cure-all.
 
 Although impressed by the curative powers of absinthe, one Major Dubied was more taken by it's aphrodisiacal qualities, and he purchased the recipe from the two women.  From there, Dubied passed the recipe on to his son-in-law as a wedding gift, and Henri-Louis Pernod began manufacturing absinthe on a larger scale in 1805.
 
@@ -108,15 +110,15 @@ For a long time, absinthe remained a health tonic of sorts, used by French soldi
 
 When the soldiers, who had been drinking absinthe for years, brought the liquor back to Paris, it took off, notably among those involved with art and literature:
 
-> Manet painted absinthe themes, and his friend Charles Baudilaire drank absinthe[...].  Verlaine and Rimbaud seem to have drunk absinthe more or less continuously.  Van Gogh drank it.  Poe drank it.  Degas drank absinthe in the cafes and then painted absinthe, stirring up a scandal in London.  There was something about light seen through an absinthe intoxication that seemed to feed the impressionists.  Henri Toulouse-Lautrec drank absinthe and painted it frequently.  Paul Gaugin liked absinthe and was somehow able to continue drinking it even in Tahiti.  Alfred Jarry called absinthe "Holy Water", and his friend Pablo Picasso painted pictures of absinthe a number of times.  Jack London liked absinthe.
+> Manet painted absinthe themes, and his friend Charles Baudelaire drank absinthe[...].  Verlaine and Rimbaud seem to have drunk absinthe more or less continuously.  Van Gogh drank it.  Poe drank it.  Degas drank absinthe in the cafes and then painted absinthe, stirring up a scandal in London.  There was something about light seen through an absinthe intoxication that seemed to feed the impressionists.  Henri Toulouse-Lautrec drank absinthe and painted it frequently.  Paul Gaugin liked absinthe and was somehow able to continue drinking it even in Tahiti.  Alfred Jarry called absinthe "Holy Water", and his friend Pablo Picasso painted pictures of absinthe a number of times.  Jack London liked absinthe.
 >
-> What other psychotropic concoction, excepting perhaps wine, has produced as large a pody of laudatory poems in the last two thousand years as has absinthe?
+> What other psychotropic concoction, excepting perhaps wine, has produced as large a body of laudatory poems in the last two thousand years as has absinthe?
 >
 > -- Dale Pendell, in *Pharmako/Poeia*
 
 So when did the tide turn against absinthe?
 
-There were two events that worked against absinthe as time went on.  The first was the defense of a man named Lanfrey in 1906, used in his trial for the murder of his wife and family.  He drank a bottle of wine, a bottle of brandy, and several glasses of absinthe every day, but claimed that it was absinthe which made him crazy enough to kill his family.  Unlike the famed "twinky defense" used in the murders of Harvey Milk and George Moscone, the jury didn't buy it, and Lanfrey was convicted.  However, this served as fuel for the growing temperance movement.
+There were two events that worked against absinthe as time went on.  The first was the defense of a man named Lanfrey in 1906, used in his trial for the murder of his wife and family.  He drank a bottle of wine, a bottle of brandy, and several glasses of absinthe every day, but claimed that it was absinthe which made him crazy enough to kill his family.  Unlike the famed "Twinkie defense" used in the murders of Harvey Milk and George Moscone, the jury didn't buy it, and Lanfrey was convicted.  However, this served as fuel for the growing temperance movement.
 
 The second event was World War I.  As though confused as to why the troops were failing, charging head on against machine guns, absinthe was banned in France by the military.  The officers were confused as to why the troops didn't have enough "vital spirit", so absinthe took the blame.  Its downfall had been coming, however, as the French soldiers picked up a taste for cocktails and mixed drinks -- rather than absinthe -- from their American counterparts.
 
@@ -214,7 +216,7 @@ Water should be added slowly to absinthe so as not to "bruise" the liquor.  This
 
 Instead, you should introduce water to absinthe at a slow drizzle, either through the use of a dripper glass (my preferred method) or through an absinthe fountain.  Failing that, you can use a small measuring cup and pour the water gently and slowly down the side of the glass so as not to break up the absinthe too much.  The benefits of the fountain and the dripper glass is that you can fill them with ice before adding the water so that the water you use is as cold as it gets
 
-When it comes to sugar, I'm an advocate of at least trying the absinthe without sugar first, before trying it with sugar.  If you do decide that you prefer sugar, place a single sugar cube on the spoon and rest it atop the glass so that the water from the fountain drips over it.  If you are using a dripper glass, you can put the sugar cube in the conical section of the dripper glass before adding water.  I rather enjoy my absinthe with brown or demerara sugar cubes, as they add a good deal of body and complexity, but even just white sugar will work.
+When it comes to sugar, I'm an advocate of at least trying the absinthe without sugar first, before trying it with sugar.  If you do decide that you prefer sugar, place a single sugar cube on the spoon and rest it atop the glass so that the water from the fountain drips over it.  If you are using a dripper glass, you can put the sugar cube in the conical section of the dripper glass before adding water.  I rather enjoy my absinthe with brown or Demerara sugar cubes, as they add a good deal of body and complexity, but even just white sugar will work.
 
 Despite all of this, absinthe is versatile, and can be used in many mixed drinks.  Here are a few of my favorites:
 
@@ -387,7 +389,7 @@ Of all of the absinthes that I tasted for this article, this was the clear winne
 ![Brut d'Alembic Assays (cask-strength tests) used for perfecting a recipe; the final recipe will go into mass production, but these assays are sold in limited quantities.](/assets/tasting/naa-essai.jpg)
 <small>*Brut d'Alembic Assays (cask-strength tests) used for perfecting a recipe; the final recipe will go into mass production, but these assays are sold in limited quantities.*</small>
 
-In the years of World War I and prohibition, all but the strongest of breweries were shut down, with their tuns and kettles repurprosed for the war effort.  Even the strongest breweries, no longer allowed to make beer, had to retool and repurpose their equipment or else be shuttered.
+In the years of World War I and prohibition, all but the strongest of breweries were shut down, with their tuns and kettles repurposed for the war effort.  Even the strongest breweries, no longer allowed to make beer, had to retool and repurpose their equipment or else be shuttered.
 
 In 1933, when prohibition was repealed, many celebrated the reopening of the breweries.  However, the law had taken its toll: the number of American breweries had declined nearly into the single digits.  There was Anheuser-Busch, Schlitz, Miller, and not a whole lot else.  None of the smaller breweries had been able to weather the dry (well, "dry") years.
 
@@ -419,7 +421,7 @@ I don't think it's bad, per se, though getting started into drinking *any* parti
 
 In the end, however, I fell back on what my good friend and bartender, Raffi Jergerian, taught me.  Raffi studied forestry and ecology, traveled to Italy to study wine, and eventually came home to become a sommelier.  After a while, though, he left to become head bartender at a small, upscale bar, then moved on to help open a bar to call his own in Fort Collins.
 
-Why the move to spirits and mixed drinks?  "Explore a little, sure.  Then find what you like and drink that."
+Why the move to spirits and mixed drinks?  "Explore a little, sure," he said. "Then find what you like to drink and drink that."
 
 Wise words.  Drink well.
 
