@@ -3,4 +3,5 @@ _site/*
 *.log
 *.out
 *.toc
+.jekyll-metadata
 .DS_Store

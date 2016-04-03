@@ -58,6 +58,10 @@ blockquote {
     font-weight: 200;
 }
 
+dd {
+    padding: 2px 0 2px 1em;
+}
+
 hr {
     margin-top: 1em;
     margin-bottom: 1em;
