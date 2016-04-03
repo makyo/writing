@@ -32,7 +32,7 @@ What I would read and get obsessed over would vary greatly.  For a while, I was 
 
 During a few months in about 2005 and into 2006, that fascination was absinthe.  The roots of it come from several friends online who were desperately seeking new highs and better ways to get fucked up.  Absinthe, they had decided, would do nicely, because it would make you see shit.  It was all kind of muddy, they didn't really have their own reasoning nailed down.
 
-All they were worried about, really, was thujone.  They wanted something to really fuck them up, so they bought the strongest Czech absinthe (often spelled without the 'e', absinth) that the could find.  These were usually uniquely shaped bottles filled a quarter of the way full with wormwood leaves, the primary source of thujone, and industrial grade alcohol.
+All they were worried about, really, was thujone.  They wanted something to really fuck them up, so they bought the strongest Czech absinthe (often spelled without the 'e', absinth) that they could find.  These were usually uniquely shaped bottles filled a quarter of the way full with wormwood leaves, the primary source of thujone, and industrial grade alcohol.
 
 I shrugged a bought a relatively cheap bottle.  Absinth, King of Spirits, it declared itself.
 
