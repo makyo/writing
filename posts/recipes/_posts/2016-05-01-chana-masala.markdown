@@ -14,7 +14,7 @@ Every now and then, I go thorugh a vegetarian kick, though I don't think the hou
 * 1 14.5oz can diced tomatoes in juice
 * 2 cups water
 * 1 large onion
-* 2-3 green chilies (I used 1 Anaheim with seeds, and 1 jalapeño with half the seeds removed)
+* 2-3 green chilies (I used 1 Anaheim with seeds, and 1 jalapeño with the seeds removed)
 * 1 inch knob of ginger, peeled
 * 6 cloves of garlic
 * 1 cup loosely packed cilantro
