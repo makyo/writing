@@ -1,0 +1,46 @@
+\documentclass[12pt,letterpaper,oneside]{article}
+
+%%% Packages
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{lastpage}
+\usepackage{setspace}
+
+%%% Headers/Footers
+\pagestyle{fancyplain}
+\fancyhf{}
+\fancyheadoffset[r]{.01in}
+\fancyhead[R]{Furries and Gender / Scott-Clary / \thepage\ of \pageref{LastPage}}
+
+%%% Font
+\renewcommand*\rmdefault{ptm}
+\renewcommand*\ttdefault{pcr}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+%%% Spacing
+\doublespacing
+\usepackage[top=1in, bottom=1in, right=1in, left=1in]{geometry}
+
+%%% Commands
+\newcommand\secdiv{
+  \begin{center}
+    \#
+  \end{center}
+}
+
+%%% Title
+\title{Furries and Gender}
+\author{Madison Scott-Clary}
+
+\begin{document}
+  \maketitle
+
+  \input{content/a01}
+
+\end{document}
