@@ -8,3 +8,4 @@ comments: false
 * [Inner Demons](inner-demons) - Pre-NaNo sprint 2015
 * [On Suicide](suicide)
 * [The Furry Condition](the-furry-condition)
+* [Post-singularity Polyamorous Bullshit (working title)](postsingularity-poly-shit) - A dumb idea!!!
