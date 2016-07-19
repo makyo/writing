@@ -1,0 +1,12 @@
+---
+layout: post
+title: Interview questions for the TH trans & furry article
+---
+
+1. Describe your current gender identity
+2. Describe in brief your path to where you are now
+3. Did furry help with your path to your identity? If so, how?
+4. Are there any ways in which furry hindered your path? If so, how?
+5. Are you comfortable expressing your identity within the subculture? If so, why? If not, why?
+6. Ditto for outside the subculture.
+7. How comfortable are you with your current identity?  Does it fit? Do you wish you could go further but feel you can't? Do you think you've gone too far?
