@@ -3,6 +3,8 @@ layout: post
 title: Interview questions for the TH trans & furry article
 ---
 
+Answer in a google doc, a pastebin, or similar.  Can also email me at makyo@drab-makyo.com
+
 1. Describe your current gender identity
 2. Describe in brief your path to where you are now
 3. Did furry help with your path to your identity? If so, how?
