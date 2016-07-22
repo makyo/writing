@@ -19,7 +19,7 @@
       [2015, 0],
       [2016, 0]
     ] },
-    { key: "Null", color: '#fff', values: [
+    { key: "Genderless", color: '#fff', values: [
       [2010, 0],
       [2011, 0],
       [2012, 4],
