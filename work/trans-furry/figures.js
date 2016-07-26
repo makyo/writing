@@ -10,7 +10,7 @@
       [2015, 1],
       [2016, 0]
     ] },
-    { key: "Mostly Male", color: '#ccc', values: [
+    { key: "Altersex", color: '#ccc', values: [
       [2010, 0],
       [2011, 3],
       [2012, 4],
