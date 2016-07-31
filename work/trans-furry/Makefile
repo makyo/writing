@@ -2,6 +2,7 @@
 build:
 	pdflatex trans-furry.tex
 	pdflatex trans-furry.tex
+	pandoc trans-furry.tex -o trans-furry.odt
 
 .PHONY: wordcount
 wordcount:
