@@ -10,3 +10,4 @@ Although I often write shorter posts to be read on their own, occasionally I wil
 -----
 
 * [*Rum and Coke: Three Short Stories from a Furry Convention*](rum-and-coke) - These three pieces explore the lives of three individuals at the same furry convention, focusing on the topics of queer relationships, polyamory, and mental health. **Free** - *Rated: X*
+* [New American Absinthe](new-american-absinthe) - A longer exploration of the tastes and trends of American Absinthe as it stands in the spring of 2016. **Free** - *Rated: PG (it's about booze, so...)*
