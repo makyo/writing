@@ -1,8 +1,8 @@
 ---
 layout: post
 title: New American Absinthe
-redirect_to:
-  - /long-form/new-american-absinthe
+redirect_from:
+  - /posts/tasting/2016/04/01/new-american-absinthe/index.html
 ---
 
 ![The lineup, in no particular order.](/assets/tasting/naa-all.jpg)
