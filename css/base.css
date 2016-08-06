@@ -114,6 +114,26 @@ footer div {
     font-size: 75%;
 }
 
+.pagination {
+    position: relative;
+    border-top: 1px dotted #ccc;
+    padding-bottom: 1em;
+}
+
+.pagination a.next {
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.pagination a.previous {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
 #post {
     max-width: 60em;
     margin: 0 auto;

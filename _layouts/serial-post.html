@@ -1,0 +1,42 @@
+---
+layout: base
+
+---
+
+<article id="post" class="container">
+    <div class="row">
+        <section class="col-md-offset-2 col-md-8">
+            {{content}}
+        </section>
+    </div>
+    <div class="row">
+        <section class="pagination col-md-12">
+            {% if page.next_in_category.url %}
+                <a class="prev" href="{{page.next_in_category.url}}">&laquo; {{page.next_in_category.title}}</a>
+            {% endif %}
+            {% if page.previous_in_category.url %}
+                <a class="next" href="{{page.previous_in_category.url}}">{{page.previous_in_category.title}} &raquo;</a>
+            {% endif %}
+        </section>
+    </div>
+    {% if page.comments != false %}
+        <div class="row">
+            <section id="comments" class="col-md-12">
+                <div id="disqus_thread"></div>
+                <script type="text/javascript">
+                    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                var disqus_shortname = 'writingdrabmakyo'; // required: replace example with your forum shortname
+
+                /* * * DON'T EDIT BELOW THIS LINE * * */
+                (function() {
+                 var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                 dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                 })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+            </section>
+        </div>
+    {%endif%}
+</article>
