@@ -2,7 +2,7 @@
 counts:
     characters_real: 4352
     characters_total: 5344
-    file: trans-foss.md
+    file: ./work/tns/trans-foss.md
     paragraphs: 17
     type: jekyll
     words: 993

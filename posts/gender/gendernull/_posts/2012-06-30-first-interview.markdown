@@ -1,7 +1,13 @@
 ---
-title: The First Interview (2012-06-30)
+counts:
+    characters_real: 12018
+    characters_total: 14940
+    file: ./posts/gender/gendernull/_posts/2012-06-30-first-interview.markdown
+    paragraphs: 46
+    type: jekyll
+    words: 2923
 layout: post
-
+title: The First Interview (2012-06-30)
 ---
 
 Here follows the first interview.  These interviews are recorded in conversational fashion within a few hours after each injection, about once every two weeks.  This first interview addresses the question of "why", as it pertains to both Matthew and James.

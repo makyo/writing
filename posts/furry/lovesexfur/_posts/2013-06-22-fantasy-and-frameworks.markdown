@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 7834
+    characters_total: 9564
+    file: ./posts/furry/lovesexfur/_posts/2013-06-22-fantasy-and-frameworks.markdown
+    paragraphs: 16
+    type: jekyll
+    words: 1731
 layout: link
 link: http://lovesexfur.com/2013/06/22/fantasy-and-frameworks/
-
 ---
 
 Fantasy, notably sexual fantasy, plays a vital role for us as we grow into

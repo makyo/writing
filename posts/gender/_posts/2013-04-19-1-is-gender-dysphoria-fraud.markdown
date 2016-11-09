@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 1762
+    characters_total: 2157
+    file: ./posts/gender/_posts/2013-04-19-1-is-gender-dysphoria-fraud.markdown
+    paragraphs: 4
+    type: jekyll
+    words: 396
 layout: link
-title: Is gender dysphoria simply recognised as fraud in the eyes of the law?
 link: http://www.independent.co.uk/voices/comment/is-gender-dysphoria-simply-recognised-as-fraud-in-the-eyes-of-the-law-8569827.html
-
+title: Is gender dysphoria simply recognised as fraud in the eyes of the law?
 ---
 
 Growing up identifying as gay in Colorado, and then specifically moving north to Fort Collins, led to a good amount of exposure to the "gay panic" defense, with the murder of Matthew Shepard.  It was everywhere in the news, it seemed like, and it was talked about quite often in the support/social groups of which I was a part (OASOS in Boulder, and SOGLBT at CSU).  The thing that hit me most about this article was the following:

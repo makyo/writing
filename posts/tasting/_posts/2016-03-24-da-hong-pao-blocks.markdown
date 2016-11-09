@@ -1,4 +1,11 @@
 ---
+counts:
+    characters_real: 7303
+    characters_total: 8944
+    file: ./posts/tasting/_posts/2016-03-24-da-hong-pao-blocks.markdown
+    paragraphs: 34
+    type: jekyll
+    words: 1642
 layout: post
 title: 2013 Da Hong Pao brick (from Bana Tea Company)
 ---

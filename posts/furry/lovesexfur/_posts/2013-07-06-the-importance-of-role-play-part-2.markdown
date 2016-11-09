@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 8631
+    characters_total: 10484
+    file: ./posts/furry/lovesexfur/_posts/2013-07-06-the-importance-of-role-play-part-2.markdown
+    paragraphs: 18
+    type: jekyll
+    words: 1854
 layout: link
 link: http://lovesexfur.com/2013/07/06/the-importance-of-role-play-part-2/
 title: The Importance of Role-Play - Part 2
-
 ---
 
 *Previously on Love ◦ Sex ◦ Fur...*

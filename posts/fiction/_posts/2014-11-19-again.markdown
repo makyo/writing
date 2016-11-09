@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 28701
+    characters_total: 35283
+    file: ./posts/fiction/_posts/2014-11-19-again.markdown
+    paragraphs: 203
+    type: jekyll
+    words: 6583
 layout: post
-title: Again
 rating: X
-
+title: Again
 ---
 
 *Since this isn't a bunch of animal people...this is a work of fiction. All events and characters appearing in this work are fictitious. Any resemblance to real persons, living or dead, is purely coincidental.*

@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 9929
+    characters_total: 12229
+    file: ./posts/gender/_posts/2014-10-26-coming-out-to-dad.markdown
+    paragraphs: 36
+    type: jekyll
+    words: 2301
 layout: post
 title: Coming Out to Dad
-
 ---
 
 

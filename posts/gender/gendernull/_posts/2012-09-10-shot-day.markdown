@@ -1,7 +1,13 @@
 ---
-title: Shot Day
+counts:
+    characters_real: 108
+    characters_total: 121
+    file: ./posts/gender/gendernull/_posts/2012-09-10-shot-day.markdown
+    paragraphs: 3
+    type: jekyll
+    words: 14
 layout: post
-
+title: Shot Day
 ---
 
 Figured I'd snag some pictures of the process.  Be warned, needles below!

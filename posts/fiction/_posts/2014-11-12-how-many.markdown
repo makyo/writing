@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 37436
+    characters_total: 46138
+    file: ./posts/fiction/_posts/2014-11-12-how-many.markdown
+    paragraphs: 245
+    type: jekyll
+    words: 8703
 layout: post
-title: How Many?
 rating: X
-
+title: How Many?
 ---
 
 *Since this isn't a bunch of animal people...this is a work of fiction. All events and characters appearing in this work are fictitious. Any resemblance to real persons, living or dead, is purely coincidental.*

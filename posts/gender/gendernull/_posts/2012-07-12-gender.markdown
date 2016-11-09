@@ -1,7 +1,13 @@
 ---
-title: Gender
+counts:
+    characters_real: 5791
+    characters_total: 7113
+    file: ./posts/gender/gendernull/_posts/2012-07-12-gender.markdown
+    paragraphs: 10
+    type: jekyll
+    words: 1323
 layout: post
-
+title: Gender
 ---
 
 I seem to have littered previous posts, including even the interview, with vague hints at "problems with gender".  When I say problem, I suppose that I mean something closer to the sense of a word or logic problem.  Something that should be teased apart.  After the last few days of talking with a few friends and with James, I think I should probably clarify in words what exactly I mean by that, because I think it's engendering (ha) all sorts of very real problems.

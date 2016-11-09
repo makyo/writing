@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 6849
+    characters_total: 8282
+    file: ./posts/gender/_posts/2013-06-19-kickstarter-and-censorship.markdown
+    paragraphs: 21
+    type: jekyll
+    words: 1434
 layout: post
 title: Kickstarter and Censorship
-
 ---
 
 So, let's talk about censorship and transgression.

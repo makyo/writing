@@ -1,5 +1,12 @@
 ---
-layout: post
+counts:
+    characters_real: 1522
+    characters_total: 1914
+    file: ./poetry/ode-to-being-transgender/index.md
+    paragraphs: 9
+    type: jekyll
+    words: 393
+layout: page
 title: Ode to Being Transgender - 2015-10-14
 ---
 

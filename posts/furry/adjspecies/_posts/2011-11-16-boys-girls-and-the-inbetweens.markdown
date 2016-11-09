@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 8405
+    characters_total: 10166
+    file: ./posts/furry/adjspecies/_posts/2011-11-16-boys-girls-and-the-inbetweens.markdown
+    paragraphs: 15
+    type: jekyll
+    words: 1762
 layout: link
 link: http://adjectivespecies.com/2011/11/16/boys-girls-and-the-in-betweens/
-
 ---
 
 For many, perhaps most, it's easy to envision furry as being made up in large

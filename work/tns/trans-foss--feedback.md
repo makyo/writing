@@ -1,5 +1,12 @@
 ---
-layout: post
+counts:
+    characters_real: 1696
+    characters_total: 2080
+    file: ./work/tns/trans-foss--feedback.md
+    paragraphs: 8
+    type: jekyll
+    words: 385
+layout: page
 title: Feedback
 ---
 

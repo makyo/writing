@@ -1,7 +1,13 @@
 ---
-title: Mushroom Cream Sauce
+counts:
+    characters_real: 1272
+    characters_total: 1560
+    file: ./posts/recipes/_posts/2013-04-09-mushroomcreamsauce.markdown
+    paragraphs: 6
+    type: jekyll
+    words: 289
 layout: post
-
+title: Mushroom Cream Sauce
 ---
 
 <img alt="Served with bread" src="/assets/recipes/mushroomcreamsauce.png" style="float:left;margin-right:2em;" />

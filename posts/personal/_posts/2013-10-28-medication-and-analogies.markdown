@@ -1,6 +1,12 @@
 ---
+counts:
+    characters_real: 5680
+    characters_total: 6952
+    file: ./posts/personal/_posts/2013-10-28-medication-and-analogies.markdown
+    paragraphs: 11
+    type: jekyll
+    words: 1273
 layout: post
-
 ---
 
 My doctor laughs at me for the sheer number of analogies I use to try and

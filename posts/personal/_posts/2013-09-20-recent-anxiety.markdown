@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 10890
+    characters_total: 13382
+    file: ./posts/personal/_posts/2013-09-20-recent-anxiety.markdown
+    paragraphs: 26
+    type: jekyll
+    words: 2493
 layout: post
 title: Recent Anxiety
-
 ---
 
 I think that it'd be helpful for me to have some outlet for expressing more

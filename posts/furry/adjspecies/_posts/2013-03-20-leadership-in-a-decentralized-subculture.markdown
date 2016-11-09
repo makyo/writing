@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 8667
+    characters_total: 10542
+    file: ./posts/furry/adjspecies/_posts/2013-03-20-leadership-in-a-decentralized-subculture.markdown
+    paragraphs: 10
+    type: jekyll
+    words: 1876
 layout: link
 link: http://adjectivespecies.com/2013/03/20/leadership-in-a-decentralized-subculture/
-
 ---
 
 Furry as a subculture may not be "mainstream", but neither is it small. The

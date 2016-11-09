@@ -1,8 +1,14 @@
 ---
-layout: post
-title: Long-Form Works
 comments: false
-
+counts:
+    characters_real: 503
+    characters_total: 612
+    file: ./long-form/index.md
+    paragraphs: 3
+    type: jekyll
+    words: 110
+layout: page
+title: Long-Form Works
 ---
 
 Although I often write shorter posts to be read on their own, occasionally I will work on a longer-form piece of writing.  You can find these here for download or print to read at your leisure.

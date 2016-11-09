@@ -1,7 +1,14 @@
 ---
-layout: post
-title: NaNoWriMo
 comments: false
+counts:
+    characters_real: 277
+    characters_total: 331
+    file: ./nanowrimo/index.md
+    paragraphs: 4
+    type: jekyll
+    words: 55
+layout: page
+title: NaNoWriMo
 ---
 
 National Novel Writing Month takes place every year during November.  The goal is to write at least 50,000 words - about the length of a short novel - during that one month.

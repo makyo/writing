@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 40354
+    characters_total: 49558
+    file: ./posts/fiction/_posts/2014-11-08-what-i-expected.markdown
+    paragraphs: 267
+    type: jekyll
+    words: 9205
 layout: post
-title: What I Expected
 rating: X
-
+title: What I Expected
 ---
 
 *Since this isn't a bunch of animal people...this is a work of fiction. All

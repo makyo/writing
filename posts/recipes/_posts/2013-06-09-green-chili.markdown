@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 1086
+    characters_total: 1342
+    file: ./posts/recipes/_posts/2013-06-09-green-chili.markdown
+    paragraphs: 6
+    type: jekyll
+    words: 257
 layout: post
 title: Pork Green Chili
-
 ---
 
 <img alt="Served with tamales" src="/assets/recipes/pork-green-chili.jpg"

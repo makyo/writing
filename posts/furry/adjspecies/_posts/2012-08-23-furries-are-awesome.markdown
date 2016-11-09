@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 8742
+    characters_total: 10665
+    file: ./posts/furry/adjspecies/_posts/2012-08-23-furries-are-awesome.markdown
+    paragraphs: 20
+    type: jekyll
+    words: 1924
 layout: link
 link: http://adjectivespecies.com/2012/08/23/furries-are-awesome/
-
 ---
 
 First of all, I'd like to apologize for the dearth of articles, recently. It

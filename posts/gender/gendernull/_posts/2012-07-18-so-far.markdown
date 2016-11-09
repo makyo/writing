@@ -1,7 +1,13 @@
 ---
-title: So Far
+counts:
+    characters_real: 4848
+    characters_total: 5996
+    file: ./posts/gender/gendernull/_posts/2012-07-18-so-far.markdown
+    paragraphs: 8
+    type: jekyll
+    words: 1149
 layout: post
-
+title: So Far
 ---
 
 On Saturday, James and I took the second round of Depo injections, and the Wednesday before that saw the start of the cyproterone (25mg twice daily for me, 50mg twice daily for James).  At two and a half weeks in, I think I can safely say that it's working.

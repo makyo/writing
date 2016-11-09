@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 7016
+    characters_total: 8604
+    file: ./posts/furry/adjspecies/_posts/2012-01-18-the-dramagogues-episode-2-drama.markdown
+    paragraphs: 17
+    type: jekyll
+    words: 1589
 layout: link
 link: http://adjectivespecies.com/2012/01/18/the-dramagogues-episode-2-drama/
 title: The Dramagogues - Episode 2 - Drama
-
 ---
 
 In the last post about drama, I wondered whether or not we, as a community,

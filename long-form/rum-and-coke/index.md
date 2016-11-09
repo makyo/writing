@@ -1,7 +1,13 @@
 ---
-layout: post
-title: "Rum and Coke: Three Stories from a Furry Convention"
-
+counts:
+    characters_real: 1128
+    characters_total: 1367
+    file: ./long-form/rum-and-coke/index.md
+    paragraphs: 8
+    type: jekyll
+    words: 240
+layout: page
+title: 'Rum and Coke: Three Stories from a Furry Convention'
 ---
 
 Much ink has been spent following the exploits of our furry characters, but sometimes, the real interest lies in the act of us as humans being furries.  Follow the stories of three individuals as they navigate the world of relationships and furry conventions.

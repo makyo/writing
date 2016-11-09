@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 4651
+    characters_total: 5601
+    file: ./posts/furry/adjspecies/_posts/2014-09-10-play-in-furry.markdown
+    paragraphs: 13
+    type: jekyll
+    words: 951
 layout: post
 title: Play In Furry
-
 ---
 
 On a recent work trip to London, I had the privilege of attending a LondonFurs

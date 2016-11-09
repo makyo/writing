@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 4051
+    characters_total: 4938
+    file: ./posts/gender/_posts/2013-04-28-talking-about-gender.markdown
+    paragraphs: 8
+    type: jekyll
+    words: 888
 layout: post
 title: Talking About Gender
-
 ---
 
 How do you talk about gender?  How do you best express a concept that everyone experiences in their own totally unique way?  How do you help someone to understand this totally abstract thing that's not quite a feeling, but not quite not a feeling either?

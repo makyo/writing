@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 3022
+    characters_total: 3701
+    file: ./posts/gender/_posts/2014-12-19-on-the-path.markdown
+    paragraphs: 15
+    type: jekyll
+    words: 680
 layout: post
 title: On the Path
-
 ---
 
 I realize that it's been a while since I've written in this section of the site.

@@ -1,5 +1,12 @@
 ---
-layout: post
+counts:
+    characters_real: 720
+    characters_total: 880
+    file: ./work/furry-relationships/questions.md
+    paragraphs: 2
+    type: jekyll
+    words: 161
+layout: page
 title: Interview questions for the article In Love With Furry
 ---
 

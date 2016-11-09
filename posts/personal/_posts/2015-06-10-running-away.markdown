@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 13100
+    characters_total: 16276
+    file: ./posts/personal/_posts/2015-06-10-running-away.markdown
+    paragraphs: 57
+    type: jekyll
+    words: 3177
 layout: post
 title: Running Away
-
 ---
 
 <img src="/assets/personal/mandi--running-away-small--makyo.jpg"

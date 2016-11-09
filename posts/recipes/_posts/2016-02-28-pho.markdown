@@ -1,6 +1,13 @@
 ---
+counts:
+    characters_real: 1658
+    characters_total: 2074
+    file: ./posts/recipes/_posts/2016-02-28-pho.markdown
+    paragraphs: 9
+    type: jekyll
+    words: 417
 layout: post
-title: Phở
+title: "Ph\u1EDF"
 ---
 
 Phở is a Vietnamese noodle soup usually served in the morning.  It's a build-your-own type meal: you get a bowl of broth and noodles, then you choose which type of meat you want (some of which may be cooked by the nearly-boiling broth), and any accoutrements that you want, featuring fresh herbs, onions, peppers, and hoisin sauce and Sriracha.

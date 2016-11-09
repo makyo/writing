@@ -1,6 +1,13 @@
 ---
+counts:
+    characters_real: 4068
+    characters_total: 5051
+    file: ./posts/personal/_posts/2015-11-30-on-adjspecies.md
+    paragraphs: 13
+    type: jekyll
+    words: 984
 layout: post
-title: "On [adjective][species]"
+title: On [adjective][species]
 ---
 
 This last weekend, I resigned as editor-in-chief of \[adjective\]\[species\], a site that I founded in 2011 to explore the furry fandom and the what it means to call oneself a furry.  I did so in a brief and considered post - I hardly wanted to clutter up the site that I worked so hard on with a big tearful goodbye or anything - but I realize that this was perhaps too little for people to hang their hats on (or fursuit heads, as the case may be).  I still won't clutter up \[a\]\[s\] any, but this site is all my own, so I get to write whatever I want, for better or for worse, without fear of taking up too much space.

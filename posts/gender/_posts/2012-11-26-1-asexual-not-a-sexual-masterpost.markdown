@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 1416
+    characters_total: 1718
+    file: ./posts/gender/_posts/2012-11-26-1-asexual-not-a-sexual-masterpost.markdown
+    paragraphs: 3
+    type: jekyll
+    words: 303
 layout: link
-title: asexual-not-a-sexual's Gender And Sexuality Masterpost
 link: http://asexual-not-a-sexual.tumblr.com/post/28253369005/ive-recieved-a-lot-of-requests-for-a
-
+title: asexual-not-a-sexual's Gender And Sexuality Masterpost
 ---
 
 The ideas of taxonomy have come up quite a bit recently, mostly in a lot of the stuff I've been reading, but also in a few conversations here and there. Looking back on classifications, there are the obvious examples of Linnaeus' Systema Naturae, Kraft-Ebing's Psychopathia Sexualis, and the first edition of the DSM with Menninger leading, all examples of a perceived need for classification. In Psychopathia Sexualis, some of the motivations were quite political, however scientific the taxonomy purported to be; while the first DSM was, according to Jon Ronson in The Psychopath Test, a sort of race to list everything any of the team of mental health professionals had ever heard was a problem.

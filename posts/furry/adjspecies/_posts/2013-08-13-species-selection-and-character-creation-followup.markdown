@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 9085
+    characters_total: 10559
+    file: ./posts/furry/adjspecies/_posts/2013-08-13-species-selection-and-character-creation-followup.markdown
+    paragraphs: 14
+    type: jekyll
+    words: 1475
 layout: link
 link: http://adjectivespecies.com/2013/08/13/species-selection-and-character-creation-follow-up/
 title: Species Selection and Character Creation Follow-Up
-
 ---
 
 This is just a quick follow-up with some further information about the [Species

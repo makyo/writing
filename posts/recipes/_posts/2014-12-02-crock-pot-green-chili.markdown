@@ -1,7 +1,13 @@
 ---
-title: Easy Crockpot Green Chili
+counts:
+    characters_real: 885
+    characters_total: 1076
+    file: ./posts/recipes/_posts/2014-12-02-crock-pot-green-chili.markdown
+    paragraphs: 5
+    type: jekyll
+    words: 192
 layout: post
-
+title: Easy Crockpot Green Chili
 ---
 
 I've posted the [recipe](/posts/recipes/2013/06/09/green-chili/) for an

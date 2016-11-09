@@ -1,7 +1,13 @@
 ---
-title: The Strange Depths of Self Harm
+counts:
+    characters_real: 5010
+    characters_total: 6163
+    file: ./posts/gender/gendernull/_posts/2012-11-02-the-strange-depths-of-self-harm.markdown
+    paragraphs: 9
+    type: jekyll
+    words: 1154
 layout: post
-
+title: The Strange Depths of Self Harm
 ---
 
 It has become increasingly clear to me over the last month or so that self harm is still a healthy portion of the subconscious reasons for doing this. I don't think that it was clear to me at the beginning that I was doing something other than some sort of noble, post-human experiment, exploring the overlap of gender and sexuality by removing it. I had broken my intentions down into three goals: something to write about, exploring gender neutrality as best as I could, and seeing what James was on about. There was, however, a fourth reason, a sort of undercurrent beneath all of those supposed good intentions, and it wove self harm through it all.

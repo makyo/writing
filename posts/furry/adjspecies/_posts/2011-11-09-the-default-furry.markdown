@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 6516
+    characters_total: 7881
+    file: ./posts/furry/adjspecies/_posts/2011-11-09-the-default-furry.markdown
+    paragraphs: 17
+    type: jekyll
+    words: 1366
 layout: link
 link: http://adjectivespecies.com/2011/11/09/the-default-furry/
-
 ---
 
 When I write a blog post - either on here or my personal blog - I tend to "stub

@@ -1,7 +1,13 @@
 ---
-title: The Different Parts of Sexuality
+counts:
+    characters_real: 2832
+    characters_total: 3499
+    file: ./posts/gender/gendernull/_posts/2012-07-22-different-parts-of-sexuality.markdown
+    paragraphs: 8
+    type: jekyll
+    words: 668
 layout: post
-
+title: The Different Parts of Sexuality
 ---
 
 It feels, at least in one way, as though we're deconstructing sexuality in some way, here.

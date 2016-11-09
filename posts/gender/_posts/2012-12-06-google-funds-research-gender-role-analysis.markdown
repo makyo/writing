@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 1411
+    characters_total: 1704
+    file: ./posts/gender/_posts/2012-12-06-google-funds-research-gender-role-analysis.markdown
+    paragraphs: 8
+    type: jekyll
+    words: 294
 layout: link
-title: Google funds research tool for gender role analysis in TV, films
 link: http://arstechnica.com/science/2012/12/google-funds-research-tool-for-gender-role-analysis-in-tv-films/
-
+title: Google funds research tool for gender role analysis in TV, films
 ---
 
 Via @teamvalkyrieftw -

@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 6371
+    characters_total: 7755
+    file: ./posts/furry/adjspecies/_posts/2011-11-30-first-impressions.markdown
+    paragraphs: 9
+    type: jekyll
+    words: 1385
 layout: link
 link: http://adjectivespecies.com/2011/11/30/first-impressions/
-
 ---
 
 The world is headed in some pretty interesting directions when it comes to

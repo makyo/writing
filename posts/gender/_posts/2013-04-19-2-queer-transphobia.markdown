@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 2620
+    characters_total: 3213
+    file: ./posts/gender/_posts/2013-04-19-2-queer-transphobia.markdown
+    paragraphs: 8
+    type: jekyll
+    words: 594
 layout: link
-title: We need to give up transphobia
 link: http://www.wbez.org/blogs/nico-lang/2013-03/we-need-give-transphobia-106351
-
+title: We need to give up transphobia
 ---
 
 (Note that the article in the link references a second article, also worth reading, which is available [here](http://www.huffingtonpost.com/todd-clayton/queer-community-transphobic_b_2727064.html))

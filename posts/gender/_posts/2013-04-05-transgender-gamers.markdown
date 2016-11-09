@@ -1,8 +1,15 @@
 ---
+counts:
+    characters_real: 1570
+    characters_total: 1943
+    file: ./posts/gender/_posts/2013-04-05-transgender-gamers.markdown
+    paragraphs: 3
+    type: jekyll
+    words: 374
 layout: link
-title: “Video games showed me who I could be:” transgender gamers share their stories, joys, and fears
 link: http://penny-arcade.com/report/article/video-games-showed-me-who-i-could-be-transgender-gamers-share-their-stories
-
+title: "\u201CVideo games showed me who I could be:\u201D transgender gamers share\
+    \ their stories, joys, and fears"
 ---
 
 I realized recently that I've been saying "I'm not really into video games" quite a bit.  Its not false, necessarily: I don't own any consoles, I have a desktop computer that I never use, it has Steam on it with a few games that I never really played, I joined the Steam-on-linux beta through work, installed TF2, but still have yet to play it... I just don't really get into it all that much.  I can certainly understand games as fun, and especially as a means of social interaction.  I had consoles growing up (Sega Genesis and an N64) and a step-brother to play with.  However, that never really translated to playing solo, and with the lack of play time after my mom and step-dad's divorce, I lost the feel for it and when I moved into the dorms for college, I never wound up playing in any of the nightly games of Mario Kart or Smash Brothers.

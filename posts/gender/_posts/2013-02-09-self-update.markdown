@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 4737
+    characters_total: 5817
+    file: ./posts/gender/_posts/2013-02-09-self-update.markdown
+    paragraphs: 8
+    type: jekyll
+    words: 1081
 layout: post
 title: self.update
-
 ---
 
 I believe that I posted something to the effect of this on National Coming Out Day last year: "I'm pretty comfortable with pansexuality, I'm still figuring out the polyamory, and I'm terrified of the transexuality."  I can't tell for sure because you can only access the last 3,200 tweets, and boy howdy is it depressing that I tweet that much.  I had a bit of a rough evening tonight due to the tic in my neck, and so I decided to take a bath, which always leads to reminiscing.  Just what has changed in that statement in the last four or so months?

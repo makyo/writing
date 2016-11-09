@@ -1,7 +1,13 @@
 ---
-title: Third Shot Update
+counts:
+    characters_real: 4032
+    characters_total: 4946
+    file: ./posts/gender/gendernull/_posts/2012-07-29-third-shot-update.markdown
+    paragraphs: 13
+    type: jekyll
+    words: 915
 layout: post
-
+title: Third Shot Update
 ---
 
 James mentioned last time that he wasn't sure how much there was to say on the recordings anymore, which I suppose is understandable, given how much we got out of the way on our first try, so there's no interview transcript to post from yesterday, when we each took the third shot of Depo.

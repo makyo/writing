@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 1635
+    characters_total: 2038
+    file: ./posts/recipes/_posts/2013-05-05-short-ribs-broccoli.markdown
+    paragraphs: 7
+    type: jekyll
+    words: 404
 layout: post
 title: Braised Short Ribs with Seared Broccoli\
-
 ---
 
 <img alt="Ribs and Broccoli" src="/assets/recipes/ribs-broccoli.png" style="float:left;margin-right:2em" />

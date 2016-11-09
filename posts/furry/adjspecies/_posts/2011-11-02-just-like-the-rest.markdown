@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 6511
+    characters_total: 7982
+    file: ./posts/furry/adjspecies/_posts/2011-11-02-just-like-the-rest.markdown
+    paragraphs: 15
+    type: jekyll
+    words: 1472
 layout: link
 link: http://adjectivespecies.com/2011/11/02/makyos-intro-post-just-like-the-rest/
-
 ---
 
 I can almost pinpoint the time I realized that furry was just a slice of

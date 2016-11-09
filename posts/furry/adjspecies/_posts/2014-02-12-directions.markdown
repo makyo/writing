@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 14004
+    characters_total: 17222
+    file: ./posts/furry/adjspecies/_posts/2014-02-12-directions.markdown
+    paragraphs: 47
+    type: jekyll
+    words: 3219
 layout: post
 title: Directions
-
 ---
 
 And now comes the time when I have to write a very important, rather personal

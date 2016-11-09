@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 8670
+    characters_total: 10565
+    file: ./posts/furry/adjspecies/_posts/2012-06-14-on-money.markdown
+    paragraphs: 16
+    type: jekyll
+    words: 1896
 layout: link
 link: http://adjectivespecies.com/2012/06/14/on-money/
-
 ---
 
 Like many of those who who identify as members of the furry fandom, I joined at

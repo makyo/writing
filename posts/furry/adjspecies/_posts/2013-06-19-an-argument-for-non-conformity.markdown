@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 7019
+    characters_total: 8467
+    file: ./posts/furry/adjspecies/_posts/2013-06-19-an-argument-for-non-conformity.markdown
+    paragraphs: 18
+    type: jekyll
+    words: 1449
 layout: link
 link: http://adjectivespecies.com/2013/06/19/an-argument-for-non-conformity/
 title: An Argument for Non-Conformity
-
 ---
 
 Okay, so the title is a bit grandiose.  

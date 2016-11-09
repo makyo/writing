@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 7909
+    characters_total: 9558
+    file: ./posts/furry/lovesexfur/_posts/2014-09-14-enjoying-the-problematic.markdown
+    paragraphs: 17
+    type: jekyll
+    words: 1650
 layout: post
 title: Enjoying the Problematic
-
 ---
 
 [Recently](http://adjectivespecies.com/2014/06/25/trends-within-trends/),

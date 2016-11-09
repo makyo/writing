@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 8330
+    characters_total: 10094
+    file: ./posts/furry/adjspecies/_posts/2012-02-08-participation-mystique-2-on-words.markdown
+    paragraphs: 16
+    type: jekyll
+    words: 1765
 layout: link
 link: http://adjectivespecies.com/2012/02/08/participation-mystique-2-on-words/
 title: Participation Mystique 2 - On Words
-
 ---
 
 This is a post I did not intend to write.  I certainly did not intend to

@@ -1,4 +1,11 @@
 ---
+counts:
+    characters_real: 39736
+    characters_total: 48120
+    file: ./long-form/new-american-absinthe/index.md
+    paragraphs: 173
+    type: jekyll
+    words: 8385
 layout: post
 title: New American Absinthe
 ---

@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 8640
+    characters_total: 10479
+    file: ./posts/tech/_posts/2015-04-06-dogfooding-1.markdown
+    paragraphs: 34
+    type: jekyll
+    words: 1840
 layout: post
 title: Dogfooding - Pt. 1
-
 ---
 
 I work for [Canonical, Ltd](http://canonical.com), a company focused primarily

@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 957
+    characters_total: 1149
+    file: ./posts/gender/_posts/2012-12-20-growing-up-trans.markdown
+    paragraphs: 3
+    type: jekyll
+    words: 193
 layout: link
-title: Growing Up Trans...The Inbetweeners Of Society
 link: http://www.mookychick.co.uk/feminism-politics/lgbtq/transgender-transition.php
-
+title: Growing Up Trans...The Inbetweeners Of Society
 ---
 
 This is a neat little interview, really.  There's a couple of points that echo some things I've said before here, but written much more clearly.

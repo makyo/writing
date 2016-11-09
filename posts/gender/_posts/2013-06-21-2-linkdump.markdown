@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 2892
+    characters_total: 3378
+    file: ./posts/gender/_posts/2013-06-21-2-linkdump.markdown
+    paragraphs: 12
+    type: jekyll
+    words: 487
 layout: post
 title: Linkdump 2
-
 ---
 
 More and more links, less and less bandwidth.  Most of that is because I'm

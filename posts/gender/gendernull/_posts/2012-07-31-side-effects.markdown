@@ -1,7 +1,13 @@
 ---
-title: Side Effects
+counts:
+    characters_real: 1628
+    characters_total: 2006
+    file: ./posts/gender/gendernull/_posts/2012-07-31-side-effects.markdown
+    paragraphs: 2
+    type: jekyll
+    words: 379
 layout: post
-
+title: Side Effects
 ---
 
 There are, as to be expected, several side effects that go along with a regimen such as this.  I'm sure that I'll keep finding new ones as time progresses, too.  I'll try to keep this list updated with effects found by both James and myself.

@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 10574
+    characters_total: 12854
+    file: ./posts/furry/adjspecies/_posts/2011-11-23-character-versus-self.markdown
+    paragraphs: 14
+    type: jekyll
+    words: 2281
 layout: link
 link: http://adjectivespecies.com/2011/11/23/character-versus-self/
 title: Boys, Girls, and the Inbetweens
-
 ---
 
 When I first got into furry, I was probably fourteen or fifteen.  I know that it

@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 2027
+    characters_total: 2458
+    file: ./posts/gender/_posts/2013-02-13-2-problems-with-the-kinsey-scale.markdown
+    paragraphs: 5
+    type: jekyll
+    words: 432
 layout: link
-title: Problems With The Kinsey Scale
 link: http://lacigreen.tv/sexplus/sexuality/4502-problems-with-the-kinsey-scale
-
+title: Problems With The Kinsey Scale
 ---
 
 Speaking of the need to classify...

@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 7139
+    characters_total: 8725
+    file: ./posts/gender/_posts/2012-12-15-reduced-to-their-maddest-edges.markdown
+    paragraphs: 14
+    type: jekyll
+    words: 1587
 layout: post
 title: Reduced to Their Maddest Edges
-
 ---
 
 The title is a phrase from Jon Ronson's book, The Psychopath Test, and refers to the way our society treats individuals in certain circumstances.  Specifically, it refers to the way society, and media in particular, treats individuals who have attracted attention to themselves, whether intentionally or not.  It describes those who wind up on Springer-style daytime shows, folks who have been reduced to their maddest edges by media in order to create a story; it describes those who have wound up in the news for whatever reason, who have been reduced to their maddest edges, had all of the life polished from them in order to make for a story.

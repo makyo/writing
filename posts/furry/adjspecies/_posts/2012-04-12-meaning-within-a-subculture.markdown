@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 30540
+    characters_total: 37054
+    file: ./posts/furry/adjspecies/_posts/2012-04-12-meaning-within-a-subculture.markdown
+    paragraphs: 69
+    type: jekyll
+    words: 6515
 layout: link
 link: http://adjectivespecies.com/meaning-within-a-subculture/
-
 ---
 
 This is an idea that has been tumbling around in my head ever since I started

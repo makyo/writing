@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 5863
+    characters_total: 7048
+    file: ./posts/gender/_posts/2012-12-04-2-response-to-gender-dysphoria.markdown
+    paragraphs: 15
+    type: jekyll
+    words: 1186
 layout: link
-title: Response to the Proposed Psychiatric Diagnosis of 'Gender Dysphoria'
 link: http://ansaraonline.com/yahoo_site_admin/assets/docs/APA_Response_Letter_2012_Updated_version_10th_September_Ansara_Friedman_Blumer_Fryer_Nic_Giolla_Easpaig_Richmond_Samons.253222842.pdf
-
+title: Response to the Proposed Psychiatric Diagnosis of 'Gender Dysphoria'
 ---
 
 I hadn't realized (though am not surprised) that with the ever-changing DSM, Gender Identity Disorder had come on the table as something that needed to be revised.  I also hadn't quite understood the process for change, which appears to require a task force to submit a proposal and report regarding the treatment for the diagnosis at hand, at least in some cases (the story of the first DSM is quite interesting, at least as told through Jon Ronson's The Psychopath Test - excellent, fun book).  Additionally, since these reports are published long before the changes are made - DSM IV TR is the current version, with the DSM 5 under consideration - there is a chance for such things to be reviewed both formally and informally.  The link provided is a rebuttal to "the proposed psychiatric diagnosis of 'gender dysphoria' and the Report of the American Psychiatric Association Task Force on the Treatment of 'Gender Identity Disorder'"

@@ -1,6 +1,13 @@
 ---
+counts:
+    characters_real: 108609
+    characters_total: 133583
+    file: ./long-form/rum-and-coke/full.md
+    paragraphs: 736
+    type: jekyll
+    words: 24975
 layout: post
-title: "Rum and Coke: Three Short Stories from a Furry Convention"
+title: 'Rum and Coke: Three Short Stories from a Furry Convention'
 ---
 
 <img src="../cover.png" style="max-width:100%" />

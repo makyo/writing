@@ -1,6 +1,12 @@
 ---
+counts:
+    characters_real: 6646
+    characters_total: 8238
+    file: ./posts/personal/_posts/2013-12-29-on-ritual.markdown
+    paragraphs: 16
+    type: jekyll
+    words: 1593
 layout: post
-
 ---
 
 First of all, let me state that I'm feeling pretty good as I write this.  I feel

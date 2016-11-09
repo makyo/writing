@@ -1,7 +1,13 @@
 ---
-title: Recent Thoughts on Gender
+counts:
+    characters_real: 1596
+    characters_total: 1968
+    file: ./posts/gender/gendernull/_posts/2012-09-24-recent-thoughts-on-gender.markdown
+    paragraphs: 2
+    type: jekyll
+    words: 373
 layout: post
-
+title: Recent Thoughts on Gender
 ---
 
 I was thinking I'd write a whole big post on gender and how things have been going recently, but work's taking up all of my time, and even if it wasn't, I just don't think I'd have the energy to do so.  Bullet points instead.

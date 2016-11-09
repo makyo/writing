@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 9217
+    characters_total: 11190
+    file: ./posts/furry/adjspecies/_posts/2014-11-26-witnessing-and-mirroring.markdown
+    paragraphs: 19
+    type: jekyll
+    words: 1974
 layout: post
 title: Witnessing and Mirroring
-
 ---
 
 I don't often read Reddit - the site and I get along fine, I just can't seem to maintain interest in any subreddit for more than a few weeks - but I do occasionally find a good link or two when I wind up there. Most recently, I was trawling several different subreddits about gender and came across a set of delightful concepts that I think fit in well with the furry fandom. <!--more-->

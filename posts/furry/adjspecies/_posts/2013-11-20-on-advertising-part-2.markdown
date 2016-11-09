@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 7543
+    characters_total: 9096
+    file: ./posts/furry/adjspecies/_posts/2013-11-20-on-advertising-part-2.markdown
+    paragraphs: 33
+    type: jekyll
+    words: 1554
 layout: post
-title: "On Advertising: Part 2 - After"
-
+title: 'On Advertising: Part 2 - After'
 ---
 
 *(This is the follow-up to the first article, published October 9th, <a

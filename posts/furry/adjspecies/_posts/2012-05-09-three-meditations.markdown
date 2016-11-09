@@ -1,7 +1,13 @@
---- 
-layout: link 
+---
+counts:
+    characters_real: 12729
+    characters_total: 15526
+    file: ./posts/furry/adjspecies/_posts/2012-05-09-three-meditations.markdown
+    paragraphs: 25
+    type: jekyll
+    words: 2798
+layout: link
 link: http://adjectivespecies.com/2012/05/09/three-meditations/
-
 ---
 
 As mentioned before, I've been totally slammed by offline things over the last

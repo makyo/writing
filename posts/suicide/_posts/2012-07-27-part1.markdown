@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 20516
+    characters_total: 25452
+    file: ./posts/suicide/_posts/2012-07-27-part1.markdown
+    paragraphs: 92
+    type: jekyll
+    words: 4937
 layout: post
-title: Part 1
 permalink: /suicide/part1/
-
+title: Part 1
 ---
 
 > From the point of view of the universe, Max's death wasn't a big deal,

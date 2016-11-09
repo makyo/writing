@@ -1,7 +1,14 @@
 ---
-layout: post
-title: Getting Lost
 comments: false
+counts:
+    characters_real: 546
+    characters_total: 640
+    file: ./work/getting-lost/index.md
+    paragraphs: 5
+    type: jekyll
+    words: 95
+layout: page
+title: Getting Lost
 ---
 
 When RJ gets Lost in the 'net, stuck without a way to return to the world outside, ey finds emself torn between accepting eir fate and the struggle to escape.  Meanwhile, Dr. Carter Ramirez, a specialist in the Lost, finds herself meeting with a surprising amount of political pressure when attending to RJ's case.  Much more is bound up in the case of the Lost than appears at first glance.

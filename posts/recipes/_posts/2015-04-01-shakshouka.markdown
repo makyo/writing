@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 1162
+    characters_total: 1439
+    file: ./posts/recipes/_posts/2015-04-01-shakshouka.markdown
+    paragraphs: 6
+    type: jekyll
+    words: 278
 layout: post
 title: Shakshouka
-
 ---
 
 <img src="/assets/recipes/shakshouka.jpg" style="float:left;margin-right:2em" />

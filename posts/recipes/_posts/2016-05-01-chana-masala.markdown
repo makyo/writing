@@ -1,4 +1,11 @@
 ---
+counts:
+    characters_real: 2368
+    characters_total: 2954
+    file: ./posts/recipes/_posts/2016-05-01-chana-masala.markdown
+    paragraphs: 13
+    type: jekyll
+    words: 587
 layout: post
 title: Chana Masala
 ---

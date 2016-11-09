@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 1052
+    characters_total: 1302
+    file: ./posts/gender/_posts/2012-11-21-lgbt-posters.markdown
+    paragraphs: 3
+    type: jekyll
+    words: 251
 layout: link
-title: LGBT Posters
 link: http://knowhomo.tumblr.com/post/35780906575
-
+title: LGBT Posters
 ---
 
 I work with a lot of data - like really, a lot - both as a job and for funsies, and the whole infographic thing really kinda irked me when it started working its way into common parlance. I don't really like the portmanteau, in the first place, but I always got the impression that infographics were data visualizations dumbed-down for media consumers.  The thing that really changed my mind on their usefulness, however, was seeing them as a poster in school (I think it was a donut chart showing duration of art shows on campus, with some quips in the middle).  Once I started to think of them that way, and stopped really thinking of them as bad charts online, they suddenly made a whole lot more sense.  Posters, as a rule, are not meant to be whole stories, like data vis can be, but simple scenes, a glimpse of something meant to sway, inform, or even just delight.

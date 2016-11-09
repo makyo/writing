@@ -1,4 +1,11 @@
 ---
+counts:
+    characters_real: 4028
+    characters_total: 4920
+    file: ./posts/tasting/_posts/2016-04-07-white2-laochatou.markdown
+    paragraphs: 20
+    type: jekyll
+    words: 893
 layout: post
 title: White 2 - 2014 Laochatou
 ---

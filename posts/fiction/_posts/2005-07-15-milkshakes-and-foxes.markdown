@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 8106
+    characters_total: 9920
+    file: ./posts/fiction/_posts/2005-07-15-milkshakes-and-foxes.markdown
+    paragraphs: 38
+    type: jekyll
+    words: 1815
 layout: post
-title: Milkshakes and Foxes
 rating: X
-
+title: Milkshakes and Foxes
 ---
 
 Two foxes walked into a bar.

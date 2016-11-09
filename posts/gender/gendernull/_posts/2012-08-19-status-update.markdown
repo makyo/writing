@@ -1,7 +1,13 @@
 ---
-title: Status Update
+counts:
+    characters_real: 3081
+    characters_total: 3762
+    file: ./posts/gender/gendernull/_posts/2012-08-19-status-update.markdown
+    paragraphs: 7
+    type: jekyll
+    words: 682
 layout: post
-
+title: Status Update
 ---
 
 I haven't posted in a bit, due mostly to the fact that I've been keeping myself quite busy, or at least quite anxious.  Things are going well, however! I think that, overall, I haven't quite felt this good in a while, except for a few things, and I'm not sure how much they are entangled with the fact that I'm really messing with my hormones, or if they're totally unrelated.

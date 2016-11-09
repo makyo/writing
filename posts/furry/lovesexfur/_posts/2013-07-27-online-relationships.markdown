@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 7469
+    characters_total: 9144
+    file: ./posts/furry/lovesexfur/_posts/2013-07-27-online-relationships.markdown
+    paragraphs: 10
+    type: jekyll
+    words: 1676
 layout: link
 link: http://lovesexfur.com/2013/07/27/online-relationships/
-
 ---
 
 *[A version](http://adjectivespecies.com/2011/12/28/online-relationships/) of

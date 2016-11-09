@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 6652
+    characters_total: 8181
+    file: ./posts/personal/_posts/2013-11-08-small-update.markdown
+    paragraphs: 26
+    type: jekyll
+    words: 1530
 layout: post
 title: A Small Update
-
 ---
 
 Both partners and several friends have expressed some concern of late over the

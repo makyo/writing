@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 3486
+    characters_total: 4320
+    file: ./posts/recipes/2013-07-21-kimchi.markdown
+    paragraphs: 7
+    type: jekyll
+    words: 835
 layout: post
 title: Kimchi
-
 ---
 
 <img alt="Kimchi prep" src="/assets/recipes/kimchi.png"

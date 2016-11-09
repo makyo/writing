@@ -1,7 +1,13 @@
 ---
-title: Haha, well...whoops!
+counts:
+    characters_real: 4821
+    characters_total: 6025
+    file: ./posts/gender/gendernull/_posts/2012-08-30-haha-well-whoops.markdown
+    paragraphs: 2
+    type: jekyll
+    words: 1205
 layout: post
-
+title: Haha, well...whoops!
 ---
 
 Kind of accidentally told a whole bunch of people.  I seem to go through this honesty streak every now and then, and it's been hitting really hard recently.  Two AMAs on Reddit, sharing a few other things with people, and now this...

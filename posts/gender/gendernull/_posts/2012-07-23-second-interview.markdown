@@ -1,7 +1,13 @@
 ---
-title: The Second Interview (2012-07-14)
+counts:
+    characters_real: 6095
+    characters_total: 7611
+    file: ./posts/gender/gendernull/_posts/2012-07-23-second-interview.markdown
+    paragraphs: 53
+    type: jekyll
+    words: 1517
 layout: post
-
+title: The Second Interview (2012-07-14)
 ---
 
 Here follows the second interview.  These interviews are recorded in conversational fashion within a few hours after each injection (this time during), about once every two weeks.  This is more of an update than anything.

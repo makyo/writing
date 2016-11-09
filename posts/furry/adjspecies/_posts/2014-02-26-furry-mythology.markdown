@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 8730
+    characters_total: 10778
+    file: ./posts/furry/adjspecies/_posts/2014-02-26-furry-mythology.markdown
+    paragraphs: 16
+    type: jekyll
+    words: 2049
 layout: post
 title: Furry Mythology
-
 ---
 
 > One day, a fox and a cat were walking through a field. The cat seemed

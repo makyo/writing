@@ -1,4 +1,11 @@
 ---
+counts:
+    characters_real: 16110
+    characters_total: 19339
+    file: ./posts/furry/adjspecies/_posts/2015-06-17-on-postfurry.md
+    paragraphs: 63
+    type: jekyll
+    words: 3230
 layout: post
 title: On Postfurry
 ---

@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 6550
+    characters_total: 8022
+    file: ./posts/furry/adjspecies/_posts/2012-01-04-layers-of-fantasy.markdown
+    paragraphs: 9
+    type: jekyll
+    words: 1473
 layout: link
 link: http://adjectivespecies.com/2012/01/04/layers-of-fantasy/
-
 ---
 
 I found out recently that there's a name for the concept behind the movie

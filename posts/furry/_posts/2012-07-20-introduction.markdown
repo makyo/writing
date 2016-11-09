@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 8371
+    characters_total: 10240
+    file: ./posts/furry/_posts/2012-07-20-introduction.markdown
+    paragraphs: 29
+    type: jekyll
+    words: 1870
 layout: post
-title: Introduction
 permalink: /furry/introduction/
-
+title: Introduction
 ---
 
 Usually, I'm the type to skip past introductions.

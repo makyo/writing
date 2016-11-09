@@ -1,4 +1,11 @@
 ---
+counts:
+    characters_real: 3962
+    characters_total: 4865
+    file: ./posts/tasting/_posts/2016-04-06-white2-fade.markdown
+    paragraphs: 26
+    type: jekyll
+    words: 904
 layout: post
 title: White 2 - 2016 Fade Sheng
 ---

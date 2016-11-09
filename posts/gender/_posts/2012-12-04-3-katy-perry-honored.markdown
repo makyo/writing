@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 2504
+    characters_total: 3103
+    file: ./posts/gender/_posts/2012-12-04-3-katy-perry-honored.markdown
+    paragraphs: 6
+    type: jekyll
+    words: 600
 layout: link
-title: Katy Perry Perplexingly Honored By The Trevor Project for LGBTQ Visibility
 link: http://www.autostraddle.com/the-trevor-project-gives-katy-perry-an-award-because-gay-visibility-or-something-148848/
-
+title: Katy Perry Perplexingly Honored By The Trevor Project for LGBTQ Visibility
 ---
 
 I was really, really hesitant to post this, to be honest.  I still feel torn.  I strongly recommend reading this article, but I also recommend reading it with an understanding of bias (like you do on the Internet), and as always, please be careful reading the comments (like you do on the Internet): there are a higher percentage of good ones than elsewhere, but still...comments on the Internet.  

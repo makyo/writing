@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 6884
+    characters_total: 8458
+    file: ./posts/furry/adjspecies/_posts/2013-06-12-adding-structure-to-life.markdown
+    paragraphs: 13
+    type: jekyll
+    words: 1575
 layout: link
 link: http://adjectivespecies.com/2013/06/12/adding-structure-to-life/
-
 ---
 
 Every now and then, it's important to take a step back and gain a little bit of

@@ -1,7 +1,13 @@
 ---
-title: Asexuality, Celibacy, and Whatever-this-is
+counts:
+    characters_real: 3308
+    characters_total: 4059
+    file: ./posts/gender/gendernull/_posts/2012-07-06-asexuality-celibacy-whatever.markdown
+    paragraphs: 10
+    type: jekyll
+    words: 752
 layout: post
-
+title: Asexuality, Celibacy, and Whatever-this-is
 ---
 
 In the process of sorting a bunch of stuff out here, I've been spending a lot of time reading about asexuality.  The way in which I found myself looking into that was through researching agenderism, which is something that's intriguing, almost alluring to me.  I've mentioned the idea of escapism before and how it fits in with my goals, and perhaps this is just another aspect of that: being without gender would certainly appear to solve a lot of problems with gender, on the surface.  And indeed, I found a bit of information on this and the related concept of neutrois, but I found much of it on the Asexuality Visibility and Education Network, AVEN, at asexuality.org.

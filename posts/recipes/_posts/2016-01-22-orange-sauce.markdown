@@ -1,4 +1,11 @@
 ---
+counts:
+    characters_real: 1390
+    characters_total: 1715
+    file: ./posts/recipes/_posts/2016-01-22-orange-sauce.markdown
+    paragraphs: 7
+    type: jekyll
+    words: 326
 layout: post
 title: San Jose Style Orange Sauce
 ---

@@ -1,7 +1,13 @@
 ---
-layout: post
+counts:
+    characters_real: 8019
+    characters_total: 9852
+    file: ./posts/gender/poly-transcribe.markdown
+    paragraphs: 26
+    type: jekyll
+    words: 1834
+layout: page
 title: Transcription of Floe's Poly Comic
-
 ---
 
 *This is a transcription of Floe's delightful comic/blog about polyamory. The

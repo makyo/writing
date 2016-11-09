@@ -1,6 +1,13 @@
 ---
+counts:
+    characters_real: 9412
+    characters_total: 11524
+    file: ./posts/furry/adjspecies/_posts/2015-10-07-on-friends.md
+    paragraphs: 26
+    type: jekyll
+    words: 2113
 layout: post
-title: "Editorial: On Friends"
+title: 'Editorial: On Friends'
 ---
 
 Have you ever tried to delineate your past into phases?  And not necessarily based on school.  I mean, school and work do tend to serve as markers for a lot of our perception of time, and it seems almost habitual that we use them to mark out the periods in our lives.  When I grew up, you went to preschool to prepare for kindergarten, which prepared you for elementary school.  Fifth grade prepared you for middle school, and eighth grade for high school.  Naturally, your senior year of high school prepared you for college, which prepared you for work, which helped you towards retirement, which seemed to be the best bit of all.  Four years old, five, eleven, fourteen, eighteen, twenty-two, sixty-five.

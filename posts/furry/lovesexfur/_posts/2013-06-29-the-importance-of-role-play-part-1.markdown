@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 8646
+    characters_total: 10540
+    file: ./posts/furry/lovesexfur/_posts/2013-06-29-the-importance-of-role-play-part-1.markdown
+    paragraphs: 17
+    type: jekyll
+    words: 1895
 layout: link
 link: http://lovesexfur.com/2013/06/29/the-importance-of-role-play-part-1/
 title: The Importance of Role-Play - Part 1
-
 ---
 
 Sexual maturation is a process that, I would argue, lasts easily ten years, if

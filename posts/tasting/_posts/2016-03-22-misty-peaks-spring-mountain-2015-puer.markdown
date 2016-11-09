@@ -1,4 +1,11 @@
 ---
+counts:
+    characters_real: 4278
+    characters_total: 5270
+    file: ./posts/tasting/_posts/2016-03-22-misty-peaks-spring-mountain-2015-puer.markdown
+    paragraphs: 26
+    type: jekyll
+    words: 993
 layout: post
 title: Misty Peaks - Spring Mountain 2015 Pu'er
 ---

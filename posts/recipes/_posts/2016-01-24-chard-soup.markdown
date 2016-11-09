@@ -1,4 +1,11 @@
 ---
+counts:
+    characters_real: 1071
+    characters_total: 1352
+    file: ./posts/recipes/_posts/2016-01-24-chard-soup.markdown
+    paragraphs: 6
+    type: jekyll
+    words: 282
 layout: post
 title: Chard, Tomato, and Salt Pork Soup
 ---

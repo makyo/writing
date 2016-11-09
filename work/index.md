@@ -1,7 +1,14 @@
 ---
-layout: post
-title: Here be dragons...
 comments: false
+counts:
+    characters_real: 202
+    characters_total: 231
+    file: ./work/index.md
+    paragraphs: 1
+    type: jekyll
+    words: 30
+layout: page
+title: Here be dragons...
 ---
 
 * [Getting Lost](getting-lost) - NaNoWriMo 2015

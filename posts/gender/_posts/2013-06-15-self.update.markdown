@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 5969
+    characters_total: 7306
+    file: ./posts/gender/_posts/2013-06-15-self.update.markdown
+    paragraphs: 12
+    type: jekyll
+    words: 1338
 layout: post
 title: self.update
-
 ---
 
 I told myself when I started writing more that I'd spend less time writing about

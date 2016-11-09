@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 4518
+    characters_total: 5500
+    file: ./posts/gender/_posts/2015-05-29-the-path-and-new-beginnings.markdown
+    paragraphs: 11
+    type: jekyll
+    words: 983
 layout: post
 title: The Path - and New Beginnings
-
 ---
 
 Hindsight is, as they say, twenty-twenty.  That's a core part of the trans

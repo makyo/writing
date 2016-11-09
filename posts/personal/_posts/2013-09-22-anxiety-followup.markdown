@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 2944
+    characters_total: 3655
+    file: ./posts/personal/_posts/2013-09-22-anxiety-followup.markdown
+    paragraphs: 8
+    type: jekyll
+    words: 712
 layout: post
 title: Anxiety - Follow-up
-
 ---
 
 The last few days have, honestly, been a bit of a rush, in terms of just how

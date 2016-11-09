@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 7472
+    characters_total: 9194
+    file: ./posts/furry/adjspecies/_posts/2011-12-28-online-relationships.markdown
+    paragraphs: 9
+    type: jekyll
+    words: 1723
 layout: link
 link: http://adjectivespecies.com/2011/12/28/online-relationships/
-
 ---
 
 I spent a night a while back cooking dinner for my fianc&eacute;, who was sick

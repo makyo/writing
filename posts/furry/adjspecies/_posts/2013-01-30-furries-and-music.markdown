@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 10015
+    characters_total: 12201
+    file: ./posts/furry/adjspecies/_posts/2013-01-30-furries-and-music.markdown
+    paragraphs: 12
+    type: jekyll
+    words: 2187
 layout: link
 link: http://adjectivespecies.com/2013/01/30/furries-and-music/
-
 ---
 
 Furries and music definitely have a thing going on. I've wanted to write about

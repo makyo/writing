@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 11618
+    characters_total: 13969
+    file: ./posts/furry/adjspecies/_posts/2013-08-07-species-selection-and-character-creation.markdown
+    paragraphs: 41
+    type: jekyll
+    words: 2352
 layout: link
 link: http://adjectivespecies.com/2013/08/07/species-selection-and-character-creation/
-
 ---
 
 This weekend, I had the privilege of helping facilitate a panel at Rocky

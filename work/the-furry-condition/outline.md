@@ -1,7 +1,14 @@
 ---
-layout: post
-title: The Furry Condition
 comments: false
+counts:
+    characters_real: 723
+    characters_total: 974
+    file: ./work/the-furry-condition/outline.md
+    paragraphs: 1
+    type: jekyll
+    words: 252
+layout: page
+title: The Furry Condition
 ---
 
 * [ ] The default furry

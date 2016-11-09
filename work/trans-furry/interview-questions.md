@@ -1,5 +1,12 @@
 ---
-layout: post
+counts:
+    characters_real: 461
+    characters_total: 571
+    file: ./work/trans-furry/interview-questions.md
+    paragraphs: 2
+    type: jekyll
+    words: 111
+layout: page
 title: Interview questions for the TH trans & furry article
 ---
 

@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 1007
+    characters_total: 1240
+    file: ./posts/recipes/_posts/2013-10-01-lazy-aplo-manti.markdown
+    paragraphs: 9
+    type: jekyll
+    words: 234
 layout: post
 title: Lazy Aplo Manti
-
 ---
 
 Manti is a Greek dish comprising bulgar, ground meat, and spices mixed together

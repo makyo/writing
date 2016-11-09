@@ -1,4 +1,11 @@
 ---
+counts:
+    characters_real: 3993
+    characters_total: 4906
+    file: ./posts/gender/_posts/2016-08-12-identity-is-not-a-conversation.md
+    paragraphs: 13
+    type: jekyll
+    words: 914
 layout: post
 title: Identity is not a conversation
 ---

@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 7156
+    characters_total: 8758
+    file: ./posts/tech/_posts/2015-04-21-done-vs-finished.markdown
+    paragraphs: 21
+    type: jekyll
+    words: 1603
 layout: post
 title: Done vs. Finished - On Code Reviews and Learning Languages
-
 ---
 
 As part of my yearly goals at work, I've been doing more and more work in Go.

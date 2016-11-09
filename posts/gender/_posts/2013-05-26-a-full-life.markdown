@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 1445
+    characters_total: 1771
+    file: ./posts/gender/_posts/2013-05-26-a-full-life.markdown
+    paragraphs: 2
+    type: jekyll
+    words: 327
 layout: link
-title: A Full Life
 link: http://a-full-life.drab-makyo.com/
-
+title: A Full Life
 ---
 
 I've been spending a lot of time reading articles like [this](http://www.polygon.com/features/2013/5/24/4341042/the-queer-games-scene), and, even though I really don't play any games at all, I really like the idea of communicating an experience more directly than with just words.  It's interesting: a lot of the early uses for technology centered around this, with MUDs and Virtual Reality and all that, but everything sort of skipped off into a television-like experience of interactive fiction.  Only recently is the genre making a comeback, and this time focusing on much smaller goals.  Games such as these focus on only portions of life, or only abstract ideas that one is bound to run into.

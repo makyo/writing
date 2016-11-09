@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 9972
+    characters_total: 12170
+    file: ./posts/furry/adjspecies/_posts/2012-05-30-dimensions-of-character.markdown
+    paragraphs: 21
+    type: jekyll
+    words: 2199
 layout: link
 link: http://adjectivespecies.com/2012/05/30/dimensions-of-character/
-
 ---
 
 One of the things I've noticed more and more as I continue to grow up - not sure

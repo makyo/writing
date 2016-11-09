@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 5572
+    characters_total: 6807
+    file: ./posts/furry/adjspecies/_posts/2013-07-03-on-real-life.markdown
+    paragraphs: 12
+    type: jekyll
+    words: 1236
 layout: link
 link: http://adjectivespecies.com/2013/07/03/on-real-life/
 title: On "Real Life"
-
 ---
 
 One of my classmates in college was pursuing what I believe was a double major

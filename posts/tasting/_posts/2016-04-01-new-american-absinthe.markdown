@@ -1,8 +1,15 @@
 ---
+counts:
+    characters_real: 39736
+    characters_total: 48120
+    file: ./posts/tasting/_posts/2016-04-01-new-american-absinthe.markdown
+    paragraphs: 173
+    type: jekyll
+    words: 8385
 layout: post
-title: New American Absinthe
 redirect_to:
-  - /long-form/new-american-absinthe
+- /long-form/new-american-absinthe
+title: New American Absinthe
 ---
 
 ![The lineup, in no particular order.](/assets/tasting/naa-all.jpg)

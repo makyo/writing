@@ -63,13 +63,6 @@
                 <h2>
                     {{page.title}}
                 </h2>
-                {% if page.counts %}
-                    <p class="text-muted small">
-                        {{ page.counts.file }} &bullet;
-                        {{ page.counts.paragraphs }} {% if page.counts.paragraphs == 1 %}paragraph{% else %}paragraphs{% endif %} &bullet;
-                        {{ page.counts.words }} words
-                    </p>
-                {% endif %}
                 {%if page.categories.size > 0  %}
                     <p>Posted in
                         {% for category in page.categories %}{% if category != "posts" %}
@@ -79,9 +72,14 @@
                         {% if page.rating %}<em> - Rated: {{ page.rating }}</em>{% endif %}</li>
                     </p>
                 {%endif%}
+                {% if page.layout == 'post' or page.layout == 'serial-post' and page.counts %}
+                    <p class="text-muted small">
+                        {{ page.counts.paragraphs }} {% if page.counts.paragraphs == 1 %}paragraph{% else %}paragraphs{% endif %} &bullet;
+                        {{ page.counts.words }} words
+                    </p>
+                {% endif %}
             </div>
         </header>
-
         {{content}}
 
         <footer>

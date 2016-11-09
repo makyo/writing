@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 8974
+    characters_total: 10866
+    file: ./posts/furry/adjspecies/_posts/2012-01-25-participation-mystique.markdown
+    paragraphs: 14
+    type: jekyll
+    words: 1893
 layout: link
 link: http://adjectivespecies.com/2012/01/25/participation-mystique/
-
 ---
 
 Despite my frequent use of the word, I am more of the opinion that furry is a

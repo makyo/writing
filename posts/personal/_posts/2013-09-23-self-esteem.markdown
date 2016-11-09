@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 4660
+    characters_total: 5758
+    file: ./posts/personal/_posts/2013-09-23-self-esteem.markdown
+    paragraphs: 10
+    type: jekyll
+    words: 1099
 layout: post
 title: Self Esteem
-
 ---
 
 After forgetting my midday pill until almost three, I found last night's anxiety

@@ -1,4 +1,11 @@
 ---
+counts:
+    characters_real: 3090
+    characters_total: 3755
+    file: ./posts/tasting/_posts/2016-04-14-white2-brown-sugar.markdown
+    paragraphs: 20
+    type: jekyll
+    words: 666
 layout: post
 title: 2015 White 2 - Brown Sugar Shu
 ---

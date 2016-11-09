@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 3891
+    characters_total: 4685
+    file: ./posts/gender/_posts/2012-11-22-1-books-and-history.markdown
+    paragraphs: 9
+    type: jekyll
+    words: 795
 layout: post
 title: Books and History
-
 ---
 
 > The notion that gender - the social aspects of sexuality - might be separable from biological sex did not become widespread until the second half of the twentieth century.

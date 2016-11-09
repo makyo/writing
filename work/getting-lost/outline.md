@@ -1,5 +1,12 @@
 ---
-layout: post
+counts:
+    characters_real: 3361
+    characters_total: 4160
+    file: ./work/getting-lost/outline.md
+    paragraphs: 12
+    type: jekyll
+    words: 800
+layout: page
 title: Getting Lost
 ---
 

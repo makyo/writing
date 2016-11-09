@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 2379
+    characters_total: 2924
+    file: ./posts/recipes/_posts/2013-04-27-israeli-couscous-mushrooms.markdown
+    paragraphs: 7
+    type: jekyll
+    words: 546
 layout: post
 title: Israeli Couscous with Mixed Mushrooms
-
 ---
 
 <img alt="Round pasta, square bowls" src="/assets/recipes/israeli-couscous-mushrooms.png" style="float:left;margin-right: 2em;" />

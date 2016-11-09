@@ -1,7 +1,14 @@
 ---
-layout: post
-title: Inner Demons - Outline
 comments: false
+counts:
+    characters_real: 3321
+    characters_total: 4107
+    file: ./work/inner-demons/outline.md
+    paragraphs: 5
+    type: jekyll
+    words: 787
+layout: page
+title: Inner Demons - Outline
 ---
 
 Family moves, oldest son is depressed, haunting starts, gets worse over time, solution is they all have to go to demon, surrounded by perfect calm and everything in it's place wherever they go, tell son to kill himself, demon is stopped, but with laughter, exactly as it had willed. Everything back to normal, only the family remembers what happened, only thing different is oldest son still dead of suicide

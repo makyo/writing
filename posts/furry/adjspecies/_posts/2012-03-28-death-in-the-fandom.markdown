@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 6877
+    characters_total: 8408
+    file: ./posts/furry/adjspecies/_posts/2012-03-28-death-in-the-fandom.markdown
+    paragraphs: 13
+    type: jekyll
+    words: 1532
 layout: link
 link: http://adjectivespecies.com/2012/03/28/death-in-the-fandom/
-
 ---
 
 If we accept the fact that the furry subculture, the fandom as a cohesive group

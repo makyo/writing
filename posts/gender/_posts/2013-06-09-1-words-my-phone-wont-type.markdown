@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 1282
+    characters_total: 1594
+    file: ./posts/gender/_posts/2013-06-09-1-words-my-phone-wont-type.markdown
+    paragraphs: 11
+    type: jekyll
+    words: 313
 layout: post
 title: Words Android Refuses to Type
-
 ---
 
 I keep running across words that are disallowed by autocorrect on Android

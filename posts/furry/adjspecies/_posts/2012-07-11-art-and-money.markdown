@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 7839
+    characters_total: 9495
+    file: ./posts/furry/adjspecies/_posts/2012-07-11-art-and-money.markdown
+    paragraphs: 16
+    type: jekyll
+    words: 1657
 layout: link
 link: http://adjectivespecies.com/2012/07/11/art-and-money/
-
 ---
 
 The relationship between art and money is always tense. In fact, one of my

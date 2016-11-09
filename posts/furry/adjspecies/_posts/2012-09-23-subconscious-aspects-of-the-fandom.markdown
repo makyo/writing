@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 6628
+    characters_total: 8095
+    file: ./posts/furry/adjspecies/_posts/2012-09-23-subconscious-aspects-of-the-fandom.markdown
+    paragraphs: 14
+    type: jekyll
+    words: 1468
 layout: link
 link: http://adjectivespecies.com/2012/09/23/subconscious-aspects-of-the-fandom/
-
 ---
 
 Did you know that I used to read tarot cards? I still have the embarrassingly

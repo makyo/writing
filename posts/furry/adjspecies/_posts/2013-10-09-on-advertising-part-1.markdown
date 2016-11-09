@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 5408
+    characters_total: 6546
+    file: ./posts/furry/adjspecies/_posts/2013-10-09-on-advertising-part-1.markdown
+    paragraphs: 33
+    type: jekyll
+    words: 1139
 layout: post
-title: "On Advertising: Part 1 - Before"
-
+title: 'On Advertising: Part 1 - Before'
 ---
 
 I'm trying a little bit of an experiment with a few projects of mine.

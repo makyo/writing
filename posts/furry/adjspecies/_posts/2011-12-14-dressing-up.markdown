@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 8636
+    characters_total: 10567
+    file: ./posts/furry/adjspecies/_posts/2011-12-14-dressing-up.markdown
+    paragraphs: 13
+    type: jekyll
+    words: 1932
 layout: link
 link: http://adjectivespecies.com/2011/12/14/dressing-up/
-
 ---
 
 I've been within the fandom for about eleven years now, and only relatively

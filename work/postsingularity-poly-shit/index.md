@@ -1,5 +1,12 @@
 ---
-layout: post
+counts:
+    characters_real: 127
+    characters_total: 156
+    file: ./work/postsingularity-poly-shit/index.md
+    paragraphs: 2
+    type: jekyll
+    words: 30
+layout: page
 title: Post-singularity Polyamorous Bullshit (working title)
 ---
 

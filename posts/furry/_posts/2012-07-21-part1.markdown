@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 60098
+    characters_total: 72971
+    file: ./posts/furry/_posts/2012-07-21-part1.markdown
+    paragraphs: 159
+    type: jekyll
+    words: 12874
 layout: post
-title: Part 1 - Participation Mystique
 permalink: /furry/part1/
-
+title: Part 1 - Participation Mystique
 ---
 
 So.  What is furry?

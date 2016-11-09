@@ -1,7 +1,13 @@
 ---
-title: Gender Neutral
+counts:
+    characters_real: 2534
+    characters_total: 3089
+    file: ./posts/gender/gendernull/_posts/2012-08-03-gender-neutral.markdown
+    paragraphs: 10
+    type: jekyll
+    words: 556
 layout: post
-
+title: Gender Neutral
 ---
 
 I had an interesting discussion the other night that I'd just like to mention briefly here.  I spend quite a bit of my time talking with friends in an environment (a MUCK) which encourages both speech and action.  Rather than the anonymous room of an IRC channel, rooms are actual locations that you can wander through, and you can interact with objects and others.  I say "can", but in reality, if you get any group of people together online in one location, odds are is they'll form a bar, tavern, or meeting hall type location and mostly just shoot the shit in there.

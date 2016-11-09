@@ -1,7 +1,13 @@
 ---
-title: Tabbouleh
+counts:
+    characters_real: 1057
+    characters_total: 1309
+    file: ./posts/recipes/_posts/2013-05-13-tabbouleh.markdown
+    paragraphs: 5
+    type: jekyll
+    words: 253
 layout: post
-
+title: Tabbouleh
 ---
 
 <img alt="Tabbouleh" src="/assets/recipes/tabbouleh.png" style="float:left;margin-right:2em" />

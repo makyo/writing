@@ -1,7 +1,13 @@
 ---
-title: The Awkward
+counts:
+    characters_real: 4213
+    characters_total: 5233
+    file: ./posts/gender/gendernull/_posts/2012-07-03-the-awkward.markdown
+    paragraphs: 3
+    type: jekyll
+    words: 1021
 layout: post
-
+title: The Awkward
 ---
 
 I don't doubt that, in America, a male losing his sexuality is kind of an awkward thing to behold.  Men place so much on their ability to perform, their masculinity, their machismo.  I know I've got the whole gender thing going on, but I'm still a guy.  I was raised a guy, I have guy thoughts, and I have a guy body, and I don't...necessarily want to get rid of either of those.  Even so, here I am.

@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 1643
+    characters_total: 2054
+    file: ./posts/recipes/_posts/2013-04-28-lamb-shank-stew.markdown
+    paragraphs: 6
+    type: jekyll
+    words: 412
 layout: post
 title: Lamb Shank Stew
-
 ---
 
 I know I've been on a bit of a middle-eastern kick recently.  I've been mowing through hummus, pita, harissa, and so on for a few weeks now.  I can't help it, though, it's delicious!  This isn't any dish in particular, just something I've made with ingredients I've had on hand, and it's been pretty good.  It only makes a few servings, restricted as it is by the fact that lamb shanks don't really have all that much meat on them, and so we've never really kept any around - it always disappears.

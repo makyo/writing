@@ -1,7 +1,13 @@
 ---
-title: Advice
+counts:
+    characters_real: 10061
+    characters_total: 12441
+    file: ./posts/tech/_posts/2013-05-17-advice.markdown
+    paragraphs: 28
+    type: jekyll
+    words: 2381
 layout: post
-
+title: Advice
 ---
 
 I was recently asked over lunch to provide some advice for someone going through my alma mater's computer science program.  I took up the whole of lunch rambling on, and dropping in comments like, "Maybe I should just write this down," and "I'll put this online so you can just give it to him directly," and so on.  It's a real problem I have.  I think, "Oh that's a simple question to answer," and really, if ever there were a signifier that a question is anything but, it's that exact thought.  Anyway, here's some advice.

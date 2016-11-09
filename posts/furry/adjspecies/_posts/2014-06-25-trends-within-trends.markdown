@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 5395
+    characters_total: 6538
+    file: ./posts/furry/adjspecies/_posts/2014-06-25-trends-within-trends.markdown
+    paragraphs: 17
+    type: jekyll
+    words: 1144
 layout: post
 title: Trends Within Trends
-
 ---
 
 ![Tiny foxes: good for comforting](/assets/furry/trends-within-trends/kb-tinyfoxcomfort1.jpg)

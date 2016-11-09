@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 5683
+    characters_total: 6932
+    file: ./posts/gender/_posts/2012-11-23-memes-from-the-suffragist-era.markdown
+    paragraphs: 15
+    type: jekyll
+    words: 1250
 layout: link
-title: Memes From the Suffragist Era
 link: http://www.collectorsweekly.com/articles/war-on-women-waged-in-postcards-memes-from-the-suffragist-era/
-
+title: Memes From the Suffragist Era
 ---
 
 I read this excellent article a while back when Kate Beaton posted it, and was tempted to write about it somewhere, but lacked the outlet.  I posted a quip on my main tumblr, but then felt bad for doing so, because that was mostly just a place to post cute little furry things and to follow others.  I mean, I dig the whole separation of concerns online; I think it really helps to have a place for each of the things that interests you.  However, now that means that I've got more than one tumblr blog, \[a\]\[s\], a wordpress elsewhere, a jekyll site, and so on and so on.

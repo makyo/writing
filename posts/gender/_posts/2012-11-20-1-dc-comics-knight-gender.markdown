@@ -1,8 +1,14 @@
 ---
+counts:
+    characters_real: 1625
+    characters_total: 1981
+    file: ./posts/gender/_posts/2012-11-20-1-dc-comics-knight-gender.markdown
+    paragraphs: 5
+    type: jekyll
+    words: 357
 layout: link
-title: DC Comics' new Knight's gender shines forth
 link: http://www.gaystarnews.com/article/dc-comics%E2%80%99-new-knight%E2%80%99s-gender-shines-forth171112
-
+title: DC Comics' new Knight's gender shines forth
 ---
 
 Some discussion on a DC character's apparent admission to...something like some sort of non-normative gender/sex.  It's hard to tell, as the story takes place in the time of Camelot, really.  I'll at least give it to the creators for keeping that part sort of authentic (I know, I know, comics...but still, sometimes the little anachronisms are the ones that stick in the craw).

@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 7803
+    characters_total: 9371
+    file: ./posts/furry/adjspecies/_posts/2012-12-19-on-giving.markdown
+    paragraphs: 16
+    type: jekyll
+    words: 1569
 layout: link
 link: http://adjectivespecies.com/2012/12/19/on-giving/
-
 ---
 
 Normally, I keep myself a list of articles that I'd like to write for

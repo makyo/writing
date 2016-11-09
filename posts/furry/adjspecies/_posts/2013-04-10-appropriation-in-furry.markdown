@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 7255
+    characters_total: 8810
+    file: ./posts/furry/adjspecies/_posts/2013-04-10-appropriation-in-furry.markdown
+    paragraphs: 11
+    type: jekyll
+    words: 1556
 layout: link
 link: http://adjectivespecies.com/2013/04/10/appropriation-in-furry/
-
 ---
 
 There are a lot of ways to think about furry. Tons and tons. It's a bit

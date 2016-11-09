@@ -1,5 +1,12 @@
 ---
-layout: post
+counts:
+    characters_real: 286
+    characters_total: 360
+    file: ./poetry/the-dogs-assure-me/index.md
+    paragraphs: 2
+    type: jekyll
+    words: 75
+layout: page
 title: The Dogs Assure Me - 2015-03-06
 ---
 

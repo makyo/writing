@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 3516
+    characters_total: 4329
+    file: ./posts/gender/_posts/2012-11-25-3-on-anxiety.markdown
+    paragraphs: 10
+    type: jekyll
+    words: 814
 layout: post
 title: On Anxiety
-
 ---
 
 I have a hard time with anxiety. Like...a real hard time. I know that the Internet in general and tumblr specifically seem to be focused around talking about a lot of the things that aren't right in one's life, but its pretty pertinent here, I think, where my whole goal is to talk about all those weird and awesome (and weirdly awesome) things about gender, sexuality, and so on.

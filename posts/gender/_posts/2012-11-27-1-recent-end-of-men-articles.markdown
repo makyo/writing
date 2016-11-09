@@ -1,7 +1,13 @@
 ---
+counts:
+    characters_real: 1591
+    characters_total: 1908
+    file: ./posts/gender/_posts/2012-11-27-1-recent-end-of-men-articles.markdown
+    paragraphs: 4
+    type: jekyll
+    words: 318
 layout: post
 title: On the Recent Spate of Breathless End-of-Men Articles
-
 ---
 
 I've seen a whole slew of 'end of men' articles come around recently, from various sources ([The Atlantic](http://www.theatlantic.com/magazine/archive/2010/07/the-end-of-men/308135/). [Fox](http://www.foxnews.com/opinion/2012/11/24/war-on-men/), and [some others](http://scenariosusa.tumblr.com/post/36541292226/the-war-on-men)), and I'm a little confused.  This all sort of goes back to that zero-sum quote from the Suffrage Postcards article I [mentioned](http://androgynousfox.tumblr.com/post/36365965458/memes-from-the-suffragist-era) a while back, where the reaction to a lot of advances by one group, particularly in a binary, fearing that their rights will be lessened by the act. It's also come up twice in personal accounts in various levels of pertinence, and I'm still just confused by the whole thing.  
