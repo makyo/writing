@@ -63,6 +63,13 @@
                 <h2>
                     {{page.title}}
                 </h2>
+                {% if page.counts %}
+                    <p class="text-muted small">
+                        {{ page.counts.file }} &bullet;
+                        {{ page.counts.paragraphs }} {% if page.counts.paragraphs == 1 %}paragraph{% else %}paragraphs{% endif %} &bullet;
+                        {{ page.counts.words }} words
+                    </p>
+                {% endif %}
                 {%if page.categories.size > 0  %}
                     <p>Posted in
                         {% for category in page.categories %}{% if category != "posts" %}
