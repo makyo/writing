@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 4213
-    characters_total: 5233
+    characters_total: 5261
     file: ./posts/gender/gendernull/_posts/2012-07-03-the-awkward.markdown
     paragraphs: 3
     type: jekyll
-    words: 1021
+    words: 1009
 layout: post
 title: The Awkward
 ---

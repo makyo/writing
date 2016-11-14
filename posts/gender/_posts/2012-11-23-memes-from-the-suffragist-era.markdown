@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 5683
-    characters_total: 6932
+    characters_real: 5657
+    characters_total: 6931
     file: ./posts/gender/_posts/2012-11-23-memes-from-the-suffragist-era.markdown
     paragraphs: 15
     type: jekyll
-    words: 1250
+    words: 1244
 layout: link
 link: http://www.collectorsweekly.com/articles/war-on-women-waged-in-postcards-memes-from-the-suffragist-era/
 title: Memes From the Suffragist Era

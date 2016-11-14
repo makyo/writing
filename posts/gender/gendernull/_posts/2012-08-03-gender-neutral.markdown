@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 2534
-    characters_total: 3089
+    characters_total: 3106
     file: ./posts/gender/gendernull/_posts/2012-08-03-gender-neutral.markdown
     paragraphs: 10
     type: jekyll
-    words: 556
+    words: 555
 layout: post
 title: Gender Neutral
 ---

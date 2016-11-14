@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 2379
-    characters_total: 2924
+    characters_real: 2260
+    characters_total: 2788
     file: ./posts/recipes/_posts/2013-04-27-israeli-couscous-mushrooms.markdown
     paragraphs: 7
     type: jekyll
-    words: 546
+    words: 514
 layout: post
 title: Israeli Couscous with Mixed Mushrooms
 ---

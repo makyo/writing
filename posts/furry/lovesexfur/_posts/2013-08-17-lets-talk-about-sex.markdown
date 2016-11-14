@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 10056
-    characters_total: 12261
+    characters_real: 9718
+    characters_total: 11995
     file: ./posts/furry/lovesexfur/_posts/2013-08-17-lets-talk-about-sex.markdown
     paragraphs: 25
     type: jekyll
-    words: 2206
+    words: 2187
 layout: link
 link: http://lovesexfur.com/2013/08/17/lets-talk-about-sex/
 title: Let's Talk About Sex

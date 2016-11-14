@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 7472
-    characters_total: 9194
+    characters_real: 7464
+    characters_total: 9189
     file: ./posts/furry/adjspecies/_posts/2011-12-28-online-relationships.markdown
     paragraphs: 9
     type: jekyll
-    words: 1723
+    words: 1721
 layout: link
 link: http://adjectivespecies.com/2011/12/28/online-relationships/
 ---

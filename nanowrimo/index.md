@@ -1,12 +1,12 @@
 ---
 comments: false
 counts:
-    characters_real: 277
-    characters_total: 331
+    characters_real: 240
+    characters_total: 295
     file: ./nanowrimo/index.md
     paragraphs: 4
     type: jekyll
-    words: 55
+    words: 48
 layout: page
 title: NaNoWriMo
 ---

@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 3081
-    characters_total: 3762
+    characters_total: 3784
     file: ./posts/gender/gendernull/_posts/2012-08-19-status-update.markdown
     paragraphs: 7
     type: jekyll
-    words: 682
+    words: 676
 layout: post
 title: Status Update
 ---

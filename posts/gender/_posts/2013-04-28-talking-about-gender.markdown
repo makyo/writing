@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 4051
-    characters_total: 4938
+    characters_real: 3834
+    characters_total: 4740
     file: ./posts/gender/_posts/2013-04-28-talking-about-gender.markdown
     paragraphs: 8
     type: jekyll
-    words: 888
+    words: 886
 layout: post
 title: Talking About Gender
 ---

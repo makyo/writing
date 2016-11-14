@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 9585
-    characters_total: 11628
+    characters_real: 9118
+    characters_total: 11186
     file: ./posts/furry/adjspecies/_posts/2013-09-25-communitas-liminality-marginality-outsidership.markdown
     paragraphs: 19
     type: jekyll
-    words: 2044
+    words: 1998
 layout: post
 title: 'Communitas: Liminality, Marginality, and Outsidership'
 ---

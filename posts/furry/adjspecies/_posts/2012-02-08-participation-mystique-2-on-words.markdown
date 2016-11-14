@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 8330
-    characters_total: 10094
+    characters_real: 8126
+    characters_total: 9950
     file: ./posts/furry/adjspecies/_posts/2012-02-08-participation-mystique-2-on-words.markdown
     paragraphs: 16
     type: jekyll
-    words: 1765
+    words: 1769
 layout: link
 link: http://adjectivespecies.com/2012/02/08/participation-mystique-2-on-words/
 title: Participation Mystique 2 - On Words

@@ -1,7 +1,7 @@
 ---
 counts:
-    characters_real: 531
-    characters_total: 636
+    characters_real: 502
+    characters_total: 612
     file: ./posts/gender/_posts/2012-11-26-4-marrying-transsexual-woman-without-knowing.markdown
     paragraphs: 2
     type: jekyll

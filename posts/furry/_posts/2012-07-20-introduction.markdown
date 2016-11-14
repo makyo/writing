@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 8371
-    characters_total: 10240
+    characters_real: 8252
+    characters_total: 10196
     file: ./posts/furry/_posts/2012-07-20-introduction.markdown
     paragraphs: 29
     type: jekyll
-    words: 1870
+    words: 1843
 layout: post
 permalink: /furry/introduction/
 title: Introduction

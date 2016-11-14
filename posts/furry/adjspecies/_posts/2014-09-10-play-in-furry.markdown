@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 4651
-    characters_total: 5601
+    characters_real: 4441
+    characters_total: 5414
     file: ./posts/furry/adjspecies/_posts/2014-09-10-play-in-furry.markdown
     paragraphs: 13
     type: jekyll
-    words: 951
+    words: 940
 layout: post
 title: Play In Furry
 ---

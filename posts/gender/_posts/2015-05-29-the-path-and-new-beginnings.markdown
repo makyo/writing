@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 4518
-    characters_total: 5500
+    characters_real: 4485
+    characters_total: 5495
     file: ./posts/gender/_posts/2015-05-29-the-path-and-new-beginnings.markdown
     paragraphs: 11
     type: jekyll
-    words: 983
+    words: 979
 layout: post
 title: The Path - and New Beginnings
 ---

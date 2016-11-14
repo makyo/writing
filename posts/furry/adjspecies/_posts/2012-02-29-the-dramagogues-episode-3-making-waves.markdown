@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 7137
-    characters_total: 8642
+    characters_real: 6906
+    characters_total: 8460
     file: ./posts/furry/adjspecies/_posts/2012-02-29-the-dramagogues-episode-3-making-waves.markdown
     paragraphs: 20
     type: jekyll
-    words: 1506
+    words: 1504
 layout: link
 link: http://adjectivespecies.com/2012/02/29/the-dramagogues-episode-3-making-waves/
 title: The Dramagogues - Episode 3 - Making Waves

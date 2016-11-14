@@ -1,12 +1,12 @@
 ---
 comments: false
 counts:
-    characters_real: 88
-    characters_total: 101
+    characters_real: 52
+    characters_total: 63
     file: ./poetry/index.md
     paragraphs: 1
     type: jekyll
-    words: 14
+    words: 10
 layout: page
 title: Poetry
 ---

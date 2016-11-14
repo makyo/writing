@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 20516
-    characters_total: 25452
+    characters_real: 20480
+    characters_total: 25556
     file: ./posts/suicide/_posts/2012-07-27-part1.markdown
     paragraphs: 92
     type: jekyll
-    words: 4937
+    words: 4903
 layout: post
 permalink: /suicide/part1/
 title: Part 1

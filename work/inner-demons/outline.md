@@ -1,12 +1,12 @@
 ---
 comments: false
 counts:
-    characters_real: 3321
-    characters_total: 4107
+    characters_real: 3298
+    characters_total: 4054
     file: ./work/inner-demons/outline.md
     paragraphs: 5
     type: jekyll
-    words: 787
+    words: 693
 layout: page
 title: Inner Demons - Outline
 ---

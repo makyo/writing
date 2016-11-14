@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 5680
-    characters_total: 6952
+    characters_real: 5656
+    characters_total: 6961
     file: ./posts/personal/_posts/2013-10-28-medication-and-analogies.markdown
     paragraphs: 11
     type: jekyll
-    words: 1273
+    words: 1271
 layout: post
 ---
 

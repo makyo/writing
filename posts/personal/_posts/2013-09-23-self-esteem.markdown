@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 4660
-    characters_total: 5758
+    characters_total: 5785
     file: ./posts/personal/_posts/2013-09-23-self-esteem.markdown
     paragraphs: 10
     type: jekyll
-    words: 1099
+    words: 1094
 layout: post
 title: Self Esteem
 ---

@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 7933
-    characters_total: 9801
+    characters_real: 7929
+    characters_total: 9796
     file: ./posts/furry/adjspecies/_posts/2012-01-11-the-dramagogues-episode-1-strife.markdown
     paragraphs: 17
     type: jekyll
-    words: 1869
+    words: 1848
 layout: link
 link: http://adjectivespecies.com/2012/01/11/the-dramagogues-episode-1-strife/
 title: The Dramagogues - Episode 1 - Strife

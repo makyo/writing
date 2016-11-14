@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 1445
-    characters_total: 1771
+    characters_real: 1388
+    characters_total: 1725
     file: ./posts/gender/_posts/2013-05-26-a-full-life.markdown
     paragraphs: 2
     type: jekyll
-    words: 327
+    words: 328
 layout: link
 link: http://a-full-life.drab-makyo.com/
 title: A Full Life

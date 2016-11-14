@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 7834
-    characters_total: 9564
+    characters_real: 7830
+    characters_total: 9565
     file: ./posts/furry/lovesexfur/_posts/2013-06-22-fantasy-and-frameworks.markdown
     paragraphs: 16
     type: jekyll
-    words: 1731
+    words: 1726
 layout: link
 link: http://lovesexfur.com/2013/06/22/fantasy-and-frameworks/
 ---

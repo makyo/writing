@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 8865
-    characters_total: 10854
+    characters_real: 8651
+    characters_total: 10699
     file: ./posts/furry/adjspecies/_posts/2011-12-21-convention-mystique.markdown
     paragraphs: 15
     type: jekyll
-    words: 1990
+    words: 1980
 layout: link
 link: http://adjectivespecies.com/2011/12/21/convention-mystique/
 ---

@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 519
-    characters_total: 664
+    characters_real: 469
+    characters_total: 600
     file: ./posts/personal/_posts/2013-10-06-millie.markdown
     paragraphs: 6
     type: jekyll
-    words: 146
+    words: 124
 layout: post
 ---
 

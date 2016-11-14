@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 300
-    characters_total: 370
+    characters_real: 298
+    characters_total: 372
     file: ./posts/gender/_posts/2012-11-20-3-woman-vs-female.markdown
     paragraphs: 2
     type: jekyll
-    words: 71
+    words: 72
 layout: link
 link: http://grammar.quickanddirtytips.com/woman-versus-female.aspx
 title: '''Woman'' vs. ''Female'''

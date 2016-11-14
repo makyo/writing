@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 5010
-    characters_total: 6163
+    characters_total: 6192
     file: ./posts/gender/gendernull/_posts/2012-11-02-the-strange-depths-of-self-harm.markdown
     paragraphs: 9
     type: jekyll
-    words: 1154
+    words: 1153
 layout: post
 title: The Strange Depths of Self Harm
 ---

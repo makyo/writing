@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 3308
-    characters_total: 4059
+    characters_total: 4084
     file: ./posts/gender/gendernull/_posts/2012-07-06-asexuality-celibacy-whatever.markdown
     paragraphs: 10
     type: jekyll
-    words: 752
+    words: 751
 layout: post
 title: Asexuality, Celibacy, and Whatever-this-is
 ---

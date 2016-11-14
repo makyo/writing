@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 8405
-    characters_total: 10166
+    characters_real: 8178
+    characters_total: 9988
     file: ./posts/furry/adjspecies/_posts/2011-11-16-boys-girls-and-the-inbetweens.markdown
     paragraphs: 15
     type: jekyll
-    words: 1762
+    words: 1761
 layout: link
 link: http://adjectivespecies.com/2011/11/16/boys-girls-and-the-in-betweens/
 ---

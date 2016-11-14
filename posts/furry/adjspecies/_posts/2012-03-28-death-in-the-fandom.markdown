@@ -1,7 +1,7 @@
 ---
 counts:
-    characters_real: 6877
-    characters_total: 8408
+    characters_real: 6822
+    characters_total: 8380
     file: ./posts/furry/adjspecies/_posts/2012-03-28-death-in-the-fandom.markdown
     paragraphs: 13
     type: jekyll

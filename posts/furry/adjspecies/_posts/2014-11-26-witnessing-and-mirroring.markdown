@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 9217
-    characters_total: 11190
+    characters_real: 9055
+    characters_total: 11017
     file: ./posts/furry/adjspecies/_posts/2014-11-26-witnessing-and-mirroring.markdown
     paragraphs: 19
     type: jekyll
-    words: 1974
+    words: 1941
 layout: post
 title: Witnessing and Mirroring
 ---

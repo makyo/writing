@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 1032
-    characters_total: 1238
+    characters_real: 796
+    characters_total: 980
     file: ./posts/recipes/_posts/2013-05-14-lamb-thing.markdown
     paragraphs: 6
     type: jekyll
-    words: 207
+    words: 176
 layout: post
 title: Ground Lamb and Olive Tapenade
 ---

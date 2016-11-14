@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 5395
-    characters_total: 6538
+    characters_real: 4923
+    characters_total: 6035
     file: ./posts/furry/adjspecies/_posts/2014-06-25-trends-within-trends.markdown
     paragraphs: 17
     type: jekyll
-    words: 1144
+    words: 1106
 layout: post
 title: Trends Within Trends
 ---

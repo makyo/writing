@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 957
-    characters_total: 1149
+    characters_real: 881
+    characters_total: 1074
     file: ./posts/gender/_posts/2012-12-20-growing-up-trans.markdown
     paragraphs: 3
     type: jekyll
-    words: 193
+    words: 192
 layout: link
 link: http://www.mookychick.co.uk/feminism-politics/lgbtq/transgender-transition.php
 title: Growing Up Trans...The Inbetweeners Of Society

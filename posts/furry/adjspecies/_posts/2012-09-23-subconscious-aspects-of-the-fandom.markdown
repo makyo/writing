@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 6628
-    characters_total: 8095
+    characters_real: 6519
+    characters_total: 8008
     file: ./posts/furry/adjspecies/_posts/2012-09-23-subconscious-aspects-of-the-fandom.markdown
     paragraphs: 14
     type: jekyll
-    words: 1468
+    words: 1470
 layout: link
 link: http://adjectivespecies.com/2012/09/23/subconscious-aspects-of-the-fandom/
 ---

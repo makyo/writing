@@ -1,7 +1,7 @@
 ---
 counts:
     characters_real: 1570
-    characters_total: 1943
+    characters_total: 1952
     file: ./posts/gender/_posts/2013-04-05-transgender-gamers.markdown
     paragraphs: 3
     type: jekyll

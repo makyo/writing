@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 3361
-    characters_total: 4160
+    characters_real: 3348
+    characters_total: 4220
     file: ./work/getting-lost/outline.md
     paragraphs: 12
     type: jekyll
-    words: 800
+    words: 697
 layout: page
 title: Getting Lost
 ---

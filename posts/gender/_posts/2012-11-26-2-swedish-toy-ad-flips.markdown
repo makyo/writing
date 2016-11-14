@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 727
-    characters_total: 893
+    characters_total: 897
     file: ./posts/gender/_posts/2012-11-26-2-swedish-toy-ad-flips.markdown
     paragraphs: 5
     type: jekyll
-    words: 167
+    words: 166
 layout: link
 link: http://gawker.com/5963362/
 title: 'Up is Down and Girls are Boys: Swedish Toy Ad Flips the Script on Christmas'

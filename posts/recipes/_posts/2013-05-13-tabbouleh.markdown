@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 1057
-    characters_total: 1309
+    characters_real: 971
+    characters_total: 1202
     file: ./posts/recipes/_posts/2013-05-13-tabbouleh.markdown
     paragraphs: 5
     type: jekyll
-    words: 253
+    words: 225
 layout: post
 title: Tabbouleh
 ---

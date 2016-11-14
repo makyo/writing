@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 735
-    characters_total: 883
+    characters_total: 886
     file: ./posts/gender/_posts/2012-12-04-1-gender-and-race.markdown
     paragraphs: 3
     type: jekyll
-    words: 149
+    words: 145
 layout: link
 link: http://www.sciencedaily.com/releases/2012/12/121203131702.htm
 title: 'Gender and Race: How Overlapping Stereotypes Affect Our Personal and Professional

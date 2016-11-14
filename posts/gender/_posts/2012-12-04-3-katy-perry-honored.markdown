@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 2504
-    characters_total: 3103
+    characters_real: 2435
+    characters_total: 3053
     file: ./posts/gender/_posts/2012-12-04-3-katy-perry-honored.markdown
     paragraphs: 6
     type: jekyll
-    words: 600
+    words: 598
 layout: link
 link: http://www.autostraddle.com/the-trevor-project-gives-katy-perry-an-award-because-gay-visibility-or-something-148848/
 title: Katy Perry Perplexingly Honored By The Trevor Project for LGBTQ Visibility

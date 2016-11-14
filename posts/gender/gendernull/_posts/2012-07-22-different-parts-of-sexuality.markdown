@@ -1,7 +1,7 @@
 ---
 counts:
     characters_real: 2832
-    characters_total: 3499
+    characters_total: 3523
     file: ./posts/gender/gendernull/_posts/2012-07-22-different-parts-of-sexuality.markdown
     paragraphs: 8
     type: jekyll

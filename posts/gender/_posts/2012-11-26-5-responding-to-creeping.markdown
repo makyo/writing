@@ -1,7 +1,7 @@
 ---
 counts:
     characters_real: 621
-    characters_total: 748
+    characters_total: 749
     file: ./posts/gender/_posts/2012-11-26-5-responding-to-creeping.markdown
     paragraphs: 2
     type: jekyll

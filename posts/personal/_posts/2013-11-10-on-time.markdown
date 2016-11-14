@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 3635
-    characters_total: 4479
+    characters_total: 4491
     file: ./posts/personal/_posts/2013-11-10-on-time.markdown
     paragraphs: 20
     type: jekyll
-    words: 845
+    words: 826
 layout: post
 ---
 

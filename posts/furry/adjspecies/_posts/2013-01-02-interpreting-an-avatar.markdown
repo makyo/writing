@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 7986
-    characters_total: 9709
+    characters_real: 7816
+    characters_total: 9574
     file: ./posts/furry/adjspecies/_posts/2013-01-02-interpreting-an-avatar.markdown
     paragraphs: 17
     type: jekyll
-    words: 1724
+    words: 1717
 layout: link
 link: http://adjectivespecies.com/2013/01/02/interpreting-an-avatar/
 ---

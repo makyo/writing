@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 30540
-    characters_total: 37054
+    characters_real: 30000
+    characters_total: 36515
     file: ./posts/furry/adjspecies/_posts/2012-04-12-meaning-within-a-subculture.markdown
     paragraphs: 69
     type: jekyll
-    words: 6515
+    words: 6480
 layout: link
 link: http://adjectivespecies.com/meaning-within-a-subculture/
 ---

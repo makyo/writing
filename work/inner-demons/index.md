@@ -1,12 +1,12 @@
 ---
 comments: false
 counts:
-    characters_real: 487
-    characters_total: 590
+    characters_real: 409
+    characters_total: 508
     file: ./work/inner-demons/index.md
     paragraphs: 3
     type: jekyll
-    words: 104
+    words: 96
 layout: post
 title: Inner Demons
 ---

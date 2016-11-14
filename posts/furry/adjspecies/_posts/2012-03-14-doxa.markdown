@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 8021
-    characters_total: 9704
+    characters_real: 7739
+    characters_total: 9505
     file: ./posts/furry/adjspecies/_posts/2012-03-14-doxa.markdown
     paragraphs: 15
     type: jekyll
-    words: 1684
+    words: 1682
 layout: link
 link: http://adjectivespecies.com/2012/03/14/doxa/
 ---

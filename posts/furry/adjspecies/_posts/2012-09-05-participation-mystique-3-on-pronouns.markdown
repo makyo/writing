@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 7740
-    characters_total: 9278
+    characters_real: 7191
+    characters_total: 8777
     file: ./posts/furry/adjspecies/_posts/2012-09-05-participation-mystique-3-on-pronouns.markdown
     paragraphs: 19
     type: jekyll
-    words: 1539
+    words: 1536
 layout: link
 link: http://adjectivespecies.com/2012/09/05/participation-mystique-3-on-pronouns/
 title: Participation Mystique 3 - On Pronouns

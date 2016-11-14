@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 1696
-    characters_total: 2080
+    characters_real: 1692
+    characters_total: 2076
     file: ./work/tns/trans-foss--feedback.md
     paragraphs: 8
     type: jekyll
-    words: 385
+    words: 381
 layout: page
 title: Feedback
 ---

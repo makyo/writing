@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 10890
-    characters_total: 13382
+    characters_total: 13439
     file: ./posts/personal/_posts/2013-09-20-recent-anxiety.markdown
     paragraphs: 26
     type: jekyll
-    words: 2493
+    words: 2485
 layout: post
 title: Recent Anxiety
 ---

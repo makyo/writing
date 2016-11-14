@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 1596
-    characters_total: 1968
+    characters_total: 1970
     file: ./posts/gender/gendernull/_posts/2012-09-24-recent-thoughts-on-gender.markdown
     paragraphs: 2
     type: jekyll
-    words: 373
+    words: 367
 layout: post
 title: Recent Thoughts on Gender
 ---

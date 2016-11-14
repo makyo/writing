@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 1591
-    characters_total: 1908
+    characters_real: 1374
+    characters_total: 1703
     file: ./posts/gender/_posts/2012-11-27-1-recent-end-of-men-articles.markdown
     paragraphs: 4
     type: jekyll
-    words: 318
+    words: 316
 layout: post
 title: On the Recent Spate of Breathless End-of-Men Articles
 ---

@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 10931
-    characters_total: 13371
+    characters_real: 10657
+    characters_total: 13230
     file: ./posts/furry/adjspecies/_posts/2012-02-01-eighty-twenty.markdown
     paragraphs: 24
     type: jekyll
-    words: 2441
+    words: 2427
 layout: link
 link: http://adjectivespecies.com/2012/02/01/eighty-twenty/
 title: Eighty-Twenty

@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 3384
-    characters_total: 4189
+    characters_real: 3266
+    characters_total: 4089
     file: ./posts/tasting/_posts/2016-09-17-teas-of-late.md
     paragraphs: 20
     type: jekyll
-    words: 806
+    words: 795
 layout: post
 title: Teas of Late
 ---

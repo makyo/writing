@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 7016
-    characters_total: 8604
+    characters_real: 7012
+    characters_total: 8621
     file: ./posts/furry/adjspecies/_posts/2012-01-18-the-dramagogues-episode-2-drama.markdown
     paragraphs: 17
     type: jekyll
-    words: 1589
+    words: 1584
 layout: link
 link: http://adjectivespecies.com/2012/01/18/the-dramagogues-episode-2-drama/
 title: The Dramagogues - Episode 2 - Drama

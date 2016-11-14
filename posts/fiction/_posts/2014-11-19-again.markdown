@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 28701
-    characters_total: 35283
+    characters_total: 35510
     file: ./posts/fiction/_posts/2014-11-19-again.markdown
     paragraphs: 203
     type: jekyll
-    words: 6583
+    words: 6588
 layout: post
 rating: X
 title: Again

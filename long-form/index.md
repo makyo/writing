@@ -1,12 +1,12 @@
 ---
 comments: false
 counts:
-    characters_real: 503
-    characters_total: 612
+    characters_real: 474
+    characters_total: 584
     file: ./long-form/index.md
     paragraphs: 3
     type: jekyll
-    words: 110
+    words: 104
 layout: page
 title: Long-Form Works
 ---

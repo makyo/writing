@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 4726
-    characters_total: 5738
+    characters_real: 4522
+    characters_total: 5547
     file: ./posts/gender/_posts/2013-02-13-3-bisexuality-and-binaries-revisited.markdown
     paragraphs: 10
     type: jekyll
-    words: 1013
+    words: 1003
 layout: link
 link: http://juliaserano.blogspot.com/2012/11/bisexuality-and-binaries-revisited.html?spref=tw
 title: Bisexuality and Binaries Revisited

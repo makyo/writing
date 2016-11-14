@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 10667
-    characters_total: 12808
+    characters_real: 10261
+    characters_total: 12459
     file: ./posts/furry/adjspecies/_posts/2012-05-23-spiritual-animals.markdown
     paragraphs: 14
     type: jekyll
-    words: 2142
+    words: 2149
 layout: link
 link: http://adjectivespecies.com/2012/05/23/spiritual-animals/
 ---

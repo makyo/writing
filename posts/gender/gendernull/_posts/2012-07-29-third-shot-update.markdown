@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 4032
-    characters_total: 4946
+    characters_real: 3998
+    characters_total: 4943
     file: ./posts/gender/gendernull/_posts/2012-07-29-third-shot-update.markdown
     paragraphs: 13
     type: jekyll
-    words: 915
+    words: 913
 layout: post
 title: Third Shot Update
 ---

@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 1272
-    characters_total: 1560
+    characters_real: 1168
+    characters_total: 1434
     file: ./posts/recipes/_posts/2013-04-09-mushroomcreamsauce.markdown
     paragraphs: 6
     type: jekyll
-    words: 289
+    words: 258
 layout: post
 title: Mushroom Cream Sauce
 ---

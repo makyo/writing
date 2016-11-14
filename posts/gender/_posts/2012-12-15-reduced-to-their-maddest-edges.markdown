@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 7139
-    characters_total: 8725
+    characters_real: 6988
+    characters_total: 8618
     file: ./posts/gender/_posts/2012-12-15-reduced-to-their-maddest-edges.markdown
     paragraphs: 14
     type: jekyll
-    words: 1587
+    words: 1583
 layout: post
 title: Reduced to Their Maddest Edges
 ---

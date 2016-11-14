@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 1046
-    characters_total: 1287
+    characters_total: 1296
     file: ./posts/gender/_posts/2012-11-24-gender-bending.markdown
     paragraphs: 3
     type: jekyll
-    words: 242
+    words: 244
 layout: post
 title: On Gender Bending
 ---

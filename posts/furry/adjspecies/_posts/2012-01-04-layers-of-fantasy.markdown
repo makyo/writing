@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 6550
-    characters_total: 8022
+    characters_real: 6547
+    characters_total: 8053
     file: ./posts/furry/adjspecies/_posts/2012-01-04-layers-of-fantasy.markdown
     paragraphs: 9
     type: jekyll
-    words: 1473
+    words: 1471
 layout: link
 link: http://adjectivespecies.com/2012/01/04/layers-of-fantasy/
 ---

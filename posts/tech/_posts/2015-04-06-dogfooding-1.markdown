@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 8640
-    characters_total: 10479
+    characters_real: 8182
+    characters_total: 10093
     file: ./posts/tech/_posts/2015-04-06-dogfooding-1.markdown
     paragraphs: 34
     type: jekyll
-    words: 1840
+    words: 1801
 layout: post
 title: Dogfooding - Pt. 1
 ---

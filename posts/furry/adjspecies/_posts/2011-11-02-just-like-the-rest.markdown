@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 6511
-    characters_total: 7982
+    characters_real: 6475
+    characters_total: 8000
     file: ./posts/furry/adjspecies/_posts/2011-11-02-just-like-the-rest.markdown
     paragraphs: 15
     type: jekyll
-    words: 1472
+    words: 1460
 layout: link
 link: http://adjectivespecies.com/2011/11/02/makyos-intro-post-just-like-the-rest/
 ---

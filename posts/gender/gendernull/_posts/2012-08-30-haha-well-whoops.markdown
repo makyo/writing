@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 4821
-    characters_total: 6025
+    characters_total: 5871
     file: ./posts/gender/gendernull/_posts/2012-08-30-haha-well-whoops.markdown
     paragraphs: 2
     type: jekyll
-    words: 1205
+    words: 1035
 layout: post
 title: Haha, well...whoops!
 ---

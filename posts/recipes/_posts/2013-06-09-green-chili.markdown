@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 1086
-    characters_total: 1342
+    characters_real: 979
+    characters_total: 1228
     file: ./posts/recipes/_posts/2013-06-09-green-chili.markdown
     paragraphs: 6
     type: jekyll
-    words: 257
+    words: 229
 layout: post
 title: Pork Green Chili
 ---

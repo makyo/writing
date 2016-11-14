@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 9034
-    characters_total: 11041
+    characters_real: 8748
+    characters_total: 10826
     file: ./posts/furry/adjspecies/_posts/2012-03-21-makyos-kaddish.markdown
     paragraphs: 21
     type: jekyll
-    words: 2008
+    words: 1992
 layout: link
 link: http://adjectivespecies.com/2012/03/21/makyos-kaddish/
 title: Makyo's Kaddish

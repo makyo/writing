@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 8106
-    characters_total: 9920
+    characters_total: 9962
     file: ./posts/fiction/_posts/2005-07-15-milkshakes-and-foxes.markdown
     paragraphs: 38
     type: jekyll
-    words: 1815
+    words: 1806
 layout: post
 rating: X
 title: Milkshakes and Foxes

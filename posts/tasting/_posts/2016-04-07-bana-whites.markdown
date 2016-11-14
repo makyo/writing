@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 4951
-    characters_total: 6086
+    characters_real: 4650
+    characters_total: 5798
     file: ./posts/tasting/_posts/2016-04-07-bana-whites.markdown
     paragraphs: 30
     type: jekyll
-    words: 1136
+    words: 1109
 layout: post
 title: White Raw Pu'ers from Bana Tea Company
 ---

@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 951
-    characters_total: 1177
+    characters_total: 1186
     file: ./posts/gender/_posts/2012-11-20-2-niagra-falls-snow-white.markdown
     paragraphs: 6
     type: jekyll
-    words: 227
+    words: 229
 layout: link
 link: http://wonkette.com/490359/niagara-falls-newspaper-owner-simply-does-not-care-for-snarling-feminism-like-snow-white
 title: NIAGARA FALLS NEWSPAPER OWNER SIMPLY DOES NOT CARE FOR SNARLING FEMINISM LIKE

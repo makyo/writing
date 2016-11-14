@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 1930
-    characters_total: 2380
+    characters_real: 1928
+    characters_total: 2339
     file: ./work/postsingularity-poly-shit/outline.md
     paragraphs: 2
     type: jekyll
-    words: 451
+    words: 393
 layout: page
 title: postsingularity polyamorous bullshit
 ---

@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 720
-    characters_total: 880
+    characters_real: 713
+    characters_total: 870
     file: ./work/furry-relationships/questions.md
     paragraphs: 2
     type: jekyll
-    words: 161
+    words: 153
 layout: page
 title: Interview questions for the article In Love With Furry
 ---

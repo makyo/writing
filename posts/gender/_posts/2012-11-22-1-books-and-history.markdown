@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 3891
-    characters_total: 4685
+    characters_real: 3691
+    characters_total: 4503
     file: ./posts/gender/_posts/2012-11-22-1-books-and-history.markdown
     paragraphs: 9
     type: jekyll
-    words: 795
+    words: 786
 layout: post
 title: Books and History
 ---

@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 4229
-    characters_total: 5230
+    characters_total: 5255
     file: ./posts/gender/_posts/2013-09-25-identity-and-expression.markdown
     paragraphs: 12
     type: jekyll
-    words: 1002
+    words: 999
 layout: post
 ---
 

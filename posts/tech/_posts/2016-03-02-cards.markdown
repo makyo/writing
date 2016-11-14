@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 830
-    characters_total: 975
+    characters_real: 527
+    characters_total: 660
     file: ./posts/tech/_posts/2016-03-02-cards.markdown
     paragraphs: 11
     type: jekyll
-    words: 146
+    words: 126
 layout: post
 title: Juju Cards
 ---

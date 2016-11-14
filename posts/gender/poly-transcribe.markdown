@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 8019
-    characters_total: 9852
+    characters_real: 7937
+    characters_total: 9839
     file: ./posts/gender/poly-transcribe.markdown
     paragraphs: 26
     type: jekyll
-    words: 1834
+    words: 1837
 layout: page
 title: Transcription of Floe's Poly Comic
 ---

@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 1628
-    characters_total: 2006
+    characters_total: 2014
     file: ./posts/gender/gendernull/_posts/2012-07-31-side-effects.markdown
     paragraphs: 2
     type: jekyll
-    words: 379
+    words: 365
 layout: post
 title: Side Effects
 ---

@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 8636
-    characters_total: 10567
+    characters_real: 8297
+    characters_total: 10283
     file: ./posts/furry/adjspecies/_posts/2011-12-14-dressing-up.markdown
     paragraphs: 13
     type: jekyll
-    words: 1932
+    words: 1910
 layout: link
 link: http://adjectivespecies.com/2011/12/14/dressing-up/
 ---

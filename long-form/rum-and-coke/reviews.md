@@ -2,11 +2,11 @@
 comments: false
 counts:
     characters_real: 1245
-    characters_total: 1543
+    characters_total: 1561
     file: ./long-form/rum-and-coke/reviews.md
     paragraphs: 3
     type: jekyll
-    words: 299
+    words: 294
 layout: page
 title: Reviews for Rum and Coke
 ---

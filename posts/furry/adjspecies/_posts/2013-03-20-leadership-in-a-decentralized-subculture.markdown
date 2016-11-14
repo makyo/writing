@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 8667
-    characters_total: 10542
+    characters_real: 8663
+    characters_total: 10543
     file: ./posts/furry/adjspecies/_posts/2013-03-20-leadership-in-a-decentralized-subculture.markdown
     paragraphs: 10
     type: jekyll
-    words: 1876
+    words: 1879
 layout: link
 link: http://adjectivespecies.com/2013/03/20/leadership-in-a-decentralized-subculture/
 ---

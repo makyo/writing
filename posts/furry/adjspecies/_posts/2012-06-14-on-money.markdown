@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 8670
-    characters_total: 10565
+    characters_real: 8666
+    characters_total: 10611
     file: ./posts/furry/adjspecies/_posts/2012-06-14-on-money.markdown
     paragraphs: 16
     type: jekyll
-    words: 1896
+    words: 1890
 layout: link
 link: http://adjectivespecies.com/2012/06/14/on-money/
 ---

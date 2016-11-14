@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 5572
-    characters_total: 6807
+    characters_real: 5568
+    characters_total: 6832
     file: ./posts/furry/adjspecies/_posts/2013-07-03-on-real-life.markdown
     paragraphs: 12
     type: jekyll
-    words: 1236
+    words: 1231
 layout: link
 link: http://adjectivespecies.com/2013/07/03/on-real-life/
 title: On "Real Life"

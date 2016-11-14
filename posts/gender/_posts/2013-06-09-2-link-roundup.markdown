@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 2274
-    characters_total: 2711
+    characters_real: 1644
+    characters_total: 2061
     file: ./posts/gender/_posts/2013-06-09-2-link-roundup.markdown
     paragraphs: 4
     type: jekyll
-    words: 438
+    words: 366
 layout: post
 title: Link Roundup
 ---

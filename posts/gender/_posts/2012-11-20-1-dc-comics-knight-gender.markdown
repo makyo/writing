@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 1625
-    characters_total: 1981
+    characters_total: 1998
     file: ./posts/gender/_posts/2012-11-20-1-dc-comics-knight-gender.markdown
     paragraphs: 5
     type: jekyll
-    words: 357
+    words: 358
 layout: link
 link: http://www.gaystarnews.com/article/dc-comics%E2%80%99-new-knight%E2%80%99s-gender-shines-forth171112
 title: DC Comics' new Knight's gender shines forth

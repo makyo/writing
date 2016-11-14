@@ -1,7 +1,7 @@
 ---
 counts:
     characters_real: 1416
-    characters_total: 1718
+    characters_total: 1721
     file: ./posts/gender/_posts/2012-11-26-1-asexual-not-a-sexual-masterpost.markdown
     paragraphs: 3
     type: jekyll

@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 4848
-    characters_total: 5996
+    characters_total: 6027
     file: ./posts/gender/gendernull/_posts/2012-07-18-so-far.markdown
     paragraphs: 8
     type: jekyll
-    words: 1149
+    words: 1145
 layout: post
 title: So Far
 ---

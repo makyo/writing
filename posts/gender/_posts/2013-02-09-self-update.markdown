@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 4737
-    characters_total: 5817
+    characters_real: 4732
+    characters_total: 5856
     file: ./posts/gender/_posts/2013-02-09-self-update.markdown
     paragraphs: 8
     type: jekyll
-    words: 1081
+    words: 1078
 layout: post
 title: self.update
 ---

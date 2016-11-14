@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 10574
-    characters_total: 12854
+    characters_real: 10473
+    characters_total: 12823
     file: ./posts/furry/adjspecies/_posts/2011-11-23-character-versus-self.markdown
     paragraphs: 14
     type: jekyll
-    words: 2281
+    words: 2278
 layout: link
 link: http://adjectivespecies.com/2011/11/23/character-versus-self/
 title: Boys, Girls, and the Inbetweens

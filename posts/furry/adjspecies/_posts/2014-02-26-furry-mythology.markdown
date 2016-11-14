@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 8730
-    characters_total: 10778
+    characters_real: 8532
+    characters_total: 10507
     file: ./posts/furry/adjspecies/_posts/2014-02-26-furry-mythology.markdown
     paragraphs: 16
     type: jekyll
-    words: 2049
+    words: 1964
 layout: post
 title: Furry Mythology
 ---

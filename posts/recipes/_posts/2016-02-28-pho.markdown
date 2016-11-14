@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 1658
-    characters_total: 2074
+    characters_real: 1657
+    characters_total: 2061
     file: ./posts/recipes/_posts/2016-02-28-pho.markdown
     paragraphs: 9
     type: jekyll
-    words: 417
+    words: 381
 layout: post
 title: "Ph\u1EDF"
 ---

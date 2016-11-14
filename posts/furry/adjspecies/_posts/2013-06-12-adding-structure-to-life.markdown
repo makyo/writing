@@ -1,7 +1,7 @@
 ---
 counts:
-    characters_real: 6884
-    characters_total: 8458
+    characters_real: 6746
+    characters_total: 8325
     file: ./posts/furry/adjspecies/_posts/2013-06-12-adding-structure-to-life.markdown
     paragraphs: 13
     type: jekyll

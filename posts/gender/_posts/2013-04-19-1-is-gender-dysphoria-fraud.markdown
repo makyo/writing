@@ -1,7 +1,7 @@
 ---
 counts:
-    characters_real: 1762
-    characters_total: 2157
+    characters_real: 1728
+    characters_total: 2131
     file: ./posts/gender/_posts/2013-04-19-1-is-gender-dysphoria-fraud.markdown
     paragraphs: 4
     type: jekyll

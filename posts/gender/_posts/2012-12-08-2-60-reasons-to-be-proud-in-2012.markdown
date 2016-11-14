@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 501
-    characters_total: 626
+    characters_total: 628
     file: ./posts/gender/_posts/2012-12-08-2-60-reasons-to-be-proud-in-2012.markdown
     paragraphs: 1
     type: jekyll
-    words: 126
+    words: 124
 layout: link
 link: http://www.buzzfeed.com/stacylambe/60-reasons-to-be-proud-in-2012
 title: 60 Reasons to be Proud in 2012

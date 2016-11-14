@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 6516
-    characters_total: 7881
+    characters_real: 6058
+    characters_total: 7463
     file: ./posts/furry/adjspecies/_posts/2011-11-09-the-default-furry.markdown
     paragraphs: 17
     type: jekyll
-    words: 1366
+    words: 1339
 layout: link
 link: http://adjectivespecies.com/2011/11/09/the-default-furry/
 ---

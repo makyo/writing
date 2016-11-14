@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 1643
-    characters_total: 2054
+    characters_real: 1633
+    characters_total: 2044
     file: ./posts/recipes/_posts/2013-04-28-lamb-shank-stew.markdown
     paragraphs: 6
     type: jekyll
-    words: 412
+    words: 393
 layout: post
 title: Lamb Shank Stew
 ---

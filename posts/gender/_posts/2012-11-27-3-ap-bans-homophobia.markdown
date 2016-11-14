@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 770
-    characters_total: 936
+    characters_total: 943
     file: ./posts/gender/_posts/2012-11-27-3-ap-bans-homophobia.markdown
     paragraphs: 3
     type: jekyll
-    words: 167
+    words: 168
 layout: link
 link: http://www.gaystarnews.com/article/associated-press-bans-word-%E2%80%98homophobia%E2%80%99271112
 title: Associated Press bans the word 'homophobia'

@@ -1,12 +1,12 @@
 ---
 comments: false
 counts:
-    characters_real: 546
-    characters_total: 640
+    characters_real: 397
+    characters_total: 486
     file: ./work/getting-lost/index.md
     paragraphs: 5
     type: jekyll
-    words: 95
+    words: 87
 layout: page
 title: Getting Lost
 ---

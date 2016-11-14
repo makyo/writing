@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 286
-    characters_total: 354
+    characters_total: 355
     file: ./posts/gender/_posts/2012-11-26-3-androgynous-models.markdown
     paragraphs: 2
     type: jekyll
-    words: 69
+    words: 67
 layout: link
 link: http://www.guardian.co.uk/fashion/fashion-blog/2012/nov/25/androgynous-models-ignore-gender-rules
 title: Androgynous Models Who Ignore The Gender Rules

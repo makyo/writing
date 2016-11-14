@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 6321
-    characters_total: 7745
+    characters_total: 7782
     file: ./posts/fiction/_posts/2015-10-17-milkshakes-and-foxes-redux.md
     paragraphs: 39
     type: jekyll
-    words: 1425
+    words: 1421
 layout: post
 rating: PG
 title: Milkshakes and Foxes (FC Conbook Redux)

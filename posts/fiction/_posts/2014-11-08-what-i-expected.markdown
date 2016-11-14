@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 40354
-    characters_total: 49558
+    characters_total: 49594
     file: ./posts/fiction/_posts/2014-11-08-what-i-expected.markdown
     paragraphs: 267
     type: jekyll
-    words: 9205
+    words: 9162
 layout: post
 rating: X
 title: What I Expected

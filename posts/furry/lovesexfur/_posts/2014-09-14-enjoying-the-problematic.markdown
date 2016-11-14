@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 7909
-    characters_total: 9558
+    characters_real: 7402
+    characters_total: 9082
     file: ./posts/furry/lovesexfur/_posts/2014-09-14-enjoying-the-problematic.markdown
     paragraphs: 17
     type: jekyll
-    words: 1650
+    words: 1615
 layout: post
 title: Enjoying the Problematic
 ---

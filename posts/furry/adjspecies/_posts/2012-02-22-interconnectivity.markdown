@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 7508
-    characters_total: 9138
+    characters_real: 7277
+    characters_total: 8959
     file: ./posts/furry/adjspecies/_posts/2012-02-22-interconnectivity.markdown
     paragraphs: 19
     type: jekyll
-    words: 1631
+    words: 1624
 layout: link
 link: http://adjectivespecies.com/2012/02/22/interconnectivity/
 ---

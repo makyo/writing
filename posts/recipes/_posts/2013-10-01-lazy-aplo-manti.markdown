@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 1007
-    characters_total: 1240
+    characters_real: 994
+    characters_total: 1223
     file: ./posts/recipes/_posts/2013-10-01-lazy-aplo-manti.markdown
     paragraphs: 9
     type: jekyll
-    words: 234
+    words: 216
 layout: post
 title: Lazy Aplo Manti
 ---

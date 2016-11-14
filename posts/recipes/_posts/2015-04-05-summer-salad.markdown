@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 487
-    characters_total: 602
+    characters_real: 413
+    characters_total: 514
     file: ./posts/recipes/_posts/2015-04-05-summer-salad.markdown
     paragraphs: 6
     type: jekyll
-    words: 116
+    words: 97
 layout: post
 title: Summer salad
 ---

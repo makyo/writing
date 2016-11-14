@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 2684
-    characters_total: 3301
+    characters_real: 2616
+    characters_total: 3250
     file: ./posts/tasting/_posts/2016-04-29-2013-amuste.markdown
     paragraphs: 15
     type: jekyll
-    words: 618
+    words: 613
 layout: post
 title: 2013 Odell's Amuste
 ---

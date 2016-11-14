@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 7469
-    characters_total: 9144
+    characters_real: 7359
+    characters_total: 9037
     file: ./posts/furry/lovesexfur/_posts/2013-07-27-online-relationships.markdown
     paragraphs: 10
     type: jekyll
-    words: 1676
+    words: 1675
 layout: link
 link: http://lovesexfur.com/2013/07/27/online-relationships/
 ---

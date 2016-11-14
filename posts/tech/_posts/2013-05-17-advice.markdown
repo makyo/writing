@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 10061
-    characters_total: 12441
+    characters_real: 9952
+    characters_total: 12407
     file: ./posts/tech/_posts/2013-05-17-advice.markdown
     paragraphs: 28
     type: jekyll
-    words: 2381
+    words: 2355
 layout: post
 title: Advice
 ---

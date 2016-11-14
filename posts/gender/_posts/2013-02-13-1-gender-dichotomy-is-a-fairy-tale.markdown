@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 709
-    characters_total: 876
+    characters_total: 880
     file: ./posts/gender/_posts/2013-02-13-1-gender-dichotomy-is-a-fairy-tale.markdown
     paragraphs: 4
     type: jekyll
-    words: 168
+    words: 167
 layout: link
 link: http://www.themarysue.com/gender-dichotomy-study/
 title: Gender Dichotomy is a Fairy Tale We've Been Telling Ourselves to Sleep at Night

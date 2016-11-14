@@ -1,7 +1,7 @@
 ---
 counts:
-    characters_real: 2027
-    characters_total: 2458
+    characters_real: 1976
+    characters_total: 2418
     file: ./posts/gender/_posts/2013-02-13-2-problems-with-the-kinsey-scale.markdown
     paragraphs: 5
     type: jekyll

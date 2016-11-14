@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 6849
-    characters_total: 8282
+    characters_real: 6589
+    characters_total: 8109
     file: ./posts/gender/_posts/2013-06-19-kickstarter-and-censorship.markdown
     paragraphs: 21
     type: jekyll
-    words: 1434
+    words: 1416
 layout: post
 title: Kickstarter and Censorship
 ---

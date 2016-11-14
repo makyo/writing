@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 3516
-    characters_total: 4329
+    characters_total: 4330
     file: ./posts/gender/_posts/2012-11-25-3-on-anxiety.markdown
     paragraphs: 10
     type: jekyll
-    words: 814
+    words: 813
 layout: post
 title: On Anxiety
 ---

@@ -2,11 +2,11 @@
 comments: false
 counts:
     characters_real: 723
-    characters_total: 974
+    characters_total: 932
     file: ./work/the-furry-condition/outline.md
     paragraphs: 1
     type: jekyll
-    words: 252
+    words: 127
 layout: page
 title: The Furry Condition
 ---

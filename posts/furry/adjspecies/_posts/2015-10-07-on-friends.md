@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 9412
-    characters_total: 11524
+    characters_real: 9234
+    characters_total: 11406
     file: ./posts/furry/adjspecies/_posts/2015-10-07-on-friends.md
     paragraphs: 26
     type: jekyll
-    words: 2113
+    words: 2094
 layout: post
 title: 'Editorial: On Friends'
 ---

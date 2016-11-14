@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 6095
-    characters_total: 7611
+    characters_total: 7634
     file: ./posts/gender/gendernull/_posts/2012-07-23-second-interview.markdown
     paragraphs: 53
     type: jekyll
-    words: 1517
+    words: 1526
 layout: post
 title: The Second Interview (2012-07-14)
 ---

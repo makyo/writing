@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 2898
-    characters_total: 3480
+    characters_real: 2621
+    characters_total: 3200
     file: ./posts/personal/_posts/2013-12-04-holiday-donations.markdown
     paragraphs: 13
     type: jekyll
-    words: 583
+    words: 563
 layout: post
 ---
 

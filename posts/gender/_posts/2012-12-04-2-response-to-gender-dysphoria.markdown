@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 5863
-    characters_total: 7048
+    characters_real: 5738
+    characters_total: 6942
     file: ./posts/gender/_posts/2012-12-04-2-response-to-gender-dysphoria.markdown
     paragraphs: 15
     type: jekyll
-    words: 1186
+    words: 1160
 layout: link
 link: http://ansaraonline.com/yahoo_site_admin/assets/docs/APA_Response_Letter_2012_Updated_version_10th_September_Ansara_Friedman_Blumer_Fryer_Nic_Giolla_Easpaig_Richmond_Samons.253222842.pdf
 title: Response to the Proposed Psychiatric Diagnosis of 'Gender Dysphoria'

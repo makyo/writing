@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 10015
-    characters_total: 12201
+    characters_real: 9838
+    characters_total: 12027
     file: ./posts/furry/adjspecies/_posts/2013-01-30-furries-and-music.markdown
     paragraphs: 12
     type: jekyll
-    words: 2187
+    words: 2185
 layout: link
 link: http://adjectivespecies.com/2013/01/30/furries-and-music/
 ---

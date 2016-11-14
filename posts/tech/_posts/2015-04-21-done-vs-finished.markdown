@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 7156
-    characters_total: 8758
+    characters_real: 7009
+    characters_total: 8638
     file: ./posts/tech/_posts/2015-04-21-done-vs-finished.markdown
     paragraphs: 21
     type: jekyll
-    words: 1603
+    words: 1592
 layout: post
 title: Done vs. Finished - On Code Reviews and Learning Languages
 ---

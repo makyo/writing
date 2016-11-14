@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 4068
-    characters_total: 5051
+    characters_total: 5091
     file: ./posts/personal/_posts/2015-11-30-on-adjspecies.md
     paragraphs: 13
     type: jekyll
-    words: 984
+    words: 982
 layout: post
 title: On [adjective][species]
 ---

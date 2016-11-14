@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 1052
-    characters_total: 1302
+    characters_total: 1307
     file: ./posts/gender/_posts/2012-11-21-lgbt-posters.markdown
     paragraphs: 3
     type: jekyll
-    words: 251
+    words: 249
 layout: link
 link: http://knowhomo.tumblr.com/post/35780906575
 title: LGBT Posters

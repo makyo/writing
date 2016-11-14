@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 2944
-    characters_total: 3655
+    characters_total: 3669
     file: ./posts/personal/_posts/2013-09-22-anxiety-followup.markdown
     paragraphs: 8
     type: jekyll
-    words: 712
+    words: 713
 layout: post
 title: Anxiety - Follow-up
 ---

@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 9080
-    characters_total: 11011
+    characters_real: 8820
+    characters_total: 10810
     file: ./posts/furry/adjspecies/_posts/2011-12-07-character-versus-self-2-notes-and-trends.markdown
     paragraphs: 18
     type: jekyll
-    words: 1932
+    words: 1918
 layout: link
 link: http://adjectivespecies.com/2011/12/07/character-versus-self-2/
 title: Character versus Self II - Notes and Trends

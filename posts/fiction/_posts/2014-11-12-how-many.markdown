@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 37436
-    characters_total: 46138
+    characters_total: 46175
     file: ./posts/fiction/_posts/2014-11-12-how-many.markdown
     paragraphs: 245
     type: jekyll
-    words: 8703
+    words: 8702
 layout: post
 rating: X
 title: How Many?

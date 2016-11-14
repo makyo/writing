@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 302
-    characters_total: 369
+    characters_real: 256
+    characters_total: 321
     file: ./nanowrimo/2008/index.md
     paragraphs: 5
     type: jekyll
-    words: 68
+    words: 63
 layout: page
 title: 'NaNoWriMo 2008: The Consequences of Dissonance'
 ---

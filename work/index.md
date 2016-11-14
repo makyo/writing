@@ -1,12 +1,12 @@
 ---
 comments: false
 counts:
-    characters_real: 202
-    characters_total: 231
+    characters_real: 133
+    characters_total: 157
     file: ./work/index.md
     paragraphs: 1
     type: jekyll
-    words: 30
+    words: 22
 layout: page
 title: Here be dragons...
 ---

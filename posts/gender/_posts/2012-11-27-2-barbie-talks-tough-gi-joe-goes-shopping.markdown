@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 458
-    characters_total: 562
+    characters_total: 567
     file: ./posts/gender/_posts/2012-11-27-2-barbie-talks-tough-gi-joe-goes-shopping.markdown
     paragraphs: 2
     type: jekyll
-    words: 105
+    words: 106
 layout: link
 link: http://www.nytimes.com/1993/12/31/us/while-barbie-talks-tough-g-i-joe-goes-shopping.html
 title: While Barbie Talks Tough, GI Joe Goes Shopping

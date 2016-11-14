@@ -1,11 +1,11 @@
 ---
 counts:
     characters_real: 258
-    characters_total: 311
+    characters_total: 312
     file: ./posts/gender/_posts/2012-12-19-never-shopping-here-again.markdown
     paragraphs: 3
     type: jekyll
-    words: 54
+    words: 53
 layout: post
 title: Never Shopping Here Again!
 ---

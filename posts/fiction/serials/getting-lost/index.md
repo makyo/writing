@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 435
-    characters_total: 525
+    characters_real: 385
+    characters_total: 473
     file: ./posts/fiction/serials/getting-lost/index.md
     paragraphs: 4
     type: jekyll
-    words: 91
+    words: 82
 layout: page
 title: Getting Lost
 ---

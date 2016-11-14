@@ -5,7 +5,7 @@ counts:
     file: ./poetry/the-dogs-assure-me/index.md
     paragraphs: 2
     type: jekyll
-    words: 75
+    words: 70
 layout: page
 title: The Dogs Assure Me - 2015-03-06
 ---
