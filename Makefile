@@ -1,5 +1,5 @@
 .PHONY: run
-run: clean
+run:
 	jekyll build
 	$(MAKE) -j2 run-jekyll watch-wordcounts
 
@@ -9,7 +9,16 @@ run-jekyll:
 
 .PHONY: watch-wordcounts
 watch-wordcounts:
-	watch -n 30 "for i in `git status --porcelain | perl -ple 's/^\s?\S+ //g'`; do prose-wc -u \$i; done"
+	while true; do \
+		for i in `find . -name "*.md"`; do \
+			if [ -n "`git status --porcelain $$i`" ]; then \
+				echo; \
+				prose-wc -u $$i; \
+				echo; \
+				sleep 30; \
+			fi; \
+		done; \
+	done
 
 .PHONY: clean
 clean:
