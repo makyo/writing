@@ -1,6 +1,13 @@
 ---
+counts:
+    characters_real: 524
+    characters_total: 641
+    file: ./poetry/when-i-fall-i-will-remain-whole/index.md
+    paragraphs: 5
+    type: jekyll
+    words: 118
 layout: post
-title: When I fall, I will remain whole
+title: When I fall, I will remain whole - 2016-11-14
 ---
 
 I keep hoping that, one day,  
