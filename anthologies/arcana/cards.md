@@ -11,7 +11,7 @@ layout: page
 title: Major arcana cards and meanings for Arcana
 ---
 
-&larr; Back to the call for submissions page](..)
+[&larr; Back to the call for submissions page](..)
 
 The major arcana, followed from the first card to the last, tell a story of growth and fulfillment.  The meanings can be strung together to form a coherent plot, as [many have noticed](http://www.learntarot.com/journey.htm).  When writing a submission for a card, you are writing a self-contained story, of course - there is no shared universe or characters required - but you're also writing a story focusing on a character or characters as they experience the part in a journey that the card signifies.
 
