@@ -14,11 +14,11 @@ title: Arcana - A Tarot Anthology
 
 > The porcupine, her quills held back with a gingham kerchief to keep from shading her brow, looms over the small table.  Three colorful cards rest neatly aligned on its surface.
 >
-> Contrary to your expectations, the room is bright and spacious.  No hint of incense or dark velour drapes, just a simple living room in a simple home, a simple porcupine and some simple cards.  She couldn't be older than 40, and she has more of a motherly attitude than a mystical one.
+> Contrary to expectations, the room had been bright and spacious.  No hint of incense or dark velour drapes, just a simple living room in a simple home, a simple porcupine and some simple cards.  She couldn't have been older than 40, and she was more of a motherly bent than a mystical one.
 >
 > "Tell me about your day," she had begun, and as you spoke, she shuffled a worn deck of cards, nodding along with you.  She drew the cards and lay them face up on the table with a casual slowness that didn't distract from your words.
 >
-> "Now," she said when you finished your story.  "Here are three cards.  Look and tell me the first thing you notice..."
+> "Now," she said when you finished talking.  "Here are three cards.  Look and tell me the first thing you notice..."
 {: style="font-size: 12pt; font-style: italic" }
 
 The Tarot has been with us for centuries.  Reports of Tarot itself go back to the early 1400s, and the act of using the cards as divinatory tools was documented in the mid 1700s.  Since then, the idea of using cards for divination has figured large in western society.  They inspire words of praise as well as derision, works of art and imitation and parody, and words upon countless words.
