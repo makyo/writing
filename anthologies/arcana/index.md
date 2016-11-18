@@ -79,5 +79,6 @@ Details TBA.  Submissions must be anonymized, manuscript format otherwise.  Acce
 
 Tarot is popular, and has been for centuries.  As such, there's a wealth of information to inspire you and perhaps offer some more information about what the cards indicate and the feelings they inspire:
 
+* A good starter Tarot deck that is easy both on the eyes and wallet is the Universal Waite deck.  The Rider-Waite-Smith deck is the one that most folks think of when they think of Tarot, and the Universal Waite deck is a recoloring that helps make things a little easier to look at.  It's available on [Amazon](http://a.co/dlPDuyt) and from other fine retailers.
 * [Aeclectic Tarot](http://www.aeclectic.net/tarot/) is a website and forum dedicated to exploring the Tarot, various Tarot decks, and the reading of the cards.
 * *78 Degrees of Wisdom* by Rachal Pollack is a wonderful book which walks through the Tarot deck in order from start to finish, major and minor arcana both, in exhaustive detail, while still remaining personable and enjoyable to read.  It's available on [Amazon](http://a.co/6PKbLYD) and from other booksellers, and a review is [available on Aeclectic](http://www.aeclectic.net/tarot/books/78-degrees-of-wisdom/).
