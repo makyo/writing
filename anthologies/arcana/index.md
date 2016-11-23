@@ -66,7 +66,7 @@ Submission titles will be the name of the card to reinforce the theme.
 
 #### **Submitting**
 
-Details TBA.  Submissions must be anonymized, manuscript format otherwise.  Accepted formats: markdown, plain text, RTF, Microsoft Office .doc(x), LibreOffice .odt, PDF.  In your submission email/submittable/whatever, please include:
+Details TBA.  Submission accepted through Submitify, link coming soon!  Submissions *must be anonymized*.  In your cover letter, please include:
 
 * Which card you are submitting for
 * Your name and contact information
