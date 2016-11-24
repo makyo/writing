@@ -41,7 +41,7 @@ TBA
 
 #### **Payment**
 
-TBA
+1/2 cent per word
 
 #### **Multiple submissions**
 
@@ -54,11 +54,11 @@ TBA (depends on publisher)
 #### **Content restrictions**
 G to PG-13/soft R: mention of sex or some violence is okay, but ought not be the focus of the story.  If in doubt, please do ask!
 
-Submissions need not include any reference to the card itself or Tarot in general, but the core of the submission must revolve around the aspects that the card indicates.  A list of cards and their aspects is available [here](cards).
+Submissions need not include any reference to the card itself or Tarot in general, but the core of the submission must revolve around the aspects that the card indicates.  A list of cards and their aspects is available *[here](cards)*.
 
 #### **Submissions available**
 
-Submissions are *semi-open* for most cards.  In order to encourage submissions across all cards (and not just the cool ones), there will be a limit of **3** submissions per card.  Cards that are open for submissions are available [here](cards)\*.
+Submissions are *semi-open* for most cards.  In order to encourage submissions across all cards (and not just the cool ones), there will be a limit of **3** submissions per card.  Cards that are open for submissions are available *[here](cards)*\*.
 
 Three cards - *The Fool*, *The Wheel of Fortune*, and *The World* - are invitation only and will share characters and setting, in order to add cohesion to the anthology.
 
@@ -66,12 +66,13 @@ Submission titles will be the name of the card to reinforce the theme.
 
 #### **Submitting**
 
-Details TBA.  Submission accepted through Submitify, link coming soon!  Submissions *must be anonymized*.  In your cover letter, please include:
+Submission accepted through <http://submit.drab-makyo.com>, and *must be anonymized*.  In your cover letter, please include:
 
 * Which card you are submitting for
-* Your name and contact information
 * Details about your submission (wordcount, inspiration, anything germane)
-* A brief (we're talking paragraph length) bio for yourself - this isn't for publication, just so we can get to know you
+* *Do not* include your name or contact information, those will be provided when registering; submission pages must remain anonymous ^^
+
+**Submit *[here](http://submit.drab-makyo.com/1-arcana-a-tarot-anthology/)*̨** The form will be active once submissions are open!
 
 \* If a card is full but you have a *really good submission*, please send it to us all the same.  It may be considered.  However, the goal is to ensure that we get even submissions across the cards, so if you can, please try writing for a different card first!
 
