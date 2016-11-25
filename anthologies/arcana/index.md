@@ -49,7 +49,7 @@ For the anthology, yes; within each card, no.
 
 #### **Previous publication**
 
-TBA (depends on publisher)
+Previously published works not under contract allowed.
 
 #### **Content restrictions**
 G to PG-13/soft R: mention of sex or some violence is okay, but ought not be the focus of the story.  If in doubt, please do ask!
@@ -66,7 +66,7 @@ Submission titles will be the name of the card to reinforce the theme.
 
 #### **Submitting**
 
-Submission accepted through <http://submit.drab-makyo.com>, and *must be anonymized*.  In your cover letter, please include:
+Submission accepted through <https://submit.drab-makyo.com>, and *must be anonymized*.  In your cover letter, please include:
 
 * Which card you are submitting for
 * Details about your submission (wordcount, inspiration, anything germane)

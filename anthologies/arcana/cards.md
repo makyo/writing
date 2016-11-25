@@ -21,6 +21,12 @@ In many common Tarot readings, cards are shuffled to mix them up.  In the proces
 
 If you're going to work on a story for one of the major arcana cards, please let us know and we'll update the call for submissions with how many pledges are outstanding on a card to let other writers know.  You can let us know on the Google Form [available here](https://goo.gl/forms/C76KEyE7XiD4pQLb2).
 
+Would you like to work on a single story that spans multiple cards?  That's totally doable, too!  When submitting your work, simply indicate as such!  Here are some good examples of sets along those lines:
+
+* *The High Priestess*, *The Empress*, and *The Emperor*
+* *Justice* and *The Hanged Man*
+* *The Star*, *The Moon*, and *The Sun*.
+
 0. **The Fool**
 
     Beginnings, innocence, spontaneity, a free spirt *or* naivety, foolishness, recklessness, ill-advised risk-taking.
