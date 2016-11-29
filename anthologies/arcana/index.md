@@ -31,6 +31,96 @@ With how much the Tarot has woven itself into society, it's no small wonder that
 
 Thankfully, the Major Arcana - the first 22 cards of the Tarot deck - already tell a story of growth and fulfillment on their own.  We just need some lovely words from some lovely authors!
 
+<!--
+Howl, [Nov 27, 2016, 2:32 PM]:
+1. Try to get at least eight set authors to commit to eight of the cards, that will be closed to other submissions. And try to have these eight well spread throughout the anthology, especially the first and last card.
+
+2. Have an open call for the others. Don't do the three slots thing, but do give names of who has submitted under each one as well as who is planning on writing one, so people can still go for underdog cards.
+
+3. Don't say this in the call for subs, but assume that we will have a second call for subs. In the likely case that there will be a few cards that have zero quality subs.
+
+Madison Scott-Clary, [Nov 27, 2016, 2:38 PM]:
+For part 3, will we send out accept/reject letters before the second call?
+
+Howl, [Nov 27, 2016, 2:39 PM]:
+Yes, we will.
+
+They will ask for a deadline. Let's say March 15th?
+
+OH, and please keep me as up to date as possible on this. When you get a confirmation, let me know immediately.
+
+Once you get eight who say they will do it, then you can post the call for four months past when you get the eighth confirmation.
+
+Definitely try to get Kyell if you can.
+
+Haha
+
+And feel free to ask anyone who is in the Seven Deadly Sins lineup:
+
+Coghlan, Stephen
+Abernathy, Thomas
+Black Wolf, Tristan
+Dax
+Dwale
+Faolan
+Grey Raven, Searska
+Greyflank
+Gullwulf
+Hypetaph
+James, Rayah
+Leigh, Billy
+Oakshadow, BanWynn
+Proctor, Evelyn
+Sisco
+Teiran
+TJ Minde
+Varzen
+Weasel
+Zarpaulus
+DaySpring, NightEyes
+Noelle, J. A.
+Telfer, Avin
+
+Madison Scott-Clary, [Nov 27, 2016, 2:46 PM]:
+*nod* I'm already forming a list, hah.  Kyell, Sparf, Searska (who sounded very interested), maybe Ryffnah
+
+Okay!
+
+Howl:
+Talked with Ocean, discussed possibly having more than eight solicited authors. Let's go for at least eleven.
+
+Madison Scott-Clary, [Nov 28, 2016, 3:03 PM]:
+Anyway, the reason I got confused last night was because I had been thinking about asking authors for invite cards to write for more than one card.  Like, The Fool, Wheel of Fortune, and The World tell a definite story together, so I was going to ask one author to do all three; one world, same characters, three chapters.  There's a few other pairings and such, too, like The Empress and The Emperor.  Does that sound doable?
+
+Howl, [Nov 28, 2016, 3:03 PM]:
+Hm....
+
+Point number one: [nitpicky] Don't put two spaces between sentences. We haven't done that as a society in...sixty years?
+
+Point number two: In theory that sounds nice, but I don't think it's practical to ask any author to do more than one story.
+
+A suggestion might be to commit different authors for those cards, but have them play off each other's stories.
+
+For example, give "The Fool" a much earlier due date, and then give it to the author of the next story, and so on.
+
+Madison Scott-Clary, [Nov 28, 2016, 3:05 PM]:
+*nod* That makes sense (and yeah, sorry, I've been trying for _years_ to break the double spacing habit x.x)
+
+Howl, [Nov 28, 2016, 3:05 PM]:
+Haha, xP
+
+Sorry about that. I'm a word folf. It's what I do.
+
+Madison Scott-Clary, [Nov 28, 2016, 3:06 PM]:
+I have macros in my text editor to remove that, even. Bleh, dumb typing classes. Anyway!
+
+Howl, [Nov 28, 2016, 3:07 PM]:
+Haha. So do you think that idea would work?
+
+Madison Scott-Clary, [Nov 28, 2016, 3:11 PM]:
+Yeah, definitely! I guess the thing that was kinda making me anxious last night was thinking of 11 authors to invite without exhausting the active authors in the guild. That's what drove me to think about letting authors tackle multiple cards in a longer submission.
+-->
+
 #### **Wordcount**
 
 2000-5000 words
