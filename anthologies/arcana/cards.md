@@ -21,13 +21,7 @@ In many common Tarot readings, cards are shuffled to mix them up.  In the proces
 
 If you're going to work on a story for one of the major arcana cards, please let us know and we'll update the call for submissions with how many pledges are outstanding on a card to let other writers know.  You can let us know on the Google Form [available here](https://goo.gl/forms/C76KEyE7XiD4pQLb2).
 
-Would you like to work on a single story that spans multiple cards?  That's totally doable, too!  When submitting your work, simply indicate as such!  Here are some good examples of sets along those lines:
-
-* *The High Priestess*, *The Empress*, and *The Emperor*
-* *Justice* and *The Hanged Man*
-* *The Star*, *The Moon*, and *The Sun*.
-
-0. **The Fool**
+0. **~~The Fool~~**
 
     Beginnings, innocence, spontaneity, a free spirt *or* naivety, foolishness, recklessness, ill-advised risk-taking.
 
@@ -40,30 +34,21 @@ Would you like to work on a single story that spans multiple cards?  That's tota
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
     *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
-2. **The High Priestess**
+2. **~~The High Priestess~~**
 
     Intuition, higher powers, mysteries, subconscious mind *or* hidden agendas, not listening to the inner voice.
 
-    *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
-3. **The Empress**
+    *Invitation only*
+3. **~~The Empress~~**
 
     Fertility, femininity, beauty, nature, abundance *or* blocked creativity, over-dependence on others.
 
-    *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
-4. **The Emperor**
+    *Invitation only*
+4. **~~The Emperor~~**
 
     Authority, father-figure, structure, solid foundation *or* domination, excessive control, rigidity, inflexibility.
 
-    *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Invitation only*
 5. **The Heirophant**
 
     Religion, group identification, conformity, tradition, beliefs *or* too much restriction, a need to challenge the status quo.
@@ -104,27 +89,21 @@ Would you like to work on a single story that spans multiple cards?  That's tota
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
     *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
-10. **Wheel of Fortune**
+10. **~~Wheel of Fortune~~**
 
     Good luck, karma, cycles in life, destiny, a turning point *or* bad luck, negative external forces, out of control.
 
     *Invitation only*
-11. **Justice**
+11. **~~Justice~~**
 
     Justice, fairness, truth, cause and effect, law *or* unfairness, lack of accountability, dishonesty.
 
-    *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
-12. **The Hanged Man**
+    *Invitation only*
+12. **~~The Hanged Man~~**
 
     Being true to oneself, connection to life, resolution after difficulty *or* fighting with inner self, inability to escape from social pressure, ill-advised martyrdom.
 
-    *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Invitation only*
 13. **Death**
 
     Endings, beginnings, change, transformation, transition *or* resistance to change, inability to move on.
@@ -157,30 +136,21 @@ Would you like to work on a single story that spans multiple cards?  That's tota
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
     *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
-17. **The Star**
+17. **~~The Star~~**
 
     Hope, spirituality, renewal, inspiration, serenity *or* lack of faith, despair discouragement.
 
-    *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
-18. **The Moon**
+    *Invitation only*
+18. **~~The Moon~~**
 
     Illusion fear, anxiety, insecurity, subconsciousness *or* release of fear, unhappiness, confusions.
 
-    *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
-19. **The Sun**
+    *Invitation only*
+19. **~~The Sun~~**
 
     Fun, warmth, success, positivity, vitality *or* temporary depression, lack of success.
 
-    *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Invitation only*
 20. **Judgement**
 
     Judgement, rebirth, inner calling, absolution *or* self doubt, refusal of self-examination.
@@ -189,7 +159,7 @@ Would you like to work on a single story that spans multiple cards?  That's tota
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
     *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
-21. **The World**
+21. **~~The World~~**
 
     Completion, integration, accomplishment, travel *or* lack of completion, lack of closure.
 

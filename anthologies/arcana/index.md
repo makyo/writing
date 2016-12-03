@@ -27,7 +27,7 @@ With how much the Tarot has woven itself into society, it's no small wonder that
 
 ### Call for Submissions
 
-*Arcana* is an anthology of furry fiction.  Twenty-two submissions for each of the twenty-two major arcana cards.  Each card suggests a theme, and each submission should expand on that theme through a character-driven plot.  The challenge for the author will be to come up with a story that showcases the ideas behind their card in a relatively short span.  The challenge for the editors will be to find stories that create an anthology that is diverse enough to enjoy while still being cohesive enough to be able to read from cover to cover.
+*Arcana* is an anthology of furry fiction edited by Makyo and published by [Thurston Howl Publications](http://thurstonhowlpublications.com/).  Twenty-two submissions for each of the twenty-two major arcana cards.  Each card suggests a theme, and each submission should expand on that theme through a character-driven plot.  The challenge for the author will be to come up with a story that showcases the ideas behind their card in a relatively short span.  The challenge for the editors will be to find stories that create an anthology that is diverse enough to enjoy while still being cohesive enough to be able to read from cover to cover.
 
 Thankfully, the Major Arcana - the first 22 cards of the Tarot deck - already tell a story of growth and fulfillment on their own.  We just need some lovely words from some lovely authors!
 
@@ -119,6 +119,17 @@ Haha. So do you think that idea would work?
 
 Madison Scott-Clary, [Nov 28, 2016, 3:11 PM]:
 Yeah, definitely! I guess the thing that was kinda making me anxious last night was thinking of 11 authors to invite without exhausting the active authors in the guild. That's what drove me to think about letting authors tackle multiple cards in a longer submission.
+
+Howl, [Nov 28, 2016, 8:24 PM]:
+Hmm I don't know. I think single subs would be better than multiple for authors but that's up to you and how your negotiations go
+
+Madison Scott-Clary, [Nov 28, 2016, 8:25 PM]:
+*nod*  That's fine :3  I still need to do some talking to figure it out.  I was going to allow multiple submisisons for open cards, but probably only publish one per author unless submissions are scant.  Does that sound okay?
+
+Howl:
+Deal :)
+
+https://docs.google.com/spreadsheets/d/1ao0rwk2YsuqpnNtLsIW80IIonJNgfwNW97xTs0jnMJQ/edit#gid=0
 -->
 
 #### **Wordcount**
@@ -148,23 +159,23 @@ Submissions need not include any reference to the card itself or Tarot in genera
 
 #### **Submissions available**
 
-Submissions are *semi-open* for most cards.  In order to encourage submissions across all cards (and not just the cool ones), there will be a limit of **3** submissions per card.  Cards that are open for submissions are available *[here](cards)*\*.
+Submissions are *semi-open* for half of the cards cards.  In order to encourage submissions across all cards (and not just the cool ones), there will be a limit of **3** submissions per card.  Cards that are open for submissions are available *[here](cards)*\*.
 
-Three cards - *The Fool*, *The Wheel of Fortune*, and *The World* - are invitation only and will share characters and setting, in order to add cohesion to the anthology.
+The other half of the cards are available through invitation only, and are marked as such on the list.
 
 Submission titles will be the name of the card to reinforce the theme.
 
 #### **Submitting**
 
-Submission accepted through <https://submit.drab-makyo.com>, and *must be anonymized*.  In your cover letter, please include:
+Submissions accepted through <https://submit.drab-makyo.com>, and *must be anonymized*.  In your cover letter, please include:
 
 * Which card you are submitting for
-* Details about your submission (wordcount, inspiration, anything germane)
+* Details about your submission (we'd especially like to hear about your inspiration and why the card was important to you)
 * *Do not* include your name or contact information, those will be provided when registering; submission pages must remain anonymous ^^
 
 **Submit *[here](http://submit.drab-makyo.com/1-arcana-a-tarot-anthology/)*̨** The form will be active once submissions are open!
 
-\* If a card is full but you have a *really good submission*, please send it to us all the same.  It may be considered.  However, the goal is to ensure that we get even submissions across the cards, so if you can, please try writing for a different card first!
+\* If a card is full but you have a *really good submission*, please send it to us all the same.  It may still be considered.  However, the goal is to ensure that we get even submissions across the cards, so if you can, please try writing for a different card first!
 
 ### Resources
 
