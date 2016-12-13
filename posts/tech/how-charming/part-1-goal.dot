@@ -1,0 +1,12 @@
+graph G {
+    node [fontname="Playfair Display", color="#222222", fontcolor="#222222"];
+    edge [fontname="Playfair Display", color="#222222", fontcolor="#222222"];
+    graph [fontname="Playfair Display", color="#222222", fontcolor="#222222"];
+    subgraph clusterA {
+        Honeycomb -- memcached;
+        Honeycomb -- Postgres;
+        Honeycomb -- ElasticSearch;
+        Apache -- Honeycomb;
+        label = "honeycomb.cafe";
+    }
+}

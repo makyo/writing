@@ -1,7 +1,7 @@
 ---
 counts:
     characters_real: 1663
-    characters_total: 2090
+    characters_total: 2085
     file: ./anthologies/arcana/invitation.md
     paragraphs: 9
     type: jekyll
@@ -52,6 +52,5 @@ The Star | Searska expressed interest |
 The Moon | |  
 The Sun | |  
 The World | |  
-{: }
 
 The intentionally-vague definitions I'm nudging people towards, if they don't have any in their heads already, are available [here](../cards), but there are a ton more ways to look at the archetypes involved in each. Good luck, and keep in touch! I'm looking forward at seeing what folks come up with

@@ -1,0 +1,23 @@
+graph G {
+    node [fontname="Playfair Display", color="#222222", fontcolor="#222222"];
+    edge [fontname="Playfair Display", color="#222222", fontcolor="#222222"];
+    graph [fontname="Playfair Display", color="#222222", fontcolor="#222222"];
+    subgraph clusterA {
+        Apache [style=filled, color=lightgrey];
+        Postgres [style=filled, color=lightgrey];
+        MongoDB [style=filled, color=lightgrey];
+        Sqlite1 [style=filled, color=lightgrey, label="Sqlite3"];
+        Sqlite2 [style=filled, color=lightgrey, label="Sqlite3"];
+        Charref -- Postgres;
+        Surveys -- Postgres;
+        "Furry Poll" -- MongoDB;
+        "polycul.es" -- Sqlite1;
+        "Honeycomb QA" -- Sqlite2;
+        Apache -- Charref;
+        Apache -- Surveys;
+        Apache -- "Furry Poll";
+        Apache -- "polycul.es"
+        Apache -- "Honeycomb QA";
+        label = "alopex.openfurry.org";
+    }
+}

@@ -79,6 +79,12 @@ footer div {
     margin-top: 3em;
 }
 
+section > svg {
+    max-width: 100%;
+    margin: 0 auto;
+    display: block
+}
+
 .pageLinksContainer {
     text-align: center;
 }

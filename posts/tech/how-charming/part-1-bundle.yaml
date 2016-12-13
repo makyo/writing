@@ -1,0 +1,48 @@
+services:
+  gunicorn:
+    charm: cs:gunicorn
+    annotations:
+      gui-x: "325"
+      gui-y: "0"
+  postgresql:
+    charm: cs:postgresql
+    num_units: 1
+    annotations:
+      gui-x: "0"
+      gui-y: "250"
+  memcached:
+    charm: cs:memcached-16
+    num_units: 1
+    annotations:
+      gui-x: "325"
+      gui-y: "250"
+  elasticsearch:
+    charm: cs:elasticsearch
+    num_units: 1
+    annotations:
+      gui-x: "-325"
+      gui-y: "250"
+  apache2:
+    charm: cs:apache2
+    num_units: 1
+    annotations:
+      gui-x: "0"
+      gui-y: "-250"
+  wsgi-app:
+    charm: local:xenial/wsgi-app
+    num_units: 1
+    annotations:
+      gui-x: "0"
+      gui-y: "0"
+series: precise
+relations:
+- - gunicorn:wsgi-file
+  - wsgi-app:wsgi
+- - wsgi-app:pgsql
+  - postgresql:db
+- - wsgi-app:essearch
+  - elasticsearch:search
+- - wsgi-app:cache
+  - memcached:cache
+- - apache2:balancer
+  - wsgi-app:website
