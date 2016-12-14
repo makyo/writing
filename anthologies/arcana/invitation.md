@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 1663
-    characters_total: 2085
+    characters_real: 1748
+    characters_total: 2196
     file: ./anthologies/arcana/invitation.md
-    paragraphs: 9
+    paragraphs: 10
     type: jekyll
-    words: 353
+    words: 370
 layout: page
 title: Invitation for closed cards
 ---
@@ -20,9 +20,13 @@ table tbody tr:nth-of-type(odd) {
 }
 table td  {
     padding: 5px;
+    vertical-align: top;
 }
-table td:not(last) {
+table td {
     border-right: 1px solid #ccc;
+}
+table td:last-child {
+    border-right: none;
 }
 </style>
 
@@ -49,7 +53,7 @@ Wheel of Fortune | Lunostophiles expressed interest |
 Justice | Searska expressed interest |  
 The Hanged Man | Lunostophiles had an idea, buni expressed interest |  
 The Star | Searska expressed interest |  
-The Moon | |  
+The Moon | Kyell |  
 The Sun | |  
 The World | |  
 

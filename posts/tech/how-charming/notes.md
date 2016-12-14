@@ -6,6 +6,6 @@ How Charming - an exploration of writing and deploying charms for #Juju - part 1
 
 * [X] Background
 * [ ] Layers and hooks
-* [ ] Base charm
+* [ ] Base charm and actions
 * [ ] Explain relations, make a bundle
 * [ ] Deploying
