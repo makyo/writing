@@ -53,4 +53,6 @@ The Moon | |
 The Sun | |  
 The World | |  
 
+Also talked to but haven't decided on a card: *Sparf*.
+
 The intentionally-vague definitions I'm nudging people towards, if they don't have any in their heads already, are available [here](../cards), but there are a ton more ways to look at the archetypes involved in each. Good luck, and keep in touch! I'm looking forward at seeing what folks come up with

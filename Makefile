@@ -5,7 +5,7 @@ run:
 
 .PHONY: run-jekyll
 run-jekyll:
-	jekyll serve -w -I
+	jekyll serve -w -I -H 0.0.0.0
 
 .PHONY: watch-wordcounts
 watch-wordcounts:

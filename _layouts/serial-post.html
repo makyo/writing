@@ -5,12 +5,22 @@ layout: base
 
 <article id="post" class="container">
     <div class="row">
+        <section class="pagination top col-md-12">
+            {% if page.previous_in_category.url %}
+                <a class="prev" href="{{page.previous_in_category.url}}">&laquo; {{page.previous_in_category.title}}</a>
+            {% endif %}
+            {% if page.next_in_category.url %}
+                <a class="next" href="{{page.next_in_category.url}}">{{page.next_in_category.title}} &raquo;</a>
+            {% endif %}
+        </section>
+    </div>
+    <div class="row">
         <section class="col-md-offset-2 col-md-8">
             {{content}}
         </section>
     </div>
-    <div class="row">
-        <section class="pagination col-md-12">
+    <div class="row ">
+        <section class="pagination bottom col-md-12">
             {% if page.previous_in_category.url %}
                 <a class="prev" href="{{page.previous_in_category.url}}">&laquo; {{page.previous_in_category.title}}</a>
             {% endif %}

@@ -4,6 +4,8 @@ How Charming - an exploration of writing and deploying charms for #Juju - part 1
 
 # Todo
 
-* Layers and hooks
-* Base charm
-* Explain relations
+* [X] Background
+* [ ] Layers and hooks
+* [ ] Base charm
+* [ ] Explain relations, make a bundle
+* [ ] Deploying
