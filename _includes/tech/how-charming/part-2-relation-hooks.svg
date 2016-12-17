@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="546" height="96" viewbox="0 0 546 96">
+    <!--
+    Diagram generated with http://bottlecaps.de/rr/ui
+    using:
+        Hooks ::= relation-joined relation-changed+ ( relation-departed | relation-broken )
+    -->
+    <defs>
+        <style type="text/css">
+            @namespace "http://www.w3.org/2000/svg";
+            .line {
+                fill: none;
+                stroke: #222;
+            }
+            text.nonterminal {
+                font-family: "Ubuntu Mono", monospace;
+                font-size: 12px;
+                fill: #222;
+            }
+            rect {
+                fill: #222;
+                stroke: #222;
+            }
+            rect.nonterminal      {
+                fill: #eee;
+                stroke: #222;
+            }
+        </style>
+    </defs>
+    <polygon points="9 33 1 29 1 37"/>
+    <polygon points="17 33 9 29 9 37"/>
+    <rect x="31" y="19" width="112" height="32"/>
+    <rect x="29" y="17" width="112" height="32" class="nonterminal"/>
+    <text class="nonterminal" x="85" y="37">relation-joined</text>
+    <rect x="183" y="19" width="126" height="32"/>
+    <rect x="181" y="17" width="126" height="32" class="nonterminal"/>
+    <text class="nonterminal" x="244" y="37">relation-changed</text>
+    <rect x="369" y="19" width="130" height="32"/>
+    <rect x="367" y="17" width="130" height="32" class="nonterminal"/>
+    <text class="nonterminal" x="432" y="37">relation-departed</text>
+    <rect x="369" y="63" width="116" height="32"/>
+    <rect x="367" y="61" width="116" height="32" class="nonterminal"/>
+    <text class="nonterminal" x="425" y="81">relation-broken</text>
+    <path class="line" d="m17 33 h2 m0 0 h10 m112 0 h10 m20 0 h10 m126 0 h10 m-166 0 l20 0 m-1 0 q-9 0 -9 -10 l0 -12 q0 -10 10 -10 m146 32 l20 0 m-20 0 q10 0 10 -10 l0 -12 q0 -10 -10 -10 m-146 0 h10 m0 0 h136 m40 32 h10 m130 0 h10 m-170 0 h20 m150 0 h20 m-190 0 q10 0 10 10 m170 0 q0 -10 10 -10 m-180 10 v24 m170 0 v-24 m-170 24 q0 10 10 10 m150 0 q10 0 10 -10 m-160 10 h10 m116 0 h10 m0 0 h14 m23 -44 h-3"/>
+    <polygon points="537 33 545 29 545 37"/>
+    <polygon points="537 33 529 29 529 37"/>
+</svg>

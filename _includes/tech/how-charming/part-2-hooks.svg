@@ -1,38 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="564" height="70">
-    <!-- Diagram from http://bottlecaps.de/rr/ui -->
+<svg xmlns="http://www.w3.org/2000/svg" width="564" height="70" viewbox="0 0 564 70">
+    <!--
+    Diagram generated with http://bottlecaps.de/rr/ui
+    using:
+        Hooks ::= install config-changed start config-changed* stop
+    -->
     <defs>
         <style type="text/css">
             @namespace "http://www.w3.org/2000/svg";
-            .line                 {fill: none; stroke: #332900; stroke-width: 1; }
-            .bold-line            {stroke: #141000; shape-rendering: crispEdges; stroke-width:
-            2; }
-            .thin-line            {stroke: #1F1800; shape-rendering: crispEdges}
-            .filled               {fill: #332900; stroke: none;}
-            text.nonterminal      {font-family: Verdana, Sans-serif;
-            font-size: 12px;
-            fill: #1A1400;
+            .line {
+                fill: none;
+                stroke: #222;
+                stroke-width: 1;
             }
-            rect.nonterminal      {fill: #FFEC9E; stroke: #332900;}
+            text.nonterminal {
+                font-family: "Ubuntu Mono", monospace;
+                font-size: 12px;
+                fill: #222;
+                line-height: 1;
+                text-anchor: middle;
+            }
+            rect {
+                fill: #222;
+                stroke: #222;
+            }
+            rect.nonterminal {
+                fill: #eee;
+                stroke: #222;
+            }
         </style>
     </defs>
     <polygon points="9 51 1 47 1 55"/>
     <polygon points="17 51 9 47 9 55"/>
     <rect x="31" y="37" width="56" height="32"/>
     <rect x="29" y="35" width="56" height="32" class="nonterminal"/>
-    <text class="nonterminal" x="39" y="55">install</text>
+    <text class="nonterminal" x="57" y="55">install</text>
     <rect x="107" y="37" width="116" height="32"/>
     <rect x="105" y="35" width="116" height="32" class="nonterminal"/>
-    <text class="nonterminal" x="115" y="55">config-changed</text>
+    <text class="nonterminal" x="163" y="55">config-changed</text>
     <rect x="243" y="37" width="50" height="32"/>
     <rect x="241" y="35" width="50" height="32" class="nonterminal"/>
-    <text class="nonterminal" x="251" y="55">start</text>
+    <text class="nonterminal" x="266" y="55">start</text>
     <rect x="333" y="3" width="116" height="32"/>
     <rect x="331" y="1" width="116" height="32" class="nonterminal"/>
-    <text class="nonterminal" x="341" y="21">config-changed</text>
+    <text class="nonterminal" x="389" y="21">config-changed</text>
     <rect x="489" y="37" width="48" height="32"/>
     <rect x="487" y="35" width="48" height="32" class="nonterminal"/>
-    <text class="nonterminal" x="497" y="55">stop</text>
-    <path xmlns:svg="http://www.w3.org/2000/svg" class="line" d="m17 51 h2 m0 0 h10 m56 0 h10 m0 0 h10 m116 0 h10 m0 0 h10 m50 0 h10 m20 0 h10 m0 0 h126 m-156 0 l20 0 m-1 0 q-9 0 -9 -10 l0 -14 q0 -10 10 -10 m136 34 l20 0 m-20 0 q10 0 10 -10 l0 -14 q0 -10 -10 -10 m-136 0 h10 m116 0 h10 m20 34 h10 m48 0 h10 m3 0 h-3"/>
+    <text class="nonterminal" x="511" y="55">stop</text>
+    <path class="line" d="m17 51 h2 m0 0 h10 m56 0 h10 m0 0 h10 m116 0 h10 m0 0 h10 m50 0 h10 m20 0 h10 m0 0 h126 m-156 0 l20 0 m-1 0 q-9 0 -9 -10 l0 -14 q0 -10 10 -10 m136 34 l20 0 m-20 0 q10 0 10 -10 l0 -14 q0 -10 -10 -10 m-136 0 h10 m116 0 h10 m20 34 h10 m48 0 h10 m3 0 h-3"/>
     <polygon points="555 51 563 47 563 55"/>
     <polygon points="555 51 547 47 547 55"/>
 </svg>
