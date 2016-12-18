@@ -54,7 +54,7 @@ Justice | Searska expressed interest |
 The Hanged Man | Lunostophiles had an idea, buni expressed interest |  
 The Star | Searska expressed interest |  
 The Moon | Kyell |  
-The Sun | |  
+The Sun | George Squares |  
 The World | |  
 
 Also talked to but haven't decided on a card: *Sparf*.
