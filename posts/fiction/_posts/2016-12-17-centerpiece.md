@@ -1,15 +1,17 @@
 ---
 counts:
-    characters_real: 18452
-    characters_total: 22753
+    characters_real: 18972
+    characters_total: 23396
     file: ./posts/fiction/_posts/2016-12-17-centerpiece.md
-    paragraphs: 114
+    paragraphs: 119
     type: jekyll
-    words: 4283
+    words: 4405
 layout: post
 rating: X
 title: Centerpiece
 ---
+
+*A couple heads to a BDSM play party where the wife will be the Centerpiece for the whole party to enjoy. With fertility already on the mind, will another mink showing up throw a wrench in things? \[[SoFurry](https://www.sofurry.com/view/1108471)\] - \[[Print](/assets/fiction/centerpiece.pdf)\]*
 
 "Hey E," Aaron mumbled, the cat nudging the turn signal lever up to make his way toward the right lane.
 
@@ -189,7 +191,7 @@ Kneeling before her, Aaron took the blindfold in one paw and the gag in the othe
 
 "Even that mink? Matthew?" the cat asked. It was hard for Erin to pick apart whether her owner was purring or growling, or perhaps a little bit of both. "Are you going to be a useful toy for him, too?"
 
-Erin felt her fur bristle, that perennial reaction to humiliation no longer restricted to just her tail, but creeping up her spine to her neck and ears, heckles raising. "I will," she whimpered. "I'll be usef-nngh!"
+Erin felt her fur bristle, that perennial reaction to humiliation no longer restricted to just her tail, but creeping up her spine to her neck and ears, heckles raising. "I will," she whimpered. "I'll be usef-*nngh!*"
 
 She was cut off quickly. She'd been so focused on Aaron's words and the sight of her arousal in the center of her tunnel-vision that she hadn't noticed the paw with the ring gag.
 
