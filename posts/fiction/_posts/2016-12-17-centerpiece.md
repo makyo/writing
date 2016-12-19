@@ -1,7 +1,7 @@
 ---
 counts:
     characters_real: 18972
-    characters_total: 23396
+    characters_total: 23409
     file: ./posts/fiction/_posts/2016-12-17-centerpiece.md
     paragraphs: 119
     type: jekyll
@@ -11,7 +11,7 @@ rating: X
 title: Centerpiece
 ---
 
-*A couple heads to a BDSM play party where the wife will be the Centerpiece for the whole party to enjoy. With fertility already on the mind, will another mink showing up throw a wrench in things? \[[SoFurry](https://www.sofurry.com/view/1108471)\] - \[[Print](/assets/fiction/centerpiece.pdf)\]*
+*A couple heads to a BDSM play party where the wife will be the Centerpiece for the whole party to enjoy. With fertility already on the mind, will another mink showing up throw a wrench in things? \[[SoFurry](https://www.sofurry.com/view/1108471)\] --- \[[Print](/assets/fiction/centerpiece.pdf)\]*
 
 "Hey E," Aaron mumbled, the cat nudging the turn signal lever up to make his way toward the right lane.
 
@@ -23,7 +23,7 @@ Slinking lower into the passenger seat, Erin gave a half-hearted shrug. "Not rea
 
 Aaron nodded and settled back into his seat as they made their way onto the highway. "Anyone you can think of, minkypie?"
 
-Erin caught herself about to shrug again and shook her head instead, "Only really know a few other minks out there - the Redstones from work, and there's that Matthew guy from your office...Matthew Lederer, was it? - and I don't know if they swing or not. Come on, though," she laughed. "Figure out something sexier to talk about. We're supposed to be getting psyched for a night of debauchery, not figuring out sperm donor paperwork."
+Erin caught herself about to shrug again and shook her head instead, "Only really know a few other minks out there --- the Redstones from work, and there's that Matthew guy from your office...Matthew Lederer, was it? --- and I don't know if they swing or not. Come on, though," she laughed. "Figure out something sexier to talk about. We're supposed to be getting psyched for a night of debauchery, not figuring out sperm donor paperwork."
 
 Erin and Aaron had been one of those couples that had been insufferably cute when dating. When they'd been friends, they'd been teased about it enough, but when it turned to romance, it all seemed a bit much.
 
@@ -65,7 +65,7 @@ The mink in the passenger seat sat, mouth open, for a moment before finding the 
 
 "Well, I...I don't know." Erin realized that she was fiddling too much with her book, bending the pages, so she set her bookmark in place and slipped the paperback into her bag. "It would be a lot to process. But I'm pretty sure all of it would be good."
 
-Aaron grinned toward the road, making his way over to the rightmost lane once more - they were just about to the end of the freeway stint of the trip, Erin guessed, so probably just a few minutes left. "Well, alright then. So if we wind up at a party like this and there just happens to be another mink there-"
+Aaron grinned toward the road, making his way over to the rightmost lane once more --- they were just about to the end of the freeway stint of the trip, Erin guessed, so probably just a few minutes left. "Well, alright then. So if we wind up at a party like this and there just happens to be another mink there-"
 
 Erin cut him off with a quiet whine, her tail bristled from base to tip and swishing against the back of the seat. "A! Come *on*!"
 
@@ -97,7 +97,7 @@ Thankfully, as Centerpiece, she had little to worry about, in that sense. For he
 
 "First things first," Aaron said, once Erin had gotten a drink. "Lift your chin."
 
-Erin did as she was told, letting her husband deftly swing a collar up around her neck and fasten it in front. Although she couldn't see the collar, she knew what it looked like - black nylon webbing with some yellow nylon woven into it to spell 'TOY' along the back and a tag saying the same in front. Feeling the weight of it around her neck, the slight constriction of her fur beneath it, Erin tensed up and swished about, her short, rounded ears canted back.
+Erin did as she was told, letting her husband deftly swing a collar up around her neck and fasten it in front. Although she couldn't see the collar, she knew what it looked like --- black nylon webbing with some yellow nylon woven into it to spell 'TOY' along the back and a tag saying the same in front. Feeling the weight of it around her neck, the slight constriction of her fur beneath it, Erin tensed up and swished about, her short, rounded ears canted back.
 
 "Finish your drink, minkytoy," Aaron continued, waiting for the mink to down the rest of her soda before clipping a leash to the D-ring at her throat.
 
@@ -123,7 +123,7 @@ Aaron grinned haughtily and wound the leash around one of his paws a few times, 
 
 Erin felt like they into a feedback loop of power dynamics. The more dominant that Aaron got in showing her off to the party's other attendees, the more submissive she felt. The more submissive she acted, the more that seemed to egg Aaron on. Before long, he was encouraging her to spin and show off, to curtsey, to make small confessions to the other attendees.
 
-This was one of the other things that Elise and Joan did to loosen up their guests. Each party - and there were several a year - included one guest who would be the Centerpiece. The Centerpiece had become a coveted role in the circles that attended this party, one that had to be applied for ahead of time.
+This was one of the other things that Elise and Joan did to loosen up their guests. Each party --- and there were several a year --- included one guest who would be the Centerpiece. The Centerpiece had become a coveted role in the circles that attended this party, one that had to be applied for ahead of time.
 
 And it was indeed a role to play. The Centerpiece was the one who had to start moving the atmosphere from party to play while the two ferrets tended to more mundane things such as maintaining snack levels and ensuring that the rules were followed. Once the atmosphere had shifted, the Centerpiece (almost always a known sub, but once or twice, a more dominant figure had surprised the group by serving) was to become literally that: a fixture at the center of the party, immobile. A figure to be discussed or a toy to be used in a public fashion.
 
@@ -165,7 +165,7 @@ Erin nodded, anxious. She slipped shyly out of the last of her clothes and knelt
 
 The mink felt herself flush beneath her fur, whiskers bristling. "Mmnf..." she managed, then, "N-no. I mean, now I'm all curious. I've...never been with another mink before, after all."
 
-Aaron grinned and sat down on the edge of the mattress, holding a pair of soft, locking bondage cuffs and a snap hook connector - two lobster clasps joined by a strip of nylon with a D-ring situated in the middle - for binding them together. "Oh, so you're eager, then, toy?"
+Aaron grinned and sat down on the edge of the mattress, holding a pair of soft, locking bondage cuffs and a snap hook connector --- two lobster clasps joined by a strip of nylon with a D-ring situated in the middle --- for binding them together. "Oh, so you're eager, then, toy?"
 
 Erin squirmed at the pet name. She hadn't quite left sub-space, hadn't wanted to, and so the words played readily into that. "I...maybe," she admitted, squirming tensely.
 
@@ -185,7 +185,7 @@ Dragging the tote of gear closer, Aaron nodded, his voice muffled slightly by th
 
 Erin nodded, her breathing quick and shallow in anticipation. She could smell her own arousal quite strongly, now, as well as that of Aaron, a scent she was well accustomed to. "Yes owner," she panted, breaths tinged with a whine.
 
-There was a bit more fumbling in the bin before Aaron lay a few more items out in front of her, close enough to see but not touch. A ring-gag. A blindfold. A small remote control type device. A bowl of condoms. Two laminated signs - one with rules, the other with a space for tallying just how the mink had been useful. A marker to go with the signs.
+There was a bit more fumbling in the bin before Aaron lay a few more items out in front of her, close enough to see but not touch. A ring-gag. A blindfold. A small remote control type device. A bowl of condoms. Two laminated signs --- one with rules, the other with a space for tallying just how the mink had been useful. A marker to go with the signs.
 
 Kneeling before her, Aaron took the blindfold in one paw and the gag in the other and leaned in closer. The familiar scent of the cat's arousal was filling Erin's nostrils, his stiff shaft dead center in her gaze, but, again, just out of reach. The scent of him was overpowering the scent of herself, but she could feel that burning arousal in her belly, feel the cool air against her groin, caressing warm and slick flesh.
 
@@ -197,13 +197,13 @@ She was cut off quickly. She'd been so focused on Aaron's words and the sight of
 
 With one deft movement, the cat had taken advantage of her open muzzle to slip the gag in place, wedging her muzzle open with the ring of stiff rubber. His fingers quickly traced the straps of the gag to their ends, velcro straps that looped around her collar to hold the gag in place.
 
-"I know you will, toy," the cat growled - and it definitely was a growl this time. A commanding, possessive, domineering growl that ensured she knew her place.
+"I know you will, toy," the cat growled --- and it definitely was a growl this time. A commanding, possessive, domineering growl that ensured she knew her place.
 
 Erin could only whine and pant, huff and whimper. She nodded shakily, as much as the straps restraining her neck to her wrists would allow.
 
 Those teasing growls continued as Aaron set up, clearly leaving the blindfold in his paw until last so that she would be forced to watch. "I wonder if toy will be able to tell it's him," he said. "By shape or by noise. Or maybe he'll lean forward and whisper to you how he's taking you. Maybe he'll just scruff the toy. I bet his teeth are sharp."
 
-Whimper, pant, squirm. Erin couldn't manage a whole lot more, as she watched her owner set up the signs. "Please use condoms; no damage; Centerpiece will use buzzer to tap out" read one. "Cum count: In sex - In muzzle - In fur" read the other, the pen laid neatly at its base.
+Whimper, pant, squirm. Erin couldn't manage a whole lot more, as she watched her owner set up the signs. "Please use condoms; no damage; Centerpiece will use buzzer to tap out" read one. "Cum count: In sex --- In muzzle --- In fur" read the other, the pen laid neatly at its base.
 
 "Maybe it'll trigger something in you," Aaron said. He picked up the remote control and gave its single button a quick press, the small box emitting a surprisingly loud buzzing noise, annoying by design. Slipping the buzzer into Erin's paw, he leaned in closer to continue, "Maybe your body will know him by his species. Maybe you'll know what it is that you're missing out by him using a condom with you, by being that close to having his kits."
 
