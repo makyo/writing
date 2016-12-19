@@ -55,7 +55,7 @@ The Hanged Man | Lunostophiles had an idea, buni expressed interest |
 The Star | Searska expressed interest |  
 The Moon | Kyell |  
 The Sun | George Squares |  
-The World | |  
+The World | Ryffnah |  
 
 Also talked to but haven't decided on a card: *Sparf*.
 
