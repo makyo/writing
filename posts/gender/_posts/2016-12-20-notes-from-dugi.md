@@ -15,12 +15,14 @@ Schedule
 Staying in the area
 :   plan on staying nearby for about a month
 
-Pre- and post-surgery appointments
+Surgery timeline
 :  
 
     learn dilation during first visit (3xday 30min each) - pelvic floor pt for dilation within week before surgery
 
     Surgery 7-8hrs
+
+    5-6 days inpatient after surgery, total bedrest
 
     2wk, 4wk, 3mo visits
 
