@@ -6,7 +6,9 @@ title: Notes from Surgery Consult with Dr. Dugi
 *This is mostly a scratchpad of notes right now; I will likely clean it up when I have more spoons, but getting my raw notes out felt like a good idea.*
 
 Schedule
-:   Next fall, probably september or october
+:  
+
+    Next fall, probably september or october
 
     big effort to emphasize hair removal, usually the blocker
 
@@ -14,7 +16,9 @@ Staying in the area
 :   plan on staying nearby for about a month
 
 Pre- and post-surgery appointments
-:   learn dilation during first visit (3xday 30min each)p - elvic floor pt for dilation within week before surgery
+:  
+
+    learn dilation during first visit (3xday 30min each) - pelvic floor pt for dilation within week before surgery
 
     Surgery 7-8hrs
 
@@ -23,7 +27,9 @@ Pre- and post-surgery appointments
     visit a 3-4 days before
 
 Healing
-:   wound healing shows up ~ten days
+:  
+
+    wound healing shows up ~ten days
 
     two layers of dressing after surgery: a pack, catheter, drain, plus sew outer labia together, plus dressing on top of that (off day two)
 
@@ -34,7 +40,9 @@ Healing
     uti risk: higher after, because distance between bladder and world is shorter, less protective layers, etc. Always urinate after dilating/intercourse
 
 History
-:   Started six months ago, booked out a year
+:  
+
+    Started six months ago, booked out a year
 
     normally booked out of state through kaiser, weird for me to not be kaiser
 
@@ -43,7 +51,9 @@ History
     About thirty surgeries to date, waiting list 10-11mo.
 
 After
-:   most common revision: remove extra labial skin (added to give room for swelling during post op)
+:  
+
+    most common revision: remove extra labial skin (added to give room for swelling during post op)
 
     some choice on how much of the clitoris is hooded
 
@@ -70,9 +80,9 @@ On average, how long after surgery do your patients return to (physically light)
 :   Definitely limit walking, no real lifting requirements, 1k steps per day within house for four weeks as a guideline. 6 wks back to work/light exercise, but let your body be your guide
 
 How hard is it for nonbinary, dmab, prefer to stay primarily testosterone-based people to get this surgery?
-:   Dugi would be very open to nonbinary folks, but a lot of that's on WPATH and insurance (both patient's and the practice's). Two letters for all genital surgery
+:   Dugi would be very open to nonbinary folks, but a lot of that's on WPATH (which suggests a year of hrt) and insurance (both patient's and the practice's). Two letters for all genital surgery
 
-Does the patient have any input as to the final desired appearance, and if so, how much?
+How much say does the patient have in the appearance of the neovagina?
 :   A little bit:
     hood of clitoris depending on skin behind glans - more or less hidden clitoris
 
