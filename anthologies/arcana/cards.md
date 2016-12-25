@@ -88,7 +88,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Submissions pledged: 2* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 10. **~~Wheel of Fortune~~**
 
     Good luck, karma, cycles in life, destiny, a turning point *or* bad luck, negative external forces, out of control.
@@ -111,7 +111,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Submissions pledged: 1* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 14. **Temperance**
 
     Balance, moderation, patience, purpose, meaning *or* imbalance, excess, lack of long-term thinking.
@@ -135,7 +135,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Submissions pledged: 2* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 17. **~~The Star~~**
 
     Hope, spirituality, renewal, inspiration, serenity *or* lack of faith, despair discouragement.
