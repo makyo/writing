@@ -1,7 +1,14 @@
 ---
+counts:
+    characters_real: 6914
+    characters_total: 8472
+    file: ./posts/fiction/_posts/2016-12-26-assignment.md
+    paragraphs: 57
+    type: jekyll
+    words: 1520
+instance: 5f39bd7
 layout: post
 title: The Assignment
-instance: 5f39bd7
 ---
 
 *Originally written for and posted on Post-Self [here](http://post-self.io/entry/assignment/)*
@@ -117,5 +124,3 @@ Be a reporter.
 It was what the cult wanted, but ey felt the words and experiences stirring within em already. Hell, it's what *ey* wanted, too.
 
 Finally, an interesting assignment.
-
-{% include license/cc-by-sa-4.0 author='Madison Scott-Clary' year='2016' %}

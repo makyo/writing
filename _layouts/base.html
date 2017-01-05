@@ -54,6 +54,9 @@
                             <li><a href="/nanowrimo">NaNoWriMo</a></li>
                             <li><a href="/work">In-Progress Work</a></li>
                         </ul>
+                        <ul class="navbar-nav nav navbar-right">
+                            <li><a href="javascript:inverse()">Invert colors</a></li>
+                        </ul>
                     </div>
                 </div>
             </nav>
@@ -79,8 +82,9 @@
                 {% endif %}
             </div>
         </header>
-        {{content}}
-
+        <div class="content">
+            {{content}}
+        </div>
         <footer>
             <div class="container">
                 <p>
@@ -88,5 +92,19 @@
                 </p>
             </div>
         </footer>
+        <script type="text/javascript">
+        function inverse() {
+            var nav = document.getElementsByTagName('nav')[0];
+            if (document.body.classList.contains('inverse')) {
+                document.body.classList.remove('inverse');
+                nav.classList.remove('navbar-inverse');
+                nav.classList.add('navbar-default');
+            } else {
+                document.body.classList.add('inverse');
+                nav.classList.remove('navbar-default');
+                nav.classList.add('navbar-inverse');
+            }
+        }
+        </script>
     </body>
 </html>

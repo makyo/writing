@@ -9,8 +9,11 @@
             @namespace "http://www.w3.org/2000/svg";
             .line {
                 fill: none;
-                stroke: #222;
+                stroke: currentColor;
                 stroke-width: 1;
+            }
+            polygon {
+                fill:currentColor;
             }
             text.nonterminal {
                 font-family: "Ubuntu Mono", monospace;

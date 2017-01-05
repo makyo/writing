@@ -3,6 +3,10 @@ body {
     font-size: 12pt;
     color: #222;
 }
+body.inverse {
+    color: #eee;
+    background-color: #222;
+}
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Playfair Display', serif;
@@ -40,9 +44,15 @@ p {
 a, a:active {
     color: #666;
 }
+body.inverse a, body.inverse a:active {
+    color: #aaa;
+}
 
 a:visited, a:hover {
     color: #888;
+}
+body.inverse a:visited, body.inverse a:hover {
+    color: #ccc;
 }
 
 h1 a, h1 a:active, h1 a:visited, h1 a:hover,
@@ -88,6 +98,10 @@ section > svg {
 pre, code {
     font-family: "Ubuntu Mono", monospace;
 }
+body.inverse pre, body.inverse code {
+    color:#fdce93;
+    background-color:#3f3f3f;
+}
 
 .pageLinksContainer {
     text-align: center;
@@ -124,30 +138,20 @@ pre, code {
     font-size: 75%;
 }
 
-.pagination {
+.serial {
     position: relative;
     padding-bottom: 1em;
 }
 
-.pagination.bottom {
+.serial.bottom {
     border-top: 1px dotted #ccc;
 }
-.pagination.top {
+.serial.top {
     margin-top: -1em;
 }
 
-.pagination a.next {
-    display: block;
-    position: absolute;
-    right: 0;
-    top: 0;
-}
-
-.pagination a.previous {
-    display: block;
-    position: absolute;
-    left: 0;
-    top: 0;
+.serial .next {
+    text-align: right;
 }
 
 #post {
@@ -246,3 +250,140 @@ pre, code {
 .highlight .vg    { color: #008080 }
 .highlight .vi    { color: #008080 }
 .highlight .il    { color: #099 }
+
+body.inverse .highlight code, body.inverse .highlight pre {
+color:#fdce93;
+background-color:#3f3f3f;
+}
+
+body.inverse .highlight .hll {
+background-color:#222;
+}
+
+body.inverse .highlight .err {
+color:#e37170;
+background-color:#3d3535;
+}
+
+body.inverse .highlight .k {
+color:#f0dfaf;
+}
+
+body.inverse .highlight .p {
+color:#41706f;
+}
+
+body.inverse .highlight .cs {
+color:#cd0000;
+font-weight:700;
+}
+
+body.inverse .highlight .gd {
+color:#cd0000;
+}
+
+body.inverse .highlight .ge {
+color:#ccc;
+font-style:italic;
+}
+
+body.inverse .highlight .gr {
+color:red;
+}
+
+body.inverse .highlight .go {
+color:gray;
+}
+
+body.inverse .highlight .gs {
+color:#ccc;
+font-weight:700;
+}
+
+body.inverse .highlight .gu {
+color:purple;
+font-weight:700;
+}
+
+body.inverse .highlight .gt {
+color:#0040D0;
+}
+
+body.inverse .highlight .kc {
+color:#dca3a3;
+}
+
+body.inverse .highlight .kd {
+color:#ffff86;
+}
+
+body.inverse .highlight .kn {
+color:#dfaf8f;
+font-weight:700;
+}
+
+body.inverse .highlight .kp {
+color:#cdcf99;
+}
+
+body.inverse .highlight .kr {
+color:#cdcd00;
+}
+
+body.inverse .highlight .ni {
+color:#c28182;
+}
+
+body.inverse .highlight .ne {
+color:#c3bf9f;
+font-weight:700;
+}
+
+body.inverse .highlight .nn {
+color:#8fbede;
+}
+
+body.inverse .highlight .vi {
+color:#ffffc7;
+}
+
+body.inverse .highlight .c,.preview-zenburn body.inverse .highlight .g,.preview-zenburn body.inverse .highlight .cm,.preview-zenburn body.inverse .highlight .cp,.preview-zenburn body.inverse .highlight .c1 {
+color:#7f9f7f;
+}
+
+body.inverse .highlight .l,.preview-zenburn body.inverse .highlight .x,.preview-zenburn body.inverse .highlight .no,.preview-zenburn body.inverse .highlight .nd,.preview-zenburn body.inverse .highlight .nl,.preview-zenburn body.inverse .highlight .nx,.preview-zenburn body.inverse .highlight .py,.preview-zenburn body.inverse .highlight .w {
+color:#ccc;
+}
+
+body.inverse .highlight .n,.preview-zenburn body.inverse .highlight .nv,.preview-zenburn body.inverse .highlight .vg {
+color:#dcdccc;
+}
+
+body.inverse .highlight .o,.preview-zenburn body.inverse .highlight .ow {
+color:#f0efd0;
+}
+
+body.inverse .highlight .gh,.preview-zenburn body.inverse .highlight .gp {
+color:#dcdccc;
+font-weight:700;
+}
+
+body.inverse .highlight .gi,.preview-zenburn body.inverse .highlight .kt {
+color:#00cd00;
+}
+
+body.inverse .highlight .ld,.preview-zenburn body.inverse .highlight .s,.preview-zenburn body.inverse .highlight .sb,.preview-zenburn body.inverse .highlight .sc,.preview-zenburn body.inverse .highlight .sd,.preview-zenburn body.inverse .highlight .s2,.preview-zenburn body.inverse .highlight .se,.preview-zenburn body.inverse .highlight .sh,.preview-zenburn body.inverse .highlight .si,.preview-zenburn body.inverse .highlight .sx,.preview-zenburn body.inverse .highlight .sr,.preview-zenburn body.inverse .highlight .s1,.preview-zenburn body.inverse .highlight .ss {
+color:#cc9393;
+}
+
+body.inverse .highlight .m,.preview-zenburn body.inverse .highlight .mf,.preview-zenburn body.inverse .highlight .mh,.preview-zenburn body.inverse .highlight .mi,.preview-zenburn body.inverse .highlight .mo,.preview-zenburn body.inverse .highlight .il {
+color:#8cd0d3;
+}
+
+body.inverse .highlight .na,.preview-zenburn body.inverse .highlight .nt {
+color:#9ac39f;
+}
+
+body.inverse .highlight .nb,.preview-zenburn body.inverse .highlight .nc,.preview-zenburn body.inverse .highlight .nf,.preview-zenburn body.inverse .highlight .bp,.preview-zenburn body.inverse .highlight .vc {
+color:#efef8f;
+}
