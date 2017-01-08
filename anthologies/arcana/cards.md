@@ -21,6 +21,8 @@ In many common Tarot readings, cards are shuffled to mix them up.  In the proces
 
 If you're going to work on a story for one of the major arcana cards, please let us know and we'll update the call for submissions with how many pledges are outstanding on a card to let other writers know.  You can let us know on the Google Form [available here](https://goo.gl/forms/C76KEyE7XiD4pQLb2).
 
+<!--Last checked form: 2017-01-08-->
+
 0. **~~The Fool~~**
 
     Beginnings, innocence, spontaneity, a free spirt *or* naivety, foolishness, recklessness, ill-advised risk-taking.
@@ -33,7 +35,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Submissions pledged: 1* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 2. **~~The High Priestess~~**
 
     Intuition, higher powers, mysteries, subconscious mind *or* hidden agendas, not listening to the inner voice.
@@ -56,7 +58,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Submissions pledged: 1* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 6. **The Lovers**
 
     Love, union, relationships, values alignment, choices *or* disharmony, imbalance, misalignment of values.
@@ -111,7 +113,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
-    *Submissions pledged: 1* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Submissions pledged: 2* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 14. **Temperance**
 
     Balance, moderation, patience, purpose, meaning *or* imbalance, excess, lack of long-term thinking.
@@ -127,7 +129,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Submissions pledged: 1* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 16. **The Tower**
 
     Disaster, upheaval, sudden change, revelation *or* avoidance of disaster, fear of change.
