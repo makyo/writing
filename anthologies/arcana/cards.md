@@ -52,9 +52,12 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 4. **The Emperor**
 
-    Authority, father-figure, structure, solid foundation *or* domination, excessive control, rigidity, inflexibility.
+    Fertility, femininity, beauty, nature, abundance *or* blocked creativity, over-dependence on others.
 
-    *Invitation only*
+    *Submissions available:*  
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
+
+    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 5. **The Heirophant**
 
     Religion, group identification, conformity, tradition, beliefs *or* too much restriction, a need to challenge the status quo.
