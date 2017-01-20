@@ -45,3 +45,53 @@ The other mink nodded and gave Matthew a shy hug and a kiss to his muzzle. That 
 All this mention of 'toy', the degrading language, it was all so easy to pick up.
 
 "Thank you, er..." He made a show of leaning forward to check the tag on Erin's collar. Another heady whiff of that scent --- arousal, need, mink.  "Thank you, toy. I'm sure I'll be most welcome indeed."
+
+He grinned at Aaron and gave what he hoped was an approving nod.
+
+As the cat led off his toy, Matthew slouched, leaning against the wall to support some of his weight. His fumbling fingers set to work unbuttoning his shirt the rest of the way as he struggled with a swirl of thoughts.
+
+Erin was pretty, no doubt about it. Certainly his type, and definitely his species. And she was bound, so that was another point in her favor --- a subby mink such as her was one of those pie-in-the-sky sort of dreams, something he had never really expected to encounter.
+
+But why was this affecting him so much? Seeing a bound and naked mink girl like that was nice, but why was he nearly incapacitated?
+
+His mind swimming, Matthew shrugged out of his shirt and stuffed it into his bag. It was something to think about. Something he’d almost certainly have to think about, with Erin being the centerpiece.
+
+---
+
+With the Centerpiece off and getting ready, the party progressed much as Matthew expected. It was a touch awkward with so many people trying to get into the same mood at the same time, and to do so basically without talking about it.
+
+This was always a sticking point for Matthew. He hated it. He hated the way that there was so much dancing around the topic of being at a kink party in the hours and minutes leading up to it. Few people would acknowledge the things that were about to happen, the reasons that they were there, in an open and earnest fashion. Hell, *he* had an awful time of it: it was something within himself that he hated, as well. Something within society that afflicted them all.
+
+He trusted Joan, though, and trusted Elise in turn, that things would work out alright. As far as parties like this went, those hear in the state and those back home, this one was fairly smooth. Even though he appeared to have made a bit of a *faux pas* by taking off his shirt earlier than others, everyone seemed happy to roll with it, the mink fitting in well with some conversations about design that he was at least familiar with.
+
+He wound up with a beer in one paw and a very small, very strong shot of something more than just alcohol in the other. The former he sipped as a matter of form, and the latter he cherished. It would be enough, he knew, to get him feeling all buzzy and loose, but not enough to incapacitate him or, worse, make him unable to perform. And hey, work didn't test for the stuff, and he rarely had the chance, so he might as well indulge.
+
+As he took tiny sips from the shockingly bitter shot and larger swallows from the comparatively bland beer, he wound his way through the party, introducing himself here and there as he felt himself loosening up.
+
+Several times, he made eye contact with Joan, giving small smiles and little perks of his ears. She responded in kind, but would continue about her business as hostess soon after. Ah well, he'd keep trying.
+
+*Besides,* he thought. *Joan invited me. She's the reason I'm here, really. Erin was a wonderful surprise, but she's probably out of my league, well embedded in this group and thoroughly married to her engineer husband. Lucky cat. I ought to leave them be.*
+
+To that end, he tooled around the party, letting himself be ushered into the living room with all of the rest of the attendees for the last of the icebreaking activities before the party began in earnest.
+
+The activity turned out to be strip poker. Matthew gave a little snort of laughter as he accepted his hand of cards, thinking first that the idea was trite and worn, and then realizing that it was well chosen so long as it was timed right. As the Centerpiece had been paraded around, it had been to get everyone in the mood, while the wait between then and the strip poker had been to build up expectations.
+
+Poker, then, was flipped on its head. It was a silly conceit that, in context, made everyone play to lose. Getting rid of clothing was a good way to get closer to the party itself, was something to be proud of. Get folks lubed up with alcohol and stronger stuff --- the intensity it required for Matthew to focus on his cards was testiment to just how strong --- set their expectations with a flourish of exhibitionism, set their nerves on edge, and them make them work for it.
+
+Well played.
+
+Matthew, having already discarded his shirt, was teased and handicapped in the game of strip poker. Even so, everyone wound up nude at about the same time.
+
+The mink was decidedly buzzy, but the nice thing about this is that, even though it knocked coordination down a few notches, it left perception about up where it was meant to be, and perhaps even kicked touch up a bit. Despite the fact that there was a wide array of visual arousals. Some were overt, with erections and slickness, and some were more subtle, with the ways in which people directed their attentions to each other: gazes lingering longer, touches and kisses increasing in frequency and intensity.
+
+Above all that, though, Matthew smelled the arousal. Minks, he supposed, had a good enough sense of smell to pick up on the odors from all of those present at the party. Everyone, everyone at the party was worked up to some extent, even if it wasn't visually evident. There were musks, and the salt-air scents of the sea, and the sweet and spicy smells of forests and fertility.
+
+Another thing to thank that bitter concoction for, being able to smell all of that.
+
+And another thing to thank this party for, given that many that he had wound up at had left no more than half of the attendees interested and aroused. The parties containing all interested parties and not, say, those who had just shown up to see friends, were few and far between.
+
+As the game of strip poker wound down to a close with an unlucky fox finally getting to strip his underwear and reveal a shaft standing firm and proud (no surprise, given how it had been straining against underwear moments before), the group surged as one. There was a purpose. An itinerary.
+
+It was Elise who stood.
+
+(welcoming speech with bdsm rules, focus on joan. aaron opens door to reveal centerpiece, torn attention and split desires, internal conflict about not being in either erin's league or joan's, tries to go for joan but is rebuffed, left to fawn over erin, turning down others to hold her paws and whisper dirty things, ambiguous whether or not he gets a chance)

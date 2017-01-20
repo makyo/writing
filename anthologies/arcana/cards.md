@@ -19,9 +19,7 @@ The major arcana, followed from the first card to the last, tell a story of grow
 
 In many common Tarot readings, cards are shuffled to mix them up.  In the process, some cards wind up being drawn upside down, or *reversed*.  Thus, each card comes with two meanings: the meaning for when the card is drawn upright, and the meaning for when the card is drawn reversed.  These two meanings are two sides of the same coin, the reversed meaning often implying an impeded, restricted, or subverted reading of the primary meaning.  Both meanings are provided below - you may focus on the primary or the reversed meaning, or simply the underlying archetype, in your submission.
 
-If you're going to work on a story for one of the major arcana cards, please let us know and we'll update the call for submissions with how many pledges are outstanding on a card to let other writers know.  You can let us know on the Google Form [available here](https://goo.gl/forms/C76KEyE7XiD4pQLb2).
-
-<!--Last checked form: 2017-01-08-->
+If you're going to work on a story for one of the major arcana cards, please let us know and we'll update the call for submissions with how many pledges are outstanding on a card to let other writers know.  You can let us know on the Google Form [available here](https://goo.gl/forms/C76KEyE7XiD4pQLb2). I will update the list below as I receive entries on the form, but this may take a day or two. For a real time list of peldges, scroll to the bottom for an embedded (if slightly ugly) google sheet.
 
 0. **~~The Fool~~**
 
@@ -66,7 +64,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Submissions pledged: 4* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 7. **The Chariot**
 
     Control, willpower, victory, assertion, determination *or* lack of control, lack of direction, heedless agression.
@@ -74,7 +72,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Submissions pledged: 2* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 8. **Strength**
 
     Strength, courage, patience, control, compassion *or* weakness, self-doubt, lack of self-discipline.
@@ -90,7 +88,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
-    *Submissions pledged: 3* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Submissions pledged: 4* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 10. **~~Wheel of Fortune~~**
 
     Good luck, karma, cycles in life, destiny, a turning point *or* bad luck, negative external forces, out of control.
@@ -113,7 +111,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
-    *Submissions pledged: 2* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Submissions pledged: 3* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 14. **Temperance**
 
     Balance, moderation, patience, purpose, meaning *or* imbalance, excess, lack of long-term thinking.
@@ -121,7 +119,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Submissions pledged: 2* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 15. **The Devil**
 
     Bondage to one's ideals, addiction, sexuality, materialism *or* detachment, breaking free, power reclaimed.
@@ -160,10 +158,12 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Submissions pledged: 1* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 21. **~~The World~~**
 
     Completion, integration, accomplishment, travel *or* lack of completion, lack of closure.
 
     *Invitation only*
 {: start="0" }
+
+<iframe src="https://docs.google.com/spreadsheets/d/1rUKBmpcn5iz2OpSjz9O-9Bp5B7NncC8zk6Lq7wr6ZD0/pubhtml?gid=1064171326&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
