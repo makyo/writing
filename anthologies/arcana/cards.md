@@ -1,12 +1,12 @@
 ---
 comments: false
 counts:
-    characters_real: 4095
-    characters_total: 4849
+    characters_real: 4115
+    characters_total: 4874
     file: ./anthologies/arcana/cards.md
-    paragraphs: 66
+    paragraphs: 67
     type: jekyll
-    words: 741
+    words: 746
 layout: page
 title: Major arcana cards and meanings for Arcana
 ---
@@ -71,7 +71,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     Love, union, relationships, values alignment, choices *or* disharmony, imbalance, misalignment of values.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
 
     *Submissions pledged: 4* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 7. **The Chariot**
