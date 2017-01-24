@@ -14,7 +14,7 @@ title: More Than A Few Words
         </div>
     </div>
     <div class="row">
-        <div class="col-md-8 pull-left">
+        <div class="col-md-8">
             <h3>Recent posts</h3>
             {% for post in site.posts limit:15 %}
             <div class="post-entry">
@@ -27,7 +27,7 @@ title: More Than A Few Words
                 {{ post.excerpt }}
             </div>
             {% endfor %}
-            <p><a href="/posts">Read more</a></p>
+            <p><a href="/posts"><em>Read more...</em></a></p>
         </div>
         <div class="col-md-4">
             <div class="panel panel-default">
