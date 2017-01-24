@@ -22,6 +22,10 @@ header {
     margin-top: -7px;
 }
 
+.navbar-inverse .dropdown-menu {
+    background-color: #222;
+}
+
 .linktitle {
     background-color: #eee;
     border-top: 1px solid #ccc;
@@ -35,6 +39,18 @@ h3.alignTop {
 
 .panel-footer {
     text-align: center;
+}
+
+.post-entry {
+    padding: 0.5em 0;
+    margin: 0.5em 0;
+    border-bottom: 1px solid #888;
+}
+.post-entry:last-of-type {
+    border-bottom: none;
+}
+.post-entry img {
+    max-width: 100%;
 }
 
 p {
@@ -66,6 +82,25 @@ blockquote {
     border-left: 1px solid #ccc;
     color: #555;
     font-weight: 200;
+}
+body.inverse blockquote {
+    color: #aaa;
+    border-left: 1px solid #555;
+}
+
+
+body.inverse .panel {
+    border-color: #444;
+}
+body.inverse .panel-heading {
+    background-image: linear-gradient(to bottom, #333 0,#222 100%);
+    color: #ccc;
+}
+body.inverse .panel-body {
+    background-color: #222;
+}
+body.inverse .panel-footer {
+    background-color: #333;
 }
 
 dd {

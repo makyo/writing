@@ -2,7 +2,7 @@
 counts:
     characters_real: 37956
     characters_total: 46508
-    file: ./long-form/new-american-absinthe/index.md
+    file: ./non-fiction/new-american-absinthe/index.md
     paragraphs: 173
     type: jekyll
     words: 8148

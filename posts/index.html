@@ -7,4 +7,41 @@ title: Home
 
 <p>This site is for that. It allows me to explore through writing all of those things that interest me as mentioned.  The format is longer than a blog, allowing what I write to stand on its own.  If ever, for some reason, you wish to contact me about any of this, feel free to send me an email at <a href="mailto:makyo@drab-makyo.com">makyo@drab-makyo.com</a>.</p>
 
+
+<div id="pages">
+    <div class="pageLinksContainer">
+        <a href="javascript:void(0)" class="pageLink prevLink">&larr;</a>
+        <span class="pageLinks"></span>
+        <a href="javascript:void(0)" class="pageLink nextLink">&rarr;</a>
+    </div>
+    <div class="items"></div>
+</div>
+<script type="text/javascript" src="/js/paginator.js"></script>
+<script type="text/javascript" src="/js/templates.js"></script>
+<script type="text/javascript">
+    var posts = [
+    {% for post in site.posts %}
+        {% unless post.categories contains 'gendernull' %}
+        {
+            url: "{{ post.url }}",
+            title: "{{ post.title|escape }}",
+            categories: [
+                {% for category in post.categories %}{% if category != "posts" %}
+                "{{ category }}"{% if forloop.last != true %},{% endif %}
+                {% endif %}{% endfor %}
+            ],
+            cycle: "{% cycle "odd", "even" %}",
+            type: "{{ post.layout }}",
+            postDate: "{{ post.date|date_to_string }}"
+        }{% unless forloop.last %},{% endunless %}
+        {% endunless %}
+    {% endfor %}
+    ];
+
+    // Use the location.hash for storing the current page
+    Paginator.prototype.useHash = true;
+
+    var p = new Paginator(posts, '#pages', Handlebars.templates.postList);
+</script>
+
 <p><a href="feed.xml">RSS</a></p>

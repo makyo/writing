@@ -2,7 +2,7 @@
 counts:
     characters_real: 1044
     characters_total: 1284
-    file: ./long-form/rum-and-coke/index.md
+    file: ./fiction/rum-and-coke/index.md
     paragraphs: 8
     type: jekyll
     words: 233

@@ -3,7 +3,7 @@ comments: false
 counts:
     characters_real: 1245
     characters_total: 1561
-    file: ./long-form/rum-and-coke/reviews.md
+    file: ./fiction/rum-and-coke/reviews.md
     paragraphs: 3
     type: jekyll
     words: 294

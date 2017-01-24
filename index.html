@@ -6,31 +6,28 @@ title: More Than A Few Words
 
 <div class="container">
     <div class="row">
-        <div class="col-md-4">
-            <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h3 class="panel-title">Posts</h3>
-                    </div>
-                    <div class="panel-body">
-                        <p>I spend a lot of my time writing, and often it is shorter-form content that comes out somewhere between a blog-post, an journal entry, or an essay on a given topic.  All of these posts are collected here, organized chronologically and filtered into categories.</p>
-                        <h3>Recent posts</h3>
-                        <ul>
-                            {% for post in site.posts limit:5 %}
-                            {% unless post.categories contains 'suicide' or post.categories contains 'gendernull' or post.rating contains 'X' %}
-                            <li><a href="{{ post.url }}">{{ post.title }}</a> posted in
-                            {% for category in post.categories %}{% if category != "posts" %}
-                            <a href="/posts/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %}
-                            {% endif %}{% endfor %}
-                            on {{ post.date|date_to_string }}
-                            {% if post.rating %}<em>Rated: {{ post.rating }}</em>{% endif %}</li>
-                            {% endunless %}
-                            {% endfor %}
-                        </ul>
-                    </div>
-                    <div class="panel-footer">
-                        <p><a href="/posts">Posts</a></p>
-                    </div>
-                </div>
+        <div class="col-md-8 col-md-offset-2">
+            <img src="http://drab-makyo.com/assets/headshot.jpg" style="max-width: 30%; margin: 0 1em 1em 0" align="left" />
+            <p>Welcome to the writing page of Madison Scott-Clary.  Madison is an author of fiction, non-fiction, and poetry living in Loveland, Colorado. Her interests lie in the realms of furry fiction and non-fiction, collaborative fiction, and hypertextual writing. She is a member of the Furry Writers' Guild and editor for several projects, fiction and non-fiction.</p>
+
+            <p>This site collects several of her written works, as well as blog entries that encompass several topics. When a new work is posted outside of the blog, a blog entry often accompanies it, so feel free to follow the blog feed for pointers to new stories, non-fiction pieces, and poems, as well as works in progress!</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-8 pull-left">
+            <h3>Recent posts</h3>
+            {% for post in site.posts limit:15 %}
+            <div class="post-entry">
+                <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a> posted in
+                {% for category in post.categories %}{% if category != "posts" %}
+                <a href="/posts/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %}
+                {% endif %}{% endfor %}
+                on {{ post.date|date_to_string }}
+                {% if post.rating %}<em>Rated: {{ post.rating }}</em>{% endif %}</p>
+                {{ post.excerpt }}
+            </div>
+            {% endfor %}
+            <p><a href="/posts">Read more</a></p>
         </div>
         <div class="col-md-4">
             <div class="panel panel-default">
@@ -38,7 +35,7 @@ title: More Than A Few Words
                     <h3 class="panel-title">Long-Form</h3>
                 </div>
                 <div class="panel-body">
-                    <p>Occasionally, what I write will become part of a larger long-form piece.  In that case, they will be posted here in whole, divided up into parts, or posted as a PDF available for download or printing.</p>
+                    <p>Occasionally, what Madison writes will become part of a larger long-form piece. In that case, they will be posted here in whole, divided up into parts, or posted as a PDF available for download or printing.</p>
                     <h3>Recent pieces</h3>
                     <ul>
                         <li><a href="/long-form/rum-and-coke">Rum and Coke</a></li>
@@ -56,24 +53,22 @@ title: More Than A Few Words
                     <h3 class="panel-title">Poetry</h3>
                 </div>
                 <div class="panel-body">
-                    <p>I don't often write poetry.  What I do write, however, will wind up here</p>
+                    <p>Madison doesn't often write poetry. What she does write, however, will wind up here.</p>
                 </div>
                 <div class="panel-footer">
                     <p><a href="/poetry">Poetry</a></p>
                 </div>
             </div>
         </div>
-    </div>
-    <div class="row">
         <div class="col-md-4">
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h3 class="panel-title">Anthologies</h3>
                 </div>
                 <div class="panel-body">
-                    <p>I occasionally edit or publish anthologies of written works.  All of them are listed here.</p>
+                    <p>Madison occasionally edits or publishes anthologies of written works. All of them are listed here.</p>
                     <ul>
-                        <li><a href="/anthologies/arcana">Arcana</a> <em>General submissions: closed</em></li>
+                        <li><a href="/anthologies/arcana">Arcana</a> <em>General submissions: open</em></li>
                     </ul>
                 </div>
                 <div class="panel-footer">

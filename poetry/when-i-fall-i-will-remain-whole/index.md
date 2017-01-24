@@ -1,7 +1,7 @@
 ---
 counts:
-    characters_real: 524
-    characters_total: 641
+    characters_real: 526
+    characters_total: 643
     file: ./poetry/when-i-fall-i-will-remain-whole/index.md
     paragraphs: 5
     type: jekyll
@@ -12,16 +12,16 @@ title: When I fall, I will remain whole - 2016-11-14
 
 I keep hoping that, one day,  
 I'll spring palladial from the bole of a tree.  
-Fully formed, asexual,  
+Fully formed, sexless,  
 Conceived without desire or intent.
 
-My body will be virgin and clean,  
+My body will be virginal and clean,  
 My mind fresh, my soul at ease.  
 The tree, behind me, will stand crooked,  
 Bole seeping until time and air dry sap.
 
 I will be a flat expanse of green, made up of new cells.  
-Everything will work together, a machine running smoothly.
+Everything will work together, a smoothly running machine.
 
 I keep hoping to, one day,  
 Function with unity, unflagging.  

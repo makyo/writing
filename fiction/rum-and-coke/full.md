@@ -2,7 +2,7 @@
 counts:
     characters_real: 108501
     characters_total: 133847
-    file: ./long-form/rum-and-coke/full.md
+    file: ./fiction/rum-and-coke/full.md
     paragraphs: 736
     type: jekyll
     words: 24909

@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 286
-    characters_total: 360
+    characters_real: 316
+    characters_total: 398
     file: ./poetry/the-dogs-assure-me/index.md
-    paragraphs: 2
+    paragraphs: 4
     type: jekyll
-    words: 70
+    words: 75
 layout: page
 title: The Dogs Assure Me - 2015-03-06
 ---
@@ -25,3 +25,7 @@ The rich scent of meaning -
 Heady, intoxicating -  
 Rises only from words  
 And the way you rest your hands on the table.  
+
+-----
+
+*Published in Civilized Beasts 2016*
