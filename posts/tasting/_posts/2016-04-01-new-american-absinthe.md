@@ -2,13 +2,13 @@
 counts:
     characters_real: 37956
     characters_total: 46508
-    file: ./posts/tasting/_posts/2016-04-01-new-american-absinthe.markdown
+    file: ./posts/tasting/_posts/2016-04-01-new-american-absinthe.md
     paragraphs: 173
     type: jekyll
     words: 8148
 layout: post
 redirect_to:
-- /long-form/new-american-absinthe
+- /non-fiction/new-american-absinthe
 title: New American Absinthe
 ---
 

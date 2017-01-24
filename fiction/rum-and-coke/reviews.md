@@ -10,10 +10,11 @@ counts:
 layout: page
 title: Reviews for Rum and Coke
 ---
-2015-10-15 - Furry Writers' Guild shoutbox:
 
+### 2015-10-15 - Furry Writers' Guild shoutbox:
+
+```
 pj wolf:	Anyway, Makyo, I finished reading your rum and coke story (novella?) this morning.  
-Gnarl:	are you saying your not inspired by scones with cream?  
 pj wolf:	I think my exact thoughts after finishing were "That was weird. And hot. Definitely weird. And definitely hot."  
 Makyo:	Oh! Yay! That's a perfectly cromulent response, I think ^^  
 Makyo:	Every time I try to write fiction, a fable about gender or mental health falls out.  
@@ -27,5 +28,6 @@ Makyo:	pj: yeah, it's kind of an intense situation to throw people into, especia
 Mog Moogle:	Expectations is the title. It's on my SoFurry *giggles*  
 Mog Moogle:	It was rejected from Heat last year. I was thinking about expanding it and submitting to Hot Dish when it opens up again  
 pj wolf:	Also, I dug how they were all at the same con. While I was certain on what the second story saw about the first, I'm less sure (though still sure) about the third story's intersection with the second.
+```
 
 -----

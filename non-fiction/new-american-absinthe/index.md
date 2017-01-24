@@ -10,6 +10,11 @@ layout: post
 title: New American Absinthe
 ---
 
+Print
+:   [PDF](new-american-absinthe.pdf)
+
+-----
+
 ![The lineup, in no particular order.](/assets/tasting/naa-all.jpg)
 <small>*The lineup, in no particular order.*</small>
 

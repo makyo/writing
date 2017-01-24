@@ -1,5 +1,15 @@
-Après un rêve
-=============
+---
+counts:
+    characters_real: 7968
+    characters_total: 9729
+    file: ./fiction/post-self/apres-un-reve/index.md
+    paragraphs: 82
+    type: jekyll
+    words: 1735
+layout: post
+rating: PG
+title: "Apr\xE8s un r\xEAve"
+---
 
 > *Dans un sommeil que charmait ton image  
 > Je rêvais le bonheur, ardent mirage,  

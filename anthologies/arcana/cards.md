@@ -1,12 +1,12 @@
 ---
 comments: false
 counts:
-    characters_real: 4115
-    characters_total: 4874
+    characters_real: 4086
+    characters_total: 4837
     file: ./anthologies/arcana/cards.md
-    paragraphs: 67
+    paragraphs: 66
     type: jekyll
-    words: 746
+    words: 738
 layout: page
 title: Major arcana cards and meanings for Arcana
 ---
@@ -46,7 +46,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Submissions pledged: 1* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 4. **The Emperor**
 
     Fertility, femininity, beauty, nature, abundance *or* blocked creativity, over-dependence on others.
@@ -62,7 +62,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
-    *Submissions pledged: 1* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Submissions pledged: 2* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 6. **The Lovers**
 
     Love, union, relationships, values alignment, choices *or* disharmony, imbalance, misalignment of values.
@@ -86,7 +86,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Submissions pledged: 1* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 9. **The Hermit**
 
     Soul searching, introspection, being alone, inner guidance *or* isolation, loneliness, ill-advised withdrawal.
@@ -117,7 +117,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
 
-    *Submissions pledged: 3* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    *Submissions pledged: 5* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 14. **Temperance**
 
     Balance, moderation, patience, purpose, meaning *or* imbalance, excess, lack of long-term thinking.
