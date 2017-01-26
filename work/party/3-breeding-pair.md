@@ -10,17 +10,23 @@ After that, he'd started asking around before simply hunting for them on some of
 
 There were some good times and some awkward times after that, but no downright bad times. He'd played a bit here and there, exploring how to safely engage his dommy side, and, on two occasions, gotten himself delightfully tied up. And always, as he asked around at the parties, people talked in an almost worshipful tone of Joan and Elise's parties, and how well they seemed to run.
 
-His in had been through Joan herself, let off the leash to go have some fun of her own while Elise had a night of recharging and wine at home. They'd gotten to talking after the party, two mustelids lounging on a couch. It had been too warm (and too messy) to really cuddle, but they'd sort of made the gestures without actually making contact, avoiding building up heat while still being close.
+His in had been through Joan herself, let off the leash to go have some fun of her own while Elise had a night of recharging and wine at home.
+
+Joan and Matthew had gotten to talking after the party, two mustelids lounging on a couch. It had been too warm (and too messy) to cuddle, but they'd gotten by with making the gestures without actually making contact. No building up heat while still remaining close.
 
 She'd asked him if he'd be interesting in coming to a similar party at her place before he'd even put two and two together, and he'd said yes.
 
 More luck than sense, but that's how it works at the end of BDSM parties.
 
-Joan had given him a feathery kiss to the whiskers at the end of the night and they'd promise to see each other a month and change down the line. Matthew'd caught the bus home after that, reeking of sex, head buzzy with pleasure and filled with endorphins from the pain (there had been flogging), thinking of that lithe ferret he'd had the chance to close out the evening with. He suspected she was quite out of his league, but the kiss and the invitation had him hopeful.
+Joan had given him a feathery kiss to the whiskers at the end of the night and they'd promised to see each other a month and change down the line. Matthew had caught the bus home after that. Reeking of sex, head buzzy with pleasure and filled with endorphins from the pain (there had been flogging), he thought of that lithe ferret he'd had the chance to close out the evening with. She was quite out of his league, he was sure, but the kiss and the invitation had him hopeful.
 
 The next five weeks had been a tortuous slog through work. Work itself was picking up, which sucked, and seemed to be getting in the way of all his plans, cancelling at least one tentative date between the two parties. Thankfully, the product reveal was two days before the party itself, so perhaps that would be a little treat. He suspected he'd need the release by then.
 
-He had long since gotten used to being greeted by the smells of arousal and stress when walking into parties like this, but tonight there was something more, something that touched him in a way those other mixed scents before hadn't. To then be greeted at the party by his coworker --- his coworker! --- and his delightful mink of a wife in the midst of disrobing left him reeling.
+-----
+
+Matthew had long since gotten used to being greeted by the smells of arousal and stress when walking into parties like this, but tonight there was something more, something that touched him in a way those other mixed scents before hadn't.
+
+To then be greeted at the party by his coworker --- his coworker! --- and his delightful mink of a wife in the midst of disrobing left him reeling.
 
 "And this is Matthew. Matthew Lederer," Aaron had said. "I believe you've met."
 
