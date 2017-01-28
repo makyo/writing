@@ -1,4 +1,14 @@
-# Hostess
+---
+counts:
+    characters_real: 17547
+    characters_total: 21624
+    file: ./work/party/a2-hostess.md
+    paragraphs: 108
+    type: jekyll
+    words: 4039
+layout: page
+title: Hostess
+---
 
 Elise was the first into the living room when Aaron opened the door, exposing his wife, the Centerpiece to the rest of the party.
 

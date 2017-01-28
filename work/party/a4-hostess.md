@@ -1,4 +1,14 @@
-# Hostess
+---
+counts:
+    characters_real: 806
+    characters_total: 992
+    file: ./work/party/a4-hostess.md
+    paragraphs: 2
+    type: jekyll
+    words: 183
+layout: page
+title: Hostess
+---
 
 By the time Aaron had been allowed up along her body far enough to bury his muzzle in the velvety-short fur of her groin, Joan had fallen into a comfortable rhythm with Elise. Using someone more submissive than her as a toy while she remained the pet to her mistress was not something they'd had a chance to try --- or even talk about --- before.
 

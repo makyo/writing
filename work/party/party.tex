@@ -28,6 +28,11 @@
   \renewcommand{\footrulewidth}{0pt}
 }
 
+%%% Chapters
+\makeatletter
+\@addtoreset{chapter}{part} % Reset chapter count per part
+\makeatother
+
 %%% Font
 \renewcommand\rmdefault{ptm}
 \renewcommand\ttdefault{pcr}
@@ -54,20 +59,55 @@
   \newpage
   \tableofcontents*
 
+  \part{Party}
+
   \chapter{Centerpiece}
-  \input{content/1-centerpiece}
+  \input{content/a1-centerpiece}
 
   \chapter{Hostess}
-  \input{content/2-hostess}
+  \input{content/a2-hostess}
 
   \chapter{Breeding Pair}
-  \input{content/3-breeding-pair}
+  \input{content/a3-breeding-pair}
 
   \chapter{Hostess}
-  \input{content/4-hostess}
+  \input{content/a4-hostess}
 
-  \chapter{Stud}
-  \input{content/5-stud}
+  \chapter{Aftercare}
+  \input{content/a5-aftercare}
 
+  \part{Afterparty}
+
+  \chapter{Couple}
+  \input{content/b1-couple}
+
+  \chapter{Triad}
+  \input{content/b2-triad}
+
+  \chapter{Couple}
+  \input{content/b3-couple}
+
+  \chapter{Triad}
+  \input{content/b4-triad}
+
+  \chapter{Couple}
+  \input{content/b5-couple}
+
+  \part{Party}
+
+  \chapter{Centerpiece}
+  \input{content/c1-centerpiece}
+
+  \chapter{Hostess}
+  \input{content/c2-hostess}
+
+  \chapter{Breeding Pair}
+  \input{content/c3-breeding-pair}
+
+  \chapter{Hostess}
+  \input{content/c4-hostess}
+
+  \chapter{Aftercare}
+  \input{content/c5-aftercare}
 
 \end{document}

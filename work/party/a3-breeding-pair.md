@@ -1,18 +1,34 @@
-# Breeding Pair
+---
+counts:
+    characters_real: 10472
+    characters_total: 12932
+    file: ./work/party/a3-breeding-pair.md
+    paragraphs: 61
+    type: jekyll
+    words: 2436
+layout: page
+title: Breeding Pair
+---
 
 Matthew Lederer had been prowling around the outer edges of the BDSM party circuit for a few months now. Although he still called himself a transplant, he'd been in the area for almost three years, and the excuse had started to wear thin. He was more than past due to get back to the explorations he'd left behind with the move.
 
-There had been some false starts, as there were with any venture. The first party he'd found had turned out to be a such a bust that he'd almost given up and gone back to a regular dating scene after that. "BDSM party", to some, apparently meant getting *really high* and having *a lot of sex* while seemingly trying to be *as unsafe as possible*.
+The move had been planned --- long planned, even --- but all the same, it came as a shock to his system to be withdrawn from a community in which he was just starting to feel at home. An introduction to bondage, an introduction to power dynamics, an introduction into another couple's relationship all had come a scant year before the move. And then the job offer.
+
+The scene wasn't coming with him, the couple wasn't moving. With the triad broken and his boxes packed, all he had to do was to say goodbye to the life he'd built and the things he'd started to explore, and hope that he'd find more of the same soon.
+
+There had been some false starts, as there were with any venture. The first party he'd found had turned out to be a such a bust that he'd almost given up and gone back to a regular dating scene after that. Settling, as he thought of it. "BDSM party", to some, apparently meant getting *really high* and having *a lot of sex* while seemingly trying to be *as unsafe as possible*.
 
 Not his bag.
 
-After that, he'd started asking around before simply hunting for them on some of the skeevier sites on the web. Having face-to-face conversations seemed to really help eliminate the grosser of the parties.
+After that, he'd started asking around rather than simply hunting for them on some of the skeevier sites on the web. Having face-to-face conversations seemed to reduce the number of gross parties, even if it meant reducing the overeall number as well..
 
-There were some good times and some awkward times after that, but no downright bad times. He'd played a bit here and there, exploring how to safely engage his dommy side, and, on two occasions, gotten himself delightfully tied up. And always, as he asked around at the parties, people talked in an almost worshipful tone of Joan and Elise's parties, and how well they seemed to run.
+There were some good times and some awkward times after that, but no downright bad times. He'd played a bit here and there, exploring how to engage his dommy side. On two occasions he'd even gotten himself delightfully tied up, shibari-style.
 
-His in had been through Joan herself, let off the leash to go have some fun of her own while Elise had a night of recharging and wine at home.
+And always, as he asked around at the parties, people talked in an almost worshipful tone of Joan and Elise's parties, and how well they seemed to run.
 
-Joan and Matthew had gotten to talking after the party, two mustelids lounging on a couch. It had been too warm (and too messy) to cuddle, but they'd gotten by with making the gestures without actually making contact. No building up heat while still remaining close.
+His 'in' had been through Joan herself, let off the leash to go have some fun of her own while Elise had a night of recharging and wine at home.
+
+Joan and Matthew had gotten to talking after the party --- a long party that was half demonstration, half play --- the two mustelids lounging on a couch. It had been too warm (and the couch too messy) to cuddle, but they'd made do with making the gestures, not needing to actually make contact. No building up heat while still remaining close felt like a good move.
 
 She'd asked him if he'd be interesting in coming to a similar party at her place before he'd even put two and two together, and he'd said yes.
 
@@ -24,43 +40,57 @@ The next five weeks had been a tortuous slog through work. Work itself was picki
 
 -----
 
-Matthew had long since gotten used to being greeted by the smells of arousal and stress when walking into parties like this, but tonight there was something more, something that touched him in a way those other mixed scents before hadn't.
+Matthew had long since gotten used to being greeted by the smells of arousal and stress when walking into parties like this. Arousal was obvious, but, early on, he hadn't expected the stress. It made sense, he supposed: many were there with a goal in mind, and it was work to attain that. Pleasurable work, but work nonetheless.
 
-To then be greeted at the party by his coworker --- his coworker! --- and his delightful mink of a wife in the midst of disrobing left him reeling.
+Tonight, though, there was something more, something that touched him in a way those other mixed scents before hadn't.
 
-"And this is Matthew. Matthew Lederer," Aaron had said. "I believe you've met."
+He'd brought an overnight bag just in case, and as he slipped through the front door, he saw that he hadn't been alone. Lining the entryway and toward the kitchen were several other bags, as well as totes and boxes, which he suspected were full of gear. And here he'd only thought to bring clothes.
 
-Matthew knew he was staring, open mouthed. He'd known Erin was attractive. That much was obvious at the silly company party they'd all had to attend, but now she seemed decidedly stunning.
+He settled his bag down among the rest, doing his best to make sure he hadn't put it on top of anyone else's, and, unsure of the protocols of the evening, began unbuttoning his shirt. All he'd heard was that there would be a Centerpiece. A toy to parade about, a toy for everyone to use. The rest had all been left vague--
+
+"And this is Matthew. Matthew Lederer," he heard a familiar voice. "I believe you've met."
+
+Aaron.
+
+Contexts clashed, work and play argued for space in his head. To be greeted at the party by his coworker --- his coworker! --- and his delightful mink of a wife in the midst of disrobing left him wrong-footed.
+
+Matthew knew he was staring, open mouthed. He'd met Erin, known she was attractive. That much was obvious at the silly company party they'd all had to attend, but this was something else. Something else entirely.
 
 She was at the end of a leash held by Aaron, a black, nylon job that was clasped to an identical collar. All the silver and black went well with her sleek fur.
 
-She was still dressed much as she had been the first time they'd met, other than that, and the incongruence brought a smile to his muzzle. It was less the clothing, then that drew him to her, but the scent of her own arousal: that which had him bristling from entry. It felt like a complement to him. Something that ought to be *his*.
+She was still dressed much as she had been the first time they'd met, other than that: a plain top and simple skirt, a jersey-fabric over-shirt trailing past her waist. The incongruence brought a smile to his muzzle. Centerpiece, hmm?
 
-He forced himself to turn to Aaron and grin widely to him rather than simply leering at the cat's wife. "Good to see you here, buddy! And yeah, I believe we have. Wasn't expecting to be so lucky in my choice of toys for tonight."
+It was less the clothing, then, that drew him to her, but the scent of her own arousal: that which had him bristling from entry. It felt like a complement to him.
 
-"Mmhm," Aaron offered, brushing the handle of the leash over the bridge of Erin's muzzle. "Was my turn to bring the Centerpiece. Just about to go get her all trussed up. But here, stand up straighter, minkytoy."
+*Mink,* it practically hollered. *Mink like you. Female mink.*
 
-Matthew found himself tense, grinning. Far tenser than he remembered getting. He forced himself to relax with a slow breath and watched as Erin straightened her back and lifted her head, looking bashful.
+It felt like something that ought to be *his*.
 
-"The Centerpiece should greet all her guests while she still can," Aaron continued. "Go on."
+"Good to see you here, buddy!" He forced himself to turn to Aaron and grin widely to him rather than simply leering at the cat's wife. "And yeah, I believe we have. Wasn't expecting to be so lucky in my choice of toys for tonight."
 
-The other mink nodded and gave Matthew a shy hug and a kiss to his muzzle. That scent grew stronger, and Matthew returned that kiss eagerly.
+"Mmhm," Aaron nodded, brushing the handle of the leash over the bridge of Erin's muzzle. "Was my turn to bring the Centerpiece. Just about to go get her all trussed up. But here, stand up straighter, minkytoy."
+
+Matthew grinned, found that he was tense. Far tenser than he'd remembered getting. He forced himself to relax with a slow breath and watched as Erin straightened her back and lifted her head, looking bashful.
+
+"The Centerpiece should greet all her guests while she still can," Aaron continued, urging his wife on. "Go on."
+
+The other mink nodded and gave Matthew a shy hug and a kiss to his muzzle. That scent grew stronger, and he returned that kiss eagerly.
 
 "W-welcome," Erin said, meek.
 
 All this mention of 'toy', the degrading language, it was all so easy to pick up.
 
-"Thank you, er..." He made a show of leaning forward to check the tag on Erin's collar. Another heady whiff of that scent --- arousal, need, mink.  "Thank you, toy. I'm sure I'll be most welcome indeed."
+"Thank you, er..." He made a show of leaning forward to check the tag on Erin's collar. Another heady whiff of that scent --- arousal, need, mink. *Mink.* "Thank you, toy. I'm sure I'll be most welcome indeed."
 
 He grinned at Aaron and gave what he hoped was an approving nod.
 
-As the cat led off his toy, Matthew slouched, leaning against the wall to support some of his weight. His fumbling fingers set to work unbuttoning his shirt the rest of the way as he struggled with a swirl of thoughts.
+As the cat led off his wife, his toy, Matthew slouched, leaning against the wall to support some of his weight. His fumbling fingers set to work unbuttoning his shirt the rest of the way as he struggled with a swirl of thoughts.
 
-Erin was pretty, no doubt about it. Certainly his type, and definitely his species. And she was bound, so that was another point in her favor --- a subby mink such as her was one of those pie-in-the-sky sort of dreams, something he had never really expected to encounter.
+Erin was pretty, no doubt about it. Certainly his type, and definitely his species. And she was bound, and about to be more so, which that was another point in her favor --- a subby mink such as her was one of those pie-in-the-sky sort of dreams, something he had never really expected to encounter.
 
-But why was this affecting him so much? Seeing a bound and naked mink girl like that was nice, but why was he nearly incapacitated?
+Too much, too much. This was all so much. Seeing a bound and primed mink girl like that was nice, he was nearly incapacitated.
 
-His mind swimming, Matthew shrugged out of his shirt and stuffed it into his bag. It was something to think about. Something he’d almost certainly have to think about, with Erin being the centerpiece.
+His mind swimming, Matthew shrugged out of his shirt and stuffed it into his bag. It was something to think about. Something he’d almost certainly need to think about, with Erin being the centerpiece.
 
 ---
 

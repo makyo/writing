@@ -1,4 +1,14 @@
-# Centerpiece
+---
+counts:
+    characters_real: 18804
+    characters_total: 23200
+    file: ./work/party/a1-centerpiece.md
+    paragraphs: 118
+    type: jekyll
+    words: 4366
+layout: page
+title: Centerpiece
+---
 
 "Hey E," Aaron mumbled, the cat nudging the turn signal lever up to make his way toward the right lane.
 
