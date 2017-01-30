@@ -1,11 +1,12 @@
 ---
 counts:
-    characters_real: 37956
-    characters_total: 46508
+    characters_real: 37964
+    characters_total: 46518
     file: ./non-fiction/new-american-absinthe/index.md
-    paragraphs: 173
+    paragraphs: 175
     type: jekyll
-    words: 8148
+    words: 8150
+date: 2016-04-01
 layout: post
 title: New American Absinthe
 ---

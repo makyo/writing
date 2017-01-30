@@ -6,6 +6,7 @@ counts:
     paragraphs: 82
     type: jekyll
     words: 1735
+date: 2017-01-23
 layout: post
 rating: PG
 title: "Apr\xE8s un r\xEAve"

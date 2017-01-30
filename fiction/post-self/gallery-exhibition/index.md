@@ -6,6 +6,7 @@ counts:
     paragraphs: 7
     type: jekyll
     words: 141
+date: 2017-01-03
 excerpt_separator: <!--more-->
 layout: post
 title: 'Gallery Exhibition: A Love Story'

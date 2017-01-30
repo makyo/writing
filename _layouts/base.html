@@ -74,11 +74,13 @@
                 <h2>
                     {{page.title}}
                 </h2>
-                {%if page.categories.size > 0  %}
-                    <p>Posted in
-                        {% for category in page.categories %}{% if category != "posts" %}
-                        <a href="/posts/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %}
-                        {% endif %}{% endfor %}
+                {%if page.categories.size > 0  or page.date or page.rating %}
+                    <p>Posted
+                        {% if page.categories.size > 0 %}
+                            in {% for category in page.categories %}{% if category != "posts" %}
+                                <a href="/posts/{{ category }}">{{ category }}</a>{% if forloop.last != true %},{% endif %}
+                            {% endif %}{% endfor %}
+                        {% endif %}
                         {%if page.date %}on {{ page.date|date_to_string }}{% endif %}
                         {% if page.rating %}<em> - Rated: {{ page.rating }}</em>{% endif %}</li>
                     </p>

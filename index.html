@@ -8,7 +8,7 @@ title: More Than A Few Words
     <div class="row">
         <div class="col-md-8 col-md-offset-2">
             <img src="http://drab-makyo.com/assets/headshot.jpg" style="max-width: 30%; margin: 0 1em 1em 0" align="left" />
-            <p>Welcome to the writing page of Madison Scott-Clary.</p>
+            <p><strong>Welcome to the writing home of Madison Scott-Clary.</strong></p>
 
             <p>I am an author of fiction, non-fiction, and poetry living in Loveland, Colorado. My interests lie in the realms of furry fiction and non-fiction, collaborative fiction, and hypertextual writing. I am a member of the Furry Writers' Guild, and editor for several projects, fiction and non-fiction.</p>
 
@@ -27,9 +27,10 @@ title: More Than A Few Words
                 on {{ post.date|date_to_string }}
                 {% if post.rating %}<em>Rated: {{ post.rating }}</em>{% endif %}</p>
                 {{ post.excerpt }}
+                <p class="text-right"><a href="{{ post.url }}">Read more...</a></p>
             </div>
             {% endfor %}
-            <p><a href="/posts"><em>Read more...</em></a></p>
+            <h4 class="text-center"><a href="/posts"><em>More posts...</em></a></h4>
         </div>
         <div class="col-md-4">
             <div class="panel panel-default">

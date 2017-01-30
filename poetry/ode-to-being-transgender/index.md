@@ -6,8 +6,9 @@ counts:
     paragraphs: 9
     type: jekyll
     words: 327
-layout: page
-title: Ode to Being Transgender - 2015-10-14
+layout: post
+title: Ode to Being Transgender
+date: 2015-10-14
 ---
 
 You get to explain gender to all of your friends -  

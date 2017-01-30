@@ -6,6 +6,7 @@ counts:
     paragraphs: 59
     type: jekyll
     words: 1516
+date: 2016-12-26
 layout: post
 rating: PG
 title: Assignment

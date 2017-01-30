@@ -6,6 +6,7 @@ counts:
     paragraphs: 39
     type: jekyll
     words: 1421
+date: 2015-10-17
 layout: post
 rating: G
 title: Milkshakes and Foxes

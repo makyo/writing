@@ -1,11 +1,12 @@
 ---
 counts:
-    characters_real: 59446
-    characters_total: 72854
+    characters_real: 59460
+    characters_total: 72872
     file: ./fiction/post-self/qoheleth/index.md
-    paragraphs: 521
+    paragraphs: 522
     type: jekyll
-    words: 13228
+    words: 13230
+date: 2017-01-26
 layout: post
 rating: PG
 title: Qoheleth

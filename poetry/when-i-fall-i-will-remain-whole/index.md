@@ -7,7 +7,8 @@ counts:
     type: jekyll
     words: 118
 layout: post
-title: When I fall, I will remain whole - 2016-11-14
+title: When I fall, I will remain whole
+date: 2016-11-14
 ---
 
 I keep hoping that, one day,  

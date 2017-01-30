@@ -6,6 +6,7 @@ counts:
     paragraphs: 93
     type: jekyll
     words: 2800
+date: 2016-08-30
 layout: post
 rating: PG-13
 title: Missives

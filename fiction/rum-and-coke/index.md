@@ -6,6 +6,7 @@ counts:
     paragraphs: 8
     type: jekyll
     words: 233
+date: 2014-11-19
 layout: page
 title: 'Rum and Coke: Three Stories from a Furry Convention'
 ---

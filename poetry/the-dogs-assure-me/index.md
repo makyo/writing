@@ -6,8 +6,9 @@ counts:
     paragraphs: 4
     type: jekyll
     words: 75
-layout: page
-title: The Dogs Assure Me - 2015-03-06
+layout: post
+title: The Dogs Assure Me
+date: 2015-03-06
 ---
 
 The dogs assure me:  

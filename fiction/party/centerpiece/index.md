@@ -6,6 +6,7 @@ counts:
     paragraphs: 121
     type: jekyll
     words: 4370
+date: 2016-12-17
 layout: post
 rating: X
 title: Centerpiece
