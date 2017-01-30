@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 1895
-    characters_total: 2381
+    characters_real: 1927
+    characters_total: 2421
     file: ./work/party/outline.md
     paragraphs: 29
     type: jekyll
-    words: 413
+    words: 421
 layout: page
 title: Party
 ---
@@ -63,7 +63,7 @@ And sex.
         (Relationship shapes (triad or V), how should Aaron and Matthew interact, Erin feels pressured - PoV Erin)
     5. *Couple*
 
-        (Joan nominated centerpiece - PoV Matthew (over lunch))
+        (Joan nominated centerpiece, Erin asked to be cohostess in her stead - PoV Matthew (over lunch))
 3. **Party**
 
     Aaron, Erin, and Matthew agree to test their new relationship at the next party, where Joan will be the Centerpiece.
