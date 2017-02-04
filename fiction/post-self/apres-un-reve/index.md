@@ -15,6 +15,9 @@ title: "Apr\xE8s un r\xEAve"
 Online
 :   [Post-Self](http://post-self.io/entry/apres-un-reve)
 
+Print
+:   [PDF](/fiction/post-self/apres-un-reve/apres-un-reve.pdf)
+
 -----
 
 > *Dans un sommeil que charmait ton image  
