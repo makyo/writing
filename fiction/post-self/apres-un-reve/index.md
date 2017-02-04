@@ -12,6 +12,11 @@ rating: PG
 title: "Apr\xE8s un r\xEAve"
 ---
 
+Online
+:   [Post-Self](http://post-self.io/entry/apres-un-reve)
+
+-----
+
 > *Dans un sommeil que charmait ton image  
 > Je rêvais le bonheur, ardent mirage,  
 > Tes yeux étaient plus doux, ta voix pure et sonore,  
