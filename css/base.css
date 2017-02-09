@@ -88,6 +88,9 @@ body.inverse blockquote {
     border-left: 1px solid #555;
 }
 
+.verse {
+    white-space: pre-wrap;
+}
 
 body.inverse .panel {
     border-color: #444;
