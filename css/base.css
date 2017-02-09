@@ -49,7 +49,7 @@ h3.alignTop {
 .post-entry:last-of-type {
     border-bottom: none;
 }
-.post-entry img {
+.post-entry img, .container img {
     max-width: 100%;
 }
 
