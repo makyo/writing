@@ -37,6 +37,11 @@ h3.alignTop {
     margin-top: 0;
 }
 
+.donate {
+    vertical-align: middle;
+    height: 100px;
+}
+
 .panel-footer {
     text-align: center;
 }
