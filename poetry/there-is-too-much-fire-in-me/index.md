@@ -18,7 +18,7 @@ Sublimation would claim me then,
 All that energy poured to the air around me,
     an imperceptible increase in temperature.
 Particle would excite particle
-    until you felt my warmth on your face.
+    until I'm felt only as warmth on your face.
 
 But even that would not be enough.
 </div>
