@@ -1,24 +1,24 @@
 ---
 counts:
-    characters_real: 1927
-    characters_total: 2421
+    characters_real: 1939
+    characters_total: 2435
     file: ./work/party/outline.md
-    paragraphs: 29
+    paragraphs: 25
     type: jekyll
-    words: 421
+    words: 422
 layout: page
 title: Party
 ---
 
-Five people.
-
-Two couples.
-
-Three species.
-
-Two parties.
-
-And sex.
+> Five people.
+>
+>Two couples.
+>
+> Three species.
+>
+> Two parties.
+>
+> And sex.
 
 ### Goals
 
@@ -57,7 +57,7 @@ And sex.
         (Talks on poly, roles and power dynamics, Erin is cautious - PoV Aaron)
     3. *Couple*
 
-        (Explore Joan's needs - PoV Elise)
+        (Explore Joan's needs (coffeesports?) - PoV Elise)
     4. *Triad*
 
         (Relationship shapes (triad or V), how should Aaron and Matthew interact, Erin feels pressured - PoV Erin)
