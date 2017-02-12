@@ -1,7 +1,7 @@
 ---
 layout: post
 title: There is too much fire in me
-date: 2016-06-20
+date: 2016-05-04
 ---
 
 <div class="verse">
@@ -22,7 +22,3 @@ Particle would excite particle
 
 But even that would not be enough.
 </div>
-
------
-
-*Date is a best guess, as I neglected to write that down.*
