@@ -150,6 +150,27 @@ body.inverse pre, body.inverse code {
     background-color:#3f3f3f;
 }
 
+table {
+    margin: 0 auto;
+}
+table th {
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+table tbody tr:nth-of-type(odd) {
+    background-color: #eee;
+}
+table td  {
+    padding: 5px;
+    vertical-align: top;
+}
+table td {
+    border-right: 1px solid #ccc;
+}
+table td:last-child {
+    border-right: none;
+}
+
 .pageLinksContainer {
     text-align: center;
 }

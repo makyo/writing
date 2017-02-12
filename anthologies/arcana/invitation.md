@@ -1,34 +1,14 @@
 ---
 counts:
-    characters_real: 1748
-    characters_total: 2196
+    characters_real: 1586
+    characters_total: 1974
     file: ./anthologies/arcana/invitation.md
-    paragraphs: 10
+    paragraphs: 9
     type: jekyll
-    words: 370
+    words: 344
 layout: page
 title: Invitation for closed cards
 ---
-
-<style>
-table th {
-    border-bottom: 2px solid black;
-    text-align: center;
-}
-table tbody tr:nth-of-type(odd) {
-    background-color: #eee;
-}
-table td  {
-    padding: 5px;
-    vertical-align: top;
-}
-table td {
-    border-right: 1px solid #ccc;
-}
-table td:last-child {
-    border-right: none;
-}
-</style>
 
 Hi there, Makyo here!
 

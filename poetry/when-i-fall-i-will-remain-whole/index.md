@@ -1,16 +1,17 @@
 ---
 counts:
     characters_real: 526
-    characters_total: 643
+    characters_total: 671
     file: ./poetry/when-i-fall-i-will-remain-whole/index.md
     paragraphs: 5
     type: jekyll
     words: 118
+date: 2016-11-14
 layout: post
 title: When I fall, I will remain whole
-date: 2016-11-14
 ---
 
+<div class="verse">
 I keep hoping that, one day,  
 I'll spring palladial from the bole of a tree.  
 Fully formed, sexless,  
@@ -33,3 +34,4 @@ My vision will be clear and unclouded,
 My will affirming, strong, and sure.  
 And when I fall, I will remain whole,  
 Confident that I lived well and unapologetic.
+</div>

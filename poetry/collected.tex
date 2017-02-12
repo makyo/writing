@@ -1,0 +1,162 @@
+\documentclass[12pt,letterpaper,oneside]{memoir}
+
+%%% Resets
+% memoir defines footruleskip, we want fancyhdr's
+\let\footruleskip\undefined
+\DisemulatePackage{setspace}
+
+%%% Packages
+\usepackage{verse}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{lastpage}
+\usepackage{setspace}
+
+%%% Headers/Footers
+\pagestyle{fancyplain}
+\fancyhf{}
+\fancyheadoffset[r]{.01in}
+\lhead{\textit{\thetitle}}
+\rhead{\theauthor}
+\rfoot{\thepage}
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+%%% Font
+\renewcommand*\rmdefault{ptm}
+\renewcommand*\ttdefault{pcr}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+%%% Spacing
+\usepackage[top=1in, bottom=1in, right=1in, left=1in]{geometry}
+
+%%% Commands
+\newcommand\secdiv{
+  \begin{center}
+    \S
+  \end{center}
+}
+
+%%% Title
+\title{Collected verse}
+\author{Madison Scott-Clary}
+\date{}
+
+\begin{document}
+  \pagestyle{empty}
+  \frontmatter
+  \maketitle
+  \newpage
+
+  \tableofcontents
+
+  \mainmatter
+  \pagestyle{fancyplain}
+
+  \chapter{Poems from \textit{Missives}}
+
+  I wrote a silly short story a while back. It was meant to be a joke; a pseudo-victorian epistolary romance. It didn't really go anywhere, even though I submitted it to at least one publication. That's fine, though. I got a kick out of it, and the person who inspired it did too.
+
+  The end result was silly, but did include some poetry snippets. I didn't really think anything of them for a while, but one of them, the last here, kept coming back to me. on a whim, I completed all of the snippets into poems in their own right. They're presented in the order in which they appeared in \textit{Missives} itself.
+  \newpage
+
+  %%%
+
+  \section{Though the flow'r may bloom ere long --- \textit{February, 2017}}
+
+  \input{though-the-flowr-may-bloom-ere-long/input.tex}
+  \newpage
+
+  %%%%%
+
+  \section{Delay, then, the morn --- \textit{February, 2017}}
+
+  \input{delay-then-the-morn/input.tex}
+  \newpage
+
+  %%%%%
+
+  \section{Thy gift --- \textit{February, 2017}}
+
+  \input{thy-gift/input.tex}
+  \newpage
+
+  %%%%%
+
+  \section{You find me at a disadvantage --- \textit{February, 2017}}
+
+  \input{you-find-me-at-a-disadvantage/input.tex}
+  \newpage
+
+  %%%%%
+
+  \section{A rose, single, now blooming --- \textit{February, 2017}}
+
+  \input{a-rose-single-now-blooming/input.tex}
+
+  %%%%%%%%%%
+
+  \chapter{Mental Health}
+
+  Poems on mental health. Maybe I'll write a better intro at some point.
+  \newpage
+
+  %%%
+
+  \section{There is too much fire in me --- \textit{June, 2016}}
+
+  \input{there-is-too-much-fire-in-me/input.tex}
+  \newpage
+
+  %%%%%
+
+  \twocolumn[\section{Cycle --- \textit{February, 2017}}]
+
+  \input{cycle/input.tex}
+  \onecolumn
+
+  %%%%%%%%%%
+
+  \chapter{Miscellany}
+
+  Most poems don't come with a category, or are only very loosely defined. Those wind up here.
+  \newpage
+
+  %%%
+
+  \section{The dogs assure me --- \textit{March, 2015}}
+
+  \input{the-dogs-assure-me/input.tex}
+  \newpage
+
+  %%%%%
+
+  \section{Being transgender --- \textit{October, 2015}}
+
+  \input{being-transgender/input.tex}
+  \newpage
+
+  %%%%%
+
+  \section{When I fall, I will remain whole --- \textit{November, 2016}}
+
+  \input{when-i-fall-i-will-remain-whole/input.tex}
+  \newpage
+
+  %%%%%
+
+  \section{Meaning \& Self --- \textit{February, 2017}}
+
+  \input{meaning-and-self/input.tex}
+  \newpage
+
+\end{document}
