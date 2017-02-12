@@ -21,6 +21,10 @@ header {
     height: 35px;
     margin-top: -7px;
 }
+.navbar-inverse .navbar-brand img {
+    background-color: #fff;
+    border: 1px solid #fff;
+}
 
 .navbar-inverse .dropdown-menu {
     background-color: #222;
