@@ -10,7 +10,7 @@ layout: post
 title: Poetry dump
 ---
 
-Whoops! I accidentally stayed up way too late fleshing out a bunch of poems from [Missives](/fiction/missives), plus two more drafts! Oh well. Sleep is cheap, I guess. Anyway, there's a whole bunch of new poems and stuff in [the poetry section](/poetry). Since I'm an incurable dork, this includes a PDF of collected works generated from the individual poems themselves.
+Whoops! I accidentally stayed up way too late fleshing out a bunch of poems from [Missives](/fiction/missives), plus two more drafts! Oh well. Sleep is cheap, I guess. Anyway, there's a whole bunch of new poems and stuff in [the poetry section](/poetry). Since I'm an incurable dork, this includes a [PDF of collected works](/poetry/collected.pdf) generated from the individual poems themselves.
 
 The new poems include:
 
