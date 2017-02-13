@@ -32,6 +32,7 @@
 \makeatletter
 \@addtoreset{chapter}{part} % Reset chapter count per part
 \makeatother
+\renewcommand\thesection{}
 
 %%% Font
 \renewcommand\rmdefault{ptm}
@@ -47,6 +48,7 @@
     \S
   \end{center}
 }
+\renewcommand{\rule}[2]{\secdiv}
 
 %%% Title
 \title{Party}
@@ -54,60 +56,63 @@
 \date{\today}
 
 \begin{document}
+  \frontmatter
   \maketitle
 
   \newpage
   \tableofcontents*
 
-  \part{Party}
+  \mainmatter
 
-  \chapter{Centerpiece}
+  \chapter{Party}
+
+  \section{Centerpiece}
   \input{content/a1-centerpiece}
 
-  \chapter{Hostess}
+  \section{Hostess}
   \input{content/a2-hostess}
 
-  \chapter{Breeding Pair}
+  \section{Breeding Pair}
   \input{content/a3-breeding-pair}
 
-  \chapter{Hostess}
+  \section{Hostess}
   \input{content/a4-hostess}
 
-  \chapter{Aftercare}
+  \section{Aftercare}
   \input{content/a5-aftercare}
 
-  \part{Afterparty}
+  \chapter{Downtime}
 
-  \chapter{Couple}
+  \section{Couple}
   \input{content/b1-couple}
 
-  \chapter{Triad}
+  \section{Triad}
   \input{content/b2-triad}
 
-  \chapter{Couple}
+  \section{Couple}
   \input{content/b3-couple}
 
-  \chapter{Triad}
+  \section{Triad}
   \input{content/b4-triad}
 
-  \chapter{Couple}
+  \section{Couple}
   \input{content/b5-couple}
 
-  \part{Party}
+  \chapter{Party}
 
-  \chapter{Centerpiece}
+  \section{Centerpiece}
   \input{content/c1-centerpiece}
 
-  \chapter{Hostess}
+  \section{Hostess}
   \input{content/c2-hostess}
 
-  \chapter{Breeding Pair}
+  \section{Breeding Pair}
   \input{content/c3-breeding-pair}
 
-  \chapter{Hostess}
+  \section{Hostess}
   \input{content/c4-hostess}
 
-  \chapter{Aftercare}
+  \section{Aftercare}
   \input{content/c5-aftercare}
 
 \end{document}

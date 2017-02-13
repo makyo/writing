@@ -1,15 +1,3 @@
----
-counts:
-    characters_real: 18804
-    characters_total: 23200
-    file: ./work/party/a1-centerpiece.md
-    paragraphs: 118
-    type: jekyll
-    words: 4366
-layout: page
-title: Centerpiece
----
-
 "Hey E," Aaron mumbled, the cat nudging the turn signal lever up to make his way toward the right lane.
 
 "Mmm?" Erin peeked up from her book to see how far they'd made it into their journey. Still about twenty minutes. She lowered her gaze once again.
@@ -190,7 +178,7 @@ Kneeling before her, Aaron took the blindfold in one paw and the gag in the othe
 
 Erin felt her fur bristle, that perennial reaction to humiliation no longer restricted to just her tail, but creeping up her spine to her neck and ears, heckles raising. "I will," she whimpered. "I'll be usef-*nngh!*"
 
-She was cut off quickly. She'd been so focused on Aaron's words and the sight of her arousal in the center of her tunnel-vision that she hadn't noticed the paw with the ring gag.
+She was cut off quickly. She'd been so focused on Aaron's words and the sight of his arousal in the center of her tunnel-vision that she hadn't noticed the paw with the ring gag.
 
 With one deft movement, the cat had taken advantage of her open muzzle to slip the gag in place, wedging her muzzle open with the ring of stiff rubber. His fingers quickly traced the straps of the gag to their ends, velcro straps that looped around her collar to hold the gag in place.
 

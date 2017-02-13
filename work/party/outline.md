@@ -10,16 +10,6 @@ layout: page
 title: Party
 ---
 
-> Five people.
->
->Two couples.
->
-> Three species.
->
-> Two parties.
->
-> And sex.
-
 ### Goals
 
 * Each story should ask a question and explore the ramifications
@@ -32,20 +22,22 @@ title: Party
 
     The story of Aaron and Erin, Joan and Elise, and Matthew at a BDSM party, and their interactions.
 
-    1. [*Centerpiece*](/work/party/a1-centerpiece)
+    1. *Centerpiece*
 
         A couple heads to a BDSM play party where the wife will be the Centerpiece for the whole party to enjoy. With fertility already on the mind, will another mink showing up throw a wrench in things?
-    2. [*Hostess*](/work/party/a2-hostess)
+    2. *Hostess*
 
         With the party underway and his wife firmly in her role as Centerpiece, Aaron asks Elise for something he's long desired. How does body image and sexuality play a role in a bondage party?
-    3. [*Breeding pair*](/work/party/a3-breeding-pair)
-    4. [*Hostess*](/work/party/a4-hostess)
+    3. *Breeding pair*
+
+        Matthew is new to town, or at least still feels that way. He's been trying to get back into the BDSM party circuit, and finally lands an invite to the holy grail of parties.
+    4. *Hostess*
 
         (Aaron and Joan switch at Elise’s bidding, Aaron having to dom and Joan having to submit, Joan more humiliated than Aaron, who is more natural about it. Discussion on negotiation shortcomings at the party - PoV Joan)
-    5. [*Aftercare*](/work/party/a5-aftercare)
+    5. *Aftercare*
 
         (Erin’s aftercare, brought out of subspace and doted on by Aaron and Matthew, the three talk parenthood, decide to go ahead with the plan right there, but gentle, Erin on all fours over Aaron as Matthew mounts, scruffs. - PoV Aaron)
-2. **Afterparty**
+2. **Downtime**
 
     After the party, Aaron, Erin, and Matthew try and figure out a way to make things work. Joan and Elise try to figure out how to get the party they host to give them what they need.
 
@@ -57,7 +49,7 @@ title: Party
         (Talks on poly, roles and power dynamics, Erin is cautious - PoV Aaron)
     3. *Couple*
 
-        (Explore Joan's needs (coffeesports?) - PoV Elise)
+        (Explore Joan's needs - PoV Elise)
     4. *Triad*
 
         (Relationship shapes (triad or V), how should Aaron and Matthew interact, Erin feels pressured - PoV Erin)

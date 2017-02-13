@@ -1,15 +1,3 @@
----
-counts:
-    characters_real: 10472
-    characters_total: 12932
-    file: ./work/party/a3-breeding-pair.md
-    paragraphs: 61
-    type: jekyll
-    words: 2436
-layout: page
-title: Breeding Pair
----
-
 Matthew Lederer had been prowling around the outer edges of the BDSM party circuit for a few months now. Although he still called himself a transplant, he'd been in the area for almost three years, and the excuse had started to wear thin. He was more than past due to get back to the explorations he'd left behind with the move.
 
 The move had been planned --- long planned, even --- but all the same, it came as a shock to his system to be withdrawn from a community in which he was just starting to feel at home. An introduction to bondage, an introduction to power dynamics, an introduction into another couple's relationship all had come a scant year before the move. And then the job offer.
@@ -129,5 +117,7 @@ And another thing to thank this party for, given that many that he had wound up 
 As the game of strip poker wound down to a close with an unlucky fox finally getting to strip his underwear and reveal a shaft standing firm and proud (no surprise, given how it had been straining against underwear moments before), the group surged as one. There was a purpose. An itinerary.
 
 It was Elise who stood.
+
+"Hey, nudists, listen up," she called. Laughter in response --- Elise was as nude as the rest of them --- which faded quickly at a gesture. "I'm sure most of you know the rules, since you've either already been to one of these little soirées before or you got the lecture before you were invited."
 
 (welcoming speech with bdsm rules, focus on joan. aaron opens door to reveal centerpiece, torn attention and split desires, internal conflict about not being in either erin's league or joan's, tries to go for joan but is rebuffed, left to fawn over erin, turning down others to hold her paws and whisper dirty things, ambiguous whether or not he gets a chance)

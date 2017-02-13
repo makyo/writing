@@ -1,15 +1,3 @@
----
-counts:
-    characters_real: 17547
-    characters_total: 21624
-    file: ./work/party/a2-hostess.md
-    paragraphs: 108
-    type: jekyll
-    words: 4039
-layout: page
-title: Hostess
----
-
 Elise was the first into the living room when Aaron opened the door, exposing his wife, the Centerpiece to the rest of the party.
 
 In one sense, this was a rather muted presentation. Rather than an elaborate bondage setup, a feature of some of the previous play parties, Aaron and Erin had opted for something simple. Erin was blindfolded and bound, but only lightly: her wrists bound with cuffs, and her collar bound to those. That, and the blindfold and gag The rest of the mink was exposed, letting her sleek and soft brown fur stand as its own testament --- and, judging from the "In Fur" portion of the cum counter poster, an open target. Any further BDSM gear remained in the tote next to the mattress, and she was sure that some of it would be added by the end of the night.
