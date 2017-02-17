@@ -19,7 +19,7 @@ so yet may love’s embrace grow fond
 Brave are you and wield your smile:
   A cudgel, tool, a keen-edged blade.
 You are not wan, love is not spoilt;
-  thus I be felled and love not fade.
+  thus I be slain and love not fade.
 Have I any need for flow'rs?
   For nights, for dawns, for words or breath?
 With so keen and fond a blade,
