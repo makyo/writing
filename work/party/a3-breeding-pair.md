@@ -4,25 +4,25 @@ The move had been planned --- long planned, even --- but all the same, it came a
 
 The scene wasn't coming with him, the couple wasn't moving. With the triad broken and his boxes packed, all he had to do was to say goodbye to the life he'd built and the things he'd started to explore, and hope that he'd find more of the same soon.
 
-There had been some false starts, as there were with any venture. The first party he'd found had turned out to be a such a bust that he'd almost given up and gone back to a regular dating scene after that. Settling, as he thought of it. "BDSM party", to some, apparently meant getting *really high* and having *a lot of sex* while seemingly trying to be *as unsafe as possible*.
+There had been some false starts, as there were with any venture. The first party he'd found had turned out to be a such a bust that he'd almost given up and gone back to a regular dating scene after that. Settling, as he now thought of it. "BDSM party", to some, apparently meant getting *really high* and having *a lot of sex* while seemingly trying to be *as unsafe as possible*.
 
 Not his bag.
 
-After that, he'd started asking around rather than simply hunting for them on some of the skeevier sites on the web. Having face-to-face conversations seemed to reduce the number of gross parties, even if it meant reducing the overeall number as well..
+After that, he'd started asking around rather than simply hunting for such parties on some of the skeevier sites on the web. Having face-to-face conversations seemed to reduce the number of gross entries in the field, even if it meant reducing the overall number as well.
 
-There were some good times and some awkward times after that, but no downright bad times. He'd played a bit here and there, exploring how to engage his dommy side. On two occasions he'd even gotten himself delightfully tied up, shibari-style.
+There were some good times and some awkward times after that, but no downright bad times. He'd played a bit here and there, exploring how to engage his dommy side. On one occasion he'd even gotten himself delightfully tied up, Shibari-style.
 
 And always, as he asked around at the parties, people talked in an almost worshipful tone of Joan and Elise's parties, and how well they seemed to run.
 
 His 'in' had been through Joan herself, let off the leash to go have some fun of her own while Elise had a night of recharging and wine at home.
 
-Joan and Matthew had gotten to talking after the party --- a long party that was half demonstration, half play --- the two mustelids lounging on a couch. It had been too warm (and the couch too messy) to cuddle, but they'd made do with making the gestures, not needing to actually make contact. No building up heat while still remaining close felt like a good move.
+Joan and Matthew had gotten to talking after the party --- a long party that was half demonstration, half play --- the two mustelids lounging on a couch. It had been too warm (and the couch too messy) to cuddle, but they'd made do with simply making the gestures, not needing to actually make contact. No building up heat while still remaining close felt like a good move.
 
 She'd asked him if he'd be interesting in coming to a similar party at her place before he'd even put two and two together, and he'd said yes.
 
-More luck than sense, but that's how it works at the end of BDSM parties.
+More luck than sense, but that's how it works for worn out fools at the end of BDSM parties.
 
-Joan had given him a feathery kiss to the whiskers at the end of the night and they'd promised to see each other a month and change down the line. Matthew had caught the bus home after that. Reeking of sex, head buzzy with pleasure and filled with endorphins from the pain (there had been flogging), he thought of that lithe ferret he'd had the chance to close out the evening with. She was quite out of his league, he was sure, but the kiss and the invitation had him hopeful.
+Joan had given him a feathery kiss to the whiskers at the end of the night and they'd promised to see each other a month and change down the line. Matthew had caught the bus home after that. Reeking of sex, head buzzy with pleasure and filled with endorphins from the pain (there had been *flogging*), he thought of that lithe ferret he'd had the chance to close out the evening with. She was quite out of his league, he was sure, but the kiss and the invitation had him hopeful.
 
 The next five weeks had been a tortuous slog through work. Work itself was picking up, which sucked, and seemed to be getting in the way of all his plans, cancelling at least one tentative date between the two parties. Thankfully, the product reveal was two days before the party itself, so perhaps that would be a little treat. He suspected he'd need the release by then.
 
@@ -90,6 +90,8 @@ He trusted Joan, though, and trusted Elise in turn, that things would work out a
 
 He wound up with a beer in one paw and a very small, very strong shot of something more than just alcohol in the other. The former he sipped as a matter of form, and the latter he cherished. It would be enough, he knew, to get him feeling all buzzy and loose, but not enough to incapacitate him or, worse, make him unable to perform. And hey, work didn't test for the stuff, and he rarely had the chance, so he might as well indulge.
 
+He paused a moment to read the a sign taped up to the side of the drinks cooler, then snagged a wristband from the counter that would indicated that he had more than just alcohol in his system. It was a reasonable rule, he figured. Might as well follow it.
+
 As he took tiny sips from the shockingly bitter shot and larger swallows from the comparatively bland beer, he wound his way through the party, introducing himself here and there as he felt himself loosening up.
 
 Several times, he made eye contact with Joan, giving small smiles and little perks of his ears. She responded in kind, but would continue about her business as hostess soon after. Ah well, he'd keep trying.
@@ -118,6 +120,38 @@ As the game of strip poker wound down to a close with an unlucky fox finally get
 
 It was Elise who stood.
 
-"Hey, nudists, listen up," she called. Laughter in response --- Elise was as nude as the rest of them --- which faded quickly at a gesture. "I'm sure most of you know the rules, since you've either already been to one of these little soirées before or you got the lecture before you were invited."
+"Alright, my naked friends," she called. Laughter in response --- Elise was as nude as the rest of them --- which faded quickly at a gesture from the ferret. "I'm sure most of you know the rules, since you've either already been to one of these little soirées before or you got the lecture before you were invited."
+
+Matthew found himself nodding in approval. An assembly with a list of rules meant good things for a party like this. No rules was a big warning sign more often than not.
+
+"Consent is required for everything," the hostess continued. "Explicit consent. And I mean everything. Safewords must always be obeyed --- the defaults are 'green', 'yellow', and 'red' or 'stop' --- and we have spare buzzers for those who may find themselves bound and gagged. I'll be making the rounds, but if I'm busy and you need something, like help with something around the house, try and find Joan. If it's a restraint thing, there are medical scissors everywhere. I'm always interruptible if it's a medical emergency."
+
+Elise paused and gave a couple, two young dogs, a glare. "And no modifying my house."
+
+More laughter.
+
+"Last, some safety stuff. Condoms always, please. We've got a variety here, and your own are welcome in a sealed box. Please use the individually sealed packets of lube, too. No blood, no scat, ask before watersports." Elise's words sped up, and then ended with a flourish, the well-rehearsed speech drawing to a close. There was a lot of nodding a few claps.
+
+"Breaking any of these rules is a permanent ban for you as well as whomever you came with, so keep each other honest. Play safe and have--"
+
+The door behind Elise opened, startling the ferret into turning around. A soft round of applause began. "Aha," she said with a grin. "Here we go."
+
+"The Centerpiece is ready." Aaron was standing in the doorway, nude as the rest of them and wearing his sexuality well, even if his posture suggested something between a butler and a proud artist showing his creation.
+
+And, as Matthew stood, Aaron was right to be proud of his Centerpiece.
+
+The bondage was simple. Erin was on all fours, held there by virtue of bound cuffs and a connector binding her collar to the center of the connector between the cuffs. There was a blindfold and a ring-gag as well, but otherwise, the mink was simply in the nude.
+
+What she lacked in bondage gear, however, she made up for in the setup around her and the air she gave off.
+
+Taking the meal aspect of 'Centerpiece' further, Aaron had trussed Erin up at the center of a mattress, neatly sheeted to look like a tablecloth, and surrounded her with 'side dishes' consisting of bowls of condoms, lube packets, additional toys, and even a sign for recording what all had been done with the mink.
+
+Her bearing was one of the utmost need. Matthew could see how tense Erin was, nearly vibrating at the center of the scene. She looked as though she was doing her best to stay still, fighting the urge to squirm about. In her shaking paw, she held one of those buzzers, a single-button thing that would emit a loud noise as a means of tapping out, but it seemed nearly forgotten now. Simply something to clutch onto for support.
+
+More than the sights, though, was the scent. Perhaps it was that bitter concoction, long finished, which had kicked his sense of smell up a notch, but it hit him like a wave. There were notes of Aaron's masculine scent, to be sure, but Matthew was nearly overwhelmed by the rush of mink; clean, healthy, aroused mink.
+
+He'd been worried that perhaps it was just him, but he could see others in the crowd tasting the air, lips parted and nostrils flared, letting their senses be tickled.
+
+As Aaron stood off to the side to talk with Elise, the rest of the partygoers
 
 (welcoming speech with bdsm rules, focus on joan. aaron opens door to reveal centerpiece, torn attention and split desires, internal conflict about not being in either erin's league or joan's, tries to go for joan but is rebuffed, left to fawn over erin, turning down others to hold her paws and whisper dirty things, ambiguous whether or not he gets a chance)
