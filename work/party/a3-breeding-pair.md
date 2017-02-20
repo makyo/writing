@@ -1,10 +1,10 @@
-Matthew Lederer had been prowling around the outer edges of the BDSM party circuit for a few months now. Although he still called himself a transplant, he'd been in the area for almost three years, and the excuse had started to wear thin. He was more than past due to get back to the explorations he'd left behind with the move.
+Matthew Lederer had been prowling around the outer edges of the swinger and BDSM party circuit for a few months now. Although he still called himself a transplant, he'd been in the area for almost three years, and the excuse had started to wear thin. He was more than past due to get back to the explorations he'd left behind with the move.
 
 The move had been planned --- long planned, even --- but all the same, it came as a shock to his system to be withdrawn from a community in which he was just starting to feel at home. An introduction to bondage, an introduction to power dynamics, an introduction into another couple's relationship all had come a scant year before the move. And then the job offer.
 
 The scene wasn't coming with him, the couple wasn't moving. With the triad broken and his boxes packed, all he had to do was to say goodbye to the life he'd built and the things he'd started to explore, and hope that he'd find more of the same soon.
 
-There had been some false starts, as there were with any venture. The first party he'd found had turned out to be a such a bust that he'd almost given up and gone back to a regular dating scene after that. Settling, as he now thought of it. "BDSM party", to some, apparently meant getting *really high* and having *a lot of sex* while seemingly trying to be *as unsafe as possible*.
+There had been some false starts, as there were with any venture. The first party he'd found had turned out to be a such a bust that he'd almost given up and gone back to a regular dating scene after that. Settling, as he now thought of it. "swinger party", to some, apparently meant getting *really high* and having *a lot of sex* while seemingly trying to be *as unsafe as possible*.
 
 Not his bag.
 
@@ -90,7 +90,7 @@ He trusted Joan, though, and trusted Elise in turn, that things would work out a
 
 He wound up with a beer in one paw and a very small, very strong shot of something more than just alcohol in the other. The former he sipped as a matter of form, and the latter he cherished. It would be enough, he knew, to get him feeling all buzzy and loose, but not enough to incapacitate him or, worse, make him unable to perform. And hey, work didn't test for the stuff, and he rarely had the chance, so he might as well indulge.
 
-He paused a moment to read the a sign taped up to the side of the drinks cooler, then snagged a wristband from the counter that would indicated that he had more than just alcohol in his system. It was a reasonable rule, he figured. Might as well follow it.
+He paused a moment to read the a sign taped up to the side of the drinks cooler, then snagged a fluorescent green wristband from the counter that would indicated that he had more than just alcohol in his system. It was a reasonable rule, he figured. Might as well follow it.
 
 As he took tiny sips from the shockingly bitter shot and larger swallows from the comparatively bland beer, he wound his way through the party, introducing himself here and there as he felt himself loosening up.
 
@@ -152,6 +152,20 @@ More than the sights, though, was the scent. Perhaps it was that bitter concocti
 
 He'd been worried that perhaps it was just him, but he could see others in the crowd tasting the air, lips parted and nostrils flared, letting their senses be tickled.
 
-As Aaron stood off to the side to talk with Elise, the rest of the partygoers
+As Aaron stood off to the side to talk with Elise, the rest of the partygoers slipped into the room with the Centerpiece. Matthew followed their lead, as there seemed to be some rule or pattern being followed, clustering with them around the bound and, now that he was close enough to tell, panting mink.
 
-(welcoming speech with bdsm rules, focus on joan. aaron opens door to reveal centerpiece, torn attention and split desires, internal conflict about not being in either erin's league or joan's, tries to go for joan but is rebuffed, left to fawn over erin, turning down others to hold her paws and whisper dirty things, ambiguous whether or not he gets a chance)
+Everyone found a way to dote on Erin. Some whispered adoring things into her ears, or perhaps they were cruel things. Some stroked through fur while others tested at bounds. Some teased at the mink's gagged and spread muzzle, and others poked around behind the mink, as the position itself left little to the imagination.
+
+And Matthew stroked lightly along her flank, fingers combing through fur. He felt as though he was walking along some high wire, balancing between some position where he would be overwhelmed by the very urges that drove him to her --- mechanical though they were; he was primed by genetics to react the way that he was --- and the ones that kept him from her.
+
+And what were those, he wondered? Was he saving himself for Joan, perhaps? Or wary of some supposed connection between him and Erin? He didn't doubt either, once he thought about them. He had indeed been thinking of Joan since their encounter at the previous party, but now here was...what? Competition?
+
+As for the connection, he supposed he was worried of becoming attached. Attached, enamored, needing. He couldn't pin the source of this down; Erin was married to his coworker, was simply an attendee at the party, and yet here was was, worrying.
+
+*Maybe it's all in my head, mom saying I should settle down with someone like me. Maybe physical, instinctual attraction is all it'll take to tie me down, these days,* he mused. *Or maybe swinging's really just that lonely.*
+
+All this muttering anxiety within him was enough incentive for him to give Erin one last stroke, stand up, and seek out Joan. Simple, uncomplicated: that's what the night called for. Both were almost certainly out of his league, but heading down that path didn't lead to shattered nerves or self-reproach.
+
+Thirsty and buzzing, planet-struck, spellbound, he took a brief detour through the kitchen for a sparkling water before wandering around the house, half aroused, searching for the ferret.
+
+(, tries to go for joan but is rebuffed, left to fawn over erin, turning down others to hold her paws and whisper dirty things, ambiguous whether or not he gets a chance)

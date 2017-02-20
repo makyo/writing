@@ -1,12 +1,12 @@
 ---
 comments: false
 counts:
-    characters_real: 375
-    characters_total: 468
+    characters_real: 395
+    characters_total: 491
     file: ./poetry/index.md
     paragraphs: 2
     type: jekyll
-    words: 79
+    words: 81
 layout: page
 title: Poetry
 ---
@@ -14,6 +14,7 @@ title: Poetry
 Works of poetry are posted here in reverse chronological order. All of the poetry is also offered as a collection [here](collected.pdf).
 
 ---|---
+2017-02-20 | [Heligoland](heligoland)
 2017-02-12 | [A rose, single, now blooming](a-rose-single-now-blooming)
 2017-02-12 | [Cycle](cycle)
 2017-02-12 | [Delay, then, the morn](delay-then-the-morn)
