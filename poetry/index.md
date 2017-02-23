@@ -1,12 +1,12 @@
 ---
 comments: false
 counts:
-    characters_real: 395
-    characters_total: 491
+    characters_real: 415
+    characters_total: 517
     file: ./poetry/index.md
     paragraphs: 2
     type: jekyll
-    words: 81
+    words: 86
 layout: page
 title: Poetry
 ---
@@ -14,6 +14,7 @@ title: Poetry
 Works of poetry are posted here in reverse chronological order. All of the poetry is also offered as a collection [here](collected.pdf).
 
 ---|---
+Ongoing    | [Unimportant verse about important people](important-people)
 2017-02-20 | [Heligoland](heligoland)
 2017-02-12 | [A rose, single, now blooming](a-rose-single-now-blooming)
 2017-02-12 | [Cycle](cycle)
