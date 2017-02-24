@@ -109,3 +109,7 @@ I admit, having chosen it,
 that I chose it to defend you.
 
 ## JD
+
+<!--
+:also haikus 2paw (she's been practicing): Garou bounds through snow / nose keen, paw steady, fur thick / winter's own kind warmth.
+-->

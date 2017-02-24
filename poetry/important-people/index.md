@@ -4,6 +4,7 @@ title: Unimportant verse about important people
 date: 2017-02-23
 ---
 
+<!--
 <div class="verse">
 I see your past in cross-processed film,
 in blown-out colors and over-saturation.
@@ -32,6 +33,7 @@ in paperback covers reaching towards heaven, in trillions of words.
 I see your past with no me in it,
 and wonder if past-you dreamed of us.
 </div>
+-->
 
 -----
 
