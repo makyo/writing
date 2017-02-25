@@ -4,7 +4,6 @@ title: Unimportant verse about important people
 date: 2017-02-23
 ---
 
-<!--
 <div class="verse">
 I see your past in cross-processed film,
 in blown-out colors and over-saturation.
@@ -33,7 +32,6 @@ in paperback covers reaching towards heaven, in trillions of words.
 I see your past with no me in it,
 and wonder if past-you dreamed of us.
 </div>
--->
 
 -----
 
@@ -96,9 +94,49 @@ small flowers, small gifts, camaraderie.
 <div class="verse">
 Complementary, clashing anxieties.
 Dull clamor of intersecting feelings.
-Need, desire, craving, even jealousy.
+Need, desire, craving, jealousy.
 Worry, fear, care, prayerful fretting.
 Love, lust, friendship, a need to share.
 Emotions on emotions on emotions,
 and, often, comfortable silence.
+</div>
+
+-----
+
+<div class="verse">
+I chose your name.
+To defend, it means. To help.
+I admit, having chosen it,
+that I chose it to defend you.
+When I picked you up by the scruff,
+Dragged you off to that place
+I hoped we could call ours,
+I expected that we'd
+simply find a way to survive.
+I never expected love,
+and rejoice every day in that surprise.
+
+I chose to collar you.
+I admit it was an experiment,
+I submit to most, but not my partners;
+until then I'd never owned, claimed.
+It felt vulgar, at first,
+greedy, jealous, possessive.
+Through you I learned the joy of possession,
+the love and trust and exactness of terms.
+Owner, partner, love,
+and pup, partner, love.
+My beautiful, my own.
+
+I'll hand you off some day.
+I'm a less than ideal owner
+in so many terrible ways:
+I owe you more than you owe me.
+I'll gather your leash up,
+I'll let you keep your tag,
+I'll bow, I'll kiss you one last time,
+and I'll bless you and your new keeper.
+And I'll never stop loving you.
+And I'll never stop loving you.
+And I'll never stop loving you.
 </div>

@@ -54,6 +54,18 @@ about warming our faces in the sun.
 
 <!--
 :poems Axiom: When you arrive, / the whole world gets slow. / Sluggish, amber-colored air / mellows vibrant conversations. / Everyone stops, marvels, / turns eagerly toward you; / and there are no complaints / about warming our faces in the sun.
+
+Axiom blinks at Maddy, that brings him up short. "Is that foxes, or ME in particular?"
+You mow, "An Axiom poem. A poem for Axiom."
+Axiom says, "Rhr'A CRLWNAR SWEET."
+Axiom says, "Oop."
+Axiom says, "That's very sweet. Please someone push me over towards Maddy so I can wag at her in gratitude?"
+Lucy thinks Axiom accidentally lapsed into Welsh.
+Maddy was gonna guess Klingon o.o
+Axiom was 'hands one key off on the keyboard' language.
+Axiom snerks at Twopaw even as he wagpiffs Maddy.
+Maddy swish up at Axiom ^^
+Axiom whispers, "That was really very sweet, thank you." to you.
 -->
 
 ## Sparf
@@ -85,11 +97,49 @@ small flowers, small gifts, camaraderie.
 
 Complementary, clashing anxieties.
 Dull clamor of intersecting feelings.
-Need, desire, craving, even jealousy.
+Need, desire, craving, jealousy.
 Worry, fear, care, prayerful fretting.
 Love, lust, friendship, a need to share.
 Emotions on emotions on emotions,
 and, often, comfortable silence.
+
+## Lexy
+
+I chose your name.
+To defend, it means. To help.
+I admit, having chosen it,
+that I chose it to defend you.
+When I picked you up by the scruff,
+Dragged you off to that place
+I hoped we could call ours,
+I expected that we'd
+simply find a way to survive.
+I never expected love,
+and rejoice every day in that surprise.
+
+I chose to collar you.
+I admit it was an experiment,
+I submit to most, but not my partners;
+until then I'd never owned, claimed.
+It felt vulgar, at first,
+greedy, jealous, possessive.
+Through you I learned the joy of possession,
+the love and trust and exactness of terms.
+Owner, partner, love,
+and pup, partner, love.
+My beautiful, my own.
+
+I'll hand you off some day.
+I'm a less than ideal owner
+in so many terrible ways:
+I owe you more than you owe me.
+I'll gather your leash up,
+I'll let you keep your tag,
+I'll bow, I'll kiss you one last time,
+and I'll bless you and your new keeper.
+And I'll never stop loving you.
+And I'll never stop loving you.
+And I'll never stop loving you.
 
 # TODO
 
@@ -100,13 +150,6 @@ and, often, comfortable silence.
 ## Zeta
 
 ## Forneus
-
-## Lexy
-
-I chose your name.
-To defend, it means. To help.
-I admit, having chosen it,
-that I chose it to defend you.
 
 ## JD
 
