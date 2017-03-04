@@ -27,7 +27,7 @@ Theme
     * of any orientation
 
 Restrictions
-:   Stories that will not be acceptable for *Genderful* are those which include transphobia, racism, sexism, or discrimination presented in a positive light. For adult submissions, the following also apply:
+:   Stories which include transphobia, racism, sexism, or discrimination presented in a positive light will not be accepted for *Genderful*. For adult submissions, the following also apply:
 
     * Pedophilia or sex with characters under the age of 18 presented in a positive light.
     * Rape, torture, dubious consent, forced seduction presented in a positive light.
