@@ -57,4 +57,6 @@ Deadline
 Submission process
 :   TBD
 
+-----
+
 [^stats]: Data from the 2016 Furry Poll.
