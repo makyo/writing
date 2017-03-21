@@ -175,7 +175,7 @@ Submissions accepted through email [makyo.thurstonhowlpub+arcana@gmail.com](mail
 
 If you've already submitted through Submitify, don't worry! Your submission is still recorded!
 
-**Submit *[here](mailto:makyo.thurstonhowlpub+arcana@gmail.com)*̨** 
+**Submit *[here](mailto:makyo.thurstonhowlpub+arcana@gmail.com)*̨**
 
 \* If a card is full but you have a *really good submission*, please send it to us all the same.  It may still be considered.  However, the goal is to ensure that we get even submissions across the cards, so if you can, please try writing for a different card first!
 
@@ -189,4 +189,4 @@ Tarot is popular, and has been for centuries.  As such, there's a wealth of info
 
 -----
 
-[^anonymized]:  Editor(s) will read the submissions in bulk, not attached to an email or anything; personal preference is that I not know who's submission is whose. Again, this is personal preference only, no reflection on Thurston Howl Publications, and not the publisher's policy.
+[^anonymized]:  Editor(s) will read the submissions in bulk, not attached to an email or anything; personal preference is that I not know who's submission is whose. Again, this is personal preference only, no reflection on Thurston Howl Publications, and not the publisher's policy. Doesn't apply to invite cards, since we'll know who you are, anyhow!
