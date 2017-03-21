@@ -173,7 +173,9 @@ Submissions accepted through email [makyo.thurstonhowlpub+arcana@gmail.com](mail
 * Details about your submission (we'd especially like to hear about your inspiration and why the card was important to you)
 * Do not include name or contact information; we'll get those from your emails!
 
-**Submit *[here](http://submit.drab-makyo.com/1-arcana-a-tarot-anthology/)*̨** The form will be active once submissions are open!
+If you've already submitted through Submitify, don't worry! Your submission is still recorded!
+
+**Submit *[here](mailto:makyo.thurstonhowlpub+arcana@gmail.com)*̨** 
 
 \* If a card is full but you have a *really good submission*, please send it to us all the same.  It may still be considered.  However, the goal is to ensure that we get even submissions across the cards, so if you can, please try writing for a different card first!
 
