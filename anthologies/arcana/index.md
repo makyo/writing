@@ -167,11 +167,11 @@ Submission titles will be the name of the card to reinforce the theme.
 
 #### **Submitting**
 
-Submissions accepted through <https://submit.drab-makyo.com>, and *must be anonymized*.  In your cover letter, please include:
+Submissions accepted through email [makyo.thurstonhowlpub+arcana@gmail.com](mailto:makyo.thurstonhowlpub+arcana@gmail.com), files should be anonymized[^anonymized].  In your cover letter, please include:
 
 * Which card you are submitting for
 * Details about your submission (we'd especially like to hear about your inspiration and why the card was important to you)
-* *Do not* include your name or contact information, those will be provided when registering; submission pages must remain anonymous ^^
+* Do not include name or contact information; we'll get those from your emails!
 
 **Submit *[here](http://submit.drab-makyo.com/1-arcana-a-tarot-anthology/)*̨** The form will be active once submissions are open!
 
@@ -184,3 +184,7 @@ Tarot is popular, and has been for centuries.  As such, there's a wealth of info
 * A good starter Tarot deck that is easy both on the eyes and wallet is the Universal Waite deck.  The Rider-Waite-Smith deck is the one that most folks think of when they think of Tarot, and the Universal Waite deck is a recoloring that helps make things a little easier to look at.  It's available on [Amazon](http://a.co/dlPDuyt) and from other fine retailers.
 * [Aeclectic Tarot](http://www.aeclectic.net/tarot/) is a website and forum dedicated to exploring the Tarot, various Tarot decks, and the reading of the cards.
 * *78 Degrees of Wisdom* by Rachal Pollack is a wonderful book which walks through the Tarot deck in order from start to finish, major and minor arcana both, in exhaustive detail, while still remaining personable and enjoyable to read.  It's available on [Amazon](http://a.co/6PKbLYD) and from other booksellers, and a review is [available on Aeclectic](http://www.aeclectic.net/tarot/books/78-degrees-of-wisdom/).
+
+-----
+
+[^anonymized]:  Editor(s) will read the submissions in bulk, not attached to an email or anything; personal preference is that I not know who's submission is whose. Again, this is personal preference only, no reflection on Thurston Howl Publications, and not the publisher's policy.
