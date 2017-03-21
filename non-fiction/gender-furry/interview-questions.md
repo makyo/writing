@@ -2,7 +2,7 @@
 counts:
     characters_real: 454
     characters_total: 560
-    file: ./work/trans-furry/interview-questions.md
+    file: ./non-fiction/gender-furry/interview-questions.md
     paragraphs: 2
     type: jekyll
     words: 104
