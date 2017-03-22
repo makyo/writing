@@ -31,9 +31,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     Power, skill, concentration, action, resourcefulness *or* manipulation, poor planning, unused talents.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 1* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 66px;">1/3</div>
 2. **~~The High Priestess~~**
 
     Beginnings, innocence, spontaneity, a free spirt *or* naivety, foolishness, recklessness, ill-advised risk-taking.
@@ -45,56 +43,42 @@ If you're going to work on a story for one of the major arcana cards, please let
 
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 1* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 4. **The Emperor**
 
     Authority, father-figure, structure, solid foundation or domination, excessive control, rigidity, inflexibility.
 
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 0* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 5. **The Heirophant**
 
     Religion, group identification, conformity, tradition, beliefs *or* too much restriction, a need to challenge the status quo.
 
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 2* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 6. **The Lovers**
 
     Love, union, relationships, values alignment, choices *or* disharmony, imbalance, misalignment of values.
 
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
-
-    *Submissions pledged: 4* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 7. **The Chariot**
 
     Control, willpower, victory, assertion, determination *or* lack of control, lack of direction, heedless agression.
 
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 2* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 8. **Strength**
 
     Strength, courage, patience, control, compassion *or* weakness, self-doubt, lack of self-discipline.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 1* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
 9. **The Hermit**
 
     Soul searching, introspection, being alone, inner guidance *or* isolation, loneliness, ill-advised withdrawal.
 
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 4* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 10. **~~Wheel of Fortune~~**
 
     Good luck, karma, cycles in life, destiny, a turning point *or* bad luck, negative external forces, out of control.
@@ -116,32 +100,24 @@ If you're going to work on a story for one of the major arcana cards, please let
 
     *Submissions available:*  
     <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 5* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
 14. **Temperance**
 
     Balance, moderation, patience, purpose, meaning *or* imbalance, excess, lack of long-term thinking.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 2* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
 15. **The Devil**
 
     Bondage to one's ideals, addiction, sexuality, materialism *or* detachment, breaking free, power reclaimed.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 1* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 66px;">1/3</div>
 16. **The Tower**
 
     Disaster, upheaval, sudden change, revelation *or* avoidance of disaster, fear of change.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 2* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
 17. **~~The Star~~**
 
     Hope, spirituality, renewal, inspiration, serenity *or* lack of faith, despair discouragement.
@@ -162,9 +138,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     Judgement, rebirth, inner calling, absolution *or* self doubt, refusal of self-examination.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
-
-    *Submissions pledged: 1* [Pledge](https://goo.gl/forms/C76KEyE7XiD4pQLb2){: class="btn btn-xs btn-default" }
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
 21. **~~The World~~**
 
     Completion, integration, accomplishment, travel *or* lack of completion, lack of closure.
