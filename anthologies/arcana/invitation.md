@@ -26,13 +26,11 @@ Anyway, that's the deal! This info is part of that invitation, so everyone's on 
 Card | Author(s) | Notes
 ---|---|---
 The Fool | |  
-The High Priestess | buni has shown me words | *Asked if the high priestess, if personified in the story, needs to be a cis woman, which it doesn't; this applies to all cards.*
-The Empress | |  
-The Emperor | |  
-Wheel of Fortune | Lunostophiles expressed interest |  
-Justice | Searska expressed interest |  
-The Hanged Man | Lunostophiles had an idea, buni expressed interest |  
-The Star | Searska expressed interest |  
+The High Priestess | buni (complete)| *Asked if the high priestess, if personified in the story, needs to be a cis woman, which it doesn't; this applies to all cards.*
+Wheel of Fortune | |  
+Justice | Searska (complete) |  
+The Hanged Man | |  
+The Star | |  
 The Moon | Kyell |  
 The Sun | George Squares |  
 The World | Ryffnah |  
