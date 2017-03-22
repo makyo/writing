@@ -33,7 +33,7 @@ The Hanged Man | |
 The Star | |  
 The Moon | Kyell |  
 The Sun | George Squares |  
-The World | Ryffnah |  
+The World | Ryffnah (complete) |  
 
 Also talked to but haven't decided on a card: *Sparf*.
 
