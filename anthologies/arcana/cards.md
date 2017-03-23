@@ -42,7 +42,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     Fertility, femininity, beauty, nature, abundance *or* blocked creativity, over-dependence on others.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
 4. **The Emperor**
 
     Authority, father-figure, structure, solid foundation or domination, excessive control, rigidity, inflexibility.
@@ -99,7 +99,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     Endings, beginnings, change, transformation, transition *or* resistance to change, inability to move on.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
 14. **Temperance**
 
     Balance, moderation, patience, purpose, meaning *or* imbalance, excess, lack of long-term thinking.
