@@ -1,4 +1,11 @@
 ---
+counts:
+    characters_real: 14913
+    characters_total: 18597
+    file: ./work/the-fool/the-fool.md
+    paragraphs: 163
+    type: jekyll
+    words: 3644
 layout: post
 title: The Fool
 ---
@@ -11,7 +18,7 @@ More motherly than my mother, and less spiritual.
 
 "Tell me about your day," she had begun, and as I spoke, she shuffled a worn deck of cards, nodding along with me. She drew the cards and lay them face up on the table with a casual slowness that did little to distract from my words.
 
-"Now," she says when I finish talking. The porcupine, the table and cards, a bright room with motes in the sunbeams; an image more meaningful than I expect. "Here are three cards. Look, and tell me the first thing you notice."
+"Now," she says when I finish talking. The porcupine, the table and cards, a bright room with motes in afternoon sunbeams; an image more meaningful than I anticipated. "Here are three cards. Look, and tell me the first thing you notice."
 
 "Notice?" I ask. I sound dubious even to myself.
 
@@ -23,7 +30,7 @@ Three cards, laid out in a line. I stare still, more bewildered than anything, t
 
 She shrugs, smiling not unkindly.
 
-Odd, I think, how such a task could feel overwhelming. I puff out a small breath of air, whiskers bristling, and tap at the first card. "Well, this one's upside down, for starters. The, uh...Page of Wands." Digging through memories, I try, "A page is like a squire or something, right? Someone who helps a knight?"
+Odd, I think, how such a small task could feel overwhelming. I puff out a small breath of air, whiskers bristling, and tap at the first card. "Well, this one's upside down, for starters. The, uh...Page of Wands." Digging through memories, I try, "A page is like a squire or something, right? Someone who helps a knight?"
 
 "Yes, a young person, someone in training." She grins and adds, nodding down to the cards, "There are knights in the deck, too, but that's for another time, apparently."
 
@@ -39,15 +46,15 @@ I roll my eyes. Still, she sounds kind, rather than petulant or snide, so I thin
 
 "Not learning?" I sense her expression close down. It's not a visible thing; it's a sensation of her movement of thought put on hold. "Not...not doing anything with learning, perhaps?"
 
-The porcupine nods. I can see a quill or two poking through gingham. It keeps the kerchief in place. "Wands are for beginnings. For doing, or perhaps activating is better." She sets a paw, clean, next to the card. "This page --- is he a bear? I've never figured that out --- is learning, but not moving, not beginning. There is knowledge, but no decision."
+The porcupine nods. I can see a quill or two poking through gingham. It keeps the kerchief in place. "Wands are for beginnings. For doing, or perhaps activating is better." She sets a paw, clean, next to the card. "This page --- a bear, maybe? I've never figured that out --- is learning, but not moving, not beginning. There is knowledge, but no decision."
 
-"Activation energy!" I blurt. Seeing the questions in her eyes, I continue, "Like in chemistry. There has to be enough energy for an electron to jump from one sphere to the next. It just sits there otherwise. It needs the proper amount of activation energy to get going."
+"Activation energy!" I blurt. Seeing the questions in her eyes, I continue, "Like in chemistry. It's dorky, but there has to be enough energy for an electron to jump from one sphere to the next. It just sits there otherwise. It needs the proper amount of activation energy to get going."
 
 Questions turn to understanding, but her gaze stays locked on mine, waiting.
 
 "I don't have the energy."
 
-"Or you do, but you're --- you or something within you --- is not letting it reach the activation. The energy may be there, but may be blocked."
+"Or you do, but you're --- you or something within you --- is not letting it reach the activation. The energy may be there, but blocked."
 
 I have to restrain myself from rolling my eyes. A reaction to my mom's mysticism, to crystals and blocked energy. In the porcupine I sense only earnestness. "Energy as in will?"
 
@@ -71,21 +78,21 @@ I smirk, nod my head toward the second card. "So I'm the fool?"
 
 "Maybe they're just facets of yourself." She finishes, smirking back to me.
 
-Thus chastened, I look at the second card. "There's a dog, one with short hair, though it doesn't look like any of the dogs I've met. He's--" I catch myself; seeing androgyny. "They're stepping toward the edge of a cliff. They have one of those sticks with a bag tied to the end, but their tunic thing is what has me thinking. It's all growing things." I lean in closer and add, "And little splashes of water."
+Thus chastened, I look at the second card. "There's a dog, one with short hair, though it doesn't look like any of the dogs I've met. He's--" I catch myself; seeing androgyny and tamping down the yearning for my own. "They're stepping toward the edge of a cliff, with a little spirit thing dancing at their feet. They have one of those sticks with a bag tied to the end, but their tunic thing is what has me thinking. It's all growing things." I lean in closer and add, "And little splashes of water. Green and blue on navy."
 
 We sit in silence for a moment while I think about the card more.
 
-"There's a good balance of colors, come to think of it. Blue and green and red and yellow." I hesitate, staring at the lean canine muzzle --- the balance continues there, masculine and feminine, hard and soft. I say nothing, and wonder why.
+"There's a good balance of colors, come to think of it. Blue and green and red and yellow." I hesitate, staring at the lean canine muzzle --- the balance continues there, masculine and feminine, hard and soft, intent and uncaring. I say nothing, and wonder why.
 
 The older woman nods slowly. "It's a fancy shirt, no denying. It'd look good on you."
 
 I laugh, she grins. "Seriously. It's a good mix. You're a good mix, too. But you wear all drab colors. Why's that?"
 
-I lay my ears back. There had been a sudden flush to my cheeks, at being so deliberately addressed, along with the first hints of annoyance replaced with embarrassment. "I don't want to...I mean, I don't think I'd look good in bright colors or fancy clothes."
+I lay my ears back. There had been a sudden flush to my cheeks, at being so deliberately addressed, along with the first hints of annoyance. These are soon replaced with embarrassment. "I don't want to...I mean, I don't think I'd look good in bright colors or fancy clothes."
 
 "I think you would." She hastens to continue, speaking over my mounting disagreements. "I think you'd look good, if you dressed how you wanted. Don't you?"
 
-I stare at her.  She continues, "You didn't say you don't want to dress in bright colors and fancy clothes. You started to say you didn't want to do something else."
+I frown at her.  She continues, "You didn't say you don't want to dress in bright colors and fancy clothes. You started to say you didn't want to do something else."
 
 Anger's the wrong word for what I feel. Frustration. Humiliation, perhaps, at being so transparent. "I don't want to," I begin, feeling that struggle. My shoulders sag, and I complete the statement. "I don't want to be seen like that."
 
@@ -93,15 +100,15 @@ Anger's the wrong word for what I feel. Frustration. Humiliation, perhaps, at be
 
 I hunch down into my slouched shoulders, muzzle dipping as I struggle for words. "It's on my mind, I guess."
 
-"I'll come clean," she admits, offering a gentle smile. "Your mom told me you were coming, so I know that much. Even if she hadn't, though, it's written on your face. I mean this in the best possible way, Avery, but you don't make a very good man."
+"I'll come clean," she admits, fiddling with the remainder of the deck. "Your mom told me you were coming, so I know that much. Even if she hadn't, though, it's written on your face. I mean this in the best possible way, Avery, but you don't make a very good man."
 
-I close my eyes. I shut out the cards, the motherly porcupine. Motherly in the sense of speaking truths, in the sense of knowing children, in having seen them grow up. Motherly in lived experience. Experience lived in the moment, not in some dream world; more motherly than my mom.
+I close my eyes. I shut out the cards, the motherly porcupine. Motherly in the sense of speaking truths, in the sense of knowing children, in having seen them grow up. Motherly in lived experience. Experience lived in the moment, not in some dream world of crystals and chakras. More motherly than my mom.
 
 When I open my eyes, the porcupine is smiling to me.
 
 "Why three cards?"
 
-She laughs. "Past, present, and future."
+"Past, present, and future." She laughs.
 
 I nod, then sit up a little straighter, murmuring, "So it's more that past me that didn't have the activation energy?"
 
@@ -127,9 +134,11 @@ She nods. "And are you at the beginning of something now?"
 
 She nods again. "It's a little freeing, isn't it? Being away from parents. So you, like the page of wands have been investigating, leaving all that energy pent up, and now you're ready to...what? Take that step?"
 
-I catch myself fiddling with the hem of my shirt. It's an olive color, faded further into drabness by countless washings. It doesn't go with my fur. "I have an appointment to start talking about it --- talking about gender --- with a counselor."
+I catch myself fiddling with the hem of my shirt. It's an olive color, faded further into drabness by countless washings, no fancy tunic. It doesn't go with my fur. Nor do the well-worn khakis. A darker animal dressed in those would look rough and tumble, ready for a hike. A puma looks like a mess of dirty laundry.
 
-"Congratulations," the porcupine says, smiling, and I realize she doesn't need to say anymore. I realize that's what I needed from my mom. I realize that's probably why my mom sent me here. I realize there's probably more to my mom than I give her credit for.
+I look up from my dull clothing to the table once more, speaking to the cards. "I have an appointment to start talking about it --- talking about gender --- with a counselor."
+
+"Congratulations," the porcupine says, smiling. And I realize she doesn't need to say anymore. I realize that's what I needed from my mom. I realize that's probably why my mom sent me here. I realize there's probably more to my mom than I gave credit for.
 
 I realize I've stopped thinking of this --- the tarot card reading --- as something mystical. "The third card, then."
 
@@ -137,7 +146,7 @@ The porcupine nods.
 
 "It feels impenetrable to me."
 
-She laughs and shakes her head. "It's not a book. You're not writing a report on it. You're picking up on meanings, but don't have to do it right away or all the time." Still grinning, guides my gaze back down to the card, "Just tell me what you see."
+She laughs and shakes her head. "It's not a book. You're not writing a report on it. You're picking up on meanings, but don't have to do it right away or all the time. Or at all, for that matter." Still grinning, guides my gaze back down to the card with her own, porcupine and puma looming over the table. "Just tell me what you see."
 
 Abashed, I return her smile as best I can. "Alright. It's a...well, I want to say a woman and a child being ferried across a lake or something, but the boat they're in has six swords in it. They're upright, like they've been stabbed through the bottom of the boat."
 
@@ -185,7 +194,7 @@ She leans in close to me, stage-whispering, "I'll let you in on a secret. None o
 
 "But they're still--"
 
-She holds up a paw, "They're still swords, but they're tools. Swords show work. Strife, sometimes, striving toward a goal, but they show work. These swords aren't working right now, they're just standing there. So where is the striving?"
+She holds up a paw, "They're still swords, but they're tools. Swords show work. Strife, sometimes, sure. Striving toward a goal, but they show work. These swords aren't working right now, they're just standing there. So where is the striving?"
 
 "Behind them?" I ask. "They figures are all facing away from something."
 
@@ -231,7 +240,7 @@ The porcupine nods, quills rustling, and smiles. "Alright. And she sent you to m
 
 "Yeah, she told me to go to you to work on things." I give a wry smile and add, "Her words, not mine."
 
-She laughs and sits back in her chair. "Your mom is nuts," she says. "I mean that in the kindest way, of course; I love her dearly. I suspect she wishes the world worked differently for her. And for you, for that matter."
+She laughs and sits back in her chair, slouched. "Your mom is nuts," she says. "I mean that in the kindest way, of course; I love her dearly. I suspect she wishes the world worked differently for her. And for you, for that matter."
 
 The unabashed laugh and words of affection are contagious and have me grinning. "Yeah, she's nuts," I echo. "Still, can't say I'm upset with what I got out of this."
 
@@ -275,7 +284,7 @@ Despite everything urging me not to do so, I lean in close and inspect the figur
 
 "The color of passion. And yellow, the color of action."
 
-"The dawn's yellow, too," I offer.
+"The dawn's yellow, too," I offer. I sound dubious, even to myself.
 
 "Dawn, then?" The older woman looks down at the card. "Dawn or sunset?"
 
@@ -321,8 +330,8 @@ I lever myself up from the chair, swishing lanky tail once or twice to make sure
 
 She bypasses my offered hand and gives me a firm hug around the middle. Startled, I hold still. Even her longest quills only come up to my chin.
 
-I feel unfortunately tall. A rectangle. A lummox.
+I feel unfortunately tall. A rectangle. A lummox. A big, dumb cat.
 
-I also feel welcomed. Understood, appreciated. I return the hug carefully, then, with her farewell in my ears, take that first step out into the hallway.
+I also feel welcomed. Understood, appreciated. I return the hug carefully. Then, with her farewell in my ears, take that first step out into the hallway.
 
 And then the next.
