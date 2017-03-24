@@ -332,6 +332,6 @@ She bypasses my offered hand and gives me a firm hug around the middle. Startled
 
 I feel unfortunately tall. A rectangle. A lummox. A big, dumb cat.
 
-I also feel welcomed. Understood, appreciated. I return the hug carefully. Then, with her farewell in my ears, take that first step out into the hallway.
+I also feel welcomed. Understood, appreciated. I return the hug carefully. Then, with her farewell in my ears, take that first step out into the evening air.
 
 And then the next.
