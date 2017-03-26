@@ -338,7 +338,7 @@ I laugh with her, nodding.
 
 "Still," she continues. "You're in town, now. Don't be afraid to stop by, say hi. There's lots more we can talk about, cards or no. Don't wait for your mom to push you my way."
 
-I lever myself up from the chair, swishing ropy tail once or twice to make sure it hasn't fallen asleep, and offer my paw to the porcupine. "I won't. I know she thinks we'll work on things, but I just want to talk. This was more than I expected. I didn't know I needed it--"
+I lever myself up from the chair, swishing ropy tail once or twice to make sure it hasn't fallen asleep, and offer my paw to the porcupine. "I won't. I know she thinks we'll work on things, but I just want to talk. This was more than I expected. I didn't know I needed--"
 
 She bypasses my offered hand and gives me a firm hug around the middle. Startled, I hold still. Even her longest quills only come up to my chin.
 
