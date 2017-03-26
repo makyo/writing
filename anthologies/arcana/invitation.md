@@ -25,15 +25,15 @@ Anyway, that's the deal! This info is part of that invitation, so everyone's on 
 
 Card | Author(s) | Notes
 ---|---|---
-The Fool | |  
-The High Priestess | buni (complete)| *Asked if the high priestess, if personified in the story, needs to be a cis woman, which it doesn't; this applies to all cards.*
-Wheel of Fortune | |  
-Justice | Searska (complete) |  
-The Hanged Man | |  
-The Star | |  
-The Moon | Kyell |  
-The Sun | George Squares |  
-The World | Ryffnah (complete) |  
+The Fool | Makyo | Editing
+The High Priestess | buni | Complete *Asked if the high priestess, if personified in the story, needs to be a cis woman, which it doesn't; this applies to all cards.*
+Wheel of Fortune | Lunostophiles | ???
+Justice | Searska | Complete
+The Hanged Man | Sparf | Started  
+~~The Star~~ | | Now GA
+The Moon | Kyell | Unsubmitted, presumably underway
+The Sun | George Squares | Editing
+The World | Ryffnah (complete) | Editing
 
 Also talked to but haven't decided on a card: *Sparf*.
 
