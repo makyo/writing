@@ -1,7 +1,14 @@
 ---
+counts:
+    characters_real: 3064
+    characters_total: 3863
+    file: ./poetry/important-people/index.md
+    paragraphs: 26
+    type: jekyll
+    words: 716
+date: 2017-02-23
 layout: post
 title: Unimportant verse about important people
-date: 2017-02-23
 ---
 
 <div class="verse">
@@ -14,7 +21,7 @@ in blown-out colors and over-saturation.
 I see your past in yellows and browns,
 in umber and sienna and amber, in a younger sun.
 
-    You sat and told me how --- and you were always sitting ---
+    You sat and told me how &mdash; and you were always sitting &mdash;
     you thought past-you dreamt of a future less complicated than today.
 
 I see your past through film-grain and vignette,
@@ -139,4 +146,27 @@ and I'll bless you and your new keeper.
 And I'll never stop loving you.
 And I'll never stop loving you.
 And I'll never stop loving you.
+</div>
+
+-----
+
+<div class="verse">
+You, for whom a heart means all feeling &mdash;
+You, for whom yeah is an expletive &mdash;
+You, for whom even computers sing &mdash;
+You, for whom every tangle invites disentangling &mdash;
+You, for whom even **I** will rub feet &mdash;
+You, for whom shop always follows flop &mdash;
+You, for whom words form a squall-line &mdash;
+You, for whom I guess I &mdash;
+You, for whom &mdash;
+You, for whom even &mdash;
+You, for whom I reach &mdash;
+You, for whom my shit day leads straight to lets talk &mdash;
+You, for whom I curate my week's feelings &mdash;
+You, for whom I wait by the month &mdash;
+You, for whom I structure my year &mdash;
+You, for whom understanding of me seems always in grasp &mdash;
+You, for whom my struggles provide no obstacle &mdash;
+You and I, from whom us.
 </div>

@@ -141,6 +141,27 @@ And I'll never stop loving you.
 And I'll never stop loving you.
 And I'll never stop loving you.
 
+## Forneus
+
+You, for whom a heart means all feeling ---
+You, for whom yeah is an expletive ---
+You, for whom even computers sing ---
+You, for whom every tangle invites disentangling ---
+You, for whom even **I** will rub feet ---
+You, for whom shop always follows flop ---
+You, for whom words form a squall-line ---
+You, for whom I guess I ---
+You, for whom ---
+You, for whom even ---
+You, for whom I reach ---
+You, for whom my shit day leads straight to lets talk ---
+You, for whom I curate my week's feelings ---
+You, for whom I wait by the month ---
+You, for whom I structure my year ---
+You, for whom understanding of me seems always in grasp ---
+You, for whom my struggles provide no obstacle ---
+You and I, from whom us.
+
 # TODO
 
 ## JC
@@ -148,8 +169,6 @@ And I'll never stop loving you.
 ## Cullen
 
 ## Zeta
-
-## Forneus
 
 ## JD
 
