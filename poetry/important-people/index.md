@@ -155,7 +155,7 @@ You, for whom a heart means all feeling &mdash;
 You, for whom yeah is an expletive &mdash;
 You, for whom even computers sing &mdash;
 You, for whom every tangle invites disentangling &mdash;
-You, for whom even **I** will rub feet &mdash;
+You, for whom even <strong>I</strong> will rub feet &mdash;
 You, for whom shop always follows flop &mdash;
 You, for whom words form a squall-line &mdash;
 You, for whom I guess I &mdash;
