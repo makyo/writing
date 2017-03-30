@@ -171,7 +171,6 @@ Submissions accepted through email [makyo.thurstonhowlpub+arcana@gmail.com](mail
 
 * Which card you are submitting for
 * Details about your submission (we'd especially like to hear about your inspiration and why the card was important to you)
-* Do not include name or contact information; we'll get those from your emails!
 
 If you've already submitted through Submitify, don't worry! Your submission is still recorded!
 

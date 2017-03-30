@@ -66,13 +66,13 @@ If you're going to work on a story for one of the major arcana cards, please let
     Control, willpower, victory, assertion, determination *or* lack of control, lack of direction, heedless agression.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 66px;">2/3</div>
 8. **Strength**
 
     Strength, courage, patience, control, compassion *or* weakness, self-doubt, lack of self-discipline.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 66px;">1/3</div>
 9. **The Hermit**
 
     Soul searching, introspection, being alone, inner guidance *or* isolation, loneliness, ill-advised withdrawal.
