@@ -42,7 +42,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     Fertility, femininity, beauty, nature, abundance *or* blocked creativity, over-dependence on others.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 66px;">1/3</div>
 4. **The Emperor**
 
     Authority, father-figure, structure, solid foundation or domination, excessive control, rigidity, inflexibility.
@@ -54,7 +54,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     Religion, group identification, conformity, tradition, beliefs *or* too much restriction, a need to challenge the status quo.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 66px;">1/3</div>
 6. **The Lovers**
 
     Love, union, relationships, values alignment, choices *or* disharmony, imbalance, misalignment of values.
@@ -66,7 +66,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     Control, willpower, victory, assertion, determination *or* lack of control, lack of direction, heedless agression.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
 8. **Strength**
 
     Strength, courage, patience, control, compassion *or* weakness, self-doubt, lack of self-discipline.
@@ -99,7 +99,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     Endings, beginnings, change, transformation, transition *or* resistance to change, inability to move on.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 66px;">1/3</div>
 14. **Temperance**
 
     Balance, moderation, patience, purpose, meaning *or* imbalance, excess, lack of long-term thinking.
