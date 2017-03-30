@@ -10,14 +10,6 @@ layout: post
 title: The Fool
 ---
 
-Questions:
-
-* I repeat "I sound dubious even to myself." three times intentionally as an echo, but I'm not sure if that actually comes across.
-* Does the trans thing feel bolted on? Does Avery's species?
-* Is there an appropriate arc to the story?
-
-----------
-
 The porcupine, her quills held back with a gingham kerchief to keep from shading her brow, looms over the small table. Three colorful cards rest neatly aligned on its surface.
 
 Contrary to expectations, the room had been bright and spacious. No hint of incense or dark velour drapes, just a simple living room in a simple home, a simple porcupine and some simple cards. She couldn’t have been older than fifty, and she was of a more motherly bent than a mystical one.
