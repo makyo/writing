@@ -126,7 +126,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     Hope, spirituality, renewal, inspiration, serenity *or* lack of faith, despair discouragement.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 1px;">3/3</div>
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
 18. **~~The Moon~~**
 
     Illusion fear, anxiety, insecurity, subconsciousness *or* release of fear, unhappiness, confusions.
