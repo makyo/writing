@@ -1,7 +1,7 @@
 ---
 counts:
-    characters_real: 11456
-    characters_total: 14102
+    characters_real: 11457
+    characters_total: 14103
     file: ./posts/writing/_posts/2017-04-01-lessons-from-arcana.md
     paragraphs: 52
     type: jekyll
@@ -124,9 +124,9 @@ Okay, so. Let's go over what happened:
 
   For submitting, I'd chosen a project I'd worked on for a while called Submitify. Submitify allows editors to open a call for submission with guidelines in place, and allows writers to submit their works for consideration. It accepts many file formats, and coerces them, regardless of text formatting, into something like a Standard Manuscript Format for reviewing, then manages the reviews.
 
-  However, I overestimated its done-ness. The site crashed several times, and gave many authors errors when they uploaded their files. This was due to an older version of pandoc, which handled the file munging. I soon had to abandon it in favor of plain old email.
+  However, I overestimated its done-ness. The site crashed several times, and gave many authors errors when they uploaded their files. This was due to an older version of `pandoc`, which handled the file munging. I soon had to abandon it in favor of plain old email.
 
-  Luckly, GMail (and several other services) allows you to do something neat: you can put a `+` in your email address at the end of the first bit before the `@`, and everything after it is ignored. It still gets delivered just the same, but the `To` field retained that extra text. That meant I could open for submissions at `makyo.thurstonhowlpub+arcana@gmail.com`, then set up a filter for all emails to that address so that they went into an "Arcana" label. This worked well for the rest of the submission process.
+  Luckily, GMail (and several other services) allows you to do something neat: you can put a `+` in your email address at the end of the first bit before the `@`, and everything after it is ignored. It still gets delivered just the same, but the `To` field retained that extra text. That meant I could open for submissions at `makyo.thurstonhowlpub+arcana@gmail.com`, then set up a filter for all emails to that address so that they went into an "Arcana" label. This worked well for the rest of the submission process.
 * **Anonymity**
 
   I wanted anthology submissions to be anonymous. It's not THP policy, I set that restriction. I didn't feel very comfortable reading submitted works knowing who the authors were, given how much time I spend chilling in the Writers' Guild chat. I wanted as little bias as possible, sure, but I also wanted to go in looking at the writing, rather than also considering the authors.
