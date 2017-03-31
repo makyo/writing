@@ -66,7 +66,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     Control, willpower, victory, assertion, determination *or* lack of control, lack of direction, heedless agression.
 
     *Submissions available:*  
-    <div style="width: 100px; background-color: #333;"><em>0/3</em></div>  
+    <div style="width: 100px; background-color: #333; color: #fff"><em>0/3</em></div>  
     Want to submit? You still can! Keep an eye out for other cards, though!
 8. **Strength**
 
