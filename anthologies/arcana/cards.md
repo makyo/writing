@@ -80,7 +80,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     Soul searching, introspection, being alone, inner guidance *or* isolation, loneliness, ill-advised withdrawal.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 66px;">1/3</div>
 10. **~~Wheel of Fortune~~**
 
     Good luck, karma, cycles in life, destiny, a turning point *or* bad luck, negative external forces, out of control.
