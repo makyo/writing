@@ -88,7 +88,7 @@ Death | 3 submissions
 Temperance | 2 submissions
 Devil | 2 submissions
 The Tower | 1 submission
-The Star | 1 submission
+The Star | 2 submissions
 The Moon | *invite --- complete*
 The Sun | *invite --- complete*
 Judgement | 1 submission

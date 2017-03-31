@@ -1,12 +1,12 @@
 ---
 comments: false
 counts:
-    characters_real: 4086
-    characters_total: 4837
+    characters_real: 3949
+    characters_total: 4688
     file: ./anthologies/arcana/cards.md
-    paragraphs: 66
+    paragraphs: 53
     type: jekyll
-    words: 738
+    words: 726
 layout: page
 title: Major arcana cards and meanings for Arcana
 ---
@@ -126,7 +126,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     Hope, spirituality, renewal, inspiration, serenity *or* lack of faith, despair discouragement.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 66px;">1/3</div>
 18. **~~The Moon~~**
 
     Illusion fear, anxiety, insecurity, subconsciousness *or* release of fear, unhappiness, confusions.
