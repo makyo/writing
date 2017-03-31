@@ -101,7 +101,8 @@ If you're going to work on a story for one of the major arcana cards, please let
     Endings, beginnings, change, transformation, transition *or* resistance to change, inability to move on.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 66px;">1/3</div>
+    <div style="width: 100px; background-color: #333; color: #fff; text-align: center"><em>0/3</em></div>  
+    Want to submit? You still can! Keep an eye out for other cards, though!
 14. **Temperance**
 
     Balance, moderation, patience, purpose, meaning *or* imbalance, excess, lack of long-term thinking.

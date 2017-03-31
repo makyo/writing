@@ -25,16 +25,14 @@ Anyway, that's the deal! This info is part of that invitation, so everyone's on 
 
 Card | Author(s) | Notes
 ---|---|---
-The Fool | Makyo | Editing
+The Fool | Makyo | Complete
 The High Priestess | buni | Complete *Asked if the high priestess, if personified in the story, needs to be a cis woman, which it doesn't; this applies to all cards.*
 Wheel of Fortune | Lunostophiles | ???
 Justice | Searska | Complete
 The Hanged Man | Sparf | Started  
 ~~The Star~~ | | Now GA
 The Moon | Kyell | Unsubmitted, presumably underway
-The Sun | George Squares | Editing
-The World | Ryffnah (complete) | Editing
-
-Also talked to but haven't decided on a card: *Sparf*.
+The Sun | George Squares | Complete
+The World | Ryffnah | Complete
 
 The intentionally-vague definitions I'm nudging people towards, if they don't have any in their heads already, are available [here](../cards), but there are a ton more ways to look at the archetypes involved in each. Good luck, and keep in touch! I'm looking forward at seeing what folks come up with
