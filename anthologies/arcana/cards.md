@@ -54,7 +54,8 @@ If you're going to work on a story for one of the major arcana cards, please let
     Religion, group identification, conformity, tradition, beliefs *or* too much restriction, a need to challenge the status quo.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 66px;">1/3</div>
+    <div style="width: 100px; background-color: #333; color: #fff; text-align: center"><em>0/3</em></div>  
+    Want to submit? You still can! Keep an eye out for other cards, though!
 6. **The Lovers**
 
     Love, union, relationships, values alignment, choices *or* disharmony, imbalance, misalignment of values.
@@ -66,7 +67,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     Control, willpower, victory, assertion, determination *or* lack of control, lack of direction, heedless agression.
 
     *Submissions available:*  
-    <div style="width: 100px; background-color: #333; color: #fff"><em>0/3</em></div>  
+    <div style="width: 100px; background-color: #333; color: #fff; text-align: center"><em>0/3</em></div>  
     Want to submit? You still can! Keep an eye out for other cards, though!
 8. **Strength**
 
