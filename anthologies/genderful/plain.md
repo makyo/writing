@@ -2,7 +2,7 @@
 counts:
     characters_real: 2615
     characters_total: 3156
-    file: ./anthologies/genderful/index.md
+    file: ./anthologies/genderful/plain.md
     paragraphs: 23
     type: jekyll
     words: 518

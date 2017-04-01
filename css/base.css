@@ -229,6 +229,35 @@ table td:last-child {
     text-align: right;
 }
 
+.flippable .colB {
+    transform: rotate(180deg);
+}
+.flippable.flipped {
+    transform: rotate(180deg);
+    transition: transform 2s ease;
+}
+.flippable {
+    transition: transform 2s ease;
+}
+.flipper {
+    margin-bottom: 1em;
+    vertical-align: middle;
+}
+.flip-arrow {
+    font-size: 3em;
+}
+@media only screen and (max-width: 960px) {
+    .flip-container {
+        overflow: hidden;
+    }
+    .flippable.flipped {
+        transition: transform 1s ease;
+    }
+    .flippable {
+        transition: transform 1s ease;
+    }
+}
+
 #post {
     max-width: 60em;
     margin: 0 auto;
