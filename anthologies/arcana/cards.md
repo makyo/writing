@@ -1,12 +1,12 @@
 ---
 comments: false
 counts:
-    characters_real: 3949
-    characters_total: 4688
+    characters_real: 4003
+    characters_total: 4756
     file: ./anthologies/arcana/cards.md
     paragraphs: 53
     type: jekyll
-    words: 726
+    words: 740
 layout: page
 title: Major arcana cards and meanings for Arcana
 ---
@@ -48,7 +48,8 @@ If you're going to work on a story for one of the major arcana cards, please let
     Authority, father-figure, structure, solid foundation or domination, excessive control, rigidity, inflexibility.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 66px;">1/3</div>
+    <div style="width: 100px; background-color: #333; color: #fff; text-align: center"><em>0/3</em></div>  
+    Want to submit? You still can! Keep an eye out for other cards, though!
 5. **The Heirophant**
 
     Religion, group identification, conformity, tradition, beliefs *or* too much restriction, a need to challenge the status quo.

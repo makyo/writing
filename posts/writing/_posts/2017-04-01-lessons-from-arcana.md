@@ -75,7 +75,7 @@ The Fool | *invite --- complete*
 The Magician | 2 submissions
 The High Priestess | *invite --- complete*
 The Empress | 2 submissions
-The Emperor | 2 submissions
+The Emperor | 3 submissions
 The Heirophant | 3 submissions
 The Lovers | 0 submissions
 The Chariot | 3 submissions
@@ -87,7 +87,7 @@ The Hanged Man | *invite --- draft*
 Death | 3 submissions
 Temperance | 2 submissions
 Devil | 2 submissions
-The Tower | 1 submission
+The Tower | 2 submissions
 The Star | 2 submissions
 The Moon | *invite --- complete*
 The Sun | *invite --- complete*
