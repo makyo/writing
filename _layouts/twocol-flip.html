@@ -9,9 +9,7 @@ layout: base
             <a href="javascript:void(0)" onclick="document.getElementsByClassName('flippable')[0].classList.toggle('flipped');" class="btn btn-default flipper" title="FLIP ME">FLIP<br /><span class="flip-arrow">&#x27f3;</span></a>
         </div>
     </div>
-    <div class="row flippable">
         {{content}}
-    </div>
     {% if page.comments != false %}
         <div class="row">
             <section id="comments" class="col-md-12">
