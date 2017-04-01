@@ -120,7 +120,7 @@ If you're going to work on a story for one of the major arcana cards, please let
     Disaster, upheaval, sudden change, revelation *or* avoidance of disaster, fear of change.
 
     *Submissions available:*  
-    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 33px;">2/3</div>
+    <div style="width: 100px; padding-left: 2px; border: 1px solid #333; border-left-width: 66px;">1/3</div>
 17. **The Star**
 
     Hope, spirituality, renewal, inspiration, serenity *or* lack of faith, despair discouragement.
