@@ -1,4 +1,11 @@
 ---
+counts:
+    characters_real: 2615
+    characters_total: 3156
+    file: ./anthologies/genderful/index.md
+    paragraphs: 23
+    type: jekyll
+    words: 518
 layout: page
 title: Genderful - an anthropomorphic anthology about gender
 ---
@@ -26,6 +33,8 @@ Theme
     * of any gender identity or gender assigned at birth
     * of any orientation
 
+    We would like a balance of expressions, and will be publishing an anonymous list of what is represented in each submission as they come in!
+
 Restrictions
 :   Stories which include transphobia, racism, sexism, or discrimination presented in a positive light will not be accepted for *Genderful*. For adult submissions, the following also apply:
 
@@ -40,7 +49,7 @@ Word count
 :   5,000-10,000 words - stories above or below will be considered on their merit.
 
 Rating
-:   G-X --- stories of an erotic or violent nature and stories written for a general audience will be presented in separate sections to allow readers to curate their experience.
+:   G-X --- stories of an erotic or violent nature and stories written for a general audience will be presented in separate **sections/books**[^rating] to allow readers to curate their experience.
 
 Payment
 :   &frac12; cent per word up to $50 per story.
@@ -60,3 +69,4 @@ Submission process
 -----
 
 [^stats]: Data from the 2016 Furry Poll.
+[^rating]: How we will divide the submissions is still under consideration!

@@ -10,6 +10,8 @@ layout: page
 title: Arcana - A Tarot Anthology
 ---
 
+<div class="alert alert-danger">Submissions are now <strong>CLOSED</strong>. Keep an eye out for information about further calls!</div>
+
 ![The Moon from the Universal Waite deck](/assets/themoon.jpg){: style="width:40%" class="pull-right" }
 
 > The porcupine, her quills held back with a gingham kerchief to keep from shading her brow, looms over the small table.  Three colorful cards rest neatly aligned on its surface.

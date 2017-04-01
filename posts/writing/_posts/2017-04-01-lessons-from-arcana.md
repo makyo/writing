@@ -1,7 +1,7 @@
 ---
 counts:
-    characters_real: 11457
-    characters_total: 14103
+    characters_real: 11455
+    characters_total: 14101
     file: ./posts/writing/_posts/2017-04-01-lessons-from-arcana.md
     paragraphs: 52
     type: jekyll
@@ -14,7 +14,7 @@ At the end of 2016, I decided to take on [*Arcana*](/anthologies/arcana) as a pr
 
 *Arcana* is an anthology of stories using the archetypes embodied by the major arcana of the standard Tarot deck. All of the cards in the deck have meaning behind them, but the majors are the ones most commonly known --- Death, The Lovers, The Hanged Man, The Tower, and so on --- and the ones that best lend themselves to a writing prompt, in my opinion. An anthology of short stories felt natural to me: twenty-two cards, twenty-two stories. Each would have their own archetype backing it and their own arc, and there would be the arc inherent in the majors to guide the anthology itself.
 
-It was an ambitious project. Probably too ambitious for a first anthology, if I'm honest. But there I was, writing up a call, and Jonathan Thurston over at [Thurston Howl Publications](https://www.thurstonhowlpublications.com/) liked the idea and was willing to publish the result. All of my editing to date had been with [\[adjective\]\[species\]](http://adjectivespecies.com), which was 99% non-fiction, and here I was stepping up to edit a fiction anthology from start to finish.
+It was an ambitious project. Probably too ambitious for a first anthology, if I'm honest. But there I was, writing up a call, and Thurston Howl over at [Thurston Howl Publications](https://www.thurstonhowlpublications.com/) liked the idea and was willing to publish the result. All of my editing to date had been with [\[adjective\]\[species\]](http://adjectivespecies.com), which was 99% non-fiction, and here I was stepping up to edit a fiction anthology from start to finish.
 
 The call ended yesterday, having been open in some form or another since early December, and if working in tech has taught me anything, it's that now is a good time for a retrospective.
 
@@ -78,7 +78,7 @@ The Empress | 2 submissions
 The Emperor | 3 submissions
 The Heirophant | 3 submissions
 The Lovers | 0 submissions
-The Chariot | 3 submissions
+The Chariot | 4 submissions
 Strength | 2 submissions
 The Hermit | 2 submissions
 The Wheel of Fortune | *invite --- unsubmitted*
