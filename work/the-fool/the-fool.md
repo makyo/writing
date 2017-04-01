@@ -1,22 +1,22 @@
 ---
 counts:
-    characters_real: 14913
-    characters_total: 18597
+    characters_real: 15745
+    characters_total: 19632
     file: ./work/the-fool/the-fool.md
-    paragraphs: 163
+    paragraphs: 165
     type: jekyll
-    words: 3644
+    words: 3835
 layout: post
 title: The Fool
 ---
 
-The porcupine, her quills held back with a gingham kerchief to keep from shading her brow, looms over the small table. Three colorful cards rest neatly aligned on its surface.
+The porcupine, her quills held back with a gingham kerchief to keep from shading her brow, looms over the small table. A deck of colorful cards rest neatly aligned on its surface.
 
-Contrary to expectations, the room had been bright and spacious. No hint of incense or dark velour drapes, just a simple living room in a simple home, a simple porcupine and some simple cards. She couldn’t have been older than fifty, and she was of a more motherly bent than a mystical one.
+Contrary to expectations, the room is bright and spacious. No hint of incense or dark velour drapes, just a simple living room in a simple home, a simple porcupine and some simple cards. She can't be older than fifty, and she's of a more motherly bent than a mystical one.
 
 More motherly than my mother, at least. More earthy and far less mystical.
 
-"Tell me about your day, Avery," she had begun, and as I spoke, she shuffled a worn deck of cards, nodding along with me. She drew the cards and lay them face up on the table with a casual slowness that did little to distract from my words. Still, my language was stilted, and I found myself tracing the edges of the table with my gaze or watching her paws rather than making eye contact.
+"Tell me about your day, Avery," she begins, and as I speak, she shuffles a worn deck of cards, nodding along with me. She draws cards yan tan tethera, and lays them face up on the table with a casual slowness that does little to distract from my words. Still, my language is stilted, and I find myself tracing the edges of the table with my gaze or watching her paws rather than making eye contact.
 
 "Now," she says when I trail off to an uneasy silence. The porcupine, the table and cards, a bright room with motes in afternoon sunbeams; an image more meaningful than I anticipated. And me --- dingy clothes draped over a broad frame I never wanted --- out of place. "Here are three cards. Look, and tell me the first thing you notice."
 
@@ -32,7 +32,7 @@ She shrugs, smiling not unkindly.
 
 Odd, I think, how such a small task could feel overwhelming. I puff out a breath of air, whiskers bristling, and tap at the first card. "Well, this one's upside down, for starters. The, uh...Page of Wands." Digging through memories, I try, "A page is like a squire or something, right? Someone who helps a knight?"
 
-"Yes, a young person, someone in training." She grins and adds, nodding down to the cards, "There are knights in the deck, too, but that's for another time."
+"Yes, a young person, someone in training." She grins and nods down to the cards. "There are knights in the deck, too, but that's for another time."
 
 Whiskers still canted forward, I nod and hesitate for a moment. "So, what does it being upside down mean?"
 
@@ -88,7 +88,7 @@ The older woman nods slowly. "It's a fancy shirt, no denying. It'd look good on 
 
 I laugh, she grins. "Seriously. It's a good mix. You're a good mix, too. But you wear all drab colors. Why's that?"
 
-I lay my ears back. There had been a sudden flush to my cheeks, at my appearance being so deliberately addressed. A blush along with the first hints of annoyance. These are soon replaced with embarrassment. "I don't want to-- I mean, I don't think I'd look good in bright colors or fancy clothes."
+I lay my ears back. There's a sudden flush to my cheeks, at my appearance being so deliberately addressed. A blush along with the first hints of annoyance. These are soon replaced with simple embarrassment. "I don't want to-- I mean, I don't think I'd look good in bright colors or fancy clothes."
 
 "I think you would." She hastens to continue, speaking over my mounting disagreements, "I think you'd look good, if you dressed how you wanted. Don't you?"
 
@@ -218,7 +218,7 @@ She smiles and urges me on with a little gesture of her hand.
 
 "You're doing my job for me," the porcupine laughs.
 
-I grin. The grin falters. "Fair enough, but what do I do?"
+My smile falters. "Fair enough, but what do I do?"
 
 "That's advice, kid." That soft smile, again. She flips the cards over, one by one, and continues, "Advice comes from people, not from cards. And if I'm going to give you advice, you're going to need to tell me what's actually going on."
 
