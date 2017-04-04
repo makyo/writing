@@ -1,7 +1,7 @@
 ---
 counts:
-    characters_real: 3111
-    characters_total: 3755
+    characters_real: 3112
+    characters_total: 3756
     file: ./anthologies/arcana/extended-call.md
     paragraphs: 23
     type: jekyll
@@ -50,7 +50,7 @@ Previous publication
 :   Previously published stories not currently under contract allowed
 
 Multiple submissions
-:   With the anthology, yes; within each card, no. *This includes cards you have submitted to in the first round*
+:   With the anthology, yes; within each card, no. *This includes cards you have submitted for in the first round*
 
 How to submit
 :   Email submissions to makyo.thurstonhowlpub+arcana@gmail.com. Submissions should include a cover letter stating which card you chose and why. Submission files (doc, docx, odt, tex, txt, markdown, pdf...ask if you have concerns) should be anonymized.
