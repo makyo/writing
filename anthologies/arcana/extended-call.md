@@ -55,7 +55,7 @@ Multiple submissions
 How to submit
 :   Email submissions to makyo.thurstonhowlpub+arcana@gmail.com. Submissions should include a cover letter stating which card you chose and why. Submission files (doc, docx, odt, tex, txt, markdown, pdf...ask if you have concerns) should be anonymized.
 
-**The call for submissions will close on May 5, 2017.**
+<div class="alert alert-info">The call for submissions will close on May 5, 2017.</div>
 
 Good luck, write well!
 
