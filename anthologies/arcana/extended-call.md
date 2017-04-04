@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 3112
-    characters_total: 3756
+    characters_real: 3113
+    characters_total: 3763
     file: ./anthologies/arcana/extended-call.md
-    paragraphs: 23
+    paragraphs: 24
     type: jekyll
-    words: 621
+    words: 622
 layout: page
 title: <em>Arcana</em> - Extended Call for Submissions
 ---
@@ -71,4 +71,6 @@ What is your favorite card?
 :   The Fool :)
 
 What is your favorite pasta dish?
-:   Get to writing! (It's *cacio e pepe*.)
+:   Get to writing[^pasta]!
+
+[^pasta]: It's *cacio e pepe*.
