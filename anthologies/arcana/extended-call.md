@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 3644
-    characters_total: 4410
+    characters_real: 3111
+    characters_total: 3755
     file: ./anthologies/arcana/extended-call.md
-    paragraphs: 25
+    paragraphs: 23
     type: jekyll
-    words: 743
+    words: 621
 layout: page
 title: <em>Arcana</em> - Extended Call for Submissions
 ---
@@ -62,16 +62,10 @@ Good luck, write well!
 ### But wait, I have some questions!
 
 Why are you opening for X card?
-:   I want three submissions or more per card so that a decision can be a fair choice, and not simply "which is the better of two stories".
-
-I submitted to X card before this call opened! Will my submission be treated fairly?
-:   Yes. As all submissions are (or should be!) anonymous, I won't know who submitted what. The deciding factor on re-opening for these cards is a game of numbers; I have *not yet read* any submissions. That means that I'm not simply re-opening for cards which received submissions I didn't like or anything! I will slush submissions for these cards after opening for this call, but will review all submissions for these cards *when this call ends*.
+:   I want three submissions or more per card so that a decision can be a fair choice, and not simply "which is the better of two stories". Previous submissions will be read just the same as ones from this call.
 
 I have an outstanding extension on one of these card. Will that be affected by the call?
 :   No. Or, rather, you now have more time! Take the time you have now to make sure your story is wonderful.
-
-I wrote for card X, and I'm still worried about this extended call. Doesn't that mean I have less of a chance?
-:   In a way, it does. However, I need more than two submissions to make a fair choice for a card. Editor's prerogative.
 
 What is your favorite card?
 :   The Fool :)
