@@ -1,18 +1,18 @@
 ---
 counts:
-    characters_real: 15745
-    characters_total: 19632
+    characters_real: 15774
+    characters_total: 19668
     file: ./work/the-fool/the-fool.md
     paragraphs: 165
     type: jekyll
-    words: 3835
+    words: 3842
 layout: post
 title: The Fool
 ---
 
-The porcupine, her quills held back with a gingham kerchief to keep from shading her brow, looms over the small table. A deck of colorful cards rest neatly aligned on its surface.
+The porcupine looms over a small table, her quills held back with a square of gingham cloth, folded and carefully tied, to keep from shading her brow. A deck of colorful cards rest neatly stacked on its surface.
 
-Contrary to expectations, the room is bright and spacious. No hint of incense or dark velour drapes, just a simple living room in a simple home, a simple porcupine and some simple cards. She can't be older than fifty, and she's of a more motherly bent than a mystical one.
+Contrary to expectations, the room is bright and spacious. No hint of incense or dark velour drapes, just a simple living room in a simple home, a simple porcupine and some simple cards. She can't be older than fifty or sixty, and she's of a more motherly bent than a mystical one.
 
 More motherly than my mother, at least. More earthy and far less mystical.
 
@@ -22,7 +22,7 @@ More motherly than my mother, at least. More earthy and far less mystical.
 
 "Notice?" I ask. I sound dubious even to myself.
 
-"Notice," she confirms. "What do you see? When you look at the cards, what jumps out at you? Colors, motions, angles and lines. What do you see?"
+"Notice," she confirms. "What do you see? When you look at the cards, what jumps out at you? Colors, motions, angles, lines. What do you see?"
 
 I stare at the porcupine. She stares back, then lets out a kindly laugh and gestures down at the cards.
 
