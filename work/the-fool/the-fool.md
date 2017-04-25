@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 15745
-    characters_total: 19632
+    characters_real: 16221
+    characters_total: 20220
     file: ./work/the-fool/the-fool.md
-    paragraphs: 165
+    paragraphs: 168
     type: jekyll
-    words: 3835
+    words: 3949
 layout: post
 title: The Fool
 ---
@@ -236,7 +236,7 @@ So I tell her. I tell her all that stuff from childhood, all those stupid things
 
 I speak more freely than at the beginning of the session.
 
-I tell her about my mom, about telling her bits and pieces of my feelings, and her insistence at first that it was just a blockage of energies, and then her reluctant acceptance. I tell her about my dad, and how terrified I am of him and his iron grip on masculinity. I tell her about leaving for school and deciding that becoming my own self mattered more than their financial assistance, their belongingness, their parenthood.
+I tell her about my mom, about telling her bits and pieces of my feelings, and her insistence at first that it was just a blockage of energies, and then her reluctant acceptance. I tell her about my dad, and how terrified I am of him and his iron grip on masculinity. I tell her about leaving for school and deciding that becoming my own self mattered more than their financial assistance and what belongingness they could offer.
 
 "Your mom sent you to me," she states again, after a comfortable silence. "Did you tell her any of this?"
 
