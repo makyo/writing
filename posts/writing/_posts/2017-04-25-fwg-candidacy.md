@@ -22,8 +22,6 @@ Now, I want to do my best to give back to the FWG what I can. I feel that I can 
 
 I'd like to formally announce my candidacy for president of the Furry Writers' Guild. I hope only that I can offer the Guild my service in return for all that it has given me!
 
------
-
 ### Goals
 
 * At several points during the last year, we started to address the topic of self-published authors and how that plays into guild membership. We came up with good ideas, but I think that nailing something down and getting it added to the by-laws would be a good goal for this next round.
@@ -32,8 +30,6 @@ I'd like to formally announce my candidacy for president of the Furry Writers' G
   I'd like to see about implementing an outreach arm, program, or what-have-you --- we can decide specifics down the line --- to focus on getting the word out about furry fiction. This will allow the guild to focus on lifting up authors through promotion, access to markets, and so on, while still living up to our stated goal of promoting anthropomorphic fiction *as well as* its creators.
 * I'd like to keep talking with Chipotle and Sean about the future of the forums. There are valid concerns with SMF that would be fixed by moving to something like Discourse or similar, but we *do* need to address adding a shoutbox of some kind; many people (rightfully) enjoy that, and just forcing everyone to the Slack or the Telegram chat isn't a solution
 * I think that getting the FWG blog up and running in a more aggressive fashion would help us out quite a bit in terms of promotion. This is currently done through the member spotlights, but there are other additions that might help as well, such as member fiction, solicited articles, and so on. This would be a topic to discuss with the guild as a whole.
-
------
 
 I welcome any and all questions or comments. Please feel free to get in touch through comments here, on the forum, Slack, or Telegram group, or through email to [makyo@drab-makyo.com](mailto:makyo@drab-makyo.com)
 
