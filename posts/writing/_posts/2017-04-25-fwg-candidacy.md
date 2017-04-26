@@ -33,7 +33,7 @@ I'd like to formally announce my candidacy for president of the Furry Writers' G
 * I'd like to keep talking with Chipotle and Sean about the future of the forums. There are valid concerns with SMF that would be fixed by moving to something like Discourse or similar, but we *do* need to address adding a shoutbox of some kind; many people (rightfully) enjoy that, and just forcing everyone to the Slack or the Telegram chat isn't a solution
 * I think that getting the FWG blog up and running in a more aggressive fashion would help us out quite a bit in terms of promotion. This is currently done through the member spotlights, but there are other additions that might help as well, such as member fiction, solicited articles, and so on. This would be a topic to discuss with the guild as a whole.
 
-I welcome any and all questions or comments. Please feel free to get in touch through comments here, on the forum, Slack, or Telegram group, or through email to [makyo@drab-makyo.com](mailto:makyo@drab-makyo.com)
+I welcome any and all questions or comments. Please feel free to get in touch through comments here, on the forum, Slack, or Telegram group, or through email to [makyo@drab-makyo.com](mailto:makyo@drab-makyo.com). Information on the elections is available [here](http://www.anthroaquatic.com/forum/index.php?topic=1361.0).
 
 -----
 
