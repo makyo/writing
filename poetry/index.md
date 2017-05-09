@@ -12,7 +12,7 @@ title: Poetry
 ---
 
 <blockquote class="verse">Arctic fox's den
-adorned with flowers and snow ---
+adorned with flowers and snow &mdash;
 garden in winter.
 </blockquote>
 
