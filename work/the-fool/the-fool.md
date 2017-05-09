@@ -1,26 +1,20 @@
 ---
 counts:
-    characters_real: 16221
-    characters_total: 20220
+    characters_real: 16414
+    characters_total: 20452
     file: ./work/the-fool/the-fool.md
     paragraphs: 168
     type: jekyll
-    words: 3949
+    words: 3988
 layout: post
 title: The Fool
 ---
-
-<!--
-badger to badger
-no quills, no gingham
-clean/overwashed smock w/ candy thermometer
--->
 
 The badger looms over a small table, the short sleeve of her smock tugged down toward the table by a glass candy thermometer. A deck of colorful cards rest neatly stacked on its surface.
 
 Contrary to expectations, the room is bright and spacious. No hint of incense or dark velour drapes, just a simple living room in a simple home, a simple badger and some simple cards. She can't be older than fifty, and she's of a more motherly bent than a mystical one.
 
-More motherly than my mother, at least. More earthy and far less mystical.
+*More motherly than my mother, at least*, I think. *More earthy and far less mystical.*
 
 "Tell me about your day, Avery," she begins, and as I speak, she shuffles a worn deck of cards, nodding along with me. She draws cards yan tan tethera, and lays them face up on the table with a casual slowness that does little to distract from my words. Still, my language is stilted, and I find myself tracing the edges of the table with my gaze or watching her paws rather than making eye contact.
 
@@ -32,13 +26,15 @@ More motherly than my mother, at least. More earthy and far less mystical.
 
 I stare at the badger. She stares back, then lets out a kindly laugh and gestures down at the cards.
 
-Three cards, laid out in a line. I stare still, more bewildered than anything, trying to pick out singular things. "From each of them? One at a time?"
+Three cards, laid out in a line. I move my stare to those, more bewildered than anything, trying to pick out singular things. "From each of them? One at a time?"
 
 She shrugs, smiling not unkindly.
 
-Odd, I think, how such a small task could feel overwhelming. I puff out a breath of air, whiskers bristling, and tap at the first card. "Well, this one's upside down, for starters. The, uh...Page of Wands." Digging through memories, I try, "A page is like a squire or something, right? Someone who helps a knight?"
+*Odd,* I think. *How such a small task could feel overwhelming.*
 
-"Yes, a young person, someone in training." She grins and nods down to the cards. "There are knights in the deck, too, but that's for another time."
+I puff out a breath of air, whiskers bristling, and tap at the first card. "Well, this one's upside down, for starters. The, uh...Page of Wands." Digging through memories, I try, "A page is like a squire or something, right? Someone who helps a knight?"
+
+"Yes, a young person, someone in training." She grins and nods down to the remaining stack of cards. "There are knights in the deck, too, but that's for another time."
 
 Whiskers still canted forward, I nod and hesitate for a moment. "So, what does it being upside down mean?"
 
@@ -46,13 +42,13 @@ Whiskers still canted forward, I nod and hesitate for a moment. "So, what does i
 
 I roll my eyes. Still, she sounds kind rather than petulant or snide, so I think about upside-down cards. Upside-down figures, upside-down and tipped over, upset in the literal sense of the word. Upside-down meanings. Meanings inverted, reversed, turned over.
 
-"I think I see." I intend it as the beginning of a sentence, but seeing the badger's smile widen, I leave it at that. I shut out the other cards, focus on the Page. "In training, hmm? They looks like they's investigating or contemplating. The, uh...I guess the wand. The wand is the only thing growing, the only thing with green in the entire scene."
+"I think I see." I intend it as the beginning of a sentence, but seeing the badger's smile widen, I leave it at that. I shut out the other cards, focus on the Page. "In training, hmm? They looks like they're investigating or contemplating. The, uh...I guess the wand. The wand is the only thing growing, the only thing with green in the entire scene."
 
 "Learning about life. Investigating growth." The badger nods, but neither confirming nor sage. Simply agreeing. "But reversed."
 
-"Not learning?" I sense her expression close down. It's not a visible thing; it's a sensation of her movement of thought put on hold. "Not...not doing anything with learning, perhaps?"
+"Not learning?" At this, I sense her expression close down. It's not a visible thing; it's a sensation of her movement of thought being put on hold. "Not...not doing anything with learning, perhaps?"
 
-The badger nods. I can see the clip on the thermometer holding it to the over-washed fabric, see beads of sugar still clinging to glass. "Wands are for beginnings. For doing, or perhaps activating is better." She sets a paw next to the card. "This Page --- a bear, maybe? I've never figured that out --- is learning, but not moving, not beginning. There is knowledge, but no decision."
+The badger nods. I can see the clip on her thermometer holding it to the over-washed fabric, see beads of sugar still clinging to glass, bobbing with her movements. "Wands are for beginnings, for doing. Or perhaps activating is better." She sets a paw next to the card. "This Page --- a bear, maybe? I've never figured that out --- is learning, but not moving, not beginning. There is knowledge, but no decision."
 
 "Activation energy!" I blurt, and, seeing questions in her eyes, continue. "Like in chemistry. It's dorky, but there has to be enough energy for an electron to jump from one sphere to the next; it just sits there otherwise. It needs the proper amount of activation energy to get going."
 
@@ -62,7 +58,7 @@ Questions turn to understanding, but her gaze stays locked on mine, waiting.
 
 "Perhaps not. Or perhaps you do, but you're --- you or something within you --- is not letting it reach the activation. The energy may be there, but blocked."
 
-I have to restrain myself from rolling my eyes. A reaction to my mom's mysticism, to crystals and blocked energy. In the badger, I sense only earnestness. "Energy as in will? Purpose?"
+I have to restrain myself from a snide smile. A reaction to my mom's mysticism, maybe. To crystals and blocked energy. In the badger, though, I sense only earnestness. "Energy as in will? Purpose?"
 
 She shrugs. My choice, apparently.
 
@@ -82,7 +78,7 @@ I lean closer, nudging glasses further up my blunt snout. "Two, maybe three out 
 
 I smirk, nod my head toward the second card. "So I'm the fool?"
 
-"Maybe they're just facets of yourself." She finishes, smirking back to me.
+"Maybe they're just facets of yourself." She finishes, returning my smirk.
 
 Thus chastened, I look at the second card. "Okay, well, there's a dog, one of those breeds with short fur, though it doesn't look like any of the dogs I've met. He's--" I catch myself, seeing androgyny in the dog's features and tamping down the yearning for my own. "They're stepping toward the edge of a cliff, with a little spirit thing dancing at their feet. They have one of those sticks with a bag tied to the end, but their tunic thing is what has me thinking. It's all growing things." I lean in closer and add, "And little splashes of water. Green and blue with flowers on navy."
 
@@ -92,7 +88,7 @@ We sit in silence for a moment while I think about the card more.
 
 The older woman nods slowly. "It's a fancy shirt, no denying. It'd look good on you."
 
-I laugh, to which she grins. "Seriously. It's a good mix. You're a good mix, too. But you wear all drab colors. Why's that?"
+I laugh, to which she looks up, smiling. "Seriously. It's a good mix. You're a good mix, too. But you wear all drab colors. Why's that?"
 
 There's a sudden flush to my cheeks, at my appearance being so deliberately addressed. I lay my ears back. A blush along with the first hints of annoyance. These are soon replaced with simple embarrassment. "I don't want to-- I mean, I don't think I'd look good in bright colors or fancy clothes."
 
@@ -104,15 +100,15 @@ I held my breath. Anger is the wrong word for what I feel. Frustration? Humiliat
 
 "I don't want to," I begin in a rush of pent-up breath, feeling that struggle blown out with it. My shoulders sag, and I complete the statement more slowly. "I don't want to be seen like that."
 
-"The fool, here, they're everything. They're the beginning of all things, and they've already got all of the endings inside themself. At the beginning of all journeys, there's the fool: taking that first step is a fool's gamble, after all." She pauses, looking at me earnestly, intently. "You caught yourself earlier, you said 'he' and then switched to 'they'."
+"The fool, here, they're everything. They're the beginning of all things, and they've already got all of the endings inside themselves. At the beginning of all journeys, there's the fool: taking that first step is a fool's gamble, after all." She pauses, looking at me earnestly, intently. "You caught yourself earlier, you said 'he' and then switched to 'they'."
 
 I hunch down into my slouched shoulders, muzzle dipping as I struggle for words. "They looked-- I mean, It's on my mind, I guess."
 
 "I'll come clean," she admits after a pause, dark paws fiddling with the remainder of the deck, straightening cards. "Your mom told me you were coming, so I know that much. Even if she hadn't, though, it's written on your face. I mean this in the best possible way, Avery, but you don't make a very good man."
 
-I close my eyes. I shut out the cards, the motherly badger. Motherly in the sense of speaking truths, in the sense of knowing children, in having seen them grow up. Motherly in lived experience. Experience lived in the moment, not in some dream world of crystals and chakras. More motherly than my mom, I think.
+I close my eyes. I shut out the cards, the motherly badger. Motherly in the sense of speaking truths, in the sense of knowing children, in having seen them grow up. Motherly in lived experience. Experience lived in the moment, not in some dream world of crystals and chakras. *More motherly than my mom,* I think.
 
-When I open my eyes, she's smiling to me.
+When I open my eyes, her gaze has softened.
 
 "Why three cards?" I ask, deflecting.
 
@@ -134,7 +130,7 @@ She nods. "And are you at the beginning of something now?"
 
 "Why now?"
 
-"College," I say, and she nods.
+"College," I say.
 
 "Away from home?"
 
@@ -146,17 +142,17 @@ I catch myself fiddling with the hem of my shirt. It's an olive color, faded fur
 
 I look up from my dull self to the table once more, speaking to the cards. "I have an appointment to start talking about it --- talking about gender --- with a counselor."
 
-"Congratulations," the badger says, smiling, and I realize she doesn't need to say anymore. I realize *that's* what I needed from my mom. I realize that's probably why my mom sent me here. I realize that there's probably more to my mom than I gave her credit for.
+"Congratulations," the badger says, smiling. And I realize she doesn't need to say anymore. I realize *that's* what I needed from my mom. I realize that's probably why my mom sent me here. I realize that there's probably more to my mom than I gave her credit for.
 
 I realize I've stopped thinking of this --- the tarot card reading --- as something mystical.
 
 I speak up, "The third card, then."
 
-The badger nods.
+The badger returns her gaze to the table.
 
 "It feels impenetrable to me."
 
-She laughs and shakes her head. "It's not a book. You're not writing a report on its deeper meanings. You're picking up on some of those meanings, but you don't have to do it right away or all the time. Or at all, for that matter." Still grinning, guides my gaze back down to the card with her own, badger and cougar looming over the table. "Just tell me what you see."
+She laughs and shakes her head. "It's not a book. You're not writing a report on its deeper meanings. You're picking up on some of those meanings, but you don't have to do it right away or all the time. Or at all, for that matter." Still grinning, guides my attention back down to the card with a gesture, badger and cougar looming over the table. "Just tell me what you see."
 
 Abashed, I return her smile as best I can. "Alright. It's a...well, I want to say a woman and a child being ferried across a lake or something, but the boat they're in has six swords in it. They're upright, like they've been stabbed through the bottom of the boat."
 
@@ -198,9 +194,9 @@ She nods.
 
 "So, since this is the Tarot and there's bound to be a lot going on here, can we just say the swords are a tool?"
 
-"Well, I'm not about to hack and slash my way to...to get what I want."
+"Well, I'm not about to hack and slash my way to get what I want."
 
-She leans in close to me, stage-whispering, "I'll let you in on a secret. None of the cards in the swords suit --- in any suits --- show blood. Death, yes, but no blood. It's hardly hacking and slashing."
+She leans in close to me, stage-whispering, "I'll let you in on a secret. None of the cards in the swords suit --- in any suits --- show blood. Death, yes. Change, definitely. But no blood. It's hardly hacking and slashing."
 
 "But they're still--"
 
@@ -218,7 +214,7 @@ I shake my head.
 
 "My next question would be: are you? And then you sit and think about it for a moment."
 
-"I sit and think a moment, then say: no, of course not, it's about the work of going through something. The journey is the work." I hesitate, then nod and continue, more sure of myself, "Because I'm here at the beginning. I'm the fool, ready to take the step, and then I just have to take the next and keep going."
+"I sit and think a moment, then say: no, of course not, it's about the work of going through something. The journey is the work." I hesitate, then nod and continue, more sure of myself. "Because I'm here at the beginning. I'm the fool, ready to take the step, and then I just have to take the next and keep going."
 
 She smiles and urges me on with a little gesture of her paw.
 
@@ -254,7 +250,7 @@ The badger nods, unclipping the thermometer from her smock and turning it over i
 
 "Yeah, she told me to go to you to work on things." I give a wry smile and add, "Her words, not mine."
 
-She laughs and sits back in her chair, slouching. "Your mom is nuts," she says. "I mean that in the kindest way, of course: I love her dearly. Have since school. I suspect she wishes the world worked differently for her. And for you, for that matter."
+She laughs and sits back in her chair, slouching and twirling that thermometer. "Your mom is nuts," she says. "I mean that in the kindest way, of course: I love her dearly. Have since school. I suspect she wishes the world worked differently for her. And for you, for that matter."
 
 The unabashed laugh and words of affection are contagious and have me grinning. "Yeah, she's nuts," I echo. "Still, can't say I'm upset with what I got out of this."
 
@@ -274,7 +270,7 @@ The unabashed laugh and words of affection are contagious and have me grinning. 
 
 I nod, brushing fingertips over the overturned cards left on the table. It felt like we were both acknowledging their presence in our own ways. "But I still haven't told dad, and I'm still freaked out what the counselor will say."
 
-"Anxiety, then?" she offers, gesturing to the cards. "A bit of the Page of Wands still left over?"
+"Anxiety, then?" she offers, waving a paw above the cards. "A bit of the Page of Wands still left over?"
 
 I nod again, silent.
 
@@ -316,7 +312,7 @@ Her eyes stay bright. "Maybe it's an alternative to the six, then. Too much emot
 
 I nod eagerly and ask on a whim, "What's it like reversed?"
 
-She gives a little shrug and turns the card over. "The swords fall out --- that's a relief --- but he's still dead, isn't he?"
+She gives a little shrug and turns the card over for me to see. "The swords fall out --- that's a relief --- but he's still dead, isn't he? Resigned to his place on the shore."
 
 "Sure enough," I laugh. "Wait, 'he'?"
 
@@ -324,7 +320,7 @@ She gives a little shrug and turns the card over. "The swords fall out --- that'
 
 "It could be nothing," I mumble. "Or it could be the old me. The 'he'."
 
-She shrugs, still smiling.
+She shrugs. My choice, apparently.
 
 A chime interrupts us, me staring at the card and her smiling at me. A clock tolling slow hours. I check my watch to confirm it. Five.
 

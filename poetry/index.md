@@ -1,15 +1,20 @@
 ---
 comments: false
 counts:
-    characters_real: 415
-    characters_total: 517
+    characters_real: 490
+    characters_total: 609
     file: ./poetry/index.md
-    paragraphs: 2
+    paragraphs: 3
     type: jekyll
-    words: 86
+    words: 98
 layout: page
 title: Poetry
 ---
+
+<blockquote class="verse">Arctic fox's den
+adorned with flowers and snow ---
+garden in winter.
+</blockquote>
 
 Works of poetry are posted here in reverse chronological order. All of the poetry is also offered as a collection [here](collected.pdf).
 
