@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: fwg-disclaimer
 title: Furry Writers' Guild stuff
 ---
 

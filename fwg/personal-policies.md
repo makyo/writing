@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: fwg-disclaimer
 title: Makyo's FWG President Policies
 ---
 
