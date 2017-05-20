@@ -45,6 +45,8 @@
 %%% Spacing
 \usepackage[
   letterpaper,
+  %paperwidth=5.5in
+  %paperheight=8.5
   layoutvoffset=1.25in,
   layouthoffset=1.5in,
   layoutwidth=5.5in,
@@ -53,8 +55,8 @@
   outer=0.5in,
   inner=0.75in,
   includeheadfoot,
-  twoside,
-  showcrop
+  %showcrop,
+  twoside
 ]{geometry}
 
 \sloppy
@@ -72,8 +74,15 @@
 \date{}
 
 \begin{document}
-  \pagestyle{empty}
   \frontmatter
+  \pagestyle{empty}
+  \null
+  \vfill
+
+  \hfill\textit{Collected Verse}
+
+  \vfill
+  \cleardoublepage
   \null
   \vfill
   \begin{raggedleft}
@@ -83,7 +92,7 @@
 
     {\Large Madison Scott-Clary}
 
-    \vspace{0.8in}
+    \vfill
 
     {\pfdfamily\itshape
     Arctic fox's den\\
@@ -92,8 +101,21 @@
 
   \end{raggedleft}
   \newpage
+  \null
+  \vfill
 
-  \tableofcontents
+  {\small
+  \noindent All poems \copyright\ Madison Scott-Clary the year of their publications. Licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+  \vspace{0.25in}
+
+  \noindent Current publication \today.
+  }
+
+  \vfill
+  \newpage
+  \tableofcontents*
+  \thispagestyle{empty}
 
   \mainmatter
 
@@ -148,6 +170,10 @@
   \chapter{Unimportant verse about important people}
 
   Love poems, of a sort.
+
+  \vfill
+
+  \hfill Ones I never sent.
   \thispagestyle{empty}
   \newpage
 
@@ -159,7 +185,15 @@
 
   \chapter{Mental Health}
 
-  Poems on mental health. Maybe I'll write a better intro at some point.
+  Poems on mental health.
+
+  \vfill
+
+  \noindent Maybe I'll write a better intro at some point when I'm feeling better.
+
+  \vfill
+
+  \hfill I dunno.
   \thispagestyle{empty}
   \newpage
 
@@ -190,7 +224,7 @@
 
   \chapter{Miscellany}
 
-  Most poems don't come with a category, or are only very loosely defined. Those wind up here.
+  Poems without a category.
   \thispagestyle{empty}
   \newpage
 
@@ -201,7 +235,7 @@
   \input{the-dogs-assure-me/input.tex}
 
   \textit{Published in \underline{Civilized Beasts, 2016 Edition}.}
-  \newpage
+  \cleartoverso
 
   %%%%%
 
@@ -215,7 +249,7 @@
   \section{When I fall, I will remain whole --- \textit{November, 2016}}
 
   \input{when-i-fall-i-will-remain-whole/input.tex}
-  \newpage
+  \cleartoverso
 
   %%%%%
 
