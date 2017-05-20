@@ -170,3 +170,35 @@ You, for whom understanding of me seems always in grasp &mdash;
 You, for whom my struggles provide no obstacle &mdash;
 You and I, from whom us.
 </div>
+
+-----
+
+<div class="verse">
+Tightly wound springs
+Of very carefully
+Not touching.
+    Secret words
+    To be said
+    With confidence.
+Rules.
+Prohibitions.
+Limits.
+    Discussions planned,
+    Side-channels arranged,
+    Whiskey purchased.
+And now anxiety
+Over what it means
+And how to work it.
+    Is it worth it for
+    Long-standing questions
+    To be answered?
+To invite disaster
+For sake of knowledge
+And further dreams?
+    Maybe the answer
+    Is that tired refrain:
+    Perhaps, perhaps, perhaps.
+And now we're
+Awaiting weeks
+Of careful touches.
+</div>
