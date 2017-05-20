@@ -37,7 +37,7 @@ in paperback covers reaching towards heaven, in trillions of words.
     but a world unconstrained by so many failures.
 
 I see your past with no me in it,
-and wonder if past-you dreamed of us.
+and wonder if past-you dreamt of us.
 </div>
 
 -----
