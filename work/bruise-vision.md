@@ -9,9 +9,25 @@ counts:
 layout: page
 ---
 
-# Bruise Vision
+## Story
 
-## Poem
+### 1
+
+There's been so many geese this year. It's been sort of unnerving.
+
+We live just at the base of the foothills, here. Colorado's about halfway between the winter and summer lands of the birds, so twice a  year, we get hoards of them wafting through the area.
+
+I've been told there's actually two groups: there's the Canadian geese who waft down from the north and stop by on lakes and in parks on their way south, and there's a few flocks of geese who just stick around. Apparently, some enterprising park ranger decided that geese were an attraction, and had their wings clipped one year to keep them around.
+
+I'm not sure I believe it, but I've never sat down and researched it.
+
+I mean, the birds are okay. They're pesky, and they shit everywhere, but they're alright so long as you don't piss them off. If you piss them off, get ready to run. Once, while walking with my boss, we heard what sounded like a car with a flat tire driving by, but it turned out to be a pissed-off goose flapping right at us. It was hard to spot head-on, so we didn't realize until too late, and then we were sprinting for the office building.
+
+So I leave them alone. I like them okay, there's just too many of them. Each one is a promise of changing seasons, and the more of them that show up, the stronger the premonition of autumn.
+
+Still, I had a dream last night that Hikaru Sulu, the new one, John Cho, fighting geese with that retractable sword of his.
+
+Most satisfying.
 
 ## Notes
 
