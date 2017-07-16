@@ -10,101 +10,118 @@ Act 1:
 * One thinks they're trans
 * Thinks folks find out, commits suicide - discovered soon enough that lands in hospital for a week or so, other finds out by calling parents
 
----|---|---
-mk | <i class="em em-ok"></i><i class="em em-cool"></i> | 1
-jm | lol whats that supposed to mean | 1
-mk | Come on. OK and Cool. Right? | 1
-jm | i get that | 1
-jm | not disputing the fact of ok and cool | 1
-jm | just saying you're a dork | 1
-mk | Dork, huh? I'll dispute that. | 1
-jm | i'll dispute you | 1
-mk | I'll dispute your face | 1
-jm | classy, mikey | 1
-jm | you're really showing your maturity | 1
-mk | One year ahead of you, haha <i class="em em-laughing"></i> | 1
-jm | trust me, the view's great back here | 1
-mk | Spicy <i class="em em-wink"></i> | 1
-jm | you're not helping your case here | 1
-mk | Haha, fine. I'll admit that I'm a dork. | 1
-jm | <i class="em em-smile"></i> | 1
-jm | love you, dork | 1
-mk | Love you too <i class="em em-kissing_smiling_eyes"></i> | 1
-mk | So how was class? | 1
-jm | lame | 1
-mk | Lame how? | 1
-mk | I mean, you always say lame, but how? | 1
-jm | lol | 1
-jm | just lame | 1
-jm | teachers are assholes, students are assholes | 1
-jm | i hate it | 1
-mk | Yeah, me too | 1
-mk | Anyone being an asshole to you? | 1
-jm | feels like everyone is lol | 1
-mk | Seriously? | 1
-jm | hmm | 1
-jm | no, guess not | 1
-jm | just not a good place | 1
-jm | not good people | 1
-jm | kids are awful. can't wait until i'm not one | 1
-mk | Haha, you're not a kid, really. | 1
-mk | More grown up than me, at least. | 1
-jm | that's not hard, you know | 1
-mk | <i class="em em-stuck_out_tongue_closed_eyes"></i> | 1
-mk | Seriously, though. Anyone gives you trouble, you tell them your boyfriend will kick their asses. | 1
-jm | lol | 1
-jm | i can't tell anyone that, and you know it | 1
-mk | Yeah, sorry. | 1
-mk | Still... | 1
-mk | I'd totally kick their asses. | 1
-jm | <i class="em em-smile"></i> | 1
-jm | you're sweet for a dork | 1
-mk | Thanks <i class="em em-laughing"></i> | 1
-mk | Besides, I might need you to return the favor some day. I know some assholes around here who need their asses kicked | 1
-jm | lol! and your girlfriend's the one to do it? | 1
-mk | Hell yeah. | 1
-mk | My girlfriend can beat me up! | 1
-mk | They'd be terrified of you. | 1
-jm | oh god please don't tell them about me | 1
-jm | please don't, mikey | 1
-mk | I didn't, I promise. | 1
-mk | Sorry, didn't mean to worry you. | 1
-mk | You okay? | 1
-jm | yeah | 1
-jm | you promise, though? | 1
-jm | pinky swear? | 1
-mk | Promise. | 1
-mk | Pinky swear. | 1
-mk | Didn't mean to upset you. | 1
-jm | it's <i class="em em-ok"></i><i class="em em-cool"></i> | 1
-jm | did I do that right? | 1
-mk | Haha, not quite, but I'll accept it. | 1
-jm | still a dork | 1
-mk | Thanks <i class="em em-stuck_out_tongue_closed_eyes"></i> | 1
-mk | No one at school knows, though. promise. | 1
-mk | Mom and dad know. | 1
-mk | * know that I'm dating, not who | 1
-jm | yeah, good | 1
-mk | I still want to brag about you though <i class="em em-smile"></i> | 1
-jm | I know <i class="em em-stuck_out_tongue_closed_eyes"></i> | 1
-jm | just don't | 1
-jm | you can be out | 1
-jm | at least there | 1
-jm | i can't do that here | 1
-jm | or anywhere | 1
-mk | I know. | 1
-mk | I wish you could. | 1
-mk | Still think your parents would shit a brick? | 1
-jm | mom would be fine | 1
-jm | dad would just shit a whole building | 1
-mk | Haha <i class="em em-laughing"></i> | 1
-mk | I hope it's not a big one. | 1
-jm | it would be | 1
-jm | it would be the brick factory | 1
-jm | he got home, gotta go | 1
-jm | dinner, bbl | 1
-mk | Okay. Hopefully no bricks for dinner. | 1
----|---|---
+## 2017-03-06
+
+Michael K.: 🆗🆒
+jace macallan: lol whats that supposed to mean
+Michael K.: Come on. OK and Cool. Right?
+jace macallan: i get that
+jace macallan: not disputing the fact of ok and cool
+jace macallan: just saying you're a dork
+Michael K.: Dork, huh? I'll dispute that.
+jace macallan: i'll dispute you
+Michael K.: I'll dispute your face
+jace macallan: classy, mikey
+jace macallan: you're really showing your maturity
+Michael K.: One year ahead of you, haha 😂
+jace macallan: trust me, the view's great back here
+Michael K.: Spicy 😉
+jace macallan: you're not helping your case here
+Michael K.: Haha, fine. I'll admit that I'm a dork.
+jace macallan: 🙂
+jace macallan: love you, dork
+Michael K.: Love you too 😘
+Michael K.: So how was class?
+jace macallan: lame
+Michael K.: Lame how?
+Michael K.: I mean, you always say lame, but how?
+jace macallan: lol
+jace macallan: just lame
+jace macallan: teachers are assholes, students are assholes
+jace macallan: i hate it
+Michael K.: Yeah, me too
+Michael K.: Anyone being an asshole to you?
+jace macallan: feels like everyone is lol
+Michael K.: Seriously?
+jace macallan: hmm
+jace macallan: no, guess not
+jace macallan: just not a good place
+jace macallan: not good people
+jace macallan: kids are awful. can't wait until i'm not one
+Michael K.: Haha, you're not a kid, really.
+Michael K.: More grown up than me, at least.
+jace macallan: that's not hard, you know
+Michael K.: 😝
+Michael K.: Seriously, though. Anyone gives you trouble, you tell them your boyfriend will kick their asses.
+jace macallan: lol
+jace macallan: i can't tell anyone that, and you know it
+Michael K.: Yeah, sorry.
+Michael K.: Still...
+Michael K.: I'd totally kick their asses.
+jace macallan: 🙂
+jace macallan: you're sweet for a dork
+Michael K.: Thanks 😂
+Michael K.: Besides, I might need you to return the favor some day. I know some assholes around here who need their asses kicked
+jace macallan: lol! and your girlfriend's the one to do it?
+Michael K.: Hell yeah.
+Michael K.: My girlfriend can beat me up!
+Michael K.: They'd be terrified of you.
+jace macallan: oh god please don't tell them about me
+jace macallan: please don't, mikey
+Michael K.: I didn't, I promise.
+Michael K.: Sorry, didn't mean to worry you.
+Michael K.: You okay?
+jace macallan: yeah
+jace macallan: you promise, though?
+jace macallan: pinky swear?
+Michael K.: Promise.
+Michael K.: Pinky swear.
+Michael K.: Didn't mean to upset you.
+jace macallan: it's 🆗🆒
+jace macallan: did I do that right?
+Michael K.: Haha, not quite, but I'll accept it.
+jace macallan: still a dork
+Michael K.: Thanks 😝
+Michael K.: No one at school knows, though. promise.
+Michael K.: Mom and dad know.
+Michael K.: * know that I'm dating, not who
+jace macallan: yeah, good
+Michael K.: I still want to brag about you though 🙂
+jace macallan: I know 😝
+jace macallan: just don't
+jace macallan: you can be out
+jace macallan: at least there
+jace macallan: i can't do that here
+jace macallan: or anywhere
+Michael K.: I know.
+Michael K.: I wish you could.
+Michael K.: Still think your parents would shit a brick?
+jace macallan: mom would be fine
+jace macallan: dad would just shit a whole building
+Michael K.: Haha 😂
+Michael K.: I hope it's not a big one.
+jace macallan: it would be
+jace macallan: it would be the brick factory
+jace macallan: he got home, gotta go
+jace macallan: dinner, bbl
+Michael K.: Okay. Hopefully no bricks for dinner.
+
+## 2017-03-07
+
+-jm: hey
+-jm: hey jerk
+-mk: Jerk? Why? 😝
+-jm: you didn't respond, that's why
+-mk: For fifteen minutes!
+-mk: Jeez 🙂
+-jm: lol it's fine
+-mk: Suuuure 😂
+-jm: just being goofy
+-mk: Oh, like that Disney dog character?
+-jm: no 😝
+-jm: just had a good day
+-jm: so I'm feeling good
+
 
 Act 2:
 * Remaining teen grieves by leaving messages like journal entries through IMs
