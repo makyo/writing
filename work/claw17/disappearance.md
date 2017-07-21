@@ -141,3 +141,141 @@ My claws ache all the way to Oregon. I had thought it would be pretty easy to sl
 Once the seats had been shredded, I carefully cut my finger along the side and smeared blood along the clawmarks. The car was trashed as I rolled it into a ditch. There was a tiny forest there, with crumpled cans and paper wrappers mixed in with the fallen leaves. After thinking for a moment, I dribbled some blood onto that garbage.
 
 The bus driver had greeted me with the tired acknowledgement of a fox who had seen much worse than a sloppily dressed lady with newly branded cheeks.
+
+The bus trip is just as uncomfortable as I had imagined. I'd never been on such a trip, of course, but I'd never been on a long-distance bus trip, either. Jarred and I had not been wealthy, and this wasn't helped by me pretending to make fifteen hundred less than I actually did. Still, we'd both had cars for as long as we had lived together.
+
+The seat is cramped. About what I'd expected, to be honest, but I think I wasn't prepared for this as much as I thought. No one sat next to me, but I still felt hemmed in on every side. I told myself to just enjoy myself, enjoy this new life. A non-life. A life without history.
+
+Hard to do when you bumping down the road at sixty five and no faster.
+
+I use the toilet as little as possible.
+
+-----
+
+I have made a huge mistake.
+
+If I were a smarter lady, I would've spent more energy on figuring out what to do once I got here than what I spent on that hour of unwinding my previous life.
+
+I can stay here, of course. There's a long-stay hotel that doesn't side-eye my cash too much, and there's a little kitchenette with a two burner stove that's plenty for cooking for myself. Getting groceries with cash is as easy as expected.
+
+But I can't get a job.
+
+If I were a smarter lady, I'd've changed my name before leaving, keeping it a secret from Jarred as best as possible...but even that isn't smart. That would've tipped off investigators immediately. "Weasel changes name, weasels out of debt." I can only imagine the headlines once I was caught.
+
+But I can't get a job.
+
+I'm educated and all. I was a fantastic accountant, and it felt awesome to be one of the few who actually uses her college degree for what she does for a living and *enjoys it*. I worked for a few CPA offices and was on the short track to moving up at the last one. I'm fantastic with numbers, which is why I thought I had this all set.
+
+But I just *can't get a job.*
+
+No one is going to hire an accountant with no name. With no history, no verified skills, no bank account, no credit, no social security number. No one is going to hire even the smartest weasel to run numbers if that weasel doesn't legally exist --- or is at least trying not to.
+
+Fuck.
+
+I can't get a job, I can't rent a place, I can't use any of my credit cards, I can't open another bank account. I can't even change my name, since that would mean engaging with my old identity, which I'd tried to kill.
+
+Fuck.
+
+-----
+
+I can live here for a while. I ran the math on my recently-purchased tablet (cell phone was back in the car, of course), and I can live here for maybe a year and a half. Longer, if I find a cheaper long-stay. I have time to try and fix this.
+
+-----
+
+The proprietor, Adam, and I have been getting on surprisingly well!
+
+He's a good guy, which I hadn't picked up on at first. I'd taken his silence at accepting my contract on a signature-and-cash basis as standoffishness. There was certainly an element of caution to it, but he's also just a quiet guy.
+
+We exchanged nods daily for the first two weeks I lived here, then simple pleasantries for the next two. He came off as soft spoken out of being content with where he was in life, and he was.
+
+A week or so into my second month staying in that little studio, and he's invited me over to the patio behind the office (which, I supposed, was also his home) to discuss arrangements for the future.
+
+"Discussing arrangements", however, has turned into sharing half a bottle of rum while sitting in deck chairs. The rum's fantastic, but comes out of a vodka bottle. The glasses are half-pint canning jars.
+
+I can't decide if it's hipster or hippie, but the more I drink, the less it seems to matter.
+
+"So." There's no ellipsis in the pause after that. Simply time to toss another cube of ice in his jar along with another inch of rum. "Why you out here?"
+
+I hesitate and swirl my own glass around, letting the melting ice water down the rum. It's definitely overproof, and almost certainly homemade. "Needed out of where I was, I guess."
+
+He does that thing --- the thing that rat at the mod shop had done --- where he simply waits in silence. There's no shared glances, and the silence is comfortable, but also expectant. Maybe that's a thing that people who are happy can do.
+
+"I needed out of that life, I guess. I packed my stuff and left without a word."
+
+"You seem like you ain't hurting for cash," he says.
+
+"Well, no. I brought along enough to live out here for a while."
+
+"Mm." He looks at me over the rim of his glass as he sips at his rum. Otter expressions, I'm discovering, are close to weasel ones, but use the whiskers more. The look isn't exactly crafty, but getting close, as he continues, "Problem with cash is no collateral. S'why I charge you up front."
+
+I nod. It tallies.
+
+"But you seem straight."
+
+"Straight?" A smile tugs at the healing brands on my cheeks. They're starting to come in white.
+
+He laughs, "I ain't making a pass at you, don't worry. Sex ain't a thing 'round here. Not for me, at least." He copies my swirl and we both enjoy the pleasant clinking of ice against glass. "No, I mean straight. You're a good lady. You're out here to get away, you say, and I trust that's all you're doing. No thieving, no running, you ain't in trouble."
+
+I settle back into the deck chair and attempt to use that 'silence' technique I keep running into. He just grins.
+
+"So what I'm asking is this. That number I said before?" He gestures behind himself, as though that's where the past is. "I'll cut it in half if you can do some work 'round here."
+
+"Work?" I tilt my head, turning over ideas of what that'd entail.
+
+"Sure. Work. What can you do to cut down your rent?"
+
+"Uh, I can...I mean, I was an accountant. I can run your books, file taxes, that stuff."
+
+The minute I say 'taxes', Adam perks up and his whiskers bristle outward with his grin. "Deal. Sight unseen. I'm good at what I do, but that ain't taxes."
+
+I laugh, I can't help it. "Half rent? For taxes?"
+
+"Sure," he says, sounding content. "Run the books and handle taxes, and I'll halve your rent. You can take the desk some days if you want a bit more off."
+
+I rub my paw over the short, bristly fur of my cheeks, a habit I picked up as it grew back in. The crisped branded fur had largely been replaced by more normal fur, but the shaved spots were taking a while to grow in.
+
+"A secretary, hmm?" I murmur.
+
+"Well, sure. It ain't grand. Accountant like you ain't gonna find anything grand without being legit."
+
+At that I fall silent.
+
+He continues, "Jobs these days, you need to be legit. You couldn't offer me anything but cash, not even an ID to hold. You needed out of life so bad, you left behind your legitimacy."
+
+My silence becomes darker, seems to close in around me. Ears pinned back, eyes burning, trying not to panic in front of Adam.
+
+"It's okay, though." He settles back into the Adirondack chair with a sigh. "You can get by without that. You're just gonna have to let go of the idea that you'll ever be a part of that world again. You might, but it's best to expect you won't."
+
+From then on, it's silence. I cry as quietly as I can, and Adam pours me another inch of rum and leans across the table between us to tip another ice cube into my jar.
+
+-----
+
+Adam is *set*.
+
+He owns his property outright, and is up-to-date on all his licenses. Business is good. "Half rent", for me, covers twice the cost of maintaining my studio --- utilities, that share of property tax, everything.
+
+And he's happy.
+
+-----
+
+With my stay here nearly doubled, I start exploring further into town.
+
+We're a ways out from Portland: I could take the regional bus there in about forty-five minutes, but I never do. Instead, I stick in this little down I wound up in. A town I picked because I got too anxious about Portland and left the bus at the stop before.
+
+I'd just gone to the dinky supermarket before, but now I started taking walks. Originally, it had just been a "stretch the legs before shopping" exercise, but now I was even bussing into town just to wander. There's a neat little cafe with huge single-pane windows and a rocket stove that I've taken a liking to. Something about the impracticality of the windows combined with that adobe stove behind the bar tickles me. And as long as I stick to drip coffee, it's not too much out of my budget.
+
+I even ventured to the lone grooming stop in town to get my cheeks checked up on. I had been worried that they'd be weirded out by them, but I was greeted by a punky opossum with a bright pink streak of fur from the tip of her snout down to the nape of her neck. She said my cheeks were looking good, then talked me into buying a tube of dye. She suggested pink, but I went for the blue instead.
+
+I don't know why I did that, even. Being an accountant wasn't just an occupation for me, it was an identity. I bought into the smart pantsuits and the tight grooming hard core. That's who I *was*.
+
+Now, I don't know. I have three pairs of jeans, a frowsy canvas skirt, and a bunch of long- and short-sleeved button up shirts --- only some of which fit --- I grabbed from a thrift store before this whole excursion began.
+
+Maybe I just figured I'd own it. I got the cheek brands, after all; might as well get the dye, too.
+
+Tonight, I'm dyeing a diamond shape into the white down my front. It'll sit just above my breasts, with a tendril curling down beneath them, and another tendril curling up over my front to my neck. I can hide it with a scarf if I need, but otherwise, it'll peek up from above my shirt. Just a little tease. One that could go 'sexy' when I want, or just 'artsy' otherwise.
+
+The thought's actually really embarrassing, but it's been a long time since sex. Jarred and I were pretty into it at first, but it became routine, then scarce. We hadn't fucked for a month before I took off, and since then I'd been too busy hiding to worry about it.
+
+With this new arrangement with Adam, though, I don't know.
+
+Maybe being a little sexy will be okay.
