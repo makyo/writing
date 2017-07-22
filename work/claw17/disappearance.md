@@ -599,15 +599,28 @@ Aurora watches me, and, after I've gotten my crying under control, opens her mou
 
 There was absolutely no part of me that knows how to react. I jolt and tense up. I hold my breath. My mind goes blank. I feel on the verge of crying, despite having already been crying.
 
-Then I just lean into the kiss. Return it. No discussion about it.
+Then I just lean into the kiss. Return it. No discussion about it; it feels familiar, fulfilling. Trite as it sounds, it feels right.
 
 Aurora seems comfortable taking the lead, using her paws and subtle shifts of her weight to guide me to lay back on the bed. Once I'm there, though, she leans up from the kiss and grins down to me with just a hint of silliness. "You feel substantive to me."
 
 I'm wrong-footed by this and it takes a moment to parse. Once it clicks, though, I giggle. "Thanks." I feel stupid just leaving it at that, though, and add. "That was nice."
 
+"Mmhm." Still grinning, she leans into give me another quick kiss, then moves to kneel on the edge of the bed, tugging me by the paw. "Come on. Up."
 
+I laugh and swipe at my face with the sleeve of my shirt --- I must look a mess after all of this. Still, I scoot further up onto the bed at the coyote's bidding. "Alright, alright. How come?"
 
-<!--They fuck. Aurora goes down on MC, who muses on how self-conscious she always felt when Jarred did that, memories cycle back further, remembers brief fling in HS w/ kid from another school, a coyote, gets lost in the act.
+Aurora shrugs, her grin softening into a kind smile. "I got you thinking less about whatever's up with your life, right? I hope so, at least." I nod, and she continues, "The least I could do is also let you be comfortable on your bed instead of half hanging off of it."
+
+"Good point," I laugh and haul myself up onto the bed, flopping back against the pile of pillows. I'd bought more once it was clear I was staying here a while, and I'm thankful for it now.
+
+Aurora moves too; as I make room, she moves up onto the bed to kneel next to me. "Doing better?"
+
+"Yeah, thank you." After a moment's thought, I ask, "Why'd you do that?"
+
+The coyote frowns down to me, "I wanted to. It felt like it would work, and like it would be okay. I should have asked, though, I'm sorry."
+
+<!--
+They fuck. Aurora goes down on MC, who muses on how self-conscious she always felt when Jarred did that, memories cycle back further, remembers brief fling in HS w/ kid from another school, a coyote, gets lost in the act.
 
 "You're--"
 
