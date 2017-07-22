@@ -3,6 +3,7 @@ layout: page
 title: Disappearance
 ---
 
+<!--
 1. Woman tries to disappear to escape her crumbling life (ID change, life change, sudden move, attempted looks change, claws up car seats to show a struggle, busses to the coast), finds it hard to get a job with no past
 2. Winds up getting a job as a secretary, despite credentials as accountant, miserable out of under-appreciation and loneliness
 3. Visits coffeehouse regularly, always sees another young woman reading and scribbling on a pad in the corner, something about her striking, keep catching glances
@@ -16,7 +17,7 @@ title: Disappearance
     4. Perk! Woman comes clean, other woman says she knows, reveals that they knew each other in middle- and early high-school
     5. "So, see you again tomorrow?"
 
------
+----->
 
 "This is going to sting."
 
