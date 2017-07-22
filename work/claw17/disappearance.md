@@ -279,3 +279,23 @@ The thought's actually really embarrassing, but it's been a long time since sex.
 With this new arrangement with Adam, though, I don't know.
 
 Maybe being a little sexy will be okay.
+
+-----
+
+Holy shit, I may actually be able to pull this off. It'll be crazy, but maybe I can do it.
+
+I guess Adam did some talking, and now I've got the owner of Starry Night, the town's little cafe as a "client" of sorts. He's having me run the taxes and offered to let me run the till if things get busy. They haven't yet, but he's promised me it's the off-season now. Too hot and full of mosquitos. He's not paying me anything close to livable, but with the deal I'm getting on rent, I might just be able to do this.
+
+It's such a small town. It looks bigger than it is, so many of these kitchy stores and homes have so much space around them. The market has a parking lot twice the size it needs.
+
+There are folks living around the town in seclusion, I guess, but those who live in the town itself, who *are* the town, probably number in the low hundreds. Other than that, it's just a waypoint. Folks heading up to the mountains stop through and keep all the businesses going, but they tend to just pass through on the way to more romantic locations, or bass through on the way back to the coast. The town itself holds together through the need to provide for all those who would only pass through. All those people on any one day, and it's still a small town.
+
+No surprise that news spreads fast, I guess.
+
+This --- working jobs all but off the grid --- isn't what I'd pictured when I unwound my previous life. When I look back on it, though, all my planning and scheming, I don't think I had anything pictured.
+
+-----
+
+I've taken to working mornings at Starry Night and heading back to Adam's after lunch to run the desk there. If it's needed, I can head back to Starry Night after to help out more. We're well into the busy season, so both the long-stay and the cafe are happy for whatever help they can get. An accountant running the till is a weird fit, but at least I'm fast at it.
+
+It's interesting to watch the ebb and flow of 
