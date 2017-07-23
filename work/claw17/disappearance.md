@@ -11,11 +11,11 @@ I nod.
 
 That warrants a dry swallow and a second nod, more nervous this time.
 
-The first thing they'd done was shave my fur. A smooth line back from my muzzle toward my ears, stopping just short of my neck. They'd gotten all of both of my cheeks, down to the jawline and up toward my ears, though not quite all the way.
+The first thing they'd done at the mod parlor was shave my fur. A smooth line back from my muzzle toward my ears, stopping just short of my neck. They'd gotten all of both of my cheeks, down to the jawline and up toward my ears, though not quite all the way.
 
-It's not a good look for me, this awful mohawk.
+It's not a good look for me, this awful grooming.
 
-I'll have to live. I suppose it'll take a few months to go from stubbly to bristly and back toward furry, and then another few after that until I'm back to normal.
+I'll have to live. I suppose it'll take a few months to go from stubbly to bristly and back toward soft, and then another few after that until I'm back to normal.
 
 Well not normal. New. Different.
 
@@ -27,13 +27,13 @@ The rat does that thing where he just sits still and silent, waiting on me. His 
 
 I sit up straight in my chair and give a firm nod. "Yes. Straight lines. Three on each cheek, spreading out toward the back of my head."
 
-The rat waits a little longer, then cracks a goofy grin. "Good. Good choice. I'm gonna start the middle one a little further back. It'll make you look speedy."
+The rat waits a little longer, then cracks a goofy grin. "Good. Good choice. I'm gonna start the middle one a little further back. And I'll use tapered ones rather than rectangular. It'll make you look speedy."
 
-We share a laugh at that, and I use the gesture to hide the terror. Not at the pain, mind, but at the sheer enormity of what I'm about to do.
+We laugh at that, and I use the gesture to hide the terror. Not at the pain, mind, but at the sheer enormity of what I'm about to do.
 
 "Alright lady." The rat stands, pads across the room with claws clicking on linoleum. There's a hissing, gurgling sound, a sound of something more complex than water being poured, and then a soft curse. A single curse is more a matter of form, though, and the lack of follow-up keeps me from panicking outright.
 
-The rat hurries back toward me, the half-jug in oven-mitt-clad paws billowing a sinking fog along in his path. This gets quickly set down on the steel table so he can shake the mitts off. The nitrogen fog continues in its cascade, flowing over the table and onto the floor. From then, it's all business.
+The rat hurries back toward me, the half-jug in oven-mitt-clad paws billowing a sinking fog in his wake. This gets quickly set down on the steel table so he can shake the mitts off. The nitrogen fog continues in its cascade, flowing over the table and onto the floor. From then, it's all business.
 
 I'm laid out on my side.
 
@@ -41,11 +41,11 @@ A thick petroleum jelly is smeared into fur around my eyes, and a piece of alumi
 
 Footsteps.
 
-A pair of hands holds the foil in place and my blunt muzzle down against a pillow in a sanitized paper pillowcase. A third hand presses down on the side of my neck. Someone presses a rolled-up wash cloth into my paws.
+A pair of hands holds the foil in place and my blunt muzzle down against a pillow in a sanitized paper pillowcase. A third hand presses down on the side of my neck. Someone presses a rolled-up towel into my paws.
 
 Murmuring.
 
-A rush, a clatter, and then pain as something is pressed against my cheek. I grit my teeth, clench the wash cloth in my paws, and let out a sort of gurgled moan. Someone's counting down.
+A rush, a clatter, and then pain as something is pressed against my cheek. I grit my teeth, clench the terrycloth in my paws, and let out a sort of gurgled moan. Someone's counting down.
 
 The pain leads with cold, then turns searing, and then is lost in a labyrinthine landscape. Sere, white, a sun too bright to look at, and the smell of snow.
 
@@ -59,15 +59,17 @@ After the last countdown is finished and I am allowed to sit up once more, I fin
 
 There's laughter as the foil is pried away from my gummed-up fur and I blink my eyes back into focus. There's the rat along with his accomplice, a weasel like myself, sitting on a stool with a kerchief keeping unkempt headfur out of his eyes. On the table by him, a short copper bar clamped into a stainless steel handle, still oozing tendrils of too-heavy fog.
 
-"Fuck," I say again.
+"*Fuck,*" I say again.
 
 "Stings, huh?" The weasel grins, and I recognize his voice from the countdown.
 
-"Uh...I guess." I give a smile, feeling cold-burnt skin pull at my cheeks, and turn the smile into a wince. "Bit of an understatement. What does it look like?"
+"Uh...I guess." I try to smile, feeling cold-burnt skin pull at my cheeks, and the smile turns into a wince. "Bit of an understatement. What does it look like?"
 
 The rat reaches to snag a mirror and hold it up to my face. Shaved cheeks --- that much I'd seen --- cutting fine brown fur almost down to the skin, and three bars on each cheek, radiating away from my whiskers toward the back of my head. The bars show up as patches of matted, crispy, burnt fur.
 
 "It'll turn white soon enough," the weasel says. He stretches out his arm and bunches up his sleeve, revealing simple coiling patterns of white fur amidst the brown of his fur. I'd seen it before in pictures (that being the reason I'd chosen this parlor), but seeing it person made me all the more eager for the fur on my cheeks to grow back.
+
+"Now you just need some piercings." The rat laughs as I shake my head.
 
 I pay in cash. They accepted cards, but I had more than enough on hand.
 
@@ -83,15 +85,15 @@ Once my pass is done, I start to dismantle the life I'd built up for myself. I u
 
 Drawers are tugged open and clothing strewn haphazardly about the floor. The bed sheets are pulled free of the mattress and shredded with my claws to look as though it was all done in haste.
 
-It's not. It's all careful. I have to be quiet for the neighbors, but I also have to be deliberate for myself.
+It's not. It's all careful. I have to be quiet for the neighbors, and I have to be deliberate for myself.
 
-The mattress is thrown askew as though someone had been digging for cash beneath it. The bathroom is mostly left alone, but pill bottles are dumped in the sink, looking like that someone was hunting for something more interesting than aspirin. The top shelf of the closet is ransacked, with shoes on the floor and the contents of my jewelry box tucked away in a backpack, along with Jarred's nice watch. I didn't care for the stuff, but I knew a burglar would.
+The mattress is thrown askew as though someone had been digging for cash beneath it. The bathroom is mostly left alone, but pill bottles are dumped in the sink, looking like that someone was hunting for something more interesting than aspirin. The top shelf of the closet is ransacked, with shoes thrown on the floor and the contents of my jewelry box tucked away in a backpack, along with Jarred's nice watch. I didn't care for the stuff, but I knew a burglar would.
 
 The living room is more difficult. We have a TV, which a burglar would latch onto immediately. I'd planned for this, though, and the TV is set neatly by my door while I see to the rest of the room.
 
 I tip over the speakers on their poles and scratch carefully crazed claw marks around their bases, a show of trying to detach them. They stay on the floor.
 
-The bookshelf is dismembered as quietly as I can manage, books are pulled off in armloads and scattered around on the floor. One book from every armful is bent and torn, each one tugging at my heart strings. Paintings are removed from their hooks and tossed on top of the books.
+The bookshelf is dismembered as quietly as I can manage, books are pulled off in armloads and scattered around on the floor. One book from every armful is bent and torn, each one tugging at my heart strings. A yearbook tweaks memories and is discarded. Paintings are removed from their hooks and tossed on top of the books.
 
 The couch is shredded and exposed just as the bed had been. Nothing there, beneath those torn cushions.
 
@@ -99,7 +101,7 @@ The kitchen is next. I step quietly over the pile of books and into there. There
 
 Jarred and I, we'd never hidden anything, but I have to look thorough.
 
-Me, I'd hidden cash. Just shy of twenty grand in a locking cash box disguised as a two-quart thermos tucked firmly into my old backpacking gear in the mess of our garage.
+Me, though, I'd hidden cash. Just shy of twenty grand in a locking cash box disguised as a two-quart thermos tucked firmly into my old backpacking gear in the mess of our garage.
 
 Or it had been, that was one of the first things to move to the car.
 
@@ -117,7 +119,7 @@ Here we go.
 
 I climb in the car and hit the button to open the garage.
 
-When I reverse over the TV, there's a satisfying crunch. I can't smile without my newly branded cheeks burning, so I breathe my satisfaction out on a sigh.
+When I reverse over the TV, there's a satisfying crunch. I can't smile without my newly branded cheeks burning, so I breathe satisfaction out on a sigh.
 
 -----
 
@@ -127,9 +129,9 @@ Once the seats had been shredded, I carefully cut my finger along the side and s
 
 The bus driver had greeted me with the tired acknowledgement of a fox who had seen much worse than a sloppily dressed lady with newly branded cheeks.
 
-The bus trip is just as uncomfortable as I had imagined. I'd never been on such a trip, of course, but I'd never been on a long-distance bus trip, either. Jarred and I had not been wealthy, and this wasn't helped by me pretending to make fifteen hundred less than I actually did. Still, we'd both had cars for as long as we had lived together.
+The bus is just as uncomfortable as I had imagined. I'd never been on a long-distance bus trip. Jarred and I had never been wealthy, and this wasn't helped by me pretending to make fifteen hundred less than I actually did. Still, we'd both had cars for as long as we had lived together.
 
-The seat is cramped. About what I'd expected, to be honest, but I think I wasn't prepared for this as much as I thought. No one sat next to me, but I still felt hemmed in on every side. I told myself to just enjoy myself, enjoy this new life. A non-life. A life without history.
+The seat is cramped. About what I'd expected, to be honest, but I wasn't prepared for this quite as much as I thought. No one sits next to me, and I still felt hemmed in on every side. I tell myself to just enjoy myself, enjoy this new life. A non-life. A life without history.
 
 Hard to do when you bumping down the road at sixty five and no faster.
 
@@ -139,7 +141,7 @@ I use the toilet as little as possible.
 
 I have made a huge mistake.
 
-If I were a smarter lady, I would've spent more energy on figuring out what to do once I got here than what I spent on that hour of unwinding my previous life.
+If I were a smarter lady, I would've spent more energy figuring out what to do once I got here than what I spent on that hour of unwinding my previous life.
 
 I can stay here, of course. There's a long-stay hotel that doesn't side-eye my cash too much, and there's a little kitchenette with a two burner stove that's plenty for cooking for myself. Getting groceries with cash is as easy as expected.
 
@@ -157,9 +159,9 @@ No one is going to hire an accountant with no name. With no history, no verified
 
 Fuck.
 
-I can't get a job, I can't rent a place, I can't use any of my credit cards, I can't open another bank account. I can't even change my name, since that would mean engaging with my old identity, which I'd tried to kill.
+I can't get a job, I can't rent a place, I can't use any of my credit cards, I can't open another bank account. I can't even change my name, since that would mean engaging with my old identity, the one I'd tried to kill.
 
-Fuck.
+*Fuck.*
 
 -----
 
@@ -173,7 +175,7 @@ He's a good guy, which I hadn't picked up on at first. I'd taken his silence at 
 
 We exchanged nods daily for the first two weeks I lived here, then simple pleasantries for the next two. He came off as soft spoken out of being content with where he was in life, and he was.
 
-A week or so into my second month staying in that little studio, and he's invited me over to the patio behind the office (which, I supposed, was also his home) to discuss arrangements for the future.
+A week or so into my second month staying in that little studio, and he's invited me over to the patio behind the office (which I suppose is also his home) to discuss arrangements for the future.
 
 "Discussing arrangements", however, has turned into sharing half a bottle of rum while sitting in deck chairs. The rum's fantastic, but comes out of a vodka bottle. The glasses are half-pint canning jars.
 
@@ -199,7 +201,7 @@ I nod. It tallies.
 
 "Straight?" A smile tugs at the healing brands on my cheeks. They're starting to come in white.
 
-He laughs, "I ain't making a pass at you, don't worry. Sex ain't a thing 'round here. Not for me, at least." He copies my swirl and we both enjoy the pleasant clinking of ice against glass. "No, I mean straight. You're a good lady. You're out here to get away, you say, and I trust that's all you're doing. No thieving, no running, you ain't in trouble."
+He laughs, "I ain't making a pass at you, don't worry. Sex ain't a thing 'round here. Not for me, at least. Hell, maybe you like girls too. Not my business." He copies my swirl and we both enjoy the pleasant clinking of ice against glass. "No, I mean straight. You're a good lady. You're out here to get away, you say, and I trust that's all you're doing. No thieving, no running, you ain't in trouble."
 
 I settle back into the deck chair and attempt to use that 'silence' technique I keep running into. He just grins.
 
@@ -231,11 +233,11 @@ My silence becomes darker, seems to close in around me. Ears pinned back, eyes b
 
 "It's okay, though." He settles back into the Adirondack chair with a sigh. "You can get by without that. You're just gonna have to let go of the idea that you'll ever be a part of that world again. You might, but it's best to expect you won't."
 
-From then on, it's silence. I cry as quietly as I can, and Adam pours me another inch of rum and leans across the table between us to tip another ice cube into my jar.
+From then on, it's silence. I cry as quietly as I can. Adam pours me another inch of rum and leans across the table between us to tip another ice cube into my jar.
 
 -----
 
-Adam is *set*.
+Adam is *set.*
 
 He owns his property outright, and is up-to-date on all his licenses. Business is good. "Half rent", for me, covers twice the cost of maintaining my studio --- utilities, that share of property tax, everything.
 
@@ -243,23 +245,23 @@ And he's happy.
 
 -----
 
-With my stay here nearly doubled, I start exploring further into town.
+With my stay here nearly doubled, I've started exploring further into town.
 
-We're a ways out from Portland: I could take the regional bus there in about forty-five minutes, but I never do. Instead, I stick in this little down I wound up in. A town I picked because I got too anxious about Portland and left the bus at the stop before.
+We're a ways out from Portland: I could take the regional bus there in about forty-five minutes, but I never do. Instead, I stick in this little down I wound up in. A town I picked because I got too anxious about Portland and left the bus at the stop before. Probably my best idea yet.
 
-I'd just gone to the dinky supermarket before, but now I started taking walks. Originally, it had just been a "stretch the legs before shopping" exercise, but now I was even bussing into town just to wander. There's a neat little cafe with huge single-pane windows and a rocket stove that I've taken a liking to. Something about the impracticality of the windows combined with that adobe stove behind the bar tickles me. And as long as I stick to drip coffee, it's not too much out of my budget.
+I'd just gone to the dinky supermarket before, but now I started taking walks. Originally, it had just been a "stretch the legs before shopping" exercise, but now I was even heading into town just to wander. There's a neat little cafe with huge single-pane windows and a rocket stove that I've taken a liking to. Something about the impracticality of the windows combined with that adobe stove behind the bar tickles me. And as long as I stick to drip coffee, it's not too much out of my budget.
 
 I even ventured to the lone grooming stop in town to get my cheeks checked up on. I had been worried that they'd be weirded out by them, but I was greeted by a punky opossum with a bright pink streak of fur from the tip of her snout down to the nape of her neck. She said my cheeks were looking good, then talked me into buying a tube of dye. She suggested pink, but I went for the blue instead.
 
-I don't know why I did that, even. Being an accountant wasn't just an occupation for me, it was an identity. I bought into the smart pantsuits and the tight grooming hard core. That's who I *was*.
+I don't know why I did that. Being an accountant wasn't just an occupation for me, it was an identity. I bought into the smart pantsuits and that sensible jewelry, all still in my suitcase, to mark my position hard core. The tight grooming and the calm speed of numbers, that's who I *was*.
 
-Now, I don't know. I have three pairs of jeans, a frowsy canvas skirt, and a bunch of long- and short-sleeved button up shirts --- only some of which fit --- I grabbed from a thrift store before this whole excursion began.
+Now, I don't know. I have three pairs of jeans, a frowsy canvas skirt, and a bunch of long- and short-sleeved button up shirts --- only some of which fit well --- I grabbed from a thrift store before this whole excursion began.
 
 Maybe I just figured I'd own it. I got the cheek brands, after all; might as well get the dye, too.
 
 Tonight, I'm dyeing a diamond shape into the white down my front. It'll sit just above my breasts, with a tendril curling down beneath them, and another tendril curling up over my front to my neck. I can hide it with a scarf if I need, but otherwise, it'll peek up from above my shirt. Just a little tease. One that could go 'sexy' when I want, or just 'artsy' otherwise.
 
-The thought's actually really embarrassing, but it's been a long time since sex. Jarred and I were pretty into it at first, but it became routine, then scarce. We hadn't fucked for a month before I took off, and since then I'd been too busy hiding to worry about it.
+The thought's actually quite embarrassing, but it's been a long time since sex. Jarred and I were pretty into it at first, but then it became routine, then scarce. We hadn't fucked for a month before I took off, and since then I'd been too busy hiding to worry about it.
 
 With this new arrangement with Adam, though, I don't know.
 
@@ -269,21 +271,21 @@ Maybe being a little sexy will be okay.
 
 Holy shit, I may actually be able to pull this off. It'll be crazy, but maybe I can do it.
 
-I guess Adam did some talking, and now I've got the owner of Starry Night, the town's little cafe as a "client" of sorts. He's having me run the taxes and offered to let me run the till if things get busy. They haven't yet, but he's promised me it's the off-season now. Too hot and full of mosquitos. He's not paying me anything close to livable, but with the deal I'm getting on rent, I might just be able to do this.
+I guess Adam did some talking, and now I've got the owner of Starry Night, the town's little cafe as a "client" of sorts. He's having me run the taxes and offered to let me run the till if things get busy. They haven't yet, but he's promised me it's the off-season now. Not cold enough to be winter, but not yet warm enough for holidays. He's not paying me anything close to livable, but with the deal I'm getting on rent, I might just be able to do this.
 
 It's such a small town. It looks bigger than it is, since so many of these kitchy stores and homes have so much space around them. The market has a parking lot twice the size it needs.
 
-There are folks living around the town in seclusion, I guess, but those who live in the town itself, who *are* the town, probably number in the low hundreds. Other than that, it's just a waypoint. Folks heading up to the mountains stop through and keep all the businesses going, but they tend to just pass through on the way to more romantic locations, or bass through on the way back to the coast. The town itself holds together through the need to provide for all those who would only pass through. All those people on any one day, and it's still a small town.
+There are folks living around the town in seclusion, I guess, but those who live in the town itself, who *are* the town, probably number in the low hundreds. Other than that, it's just a waypoint. Folks heading up to the mountains stop through and keep all the businesses going, but they never stay long on their way to more romantic locations or back through on their way back to the coast. The town itself holds together through the need to provide for all those who would only pass through. All those people on any one day, and it's still a small town.
 
 No surprise that news spreads fast, I guess.
 
 I've started painting again, too. Starry Night has a drop ceiling and each tile is painted a different color. After I mentioned having been a painter in my "past life", Stefan, the owner, perked up and sent me home with a blank tile with a few crusty tubes of acrylic and a brush that hadn't been used in a while.
 
-"Go nuts," he said, and so I am. Background of green and a symmetrical tree in black, limbs splitting into branches that became whisker-thin toward the edges of the tile. The leaves were vague hints of white that broke the symmetry. Just the type of stuff I painted coming on eight months ago.
+"Go nuts," he said, and so I did. Background of green and a symmetrical tree in black, limbs splitting into branches that became whisker-thin toward the edges of the tile. The leaves were vague suggestions of white that broke the symmetry. An idea of a tree. Just the type of stuff I painted coming on four months ago.
 
 Stefan loved it, and here I am working on my second tile.
 
-This --- working jobs all but off the grid, body mods, looking like a hippie --- isn't what I'd pictured when I unwound my previous life. When I look back on it, though, all my planning and scheming, I don't think I had pictured anything.
+This --- working jobs all but off the grid, body mods, looking like a hippie --- isn't what I'd pictured when I unwound my previous life. Now, when I look back on it, on all my planning and scheming, I don't think I had pictured anything.
 
 -----
 
@@ -291,9 +293,9 @@ I've taken to working mornings at Starry Night and heading back to Adam's after 
 
 It's interesting to watch the ebb and flow of traffic through the town.
 
-Starting about six in the morning, folks start trickling into town, but within an hour, it ramps up into a frenetic sort of busy. From there, it keeps climbing more steadily until about 9:30, dips for an hour, then picks up for lunch.
+Starting about six in the morning, folks start trickling into town, but within an hour, it becomes busy, then frenetic. From there, it climbs steadily until about 9:30, dips for an hour, then picks up for lunch.
 
-I head out by one thirty or two to dash back to Adam's and start getting folks checked in and out while Adam does property stuff. Usually, he's out repairing the drive in to the units (and the little one-room cabins in back, one of which I now inhabit). He's intensely focused on that drive; he's talked with me about the upkeep and maintenance of a dirt road for an hour or more on multiple occasions. I don't drive, here, so I just have to trust him.
+I head out by one thirty or two to dash back to Adam's and start getting folks checked in and out while Adam does property stuff. Usually, he's out repairing the drive to the units (and the little one-room cabins in back, one of which I now inhabit). He's intensely focused on that drive; he's talked with me about the upkeep and maintenance of a dirt road for an hour or more on multiple occasions. I don't drive anymore, so I just have to trust him.
 
 Things clear up by five, and sometimes I head back to Starry Night. At that point, it's mostly a social thing. If I'm not chilling out back of the office with Adam, I'm here at the cafe. If not either, I'm painting. I've gotten about a third of the ceiling tiles done.
 
@@ -303,7 +305,7 @@ When you zoom out, though, it's grains of sand just below high tide. The tide ro
 
 And then tide rolls out, and the town settles back down into its ground state. Grains of sand compact nicely when left to dry, a comfortable stasis until the next high tide.
 
-In the midst of it all, the regulars provide a sense of weight, anchoring high and low tide to provide a sense of continuity. There's Adam, of course, and Stefan. I suppose I'm slipping into that role, too.
+In the midst of it all, the regulars provide a sense of weight, anchoring high and low tide to provide a sense of continuity. There's Adam, of course, and Stefan. I suppose I'm slipping into that role, too. We are the wave-polished stones.
 
 And there's Aurora.
 
@@ -313,7 +315,7 @@ She wafts in around six thirty and orders a latte, a soda water, and a pot of ho
 
 She drinks the latte first, then the soda water, then the tea.
 
-Once she's finished the soda water, she pulls out a pen and either a book or a stack of printouts and a clipboard. I've never figured out what she does for work, but she's always either taking notes or marking up printouts. A teacher, perhaps? Though she never seems to write any grades, just marginal notes.
+Once she's finished the soda water, she pulls out a pen and either a book or a stack of printouts and a clipboard. I've never figured out what she does for work, but she's always either taking notes or marking up printouts. A teacher, perhaps? An author? Editor?
 
 At noon, she orders another soda water and another pot of hot water for the second teabag. Some days she'll pull out a sack lunch, some days she'll order something from me --- we serve a few simple sandwiches --- in her comfortable contralto.
 
@@ -329,7 +331,7 @@ I've never seen her out of the shop, but I think about her every time I walk or 
 
 My brushstrokes are confident, each one is a smooth arc describing edges and boundaries, or perhaps reinforcing color.
 
-The panel had been given to me burgundy, and I'd chosen to leave it that way, painting within that dark red surface rather than covering it up. I painted in black, and I painted only shadows, as though the scene were blown out towards white and the contrast turned to a hundred percent.
+The panel had been given to me burgundy, and I'd chosen to leave it that way, painting within that dark red surface rather than covering it up. I painted in black, and I painted only shadows, not details, as though the scene were blown out towards white and the contrast turned to a hundred percent.
 
 It had started as an abstract gesture of a face, angular and canine, but had slowly headed toward something more concrete. Not realistic, but perhaps something from a comic. Hard edged lines, but true to form with no liberties taken.
 
@@ -351,23 +353,23 @@ Adam laughs and shakes his head, plopping down beside me, then melting further i
 
 "Yeah, seems like," I offer as I carefully shift the painting off the table to lay it flat on the ground next to me. My poor-weasel's easel of the table between us and the bucket of ice returns to its former state as drinking space. I pour us both a drink.
 
-Adam's moved on from rum, and is now trying his paw at whiskey. We've been cycling through batches over the last few weeks. The taste is far sweeter than I would've expected, but Adam says he doesn't have the cuts quite right yet.
+The otter hass moved on from rum, and is now trying his paw at whiskey. We've been cycling through batches over the last few weeks. The taste is far sweeter than I would've expected, but Adam says he doesn't have the cuts quite right yet.
 
-Ice machine ice and homemade whiskey jockey for space with words. "Wha's lie in off easo?"
+In my mouth, ice machine ice and homemade whiskey jockey for space with words. "Wha's li' in off 'easo?"
 
-"Same but slower," Adam says, grinning down to his glass. "Way slower, some days. You got here before season started, but weren't really here in the middle of off-season. I'll probably beg your help deep-cleaning some of the units."
+"Same but slower," Adam says, chuckling down to his glass. "Way slower, some days. You got here before season started, but weren't really here in the middle of off-season. I'll probably beg your help deep-cleaning some of the units."
 
 "Sure thing, boss." I laugh as that gets me an ice-cube to the face. "Fine. Sure thing, master."
 
-Adam makes as though he'll throw the whole bucket of ice at me, before we both settle back into our chairs with jars of whiskey and ice, grinning. In the silence, I paint my claws with the black acrylic left on the brush from the ceiling tile. The condensation off the glass thins the paint and it starts to seep into my fur. My paws are covered with the stuff anyway.
+Adam makes as though he'll throw the whole bucket of ice at me, before we both settle back into our chairs with jars of whiskey and ice, grinning. In the silence, I paint my claws idly with the black acrylic left on the brush from my work on the ceiling tile. The condensation off the glass thins the paint and it starts to seep into my fur. My paws are covered with the stuff anyway.
 
-The silence goes from comfortable to expectant, and when I look up, Adam's adopted a vaguely confused look, which he's directed toward his drive. Just as I'm about to brush it off, he asks, "How'd you leave?"
+The silence goes from comfortable to expectant, and when I look up, Adam's adopted a vaguely confused look with whiskers smoothed back, which he's directed toward his all-important drive. Just as I'm about to brush it off, he asks, "How'd you leave?"
 
 It takes me a bit to respond, and I try to fill that space by nervously stirring the ice into my white whiskey. "If I just say 'very carefully', will that be enough?"
 
 The otter's expression softens and he shrugs against the back of his chair. "I s'pose. Doesn't mean I don't still want to know."
 
-"I just...I don't know. I spent a lot of time thinking about all the different parts there were of my life and thinking about what I'd be without them." I brush my paws over my cheeks, heedless of the paint. My fur has almost grown back completely, and the freeze-brand has indeed come in white. Still, it's a habit I've kept. "And then I just set a date and went around to all those parts one by one, turning them off or destroying them."
+"I just...I don't know. I spent a lot of time thinking about all the different parts there were of my life and thinking about what I'd be without them." I brush my paws over my cheeks, heedless of the paint. My fur has almost grown back completely, and the freeze-brand has indeed come in white. Still, it's a habit I've kept. "And then I just set a date and went around to all those parts one by one, turning them off or throwing them away."
 
 "No going back, then?"
 
@@ -399,7 +401,7 @@ For the first few months I was here, I'd get a little twitch in my paw when some
 
 For a while, I'd countered it with lies. An "oh yeah ha ha" here and a "yeah I saw that" there. The anxiety that I'd mess up and be called out got to be too much for me, though, and I switched from that to nervous silence.
 
-I replaced that twitch early on with the gesture of brushing back over my cheeks. At first, it was obvious why: when I got to town, my face was still freshly shaved, and for the first few weeks, the marks of the brand were plain. Soon, though, it became more of a habit than a coping mechanism. I'd brush my pads over the fur and feel the edges of the shaving, and once they became imperceptible, I'd trace my fingers through fur, trying to sense where the brown fur ended and the white, branded fur started.
+I replaced that twitch early on with the gesture of brushing back over my cheeks. At first, it was obvious why: when I got to town, my face was still freshly shaved, and for the first few weeks, the freezer-burnt marks of the brand were plain. Soon, though, it became more of a habit than a coping mechanism. I'd brush my pads over the fur and feel the edges of the shaving, and once they became imperceptible, I'd trace my claws through fur, trying to sense where the brown fur ended and the white, branded fur started.
 
 Anything --- *anything* --- to keep from touching the internet. It would be too easy for me to just log back on. The temptation to peer into a life that no longer existed was too great. My very existence here in this town depends on that life no longer existing.
 
@@ -415,7 +417,7 @@ The coyote tilts her head quizzically and smiles. "You okay?"
 
 "Yeah, I am." I stand up straighter and smile apologetically to her. "I will be."
 
-We slide past each other and I make my way behind the bar again, busying myself with wiping down the already-clean espresso machine. Not many people ordering coffee at six at night. This late in the season, and the sun sets early, too.
+We slide past each other and I make my way behind the bar again, busying myself with wiping down the already-clean espresso machine, just to give my paws something to do. Not many people ordering coffee at six at night. This late in the season, and the sun sets early, too.
 
 Stefan hikes himself up onto the bar, tail flagging off to the side. "You alright there, kiddo?"
 
@@ -469,13 +471,13 @@ The fox couple picks up on the hint quickly and we settle their tab.
 
 I make a quick pass of the bathroom, but it's clean enough as is, so I mostly just wipe down the sink.
 
-Back out in the cafe, I turn off the soft indie pop on the house speakers, and something clicks within me.
+Back out in the cafe, I turn off the soft indie pop on the house speakers, and then something clicks within me.
 
-I clutch at the edge of the bar as all of those emotions, eight or nine months of them, crash into me. All those months of living in at least some state of fear, all those days of holding back on feeling anything else, they're all time past-me only borrowed. All those past-due feelings make themselves felt *now*.
+I clutch at the edge of the bar as all of those emotions, eight or nine months of them, crash into me. All those months of living in at least some state of fear, all those days of holding back on feeling anything else, they all add up to time past-me only borrowed. All those past-due feelings make themselves felt *now*.
 
-My grip on the bar tightens as I let out a gasp of a sob, and then I crumple to the floor wedged between the milk fridge and the end of the bar where Stefan had been sitting only a half hour ago. My muscles tense, and my perception of the world, my entire awareness, shrinks to the size of a coin, chalk-white and smelling of snow.
+My grip on the bar tightens as I gasp out a stifled cry, and then I'm crumpling to the floor, wedged between the milk fridge and the end of the bar where Stefan had been sitting only a half hour ago. My muscles are tensing, and my perception of the world, my entire awareness, is shrinking to something the size of a coin, chalk-white pain smelling of snow.
 
-I come to on my side, gasping for air and sobbing. I'd been sobbing the whole time, apparently, as my cheeks and the sleeve of my shirt are soaked. Drooling too, from the looks of it.
+I come to on my side, gasping for air and choking on sobs. I'd been sobbing the whole time, apparently, as my cheeks and the sleeve of my shirt are soaked. Drooling too, from the looks of it.
 
 My body hasn't figured out how to move, yet, but I can see a dark, angular shape above me. I try to push away, but all I can manage is to tense up further.
 
@@ -487,27 +489,27 @@ My body hasn't figured out how to move, yet, but I can see a dark, angular shape
 
 I can't figure out how to work my voice, so I just continue to moan and sob as the coyote helps get my skirt untangled and my limbs out from under me. She slips her paws up under my arms and starts to lift.
 
-"N-nnn," I manage and clutch at her arms --- far too tightly, if her posture is anything to go by.
+"N-nnn," I manage and clutch at her arms --- far too tightly, if her posture is anything to go by. Too filled with anger and fear, too struck by a sense of impending death to control myself.
 
 She relents and settles back down, then gives into my tugging and slips her arms around my shoulders instead. There's a little uneven rocking motion as she slides her legs out from under her, and then she's drawing me in against her.
 
 I don't really know how long I stay like that. The only thing describing the passage of time is my sobbing. Aurora is a warm bulk against me, something to wrap my arms around, some bit of stability. She doesn't coo or shush, just rests her head against mine in silence. A kind, patient silence. A silence with no expectations.
 
-Eventually, I run out of sobs, and settle into a more normal, calm sort of crying. Aurora gives me a bit more time before carefully leaning back. letting our arms slip from the embrace at least enough so that she can look at me. Her smile's kind, rather than pitying. "Come on, let's get you up, okay?"
+Eventually, I run out of sobs, and settle into a gentle, almost calm sort of crying. Aurora gives me a bit more time before carefully leaning back. letting our arms slip from the embrace at least enough so that she can look at me. Her smile's kind, rather than pitying. "Come on, let's get you up, okay?"
 
-My joints are loose hinges. Finding a way to be upright without wobbling onto the floor again proves difficult. It takes a few tries, but I eventually wind up with my butt parked against the edge of the bar, shoulders leaning forward to maintain my grip on Aurora. I'm loath to let go of her, so it take another fumbling second for me to find a way to do so.
+My joints are loose hinges, too well oiled. Finding a way to be upright without wobbling onto the floor again proves difficult. It takes a few tries, but I eventually wind up with my butt parked against the edge of the bar, shoulders leaning forward to maintain my grip on Aurora. I'm loath to let go of her, so it takes another fumbling second for me to find a way to do so.
 
 "Sorry," I croak.
 
-She shakes her head and steps away from me. Once she's sure I'm steady, she steps away and grabs a plastic to-go cup from beneath the bar and fills it at the sink. She grabs one of my paws and guides my fingers around the cup, making sure I'm holding on before she lets go. "Drink. You cried yourself empty."
+She shakes her head and rests her paws on my shoulders. Once she's sure I'm steady, she steps away and grabs a plastic to-go cup from beneath the bar and fills it at the sink. She takes one of my paws in hers and guides my fingers around the cup, making sure I'm holding on before she lets go. "Drink. You cried yourself empty."
 
-I nod and sip at the water. It feels too full in my mouth. It slides around like oil. I swallow, and realize how thirsty I truly am. I finish the last of the cup in one go.
+I nod and sip at the water. It feels too full in my mouth. It slides around like oil. I swallow, and realize how thirsty I truly am. I finish the rest of the cup in one go.
 
 Aurora, meanwhile, finishes closing up; all that was left was her table, so there's just two chairs to put up.
 
-I fill my cup from the tap and straighten up, trying to dispel the wobbliness in my hips and knees. "Thanks Aurora, you didn't have to--"
+I fill my cup from the tap and straighten up, trying to dispel the wobbliness in my hips and knees, to shake off the dark sense of panic. "Thanks Aurora, you didn't have to--"
 
-"But you're in no shape to," the coyote laughs. She tucks her book and papers back in her bag and slips back behind the bar again. Shrugging her bag's strap up further, she snakes an arm around my back. "Let's get you home, though, okay? You good to walk?"
+"But you're in no shape to," the coyote cuts me off, laughing. She tucks her book and papers back in her bag and slips back behind the bar again. Shrugging her bag's strap up further, she snakes an arm around my back. "Let's get you home, though, okay? You good to walk?"
 
 "Mmhm. I can take the bus, though. Don't need to walk."
 
@@ -519,11 +521,11 @@ If I open my mouth, I'll start crying, so I just nod.
 
 Aurora's car is very *her.*
 
-I don't really know how to put it, otherwise. It's sensible, as she is; it's filled with books and stacks of paper, as her bag is; it's not messy, but it's got a lot going on, like her.
+I don't really know how to put it otherwise. It's sensible, as she is; it's filled with books and stacks of paper, as her bag is; it's not messy, but it's got a lot going on, like her.
 
-Still sniffling, I wait as she moves a sheaf of papers held together with a binder clip from the passenger seat to the back. Then I swipe my tail and skirt out of the way and slouch into the seat, clumsily clicking the seatbelt in place with one hand, the other still holding the half-full cup of water..
+Still sniffling, I wait as she moves a sheaf of papers held together with a binder clip from the passenger seat to the back. Then I swipe my tail and skirt out of the way and slouch into the seat, clumsily clicking the seatbelt in place with one hand, the other still holding thae half-full cup of water.
 
-The car smells of her, too. My nose is doing about as well as anyone's would after so much crying, but I can tell that much. It smells like when she held me. It smells familiar, like something from years ago. I have to swallow down a rising wave of tears.
+The car smells of her, too. My nose is doing about as well as anyone's would after so much crying, but I can tell that much. It smells like when she held me. It smells familiar, like something from years ago. I have to swallow down a rising wave of guilt and terror.
 
 The coyote settles into the driver's seat and gets all buckled in before giving my thigh a squeeze in her paw. "Adam's right?" she asks, smiling. "One of the cabins?"
 
@@ -533,11 +535,11 @@ Aurora waits until she's reversed out of her spot and turned onto the road befor
 
 "Yeah, probably not a good look," I say. I can't quite laugh yet, but I do manage a sort of 'heh'.
 
-"You're a bit of a mess, anyway."
+"You are a bit of a mess."
 
 I look down over my shirt and skirt. They're both rumpled. My shirt's still damp from my tears, and my skirt has picked up a stain from the floor behind the bar --- probably old coffee. I grin. "Fair."
 
-I let Aurora drive as I focus on rehydrating. I want to just gulp down the water, but I've made enough of a mess of myself tonight. No sense risking a spill. Probably healthier that way, anyway.
+I let Aurora drive as I focus on rehydrating. I want to just gulp down the water, but I've made enough of a mess of myself tonight. No sense risking a spill. Probably better for me that way, anyway.
 
 It's about a forty-five minute walk from Adam's to Starry Night, and about twenty-five on the bus. I never realized how long the bus took, though, as it takes us less than ten minutes to get back to the long-stay. I laugh at the thought.
 
@@ -547,9 +549,9 @@ It's about a forty-five minute walk from Adam's to Starry Night, and about twent
 
 Aurora grins and pulls into a space in front of the cabin I point out. "Bit faster, yeah. Still, it's a pretty enough walk."
 
-The car turning off leaves us in relative silence, my ears buzzing in my stuffed-up head from the lack of noise. My thoughts seem to be surrounding a blank space. A black hole containing all the things I could think about my old life, of being discovered, of having to go back.
+The car turning off leaves us in relative silence, my ears buzzing in my stuffed-up head from the lack of noise. My thoughts seem to be surrounding a blank space. A black pit containing all the things I could think about my old life, of being discovered, of having to go back.
 
-"Hey." Aurora. She's smiling. That's a good thing to think about, instead. "Let's get you inside."
+"Hey." Aurora. She's smiling. That's a good thing to think about, instead, that smile. "Let's get you inside."
 
 I fumble for my buckle and start to protest, but stop before I say anything. The coyote, the scent of her, it's all so comforting; might as well let her help. A few more moments together, at least.
 
@@ -557,11 +559,11 @@ Aurora levers herself out of her seat and strides quickly around the front of th
 
 She's got a bit of a wag going on, too, but I try not to read too much into that.
 
-I lean on her as we walk the handful of steps to the door of the cabin. Once there, I fish in my apron pocket for my keys --- I hadn't worn jeans, so I'd taken to wearing my work apron with the skirt for the utility of pockets --- and let myself in.
+I lean on her as we walk the handful of steps to the door of the cabin. Once there, I fish in my apron pocket for my keys --- I'd taken to wearing my work apron with the skirt for the utility of pockets --- and let myself in.
 
 Let *us* in. No discussion about whether she's coming in, too. She just is.
 
-I flip on the lights and cringe, both at the sudden brightness against the dusk outside and the mess. I've been using my suitcase as my clean clothes drawer since I moved in. It's just got a day's worth of clothes in it, though; next to it on one side is a pile of dirty clothes, and on the other, a folding drying rack holding a pair of jeans, a shirt, and two pairs of panties hanging off the corners.
+I flip on the lights and cringe, both at the sudden brightness against the dusk outside and the mess. I've been using my suitcase as my clean clothes drawer since I moved in. It's just got a day's worth of clothes in it, though. Next to it on one side is a pile of dirty clothes, and on the other, a folding drying rack holding a pair of jeans, a shirt, and two pairs of panties hanging off the corners.
 
 Fuck.
 
@@ -593,17 +595,17 @@ It doesn't last long, and doesn't get a tenth as bad as it did at Starry Night, 
 
 "Tell me a bit about your life, then," she asks, low voice kind. "I want to hear."
 
-I feel my face tighten in an ugly rictus, teeth bared and whiskers bristled. It's been months, but the freeze-brand scars over my cheeks give a twinge of protest. "There's nothing." As the sobs pick up again, I have to eke out words between. "There's nothing there. I'm just...paper. Paper with no substance. No substance at all." I trail off and take a few gasping breaths to calm myself, forcing my expression into mere hopelessness, rather than that grimace of self-loathing.
+I feel my face tighten in an ugly rictus, teeth bared and whiskers bristled. It's been months, but the freeze-brand scars over my cheeks give a twinge of protest. "There's nothing." As the sobs pick up again, I have to eke out words between. "There's nothing there. I'm just...paper. Paper thin with no substance. No substance at all." I trail off and take a few gulping breaths to calm myself, forcing my expression into mere hopelessness, rather than that grimace of self-loathing.
 
 Aurora watches me, and, after I've gotten my crying under control, opens her mouth as though to say something, then seems to think better of it and leans in to kiss me instead.
 
-There's absolutely no part of me that knows how to react to that. I jolt and tense up. I hold my breath. My mind goes blank. I feel on the verge of crying, despite having already been crying.
+There's no part of me that knows how to react to that. I jolt and tense up. I hold my breath. My mind goes blank. I feel on the verge of crying, despite having already been crying.
 
-Then I just lean into the kiss. Return it. No discussion about it; it feels familiar, fulfilling. Trite as it sounds, it feels right.
+Then I just lean into the kiss. Return it. No discussion about it; it feels familiar, fulfilling. I'm calm. Still at last.
 
-Aurora seems comfortable taking the lead, using her paws and subtle shifts of her weight to guide me to lay back on the bed. Once I'm there, though, she leans up from the kiss and grins down to me with just a hint of silliness. "You feel substantive to me."
+Aurora seems comfortable taking the lead, using her paws and subtle shifts of her weight to guide me to lay back on the bed. Once I'm there, she leans up from the kiss and grins down to me with just a hint of silliness. "You feel substantive to me."
 
-I'm wrong-footed by this and it takes a moment to parse. Once it clicks, though, I giggle. "Thanks." I feel stupid just leaving it at that, though, and add. "That was nice."
+I'm wrong-footed by this and it takes a moment to parse. Once it clicks, though, I giggle. "Thanks." I feel stupid just leaving it at that, though, and add, "That was nice."
 
 "Mmhm." Still grinning, she leans into give me another quick kiss, then moves to kneel on the edge of the bed, tugging me by the paw. "Come on. Up."
 
@@ -617,21 +619,21 @@ Aurora moves too; as I make room, she moves up onto the bed to kneel next to me.
 
 "Yeah, thank you." After a moment's thought, I ask, "Why'd you do that?"
 
-The coyote frowns down to me, "I wanted to. It felt like it would work, and like it would be okay. I should have asked, though, I'm sorry."
+The coyote frowns down to me, ears splayed in embarrassment. "I wanted to. It felt like it would work, and like it would be okay. I should have asked, though, I'm sorry."
 
 "No!" I realize how loud that was and grin sheepishly up to her, "No, it was nice. Real nice."
 
 That slightly silly grin comes back, tugging on buried memories. "Good," She says, leaning in to give me another. I press more readily into the kiss this time, sliding my arms up around her shoulders.
 
-This goes over quite well. Aurora seems to have taken it as a sign, and leans down over me more assertively, paws planted to either side of my head. After a moment's hesitation, she leans up a little further onto her knees and shifts one up over me until she's straddling my waist. She's bigger than me, weighs more than I do. Maybe it's the way she carries herself, but her weight is more comforting than anything.
+This goes over quite well. Aurora seems to have taken it as a sign, and leans down over me more assertively, paws planted to either side of me. After a moment's hesitation, she leans up a little further onto her knees and shifts one up over me until she's straddling my waist. She's bigger than me, weighs more than I do. Maybe it's the way she carries herself, but her weight is more comforting than heavy.
 
 "Wait," I murmur, twisting my head slightly to pull away from the kiss.
 
 Aurora immediately tenses up, ears pinning back. "Uh, sorry, I don't--"
 
-"No, no. You're fine," I mumble. "Don't know why this is...doing what it is. Working. Stopping me from crying and all. Taking my mind off stuff."
+"No, no. You're fine," I mumble, searching for words. "Don't know why...why this is...doing what it is. Working. Stopping me from crying and all. Taking my mind off stuff."
 
-She stays silent above me. An expectant silence she waits me to fill.
+She stays silent above me. An expectant silence she waits for me to fill.
 
 I hunt for words as best I can. "Maybe I just...I don't know. I haven't touched --- or been touched by --- anyone since I made it out here. Before that, even. It feels dumb to say, I guess."
 
@@ -647,19 +649,19 @@ I nod.
 
 I nod again, lean up to give her a quick kiss. "Yeah, very."
 
-She nods, muzzle dipping to turn that into something of a nuzzle, and I can feel her nose tracing along one of those white bands of fur on my cheek, dipping down to tease at the coil of blue fur peeking up above the scoop-neck of my my shirt, faded now to more of an aqua. Her soft murmur is muffled by my fur, "This is okay, too?"
+She nods, muzzle dipping to turn that into something of a nuzzle, and I can feel her nose tracing along one of those white bands of fur on my cheek, then under my chin, dipping down to tease at the coil of blue fur peeking up above the scoop-neck of my my shirt, faded now to more of an aqua than true blue. Her soft low is muffled by my fur, "This is okay, too?"
 
-Without tucking my muzzle uncomfortably low, all I can really see are her ears, so I lean forward to press a kiss between them, fur and that half-familiar scent tickling at my nose. "Mmhm." I've given up saying more.
+Without tucking my muzzle uncomfortably low, all I can really see are her ears, so I lean forward to press a kiss between them, fur and half-familiar scent tickling at my nose. "Mmhm." I've given up saying more.
 
 Aurora responds with a kiss of her own against my sternum. It's a ticklish sort of feeling, and my squirming gets an equally ticklish giggle, muffled as before against my chest. She settles down from her crouch above me, bringing her paws from by my shoulders to brush along my sides as she rests more fully against my front. My own arms slip from around her until it's just my paws on her shoulders.
 
-The sheer exhilaration of physical contact seems to be filling my mind --- or, at least that empty void within that I've only been able to tiptoe around --- with something new. Something *else:* something other than low-level anxiety. I can close my eyes and not wind up in some horrible situation. I can just be here.
+The sheer exhilaration of physical contact seems to be filling my mind --- or, at least that empty void within that I've only been able to tiptoe around --- with something new. Something *else:* something other than low-level anxiety. I can close my eyes and not wind up in some horrible hopelessness. I can just be here.
 
-I jolt to awareness from my meta thoughts and tense up, and Aurora's paws pause halfway up my sides. Her fingers and claws are buried in my fur with t-shirt cloth bunched around her wrists. We both hold still in that silence, a few long seconds. For once I don't rush to fill it with words, and simply settle back down onto the bed, relaxing into her paws.
+I jolt to awareness from my wandering thoughts and tense up, and Aurora's paws pause halfway up my sides. Her fingers and claws are buried in my fur with t-shirt cloth bunched around her wrists. We both hold still in that silence, a few long seconds. For once I don't rush to fill it with words, and simply settle back down, relaxing into her paws.
 
 The coyote hesitates a moment longer before edging her paws upward further, inching shirt up over fur. Keeping my paws on her shoulders as best as possible, I arch my back enough to let her slide my shirt up.
 
-The exploration continues in fits and starts from there. Kisses along the blue diamond and down over my chest. Aurora shifting her weight. Me tugging my shirt off to keep it out of the way. Soft coyote nose tracing spirals in my fur. One being, a singular point of focus.
+The exploration continues in fits and starts from there. Kisses along the blue diamond and down over my chest. Aurora shifting her weight. Me tugging my shirt off to keep it out of the way. Soft coyote nose tracing spirals in my fur. One lasting sensation, a singular point of focus.
 
 The skirt, though, that requires coordination. Aurora and I have to exchange a few glances, one or two half-words, and some soft giggles before the garment winds up bunched around my waist, spilling in pools of cotton to either side of me. And then there we are: me, with shirt off but for one arm still stuck through an arm-hole, skirt bunched around her waist; and Aurora, nervous but excited, wagging as she looks up at me along my front over a pile of rumpled skirt.
 
@@ -669,11 +671,11 @@ The skirt, though, that requires coordination. Aurora and I have to exchange a f
 
 "Mm."
 
-Soft half-noises. Gestures of paws. The warmth of a tongue. Finely-tapered coyote muzzle. Lithe, arched weasel back. Soft moans and subtle shifts to express what works and what doesn't. Paws finding places to rest, to touch, to brush and stroke.
+Soft noises. Gestures of paws. The warmth of a tongue. Finely-tapered coyote muzzle. Lithe, arched weasel back. Soft moans and subtle shifts to express what works and what doesn't. Paws finding places to rest, to touch, to brush and stroke.
 
-And then something new, something different slicks within me. A rising swell of pleasure, and a sudden, uneven tumble of memories. A shuddering gasp and an attachment of name to place to time. A contraction, then relaxation of muscles and a line drawn between two points.
+And then something new, something different clicks within me. A rising swell of pleasure, and a sudden, uneven tumble of memories. A shuddering gasp and an attachment of name to place to time. A contraction, then relaxation of muscles and a line drawn between two points. A connection.
 
-Panting to catch my breath, and glimpses of high school.
+Panting to catch my breath, and glimpses of high school, of nervous first times.
 
 A warm glow, and a name surfacing to memory.
 
@@ -705,7 +707,7 @@ I nod. There's still that hint of a name --- I can think it, but would have a ha
 
 Memories from coming on twenty years ago.
 
-A high school fling. Two dates, a night together, and a parting of ways. She had seemed so uncomfortable with herself. We'd...well, tonight can be the the shining example to us back then.
+A high school fling. Two dates, a night together, and drifting apart. She had seemed so uncomfortable with herself. We'd...well, tonight can be the the shining example to us back then.
 
 "And you?"
 
@@ -717,9 +719,9 @@ A high school fling. Two dates, a night together, and a parting of ways. She had
 
 Aurora lifts her head a little, a hint of a grin turning the corner of her mouth. "You don't know?"
 
-"I don't." I tilt my head to press my nose to hers. "I think that's what got me, today. I saw that thing on the tablet. About Jarred, about myself. About home."
+"I don't." I tilt my head to press my nose to hers. "I think that's what got me, today. I saw that thing on the news. About Jarred, about myself. About home."
 
-She nods, nose against nose.
+She nods, nose against nose and stifling a yawn.
 
 "And I just don't know why," I murmur. "I unwound all of that life and came here, and I think, when I saw it, I realized I don't know why I did it."
 
@@ -737,9 +739,9 @@ Muzzle tucked over hers, I ask, "What about me did you remember?"
 
 "Have I changed that much?"
 
-"I mean, you looked like someone who could've been...who you were. But it was your paintings." She yawns. "The lines. The curves."
+"I mean, you looked like someone who could've been, uh, who you were. But it was your paintings." She yawns in earnest. "The lines. The shapes."
 
-The burgundy-and-black ceiling tile is behind me. I think of looking, of disentangling myself from the coyote's arms, but there's something much better in front of me.
+The burgundy-and-black ceiling tile is behind me. I think of looking, of disentangling myself from the coyote's arms, but there's something much better here in front of me.
 
 "And you?" Aurora sounds sleepy. "What tipped you off about me?"
 
