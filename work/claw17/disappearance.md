@@ -105,13 +105,13 @@ Or it had been, that was one of the first things to move to the car.
 
 The garage was my space. We'd rented half a duplex and paid extra for the side with the attached garage. I'd claimed it for storage and all of my painting stuff.
 
-So the garage was the last to go. I eviscerated my camping gear --- I trusted Jarred to never pull himself away from his computer long enough to even consider camping. My easel was easy to deal with, since I just tipped it over. The rickety thing clattered to pieces just shy of the front bumper of the car. Boxes containing old clothes were turned out. A clock was broken most carefully.
+So the garage was the last to go. I eviscerated my camping gear --- I trusted Jarred to never pull himself away from his computer long enough to even consider camping. My easel was easy to deal with, since I just tipped it over. The rickety thing clattered to pieces just shy of the front bumper of the car, a sketch of a painting, burgundy on black, landing crookedly. Boxes containing old clothes were turned out. A clock was broken most carefully.
 
 That was the last of the destruction in the house. My life isn't completely unwound. Not yet. But I'm getting there.
 
 First things first, I reach in the car and grab a bag of odds-and-ends fur sweepings. Little bits snagged here and there from shedding coworkers. Some from a grooming place. Even a bit from the mod shop's bin before I was shaved. I make a quick circle around the apartment, scattering fur on the most torn up bits
 
-I grab the TV on the way back to the garage --- a flat screen thing that we only ever used for movies --- and lay it down its back by the car. I give it a slight kick until it's squarely behind one of the wheels.
+I grab the TV on the way back to the garage --- a flat screen thing that we only ever used for movies --- and lay it down its back by the car. I give it a slight kick until it's squarely behind one of the front wheels.
 
 Here we go.
 
@@ -487,7 +487,7 @@ My body hasn't figured out how to move, yet, but I can see a dark, angular shape
 
 I can't figure out how to work my voice, so I just continue to moan and sob as the coyote helps get my skirt untangled and my limbs out from under me. She slips her paws up under my arms and starts to lift.
 
-"N-nnn," I manage and clutch at her arms --- tightly, if her posture is anything to go by.
+"N-nnn," I manage and clutch at her arms --- far too tightly, if her posture is anything to go by.
 
 She relents and settles back down, then gives into my tugging and slips her arms around my shoulders instead. There's a little uneven rocking motion as she slides her legs out from under her, and then she's drawing me in against her.
 
@@ -591,13 +591,13 @@ Perhaps as an echo from the cafe, Aurora takes charge. She guides me over to my 
 
 It doesn't last long, and doesn't get a tenth as bad as it did at Starry Night, but it still takes me a few minutes to get to the point where I can speak again. "Sorry, Aurora." I pace myself, so I don't just start babbling again. "Didn't mean to do that. Just such a mess today. My life's a mess, and it all hit at once."
 
-"Tell me a bit about your life, then. I want to hear."
+"Tell me a bit about your life, then," she asks, low voice kind. "I want to hear."
 
 I feel my face tighten in an ugly rictus, teeth bared and whiskers bristled. It's been months, but the freeze-brand scars over my cheeks give a twinge of protest. "There's nothing." As the sobs pick up again, I have to eke out words between. "There's nothing there. I'm just...paper. Paper with no substance. No substance at all." I trail off and take a few gasping breaths to calm myself, forcing my expression into mere hopelessness, rather than that grimace of self-loathing.
 
 Aurora watches me, and, after I've gotten my crying under control, opens her mouth as though to say something, then seems to think better of it and leans in to kiss me instead.
 
-There was absolutely no part of me that knows how to react. I jolt and tense up. I hold my breath. My mind goes blank. I feel on the verge of crying, despite having already been crying.
+There's absolutely no part of me that knows how to react to that. I jolt and tense up. I hold my breath. My mind goes blank. I feel on the verge of crying, despite having already been crying.
 
 Then I just lean into the kiss. Return it. No discussion about it; it feels familiar, fulfilling. Trite as it sounds, it feels right.
 
@@ -619,20 +619,130 @@ Aurora moves too; as I make room, she moves up onto the bed to kneel next to me.
 
 The coyote frowns down to me, "I wanted to. It felt like it would work, and like it would be okay. I should have asked, though, I'm sorry."
 
-<!--
-They fuck. Aurora goes down on MC, who muses on how self-conscious she always felt when Jarred did that, memories cycle back further, remembers brief fling in HS w/ kid from another school, a coyote, gets lost in the act.
+"No!" I realize how loud that was and grin sheepishly up to her, "No, it was nice. Real nice."
+
+That slightly silly grin comes back, tugging on buried memories. "Good," She says, leaning in to give me another. I press more readily into the kiss this time, sliding my arms up around her shoulders.
+
+This goes over quite well. Aurora seems to have taken it as a sign, and leans down over me more assertively, paws planted to either side of my head. After a moment's hesitation, she leans up a little further onto her knees and shifts one up over me until she's straddling my waist. She's bigger than me, weighs more than I do. Maybe it's the way she carries herself, but her weight is more comforting than anything.
+
+"Wait," I murmur, twisting my head slightly to pull away from the kiss.
+
+Aurora immediately tenses up, ears pinning back. "Uh, sorry, I don't--"
+
+"No, no. You're fine," I mumble. "Don't know why this is...doing what it is. Working. Stopping me from crying and all. Taking my mind off stuff."
+
+She stays silent above me. An expectant silence she waits me to fill.
+
+I hunt for words as best I can. "Maybe I just...I don't know. I haven't touched --- or been touched by --- anyone since I made it out here. Before that, even. It feels dumb to say, I guess."
+
+Aurora gives a short bark of a laugh at that, then lays her ears back again apologetically. "Sorry. You mean not at all?"
+
+"Well, sure, I mean. I shook hands with Adam and Stefan, whatever. I've *touched*, yeah, but just nothing like this"
+
+At that her expression softens and she nods. "Been a while, huh?"
+
+I nod.
+
+"And this is okay?"
+
+I nod again, lean up to give her a quick kiss. "Yeah, very."
+
+She nods, muzzle dipping to turn that into something of a nuzzle, and I can feel her nose tracing along one of those white bands of fur on my cheek, dipping down to tease at the coil of blue fur peeking up above the scoop-neck of my my shirt, faded now to more of an aqua. Her soft murmur is muffled by my fur, "This is okay, too?"
+
+Without tucking my muzzle uncomfortably low, all I can really see are her ears, so I lean forward to press a kiss between them, fur and that half-familiar scent tickling at my nose. "Mmhm." I've given up saying more.
+
+Aurora responds with a kiss of her own against my sternum. It's a ticklish sort of feeling, and my squirming gets an equally ticklish giggle, muffled as before against my chest. She settles down from her crouch above me, bringing her paws from by my shoulders to brush along my sides as she rests more fully against my front. My own arms slip from around her until it's just my paws on her shoulders.
+
+The sheer exhilaration of physical contact seems to be filling my mind --- or, at least that empty void within that I've only been able to tiptoe around --- with something new. Something *else:* something other than low-level anxiety. I can close my eyes and not wind up in some horrible situation. I can just be here.
+
+I jolt to awareness from my meta thoughts and tense up, and Aurora's paws pause halfway up my sides. Her fingers and claws are buried in my fur with t-shirt cloth bunched around her wrists. We both hold still in that silence, a few long seconds. For once I don't rush to fill it with words, and simply settle back down onto the bed, relaxing into her paws.
+
+The coyote hesitates a moment longer before edging her paws upward further, inching shirt up over fur. Keeping my paws on her shoulders as best as possible, I arch my back enough to let her slide my shirt up.
+
+The exploration continues in fits and starts from there. Kisses along the blue diamond and down over my chest. Aurora shifting her weight. Me tugging my shirt off to keep it out of the way. Soft coyote nose tracing spirals in my fur. One being, a singular point of focus.
+
+The skirt, though, that requires coordination. Aurora and I have to exchange a few glances, one or two half-words, and some soft giggles before the garment winds up bunched around my waist, spilling in pools of cotton to either side of me. And then there we are: me, with shirt off but for one arm still stuck through an arm-hole, skirt bunched around her waist; and Aurora, nervous but excited, wagging as she looks up at me along my front over a pile of rumpled skirt.
+
+"So uh..." I begin.
+
+"Mm?"
+
+"Mm."
+
+Soft half-noises. Gestures of paws. The warmth of a tongue. Finely-tapered coyote muzzle. Lithe, arched weasel back. Soft moans and subtle shifts to express what works and what doesn't. Paws finding places to rest, to touch, to brush and stroke.
+
+And then something new, something different slicks within me. A rising swell of pleasure, and a sudden, uneven tumble of memories. A shuddering gasp and an attachment of name to place to time. A contraction, then relaxation of muscles and a line drawn between two points.
+
+Panting to catch my breath, and glimpses of high school.
+
+A warm glow, and a name surfacing to memory.
+
+I collapse back onto the bed, slack, and stare down over my front. Aurora stares back just as intently shifting her weight forward once more, retracing her route of kisses in double time.
 
 "You're--"
 
 "Aurora. I'm Aurora."
 
-I start to speak again and she cuts me off. "I'm Aurora. I know who you are."
+I start to speak, but she cuts me off. "I'm Aurora. You're you."
 
-I swallow compulsively, feel fear caving in my insides.
+I swallow compulsively, feel fear caving in my insides. "But you were...we--"
 
-"I know who you *were*, and you know who I *was*, but I'm Aurora. You're you."
+"I know who you *were*. You know who I *was*, but I'm Aurora. You're you."
 
-Discussion of past lives, of disappearing (Aurora b/c trans)
+I fall silent, paws clutching at the duvet in search of something solid. Aurora leans up for the final kiss, more tender than heated, more earnest than fumbling. I smell her, and taste myself.
 
-Aurora confirms identity from HS, her own recognition cemented by seeing the painting, kisses, shrugs on jacket, "see you tomorrow", MC's first comfortable silence.
--->
+-----
+
+"We all have reasons to disappear," Aurora murmurs.
+
+We've settled back onto that stack of pillows I've collected. My skirt's still bunched up between us, but I've managed to toss my shirt to the side. She's gotten her arms around me once more and her cool nosetip is teasing along those brands again from where she lays beside me.
+
+"I suppose," I begin, then shake my head as if to throw away a bit of the non-speech. "So you came out west and transitioned out here."
+
+A faint nod, nose exploring a line perpendicular to the stripes of my brands. "I tried back home. My heart was half out here by then anyway, though, and no one wants a mopey, trans coyote, least of all my parents."
+
+I nod. There's still that hint of a name --- I can think it, but would have a hard time saying it --- and that memory of a tapered muzzle between my thighs.
+
+Memories from coming on twenty years ago.
+
+A high school fling. Two dates, a night together, and a parting of ways. She had seemed so uncomfortable with herself. We'd...well, tonight can be the the shining example to us back then.
+
+"And you?"
+
+"Mm?"
+
+"Why'd you disappear."
+
+"I don't know."
+
+Aurora lifts her head a little, a hint of a grin turning the corner of her mouth. "You don't know?"
+
+"I don't." I tilt my head to press my nose to hers. "I think that's what got me, today. I saw that thing on the tablet. About Jarred, about myself. About home."
+
+She nods, nose against nose.
+
+"And I just don't know why," I murmur. "I unwound all of that life and came here, and I think, when I saw it, I realized I don't know why I did it."
+
+"Were you happy?"
+
+"No."
+
+Aurora tucks her muzzle up under my jaw and hugs her arm around me a little tighter. "Neither was I."
+
+I brush my fingers across her arm, plowing a furrow in that fur, then smoothing it back down. I push down memories of that gawky and shy coyote, and revel instead in the comfort of Aurora.
+
+Muzzle tucked over hers, I ask, "What about me did you remember?"
+
+"Your paintings."
+
+"Have I changed that much?"
+
+"I mean, you looked like someone who could've been...who you were. But it was your paintings." She yawns. "The lines. The curves."
+
+The burgundy-and-black ceiling tile is behind me. I think of looking, of disentangling myself from the coyote's arms, but there's something much better in front of me.
+
+"And you?" Aurora sounds sleepy. "What tipped you off about me?"
+
+I think of all the things I could say --- the warmth of her breath, the trail of kisses, the way her nose drew lines through my fur. The way she rested her cheek on her paw, staring out the window. The softness of her form. Her very scent.
+
+We lay together in silence. A comfortable silence. The first in a long time.
