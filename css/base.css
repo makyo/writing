@@ -66,6 +66,20 @@ h3.alignTop {
     max-width: 100%;
 }
 
+.draft::before {
+    content: "DRAFT";
+    display: block;
+    position: fixed;
+    font-size: 1200%;
+    color: rgba(0, 0, 0, 0.25);
+    transform: rotate(-45deg) translate(7rem, -7rem);
+}
+@media only screen and (max-width: 960px) {
+    .draft::before {
+        font-size: 700%;
+    }
+}
+
 p {
     margin-bottom: 0.75em;
 }

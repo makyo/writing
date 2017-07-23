@@ -1,11 +1,11 @@
 .PHONY: run
 run:
-	jekyll build
+	bundle exec jekyll build
 	$(MAKE) -j2 run-jekyll watch-wordcounts
 
 .PHONY: run-jekyll
 run-jekyll:
-	jekyll serve -w -I -H 0.0.0.0
+	bundle exec jekyll serve -w -I -H 0.0.0.0
 
 .PHONY: watch-wordcounts
 watch-wordcounts:

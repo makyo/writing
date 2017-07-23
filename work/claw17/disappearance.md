@@ -1,7 +1,16 @@
 ---
-layout: page
+counts:
+    characters_real: 43973
+    characters_total: 54901
+    file: ./work/claw17/disappearance.md
+    paragraphs: 374
+    type: jekyll
+    words: 10832
+layout: draft
 title: Disappearance
 ---
+
+([ODT for feedback](disappearance.odt))
 
 "This is going to sting."
 
