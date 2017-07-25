@@ -9,6 +9,7 @@
     - sent
 * Zeta
     - asked
+    - sent
 * Skunkbomb
     - asked
     - sent
@@ -18,6 +19,7 @@
 * Jako
     - asked
     - sent
+    - *received*
 * Rob
     - asked
     - sent
@@ -64,3 +66,31 @@ Yeah, I mean, like you said originally.
 It was initially just “they fuck” :P
 
 -----
+
+## Jako
+
+Good afternoon
+
+Firstly, got to tell you I enjoyed reading this!
+
+He are some comments from my side:
+
+* One comment is that the erotica portion of the story (and CLAW is an erotica anthology) feels not erotic - that is, there's sex, and it's enjoyable and required for the plot, but it's nto the point of the story. Does this feel like the case? Thoughts on whether or not that direction's required for this to be a successful submission?
+
+Claw is the F/F anthology, right?  A bit of a tough one, as it would be the first edition and the work doesn't really have an established look-and-feel yet.  Further complicating things is the fact that I don't have in-depth understanding of what fans of F/F like to read.  If the emphasis is on intimacy, rather than sex, I think this works very well.  The sex is very sweet and innocent, IMHO.  Tame compared to most M/M, M/F stories I have read.  (Most of these fall off the other end of the scale, though.)  It might be worth talking to the editor about this.  My opinion?  Give the reader a tiny bit more, but not too much.
+
+* I want to show that the main character is different from the other inhabitants of the town in ways other than just her description. I tried to use speech patterns to do this, but wasn't sure that was effective. Does that work? Should I do more? Does it matter? :p
+
+She stands out, yes.  But I wouldn't say she is a complete outsider, especially towards the end of the book.  The town seems to attract people like her and she seems to fit in well.  Contrast with the visitors from outside is well established, though. Also, she does feel out of place in the world she is coming from.
+
+Other thoughts:
+
+* I feel bad for Jarred, having his apartment trashed in such a haphazard way.  Perhaps you could indicate a more sour relationship between them to justify this a bit more?
+* I feel that the MC would have chugged a few drinks after the bar closes before she has her mental breakdown.  Being an accountant, I think she's need a bit of "help" to implode like that. The stereotypical account is very inpassionate.  Alcohol can trigger all sorts of things and also help justify her extreme thirst and confusion later.
+* I am curious to know a bit more about the MC and Aurora's back story.
+
+Other than that, I think you are good to go!
+
+Cheers for now,
+
+Erdwolf / Jako
