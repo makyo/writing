@@ -35,39 +35,39 @@ Other minor ones: doors latching, oven/stove being left on, lights off, being up
 
 -----
 
-Selene made a quick pass through the kitchen, fingers brushing along the rims of cabinet doors. Each one was opened and inspected, leaving her standing on tiptoes to peer in the cabinets above the counters. Nothing but cups and glasses, plates and bowls, cutting boards and pots and pans and trays and dishes. All clean and neatly stacked.
+Sélène made a quick pass through the kitchen, fingers brushing along the rims of cabinet doors. Each one was opened and inspected, leaving her standing on tiptoes to peer in the cabinets above the counters. Nothing but cups and glasses, plates and bowls, cutting boards and pots and pans and trays and dishes. All clean and neatly stacked.
 
 Each cabinet was carefully left ajar. The vixen had perfected the art of finding the balance point that would leave them open before the weight of the door on the hinge would close them, without simply leaving them all the way open. The barest crack.
 
-The fridge bore her inspection patiently. Door held open as she inspected along each of the shelves, gently moving well organized bottles to check between each of them. The freezer was equally patient as the vixen lifted frozen containers of leftovers and trays of uncooked meats. Doing her best to avoid glancing at the back walls of either, she pressed the doors shut to keep the fridge from endlessly breathing cold out into the kitchen. Just to be sure, she opened them again, savoring that clean snap of the magnetic seal pulling away from the body of the fridge, then sighing in frustration as closing the door offered no such tangible reward.
+The fridge bore her inspection patiently, door held open as she inspected along each of the shelves, gently moving well organized bottles to check between each of them. The freezer was equally patient as the vixen lifted frozen containers of leftovers and trays of uncooked meats. Doing her best to avoid glancing at the back walls of either, she pressed the doors shut to keep the fridge from endlessly breathing cold out into the kitchen. Just to be sure, she opened them again, savoring that clean snap of the magnetic seal pulling away from the body of the fridge, then gritting her teeth in frustration as closing the door offered no such tangible reward.
 
 The oven yawned out to her, empty. The oven was easy, because it had a light that turned on while open, and off when closed. The fridge did, too, but the oven had its pristine glass door through which she could observe the light cycling. The stove had similar lights which, the associate at the hardware store assured here, were connected directly to the burners. Even so, she touched each cooktop surface gingerly to test for warmth, turned all the burners on, then off again.
 
-On a whim, the drawers were next. Thankfully, most of those were empty, and the rest mostly so. The underside of the silverware tray was inspected with care. While she had the drawer open, a sudden pang of fear coursed through her. Down on her knees, Selene eased open the cabinet door and peered up toward the underside of the drawer, ensuring that there was nothing between the drawer's underside and the cabinet, and that the drawer sides didn't reach the underside of the counter, that there was a gap.
+On a whim, the drawers were next. Thankfully, most of those were empty, and the rest mostly so. The underside of the silverware tray was inspected with care. While she had the drawer open, a sudden pang of fear coursed through her. Down on her knees, Sélène eased open the cabinet door and peered up toward the underside of the drawer, ensuring that there was nothing between the drawer's underside and the cabinet, and that the drawer sides didn't reach the underside of the counter, that there was a gap.
 
 The pang continued to grow with a cool intensity, spreading out along her limbs.
 
 So she checked the rest of the drawers.
 
-Finally, she stood in the center of the kitchen, fished her phone out of her purse, and thumbed the screen on. Turning a slow circle, she took a panorama of the kitchen.
+Finally, she stood in the center of the kitchen, fished her phone out of her pocket, and thumbed the screen on. Turning a slow circle, she took a panorama of the kitchen.
 
 She waited for the panorama to be stitched together, then pulled it up and inspected it carefully, scrolling along its length.
 
-And there, in the doorway as seen in the pano, was a figure standing, hidden by shadow.
+And there, in the doorway as seen in the pano, was the barest hint of a figure.
 
 Her head jerked up and she let out a shriek at the sight of her husband standing at the entrance to the kitchen, tired smile on his muzzle. She let her phone drop from her hands and clutched at her chest, that cool ache replaced with hot embarrassment.
 
-Aiden stepped forward quickly and lifted up her phone careful to touch only the edges, and deposit it back into her paw. "Sorry, Selene, I should've stepped in more. May I hug?"
+Aiden stepped forward quickly and lifted up her phone careful to touch only the edges, and deposit it back into her paw. "Sorry, Sélène, I should've stepped in more. May I hug?"
 
-Selene laughed breathlessly, inspecting her phone and tucking it back into her pocket. "Yes, sorry! Of course!" She leaned into her husband's open arms, breathing that familiar scent. "Are you okay?"
+Sélène laughed breathlessly, inspecting her phone and tucking it back into her pocket. "Yes, sorry! Of course!" She leaned into her husband's open arms, breathing that familiar scent. "Are you okay?"
 
-The taller fox --- much taller, which Selene quite enjoyed --- tucked his muzzle over her head and nodded against her. "I'm fine, it's alright," he murmured. "You going to head into work today, sweetheart? You only have one from-home day left this week."
+The taller fox --- much taller, which Sélène quite enjoyed --- tucked his muzzle over her head and nodded against her. "I'm fine, it's alright," he murmured. "You going to head into work today, sweetheart? You only have one from-home day left this week."
 
 "I think so, yeah. Feeling pretty good today, actually." That cool ache did that thing where it didn't grow any, yet somehow made it's presence known. An easily fixable thing. "You sure you're alright?"
 
 Aiden leaned back and nodded where she could see, then leaned in to touch his cheek to hers --- the closest she could stand to affection around her face. "Fine, love. I'm doing okay."
 
-Selene returned the touch and nodded, silently promising herself that Aiden meant to say "I'm fine", rather than a resigned "fine", that her husband was just tired, not tired of her.
+Sélène returned the touch and nodded, silently promising herself that Aiden meant to say "I'm fine", rather than a resigned "fine", that her husband was just tired, not tired of her.
 
 "I'd like to head out soon, is that alright?"
 
@@ -99,7 +99,7 @@ She'd gotten her job to let her work from home three days a week just to make su
 
 That note was humiliating.
 
-The medical industry solemnly swore that Selene Kelly was off her rocker, utterly crazy, completely bonkers. All so she could get three days at home to stay productive.
+The medical industry solemnly swore that Sélène Kelly was off her rocker, utterly crazy, completely bonkers. All so she could get three days at home to stay productive.
 
 The diagnosis had been fine. Her family dealt with her getting steadily worse over the years, and when they finally got her in, hearing "obsessive-compulsive disorder" confirmed that *they* were not crazy, she was. She'd resented them right up until her first dose of the emergency sublingual anxiolytic. It made her sleepy, but it made her mind quiet. It quelled those cold pangs of anxiety.
 
@@ -115,8 +115,10 @@ By the time they'd stopped at her office, just outside the front door, the day h
 
 "You're picking, love."
 
-Selene jolted to awareness, realized she totally zoned out. She pinned her ears back, massaging the fur on her wrist in an attempt to cover the frayed look of where she'd been picking. "Uh, sorry, Aiden. Are you okay?"
+Sélène jolted to awareness, realized she totally zoned out. She pinned her ears back, massaging the fur on her wrist in an attempt to cover the frayed look of where she'd been picking. "Uh, sorry, Aiden. Are you okay?"
 
-The fox gave her a tired smile and turned off the engine, pulling the parking break up with a series of sharp, satisfying clicks. "I'm alright. Work was...it was a long day. Eight appointments, two meetings, no lunch. I'm starving, can we get inside and whip something up?" His look of excitement was transparently false.
+The fox smiled tiredly to her and turned off the engine, pulling the parking break up with a series of sharp, satisfying clicks. "I'm alright. Work was...it was a long day. Eight appointments, two meetings, no lunch. I'm starving, can we get inside and whip something up?" His look of excitement was transparently false.
 
 "Mmhm, I'll make us something quick," she said, giving him her best goofy grin. "Microwave. I promise."
+
+Sélène felt lucky she was actually able to pull off a seamless dinner, even if it meant relying on microwaved leftovers. She loved to cook, but sometimes, reducing the friction her brain seemed intent on pushing into the act --- ovens and stoves are fraught with needs and anxieties --- was what the night called for. The more tired Aiden was, the less she wanted her personal frictions to intrude on him, or on them.
