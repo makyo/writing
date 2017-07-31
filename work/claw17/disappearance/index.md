@@ -362,7 +362,7 @@ Adam laughs and shakes his head, plopping down beside, then melting further into
 
 The otter has moved on from rum, and is now trying his paw at whiskey. We've been cycling through batches over the last few weeks. The taste is far sweeter than I would've expected, but Adam says he doesn't have the cuts quite right yet.
 
-In my mouth, ice machine ice and homemade whiskey jockey for space with words. "Wha's li' in off 'easo?"
+In my mouth, ice machine ice and homemade whiskey jockey for space with words. "Wha's li' in off 'easong?"
 
 "Eh?"
 
