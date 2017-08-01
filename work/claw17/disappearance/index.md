@@ -36,15 +36,15 @@ I sit up straight in my chair and give a firm nod. "Yes. Straight lines. Three o
 
 The rat waits a little longer, then cracks a goofy grin. "Good. Good choice. I'm gonna start the middle one a little further back. And I'll use tapered ones rather than rectangular. It'll make you look speedy."
 
-We laugh at that, and I use the gesture to hide the terror. Not at the pain, mind, but at the sheer enormity of what I'm about to do.
+We laugh at that, and I use the it to hide the terror. Not at the pain, mind, but at the sheer enormity of what I'm about to do.
 
 "Alright lady." The rat stands, pads across the room with claws clicking on linoleum. There's a hissing, gurgling sound, a sound of something more complex than water being poured, and then a soft curse. A single curse is more a matter of form, though, and the lack of follow-up keeps me from panicking outright.
 
-The rat hurries back toward me, the half-jug in oven-mitt-clad paws billowing a sinking fog in his wake. This gets quickly set down on the steel table so he can shake the mitts off. The nitrogen fog continues in its cascade, flowing over the table and onto the floor. From then, it's all business.
+The rat hurries back toward me, the half-jug in oven-mitt-clad paws billowing a sinking fog in his wake. This gets quickly set down on the steel table so he can shake the mitts off. The nitrogen fog continues in its cascade, flowing over the table and onto the floor. From then, everything happens in quick succession.
 
 I'm laid out on my side.
 
-A thick petroleum jelly is smeared into fur around my eyes, and a piece of aluminum foil massaged into that to create at least an attempt at a seal.
+A thick petroleum jelly is smeared into the fur around my eyes, and a piece of aluminum foil massaged into that to create at least an attempt at a seal.
 
 Footsteps.
 
@@ -64,7 +64,7 @@ I'd never known how intricate pain could be.
 
 After the last countdown is finished and I am allowed to sit up once more, I finally allow myself a simple, "Fuck."
 
-There's laughter as the foil is pried away from my gummed-up fur and I blink my eyes back into focus. There's the rat along with his accomplice, a weasel like myself, sitting on a stool with a kerchief keeping unkempt headfur out of his eyes. On the table by him, a short copper bar clamped into a stainless steel handle, still oozing tendrils of too-heavy fog.
+There's laughter as the foil is pried away from my gummed-up fur and I blink my eyes back into focus. There's the rat along with his accomplice, a weasel far taller than I, sitting on a stool with a kerchief keeping unkempt headfur out of his eyes. On the table by him, a short copper bar clamped into a stainless steel handle is still oozing tendrils of too-heavy fog.
 
 "*Fuck,*" I say again.
 
@@ -78,67 +78,69 @@ The rat reaches to snag a mirror and hold it up to my face. Shaved cheeks --- th
 
 "Now you just need some piercings." The rat laughs as I shake my head.
 
-I pay in cash. They accepted cards, but I had more than enough on hand.
+I pay in cash. They accept cards, but I had more than enough on hand.
 
 -----
 
-From the mod parlor, I head home and take one last pass around the apartment. All the stuff I need is already in the car, packed into a backpack and a suitcase. Nothing from in here, of course, this all has to stay. Still, it's good to make sure.
+From the mod parlor, I head home to take care of the apartment. All the stuff I need is already in the car, packed into a backpack and a suitcase. Nothing from in here, of course, this all has to stay. Still, it's good to make sure.
 
 Everything's neat. Not too neat, of course, as I can't keep up with Jarred's standards, and he can't keep up with the rate I make things messy. Stuff's on shelves, dust free. Clothes are put away, but the hamper's overflowing. The kitchen's wiped clean, but there's a stack of plates and glasses in the dirty half of the sink.
 
 Poor Jarred. Ah well.
 
-Once my pass is done, I start to dismantle the life I'd built up for myself. I unwind it in slow, circular passes of the apartment, starting from the ground up. I carefully destroy what I was.
+Once my account of the house is done, I start to dismantle the life I'd built up for myself. I unwind it in slow, circular passes of the apartment, starting from the ground up. I carefully destroy what I was.
 
-I slowly untick a checklist of the things that got me where I am, made me who I am, item by item.
+I slowly untick a checklist, item by item, of the things that got me where I am, made me who I am.
 
 Drawers are tugged open and clothing strewn haphazardly about the floor. The bed sheets are pulled free of the mattress and shredded with my claws to look as though it was all done in haste.
 
 It's not. It's all careful. I have to be quiet for the neighbors, and I have to be deliberate for myself, even if it is like watching someone else work.
 
-The mattress is thrown askew as though someone had been digging for cash beneath it. The bathroom is mostly left alone, but pill bottles are dumped in the sink, looking like that someone was hunting for something more interesting than aspirin. The top shelf of the closet is ransacked, with shoes thrown on the floor and the contents of my jewelry box tucked away in a backpack, along with Jarred's nice watch. I didn't care for the stuff, but I knew a burglar would.
+The mattress is thrown askew as though someone had been digging for cash beneath it. The bathroom is mostly left alone, but pill bottles are dumped in the sink, looking like someone was hunting for something more interesting than aspirin. The top shelf of the closet is ransacked, with shoes thrown on the floor and the contents of my jewelry box tucked away in a backpack, along with Jarred's nice watch. I didn't care for the stuff, but I knew a burglar would.
 
 The living room is more difficult. We have a TV, which a burglar would latch onto immediately. I'd planned for this, though, and the TV is set neatly by my door while I see to the rest of the room.
 
 I tip over the speakers on their poles and scratch carefully crazed claw marks around their bases, a show of trying to detach them. They stay on the floor.
 
-The bookshelf is dismembered as quietly as I can manage, books are pulled off in armloads and scattered around on the floor. One book from every armful is bent and torn, each one tugging at my heartstrings. A yearbook tweaks memories and is discarded. Paintings are removed from their hooks and tossed on top of the books.
+The bookshelf is dismembered as quietly as I can manage. Books are pulled off in armloads and scattered around on the floor. One from every armful is bent and torn, my heart aching to do so. A yearbook tweaks memories and is discarded. Paintings are removed from their hooks and tossed on top of the books.
 
 The couch is shredded and exposed just as the bed had been. Nothing there, beneath those torn cushions.
 
 The kitchen is next. I step quietly over the pile of books and in there. There's a cursory pass of the fridge and cabinets: pushing glasses and food to the sides to expose the backs of them. My concession to looking hasty is to put a glass in a plastic bag and crush it under my foot, then scatter the shards over the counter and onto the floor. A very careful 'whoops'.
 
+The garage had been my space, and is the last to get torn down. We'd rented half a duplex and paid extra for the side with the attached garage, which I'd claimed for all of my painting stuff, but which was under constant threat of being slowly consumed by junk.
+
+I eviscerate my old camping gear. I trusted Jarred to never pull himself away from his computer long enough to even consider camping. So much time at the keyboard, so little to spend elsewhere; so much time spent on him, so little on anyone else.
+
+My easel is easy to deal with, since I just tip it over. The rickety thing clatters to pieces just shy of the front bumper of the car. A sketch of a painting, burgundy on black, lands askew. Boxes containing old clothes are turned out. A clock is broken most carefully.
+
 Jarred and I, we'd never hidden anything together, but I have to look thorough.
 
-By myself, though, I'd hidden cash. Just shy of twenty grand in a locking cash box disguised as a two-quart thermos tucked firmly into my old backpacking gear in the mess of our garage.
+On my own, though, I'd hidden cash. Just shy of twenty grand in a locking cash box disguised as a two-quart thermos tucked firmly into my old backpacking gear in the mess of our garage.
 
-Or it had been, that was one of the first things to move to the car.
+Or it had been. Now it was tucked into the car, just behind the driver's seat.
 
-The garage is my space. We'd rented half a duplex and paid extra for the side with the attached garage. I'd claimed it for storage and all of my painting stuff.
+My life isn't completely unwound. Not yet. But I'm getting there.
 
-So the garage is the last to go. I eviscerate my camping gear --- I trusted Jarred to never pull himself away from his computer long enough to even consider camping<!-- (nor, lately, to consider me)-->. My easel is easy to deal with, since I just tip it over. The rickety thing clatters to pieces just shy of the front bumper of the car. A sketch of a painting, burgundy on black, lands crookedly. Boxes containing old clothes are turned out. A clock is broken most carefully.
+I reach in the car and grab a bag of odds-and-ends fur sweepings. Little bits snagged here and there from shedding coworkers. Some from a grooming place. Even a bit from the mod shop's bin before I was shaved. I make a quick circle around the apartment, scattering fur on the most torn up bits
 
-That is the last of the destruction in the house. My life isn't completely unwound. Not yet. But I'm getting there.
-
-First things first, I reach in the car and grab a bag of odds-and-ends fur sweepings. Little bits snagged here and there from shedding coworkers. Some from a grooming place. Even a bit from the mod shop's bin before I was shaved. I make a quick circle around the apartment, scattering fur on the most torn up bits
-
-I grab the TV on the way back to the garage --- a flat screen thing that we only ever used for movies --- and lay it down its back by the car. I give it a slight kick until it's squarely behind one of the front wheels.
+I grab the TV on the way back to the garage --- a flat screen thing that we only ever used for movies --- and lay it down its back by the car. I give it a kick until it's squarely behind one of the front wheels.
 
 *Here we go.*
 
 I climb in the car and hit the button to open the garage.
 
-When I reverse over the TV, there's a satisfying crunch. I can't smile without my newly branded cheeks burning, so I breathe satisfaction out on a sigh.
+When I reverse over the TV, there's a delightful crunch. I can't smile without my newly branded cheeks burning, so I breathe satisfaction out on a sigh.
 
 -----
 
 My paws ache all the way to Oregon. I had thought it would be pretty easy to slash up the inside of my car before I abandoned it, but they were tougher than I had imagined. I'd managed to come out of the experience without breaking any claws, at least.
 
-Once the seats had been shredded, I carefully cut my finger along the side and smeared blood along the clawmarks. The car was trashed as I rolled it into a ditch. There was a tiny forest there, with crumpled cans and paper wrappers mixed in with the fallen leaves. After thinking for a moment, I dribbled some blood onto that garbage.
+Once the seats had been shredded, I carefully cut my finger along the side and smeared blood along the clawmarks. The car was trashed as I rolled it into a ditch. There was a tiny forest there, with crumpled cans and paper wrappers mixed in with the fallen leaves. After thinking for a moment, I squeezed out a few more drops of blood onto that garbage.
 
 The bus driver had greeted me with the tired acknowledgement of a fox who had seen much worse than a sloppily dressed weasel with newly branded cheeks.
 
-I'd never been on a long-distance bus trip. Jarred and I had never been wealthy, never higher than lower-middle class, and this wasn't helped by me pretending to make fifteen hundred less than I actually did a month. A cross-country bus trip is unthinkable when you can fly, when you have a car.
+I'd never been on a long-distance bus trip. Jarred and I had never been wealthy, never higher than lower-middle class, and this wasn't helped by me pretending to make fifteen-hundred less than I actually did a month. A cross-country bus trip is unthinkable when you can fly, when you have a car.
 
 But you can buy bus tickets with cash.
 
@@ -180,7 +182,7 @@ I can live here for a while. I ran the math on my recently-purchased calculator 
 
 The proprietor, Adam, and I have been getting on surprisingly well.
 
-He's a good guy, which I hadn't picked up on at first. I'd taken his silence at accepting my contract on a signature-and-cash basis as standoffishness. There was certainly an element of caution to it, but he's also just a quiet guy.
+He's a good guy, which I hadn't picked up on at first. I'd taken his silence while handing over my key with only cash to show as standoffishness. There was certainly an element of caution to it, but he's also just a quiet guy.
 
 We exchanged nods daily for the first two weeks I lived here, then simple pleasantries for the next two. He came off as soft spoken out of being content with where he was in life, and as far as I could tell, he was.
 
@@ -190,7 +192,7 @@ A week or so into my second month staying in that little studio, and he's invite
 
 I can't decide if it's hipster or hippie, but the more I drink, the less it seems to matter.
 
-"So." There's no <!--ellipsis--><span class="added">tension</span> in the pause after that. Simply time to toss another cube of ice in his jar along with another inch of rum. "Why you out here?"
+"So." A pause to toss another cube of ice in his jar along with another inch of rum. "Why you out here?"
 
 I hesitate and swirl my own glass around, letting the melting ice water down the rum. It's definitely overproof, and almost certainly homemade. "Needed out of where I was, I guess."
 
@@ -228,7 +230,7 @@ I laugh, I can't help it. "Half rent? For taxes?"
 
 "Sure," he says, sounding content. "Run the books and handle taxes, and I'll halve your rent. You can take the desk some days if you want a bit more off."
 
-I rub my paw over the short, bristly fur of my cheeks, a habit I picked up as it grew back in. The crisped branded fur had largely been replaced by more normal fur, but the shaved spots were taking a while to grow in.
+I rub my paw over the short, bristly fur of my cheeks, a habit I picked up as it grew back in. The crisped, branded patches had largely been replaced by more normal fur, but the shaved spots were taking a while to grow in.
 
 "A secretary, hmm?"
 
@@ -252,6 +254,8 @@ He owns his property outright, and is up-to-date on all his licenses. Business i
 
 And he's happy.
 
+-----
+
 With my stay here nearly doubled, I've started exploring further into town.
 
 We're a ways out from Portland: I could take the regional bus there in about forty-five minutes, but I never do. Instead, I stick to this little town I wound up in, a town picked because I got too anxious about Portland and got off the bus at the stop before. Probably my best idea yet.
@@ -260,7 +264,7 @@ I'd just gone to the dinky supermarket before, but now I started taking walks. O
 
 I even ventured to the lone grooming stop in town to get my cheeks checked up on. I had been worried that they'd be weirded out by them, but I was greeted by a punky opossum with a bright pink streak of fur from the tip of her snout down to the nape of her neck. She said my cheeks were looking good, then talked me into buying a tube of dye. She suggested pink, but I went for the blue instead.
 
-I don't know why I did that. Being an accountant wasn't just an occupation for me, it was an identity. I bought into the smart pantsuits and that sensible jewelry, all still in my suitcase, to mark my position hard-core. The tight grooming and the calm speed of numbers, that's *who I was*.
+I don't know why I did that. Being an accountant wasn't just an occupation for me, it was a whole identity. I bought into the smart pantsuits and that sensible jewelry, all still in my suitcase, to mark my position hard-core. The tight grooming and the calm speed of numbers, that's *who I was*.
 
 Now, I don't know. I have three pairs of jeans, a frowsy canvas skirt, and a bunch of long- and short-sleeved button up shirts and tees --- only some of which fit well --- I grabbed from a thrift store before this whole excursion began.
 
@@ -278,7 +282,7 @@ Maybe being a little sexy will be okay.
 
 Holy shit, I may actually be able to pull this off. It'll be crazy, but maybe I can do it.
 
-I guess Adam did some talking after I'd asked about more possibilities, and now I've got the owner of Starry Night, the town's little café, as a "client" of sorts. He's having me run the taxes and offered to let me run the till if things get busy. They haven't yet, but he's promised me it's the off-season now. Not cold enough to be winter, but not yet warm enough for holidays. He's not paying me anything close to livable, but with the deal I'm getting on rent, I might just be able to do this.
+I guess Adam did some talking after I'd asked about more possibilities, and now I've got the owner of Starry Night, the town's little café, as a "client" of sorts. He's having me do the taxes and help run the books. He even offered to let me run the till if things get busy. They haven't yet, but he's promised me it's still the off-season. Not cold enough to be winter, but not yet warm enough for holidays. He's not paying me anything close to livable, but with the deal I'm getting on rent, I might just be able to do this.
 
 It's such a small town. It looks bigger than it is, since so many of these kitchy stores and homes have so much space around them. The market has a parking lot twice the size it needs.
 
@@ -286,7 +290,7 @@ There are folks living around the town in seclusion, I guess, but those who live
 
 No surprise that news spreads fast, I guess.
 
-I've started painting again, too. Starry Night has a drop ceiling and each tile is painted a different color. After I mentioned having been a painter in my "past life", Stefan, the owner, perked up and sent me home with a blank tile with a few crusty tubes of acrylic and a brush that hadn't been used in a while.
+I've started painting again, too. Starry Night has a drop ceiling and each tile is painted a different color. After I mentioned having been a painter in my "past life", Stefan, the owner, perked up and sent me home with a blank tile, along with a few crusty tubes of acrylic and a brush that hadn't been used in a while.
 
 "Go nuts," he said, and so I did. Background of green and a symmetrical tree in black, limbs splitting into branches that became whisker-thin toward the edges of the tile. The leaves were vague suggestions of white that broke the symmetry. An idea of a tree. Just the type of stuff I painted up until four months ago.
 
@@ -316,7 +320,7 @@ In the midst of it all, the regulars provide a sense of weight, anchoring high a
 
 And then there's Aurora.
 
-We've only talked once or twice, in earnest, her voice familiar and quiet. She has a table all but reserved in the corner of Starry Night, furthest from the door but right in the elbow of two of those ridiculous single-pane windows. To her left, one window looks out over the parking lot and, across the street, the parking lot of the market. In front of her, three trees that have been planted too close to each other, forming a tiny grove between Starry Night and the back fence.
+We've only talked once or twice in earnest, her voice familiar and quiet, but I watch her every day. She has a table all but reserved in the corner of Starry Night, furthest from the door but right in the elbow of two of those ridiculous single-pane windows. To her left, one window looks out over the parking lot and, across the street, the parking lot of the market. In front of her, three trees that have been planted too close to each other, forming a tiny grove between Starry Night and the back fence.
 
 She wafts in around six thirty and orders a latte, a soda water, and a pot of hot water for her and one of the teabags riding shotgun in her jacket pocket. If her table isn't free, she'll sip her latte at the bar until it is, and then set up camp.
 
@@ -428,7 +432,7 @@ The coyote tilts her head quizzically, a movement that brushes against old memor
 
 "Yeah, I am." I stand up straighter and smile apologetically to her. "I will be."
 
-We slide past each other and I make my way behind the bar again, busying myself with wiping down the already-clean espresso machine, just to give my paws something to do. Not many people ordering coffee at six at night. This late in the season, and the sun sets early, too.
+We slide past each other and I make my way behind the bar again, busying myself with wiping down the already-clean espresso machine, just to give my paws something to do. Not many people ordering coffee at six at night. This late in the season, and the sun sets early too.
 
 Stefan hikes himself up onto the bar, tail flagging off to the side. "You alright there, kiddo?"
 
@@ -666,7 +670,7 @@ Without tucking my muzzle uncomfortably low, all I can really see are her ears, 
 
 Aurora responds with a kiss of her own against my sternum. It's a ticklish sort of feeling, and my squirming gets a giggle, muffled as before against my chest. She settles down from her crouch above me, bringing her paws from by my shoulders to brush along my sides as she rests more fully against my front. I slip my own arms from around her until it's just my paws on her shoulders.
 
-The sheer exhilaration of physical contact seems to be filling my mind --- or at least that empty void within that I've only been able to tiptoe around --- with something new. Something *else:* something other than low-level anxiety. I can close my eyes and not wind up in some horrible hopelessness. I can just be here. Goodness knows why, but I can just be here.
+The sheer exhilaration of physical contact seems to be filling my mind --- or at least that empty void within that I've only been able to tiptoe around --- with something new. Something *else.* Something other than low-level anxiety. I can close my eyes and not wind up in some horrible hopelessness. I can just be here. Goodness knows why, but I can just be here.
 
 I jolt to awareness from my wandering thoughts and tense up, and Aurora's paws pause halfway up my sides. Her fingers and claws are buried in my fur with t-shirt cloth bunched around her wrists. We both hold still in that silence, a few long seconds of just our breaths. For once I don't rush to fill it with words, and simply settle back down, relaxing into her grasp.
 
@@ -718,7 +722,7 @@ I nod. There's still that hint of a name --- I can think it, but would have a ha
 
 Memories from nigh on twenty years ago.
 
-A high school fling. Two dates, a night together, and drifting apart. She had seemed so uncomfortable with herself. We'd...well, tonight can be the shining example to us back then.
+A high school fling. Two dates, a night together, and drifting apart. She had seemed so uncomfortable with herself. We'd...well, tonight had more than made up for that.
 
 "And you?"
 

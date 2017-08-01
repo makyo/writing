@@ -1342,57 +1342,57 @@ We lay together in silence. A comfortable silence. The first in a long time.
 
 ---
 
-[^1]: Laughter doesn't seem like a gesture; maybe just "...I use it to
+[^1]: DONE Laughter doesn't seem like a gesture; maybe just "...I use it to
 cover..."?
 
-[^2]: I might just remove the business sentence? It's sort of reads like a
+[^2]: DONE I might just remove the business sentence? It's sort of reads like a
 description of the fog, and as far as the body mod this feels like it's all
 business already.
 
-[^3]: s/into fur/into the fur/ ?
+[^3]: DONE s/into fur/into the fur/ ?
 
-[^4]: Odd tense change; "I pay in cash" vs "They accepted cards". I get that
+[^4]: DONE Odd tense change; "I pay in cash" vs "They accepted cards". I get that
 you're doing a transition here, but tense shifts like this are still sort of
 jarring. Might work better if the whole paragraph is in past? ie "I paid in
 cash" so the change doesn't occur mid sequence quite so much?
 
-[^5]: This jars with "last pass" earlier. If that was the last pass, what are
+[^5]: DONE This jars with "last pass" earlier. If that was the last pass, what are
 these? Maybe replace earlier use with "I make a slow accounting of the house"
 or something?
 
-[^6]: s/looking like that someone/looking like someone/
+[^6]: DONE s/looking like that someone/looking like someone/
 
-[^7]: This reads to me like the bookshelf itself is torn apart? Which seems odd
+[^7]:DONE  This reads to me like the bookshelf itself is torn apart? Which seems odd
 for staging a robbery. Maybe just "Books are pulled off the shelves in armloads
 and scattered around on the floor."
 
-[^8]: I think this could just be "That was one of the first things..." without
+[^8]: DONE I think this could just be "That was one of the first things..." without
 the "or it had been".
 
-[^9]: We're way past "first things" at this point, aren't we?
+[^9]: DONE We're way past "first things" at this point, aren't we?
 
-[^10]: Maybe kill the bit about dribbling blood? A cut in the side of the finger
+[^10]: DONE Maybe kill the bit about dribbling blood? A cut in the side of the finger
 doesn't usually bleed that much, does it?
 
-[^11]: I *love* this line. :P
+[^11]: BLUSH I *love* this line. :P
 
-[^12]: Is she signing with her real name? Doing contracts? This feels odd for so
+[^12]: DONE Is she signing with her real name? Doing contracts? This feels odd for so
 carefully having taken everything apart a few scenes ago.
 
 [^13]: s/down/town
 
-[^14]: ... a blank tile s/with/and/ a few ...
+[^14]: DONE ... a blank tile s/with/and/ a few ...
 
-[^15]: Ok, let's talk about this. I really dig this passage. The zoom in/zoom
+[^15]: BLUSH Ok, let's talk about this. I really dig this passage. The zoom in/zoom
 out, the tides analogy, the transition into the regulars, leading to the one
 line intro of Aurora, which is perfect for setting up how important she is.
 Really well done.
 
-[^17]: You can kill that comma, I think.
+[^17]: DONE You can kill that comma, I think.
 
-[^18]: Rather than colon I would just use a stop after else and have a new
+[^18]: DONE Rather than colon I would just use a stop after else and have a new
 sentence.
 
-[^19]: I don't really follow this line; I get that it's supposed to be an
+[^19]: DONE I don't really follow this line; I get that it's supposed to be an
 indication of the stark contrast, but it doesn't really flow for me. Possibly
 b/c my brain is broken and I start thinking time-travel scenarios. :P
