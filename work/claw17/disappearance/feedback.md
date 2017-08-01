@@ -25,9 +25,13 @@
 * Rob
     - asked
     - sent
+* Sparf
+    - asked
+    - sent
 * JC
     - she asked me???
     - sent
+    - *received*
 * Lexy
     - asked
     - sent
@@ -243,3 +247,25 @@ I just realized that I think it's that I've been Aurora for folks before, in man
 Thank you for sharing this story with me! You’ve got an intro that grabbed my attention, and you put a lot of detail into your story, especially with what life is like in the small town in Oregon. The story could use an editing pass to fix the sentence fragments, and a part of me still wants the story to begin with her meeting with Adam. 17 pages is too long to wait for Aurora to enter the story. I’m glad trans characters are in the story. I don’t know of a lot of furry stories in anthologies with trans characters, but they need more visibility in fiction. I didn’t quite pick up on some of the struggles your protagonist had until I realized at the end that she’s trans (she is, right? Or did I get this wrong?), but once I knew, the story felt a lot stronger. I told myself I was only going to focus on developmental corrections, but I did a little copyediting as well here and there. Please let me know if you have any questions.
 
 (Takeaways: do we need to know MC's reason for leaving? How do we get Aurora in earlier without outing her?)
+
+-----
+
+## JC
+
+### +
+
+* There's a great narrative voice throughout--I  get a really good sense of the
+character just from her narration, and her dialogue doesn't sound like it's
+coming from another person.
+
+* You've got very natural dialogue; capturing the awkward silences without
+breaking flow.
+
+### -
+
+* I want *more* with regards to her past. Given how much of the start is her
+wrecking everything (and faking her death, I think?) why is she doing this? Her
+not thinking it through and not really knowing why is a big part of the story,
+but I feel like we need insight into some inciting event. Especially given that
+it's the extreme-ness of *how* she did it that leads to the climax and denoument
+of the story.
