@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 43973
-    characters_total: 54901
-    file: ./work/claw17/disappearance.md
-    paragraphs: 374
+    characters_real: 44918
+    characters_total: 56075
+    file: ./work/claw17/disappearance/index.md
+    paragraphs: 377
     type: jekyll
-    words: 10832
+    words: 11061
 layout: draft
 title: Disappearance
 ---
