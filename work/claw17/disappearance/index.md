@@ -112,7 +112,7 @@ The garage had been my space, and is the last to get torn down. We'd rented half
 
 I eviscerate my old camping gear. I trusted Jarred to never pull himself away from his computer long enough to even consider camping. So much time at the keyboard, so little to spend elsewhere; so much time spent on him, so little on anyone else.
 
-My easel is easy to deal with, since I just tip it over. The rickety thing clatters to pieces just shy of the front bumper of the car. A sketch of a painting, burgundy on black, lands askew. Boxes containing old clothes are turned out. A clock is broken most carefully.
+My easel is easy to deal with: I just tip it over. The rickety thing clatters to pieces just shy of the front bumper of the car. A sketch of a painting, burgundy on black, lands askew. Boxes containing old clothes are turned out. A clock is broken most carefully.
 
 Jarred and I, we'd never hidden anything together, but I have to look thorough.
 
@@ -340,7 +340,7 @@ I've never seen her out of the shop, but I think about her every time I walk or 
 
 -----
 
-My brushstrokes are confident, each one is a smooth arc describing edges and boundaries, or perhaps reinforcing color.
+My brush-strokes are confident, each one is a smooth arc describing edges and boundaries, or perhaps reinforcing color.
 
 The panel had been given to me burgundy, and I'd chosen to leave it that way, painting within that dark red surface rather than covering it up. I painted in black, and I painted only shadows, not details, as though the scene were blown out towards white and the contrast turned to a hundred percent.
 
@@ -348,7 +348,7 @@ It had started as an abstract gesture of a face, angular and canine, but had slo
 
 Aurora as seen from the bar, cheek on fist, staring out of frame. The shape of her muzzle, the tilt of her ears, both familiar and new.
 
-My brushstrokes are confident. Black and red, no need for another color.
+My brush-strokes are confident. Black and red, no need for another color.
 
 "Season's winding down."
 
@@ -406,7 +406,7 @@ Adam laughs at this and stretches his legs out, splaying webbed toes. "Fair enou
 
 "That too, yeah. Took you a while to grow into the punky bit, but you're getting there."
 
-My turn to laugh. "Just missing the get-up, I guess. Second hand shirts and jeans miss the mark a little."
+My turn to laugh. "Just missing the get-up, I guess. Second-hand shirts and jeans miss the mark a little."
 
 "Mmhm. And you ought to get a piercing." Adam slides out of the chair and stands, using his thick tail to give the table a thwack. "And it's good to see you painting."
 
@@ -538,7 +538,7 @@ Aurora's car is very...*her.*
 
 I don't really know how to put it otherwise. It's sensible, as she is; it's filled with books and stacks of paper, as her bag is; it's not messy, but it's got a lot going on, like her.
 
-Still sniffling, I wait as she moves a sheaf of papers held together with a binder clip from the passenger seat to the back. Then I swipe my tail and skirt out of the way and slouch into the seat, clumsily clicking the seatbelt in place with one hand, the other still holding the half-full cup of water.
+Still sniffling, I wait as she moves a sheaf of papers held together with a binder clip from the passenger seat to the back. Then I swipe my tail and skirt out of the way and slouch into the seat, clumsily clicking the seatbelt in place with one paw, the other still holding the half-full cup of water.
 
 The car smells of her, too. My nose is doing about as well as anyone's would after so much crying, but I can tell that much. It smells like when she held me. It smells familiar, like something from years ago. Years and years. I have to swallow down a rising wave of guilt and terror.
 
@@ -602,7 +602,7 @@ She turns, mouth open to ask again, when I grab at her paw and rush to cut her o
 
 "Whoa, hey!" she says, raising her voice to cut off my stream of babbling. She looks startled, but not angry. "It's totally okay but--hey..."
 
-I've started crying in earnest again. *Looking a fool, standing there holding a girl's hand, tears pouring down your cheeks.* I manage a strangled laugh, though it's caught up in a sob. *Looking fucking crazy.*
+I've started crying in earnest again. *Looking a fool, standing there holding a girl's paw, tears pouring down your cheeks.* I manage a strangled laugh, though it's caught up in a sob. *Looking fucking crazy.*
 
 Perhaps as an echo from the café, Aurora takes charge. She guides me over to my bed, and sits me down on it before settling in next to me and just holding me, arms around my shoulders.
 
@@ -654,7 +654,7 @@ I hunt for words as best I can. "Maybe I just...I don't know. I haven't touched 
 
 Aurora gives a short bark of a laugh at that, then lays her ears back again apologetically. "Sorry. You mean not at all?"
 
-"Well, sure, I mean. I shook hands with Adam and Stefan, whatever. I've *touched*, yeah, but just nothing like this"
+"Well, sure, I mean. I shook paws with Adam and Stefan, whatever. I've *touched*, yeah, but just nothing like this"
 
 At that her expression softens and she nods. "Been a while, huh?"
 
