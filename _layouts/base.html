@@ -85,7 +85,7 @@
                         {% if page.rating %}<em> - Rated: {{ page.rating }}</em>{% endif %}</li>
                     </p>
                 {%endif%}
-                {% if page.layout == 'post' or page.layout == 'serial-post' and page.counts %}
+                {% if page.layout == 'post' or page.layout == 'serial-post' or page.layout == 'draft' and page.counts %}
                     <p class="text-muted small">
                         {{ page.counts.paragraphs }} {% if page.counts.paragraphs == 1 %}paragraph{% else %}paragraphs{% endif %} &bullet;
                         {{ page.counts.words }} words
