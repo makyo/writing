@@ -88,13 +88,13 @@ Everything's neat. Not too neat, of course, as I can't keep up with Jarred's sta
 
 Poor Jarred. Ah well.
 
-Once my account of the house is done, I start to dismantle the life I'd built up for myself. I unwind it in slow, circular passes of the apartment, starting from the ground up. I carefully destroy what I was.
+Once my account of the house is done, I begin to dismantle the life I'd built up for myself. I unwind it in slow, circular passes of the apartment, starting from the ground up. I carefully destroy what I was.
 
 I slowly untick a checklist, item by item, of the things that got me where I am, made me who I am.
 
 Drawers are tugged open and clothing strewn haphazardly about the floor. The bed sheets are pulled free of the mattress and shredded with my claws to look as though it was all done in haste.
 
-It's not. It's all careful. I have to be quiet for the neighbors, and I have to be deliberate for myself, even if it is like watching someone else work.
+It's not. It's all careful. I have to be quiet for the neighbors, and I have to be deliberate for myself, even if it does feel like watching someone else work.
 
 The mattress is thrown askew as though someone had been digging for cash beneath it. The bathroom is mostly left alone, but pill bottles are dumped in the sink, looking like someone was hunting for something more interesting than aspirin. The top shelf of the closet is ransacked, with shoes thrown on the floor and the contents of my jewelry box tucked away in a backpack, along with Jarred's nice watch. I didn't care for the stuff, but I knew a burglar would.
 
@@ -106,7 +106,7 @@ The bookshelf is dismembered as quietly as I can manage. Books are pulled off in
 
 The couch is shredded and exposed just as the bed had been. Nothing there, beneath those torn cushions.
 
-The kitchen is next. I step quietly over the pile of books and in there. There's a cursory pass of the fridge and cabinets: pushing glasses and food to the sides to expose the backs of them. My concession to looking hasty is to put a glass in a plastic bag and crush it under my foot, then scatter the shards over the counter and onto the floor. A very careful 'whoops'.
+The kitchen is next. I step quietly over the pile of books and head on in. There's a cursory pass of the fridge and cabinets: pushing glasses and food to the sides to expose the backs of them. My concession to looking hasty is to put a glass in a plastic bag and crush it under my foot, then scatter the shards over the counter and onto the floor. A very careful 'whoops'.
 
 The garage had been my space, and is the last to get torn down. We'd rented half a duplex and paid extra for the side with the attached garage, which I'd claimed for all of my painting stuff, but which was under constant threat of being slowly consumed by junk.
 
@@ -156,7 +156,7 @@ I have made a huge mistake.
 
 If I were a smarter lady, I would've spent more energy figuring out what to do once I got here than what I spent on that hour of unwinding my previous life.
 
-I can stay here, of course. There's a long-stay hotel that doesn't side-eye my cash too much, and there's a little kitchenette with a two burner stove that's plenty for cooking for myself. Getting groceries with cash is as easy as expected.
+I can stay here, of course. There's a long-stay hotel that doesn't side-eye my cash too much, and there's a little kitchenette in the room with a two burner stove that's plenty for cooking for myself. Getting groceries with cash is as easy as expected.
 
 But I can't get a job.
 
@@ -272,7 +272,7 @@ Maybe I just figured I'd own it. I got the cheek brands, after all; might as wel
 
 Tonight, I'm dyeing a diamond shape into the white down my front. It'll sit just above my breasts, with a tendril curling down beneath them, and another tendril curling up over my front to my neck. I can hide it with a scarf if I need, but otherwise, it'll peek up from above my shirt. Just a little tease. One that could go 'sexy' when I want, or just 'artsy' otherwise.
 
-The thought's actually quite embarrassing, but it's been a long time since sex. Jarred and I were pretty into it at first, but then it became routine, then scarce. We hadn't fucked for a month before I took off, and since then I'd been too busy hiding to worry about it.
+The thought's actually quite embarrassing, but it's been a long time since sex. Jarred and I were pretty into it at first, but then it became routine, and then scarce. We hadn't fucked for a month before I took off, and since then I'd been too busy hiding to worry about it.
 
 With this new arrangement with Adam, though, I don't know.
 
@@ -310,7 +310,7 @@ I head out by one thirty or two to dash back to Adam's and start getting folks c
 
 Things clear up by five, and sometimes I head back to Starry Night. At that point, it's mostly a social thing. If I'm not chilling out back of the office with Adam, I'm here at the café. If not either, I'm painting. I've gotten about a third of the ceiling tiles done.
 
-The movement of people is interesting up close, following the ways in which people move and change throughout the day. The before-coffees and the nine-AM-bounces and the post-lunch-siesta. The perking of ears and the bristling of whiskers. The droop of a tail and a stifled yawn.
+The movement of people is fascinating up close, following the ways in which people move and change throughout the day. The before-coffees and the nine-AM-bounces and the post-lunch-siesta. The perking of ears and the bristling of whiskers. The droop of a tail and a stifled yawn.
 
 When you zoom out, though, it's grains of sand just below high tide. The tide rolls in, and there's a chaotic dance of spiraling movement. Each wave brings cars cycling around parking lots, small collisions of bodies, crimped tails, tantrums weighing down parents.
 
@@ -336,7 +336,7 @@ Once she's finished the soda water, she settles back into the chair and stares o
 
 Then the coyote gets back to work, and, before long, I duck out to help Adam. On the few occasions I've stayed, Aurora will close out the shop with us, saying little but saying it kindly. Her silences, I expect, are a matter of course. They are absolute, and absolutely part of her. A stillness I can only dream of.
 
-I've never seen her out of the shop, but I think about her every time I walk or bus back home. I'll have forgotten by the time I get inside, though, as she's context-shifted around a corner of my mind.
+I've never seen her out of the shop, but I think about her every time I walk or bus back home. I'll have inevitably forgotten by the time I get inside, though, as she's context-shifted around a corner of my mind.
 
 -----
 
@@ -354,7 +354,7 @@ My brush-strokes are confident. Black and red, no need for another color.
 
 "Mmm."
 
-Adam laughs and shakes his head, plopping down beside, then melting further into the deck chair.
+Adam laughs and shakes his head, plopping down, then melting further into the deck chair.
 
 "S'good to see you painting, you know."
 
@@ -466,7 +466,7 @@ Stefan shrugs, "Sure thing. Maybe I'll take off early, then. You okay closing up
 
 "Mmhm," I nod. "Wipe everything down, put all the food away, put the chairs up, steal all the money from the drawer..."
 
-At that, the wolf laughs. "No more than ten percent, please. And girlie," he reaches out and pinches my ear between his claws. "Get your ears pierced with all sorts of crap or something so you can turn into a real punk. You're too wholesome-looking to be thieving."
+The wolf laughs. "No more than ten percent, please. And girlie," he reaches out and pinches my ear between his claws. "Get your ears pierced with all sorts of crap or something so you can turn into a real punk. You're too wholesome-looking to be thieving."
 
 "Adam suggested the same thing. This town must be in sore need of a punk."
 
@@ -638,7 +638,7 @@ The coyote frowns down to me, ears splayed in embarrassment. "I wanted to. It fe
 
 "No!" I realize how loud that was and smile sheepishly up to her. "No, it was nice. Real nice."
 
-That slightly silly grin comes back, tugging on buried memories. Memories of a latrans grin. "Good," she says, leaning in to press another kiss to my muzzle. I press more readily into the kiss this time, sliding my arms up around her shoulders.
+That slightly silly grin comes back, tugging on buried memories. Memories of a latrans grin. "Good," she says, leaning in to press another kiss to my muzzle. I return this one more readily than the last, sliding my arms up around her shoulders.
 
 This goes over quite well. Aurora seems to have taken it as a sign, and leans down over me more assertively, paws planted to either side of me. After a moment's hesitation, she leans up a little further onto her knees and shifts one up over me until she's straddling my waist. She's bigger than me, weighs more than I do. Maybe it's the way she carries herself, but her weight is more comforting than heavy.
 
@@ -664,13 +664,13 @@ I nod.
 
 I nod again and lean up to give her a quick kiss. "Yeah, very."
 
-She nods, muzzle dipping to turn that into something of a nuzzle, and I can feel her nose tracing along one of those white bands of fur on my cheek, then under my chin, dipping down to tease at the coil of blue fur peeking up above the scoop-neck of my shirt, faded now to more of an aqua than true blue. Her soft, low voice is muffled by my fur, "This is okay, too?"
+She nods, muzzle dipping to turn that into something of a nuzzle, and I can feel her nose tracing along one of those white bands of fur on my cheek, then under my chin, dipping down to tease at the coil of blue fur --- faded now to more of an aqua --- peeking up above the scoop-neck of my shirt. Her soft, low voice is muffled by my fur, "This is okay, too?"
 
-Without tucking my muzzle uncomfortably low, all I can really see are her ears, so I lean forward to press a kiss between them, fur and familiar scent tickling at my nose. "Mmhm." I've given up saying more.
+Without tucking my muzzle uncomfortably low, all I can really see are her ears, so I lean forward to place a kiss between them, fur and familiar scent tickling at my nose. "Mmhm." I've given up saying more.
 
 Aurora responds with a kiss of her own against my sternum. It's a ticklish sort of feeling, and my squirming gets a giggle, muffled as before against my chest. She settles down from her crouch above me, bringing her paws from by my shoulders to brush along my sides as she rests more fully against my front. I slip my own arms from around her until it's just my paws on her shoulders.
 
-The sheer exhilaration of physical contact seems to be filling my mind --- or at least that empty void within that I've only been able to tiptoe around --- with something new. Something *else.* Something other than low-level anxiety. I can close my eyes and not wind up in some horrible hopelessness. I can just be here. Goodness knows why, but I can just be here.
+The sheer exhilaration of physical contact seems to be filling my mind --- or at least that empty void within that I've only been able to tiptoe around --- with something new. Something *else.* Something other than low-level anxiety. I can close my eyes and not wind up in some horrible hopelessness. I don't have to think, I can just be here. Goodness knows why, but I can just be here.
 
 I jolt to awareness from my wandering thoughts and tense up, and Aurora's paws pause halfway up my sides. Her fingers and claws are buried in my fur with t-shirt cloth bunched around her wrists. We both hold still in that silence, a few long seconds of just our breaths. For once I don't rush to fill it with words, and simply settle back down, relaxing into her grasp.
 

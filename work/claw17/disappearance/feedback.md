@@ -25,6 +25,7 @@
 * Rob
     - asked
     - sent
+    - *received*
 * Sparf
     - asked
     - sent
@@ -269,3 +270,13 @@ not thinking it through and not really knowing why is a big part of the story,
 but I feel like we need insight into some inciting event. Especially given that
 it's the extreme-ness of *how* she did it that leads to the climax and denoument
 of the story.
+
+-----
+
+## Rob
+
+Dual apologies. I know you're supposed to start with the good, and then have criticism, and then end with the good? >.> But instead I'll start with two apologies, one for taking so long to read this and two for not having anything substantive in terms of criticism. I have the file open with track-changes on and there are no changes to track.
+
+It's really great. If I had to describe it, it's you at your best: the characters are absolutely fantastic, and the little details you use for setting them up and for putting the setting in context work perfectly. I loved this. In the overlap of literature and erotica this is definitely literature with a sliver of the erotic tantalizing it at one edge, but honestly I think that works super well for the story. You could expand it, and make it more sensory, but so much of the story in other ways is cerebral and detached that I'm not sure taking it to that level would actually serve the story's interests. It feels contemplative and it's a look that the story wears very, very well.
+
+Some really gorgeous writing in here, put to really gorgeous effect. I'd love to be able to say something more eloquent than that, but you seem to have a pretty good handle on eloquence :)
