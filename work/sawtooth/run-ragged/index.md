@@ -6,33 +6,9 @@ counts:
     paragraphs: 47
     type: jekyll
     words: 1885
-layout: page
-title: Run Ragged (CLAW)
+layout: draft
+title: Run Ragged
 ---
-
-1. Married couple, woman with OCD (Sélène), Aiden getting more and more frustrated, Sélène getting more and more anxious that she's pushing her husband (Aiden) away, making symptoms worse, trichotillomania
-2. Aiden storms out at one point, Sélène left a mess, calls "unrequited" crush/friend who comes over, feels bad for Sélène, stops her from picking at herself and pacing by hugging, telling Sélène to pick at her own fur
-3. They get closer, hint at sleeping together.
-4. Panic attack next night about what happened, what will Aiden think, etc, Aiden hollers, sleeps on the couch
-5. Aiden admits to sleeping with coworker (Aaron) and his wife (Erin), suggests just opening relationship because he can't provide what Sélène needs but wants to stay together, crush/friend to be integral/semi-romantic/intimate part of support network
-6. Malina's husband (Cyril) disagrees, friend has to pull back, everything gets tense, Sélène left in weird limbo, mental health spirals, some psychosis (each tug of fur an ablution, each spike of pain sending up a magnesium flare to light that darkness), hospitalized, bipolar 1
-7. Malina starts helping Sélène get what she needs, acting as sponsor
-8. They start seeing each other in secret (maybe the end?)
-
-* Sélène (French/Greek) - Relating to the moon (macro: without accents)
-* Aiden (Irish, from Étaín) - Sun god/goddess, diminutive of ét: passion/jealousy
-* Malina (Inuit) - Strong sun goddess, not gonna put up with jealous men
-* Cyril (Greek) - Lordly, masterful
-
-Obsession | Compulsion
----|---
-Afraid something got trapped in cabinets/closets/fridge/oven | Keeps checking, leaves cabinets open, etc
-Afraid of hitting someone while driving | can't drive or, later, ride in a car
-Fur and claws being infected | Picking, cleaning, filing, getting infections because of, reinforces
-Husband and friends dying, relationship-rightness with Aiden | Checking on others, pestering Aiden about whether things are working
-Other minor ones: doors latching, oven/stove being left on, lights off, being up to date with "federated feeds" (news, social) | checking
-
------
 
 Sélène made a quick pass through the kitchen, fingers brushing along the rims of cabinet doors. Each one was opened and inspected, leaving her standing on tiptoes to peer in the cabinets above the counters. Nothing but cups and glasses, plates and bowls, cutting boards and pots and pans and trays and dishes. All clean and neatly stacked.
 
@@ -148,7 +124,7 @@ The narrator's voice droned on through the second half of the documentary, and n
 
 Friday was a work-from-home day. It was always a bit of a relief for both her and Aiden. It was time away from all of the awkwardly shaped stresses of the office for her, a time with the more familiarly shaped stresses of home. And it was a time for Aiden to relax, drive as he pleased, go eat out. He had once joked that he would, on occasion, duck over to a nearby coworker's home to join him and his wife in cooking a gloriously uncomplicated meal.
 
-When Selene received her permission letter, it had been a joy and a relief. Getting the letter had been humiliating, as had the request from HR. They had been so positive about it, so supportive, and so clueless. Lots of "we just need to make sure" and "we want you to be safe, but also present". She *was* present. She was just *too* present.
+When Sélène received her permission letter, it had been a joy and a relief. Getting the letter had been humiliating, as had the request from HR. They had been so positive about it, so supportive, and so clueless. Lots of "we just need to make sure" and "we want you to be safe, but also present". She *was* present. She was just *too* present.
 
 Work had known this, hiring her, too. She had made it clear in her cover letter when applying, and had repeated it (and repeated it, and repeated it) during the interview. Aiden had had to talk her through a night of anxious pacing and had even requested she turn her phone to net-only mode so that she wouldn't be so tempted to call and reassure her potential employers yet again that she had OCD but was willing to do everything she could.
 
@@ -166,7 +142,7 @@ HR had called her in one day for a meeting. It was a toss-up as to who was more 
 
 That's when she'd asked about working remote.
 
-When Selene had first set up this arrangement with her employer, she had imagined that remote days would be far easier than working from the office.
+When Sélène had first set up this arrangement with her employer, she had imagined that remote days would be far easier than working from the office.
 
 She was half right. At first, it had been much easier. The fact of just how terrifying driving was --- there was doubtless some helpful exercise her therapist would come up with --- combined with the completely uncontrolled and uncontrollable nature of the office weighed her down and left her anxieties scrabbling for purchase.
 
