@@ -12,9 +12,9 @@ title: Run Ragged (CLAW)
 
 1. Married couple, woman with OCD (Sélène), Aiden getting more and more frustrated, Sélène getting more and more anxious that she's pushing her husband (Aiden) away, making symptoms worse, trichotillomania
 2. Aiden storms out at one point, Sélène left a mess, calls "unrequited" crush/friend who comes over, feels bad for Sélène, stops her from picking at herself and pacing by hugging, telling Sélène to pick at her own fur
-3. They fuck
+3. They get closer, hint at sleeping together.
 4. Panic attack next night about what happened, what will Aiden think, etc, Aiden hollers, sleeps on the couch
-5. Aiden suggests opening relationship because he can't provide what Sélène needs but wants to stay together, crush/friend to be integral/semi-romantic/intimate part of support network
+5. Aiden admits to sleeping with coworker (Aaron) and his wife (Erin), suggests just opening relationship because he can't provide what Sélène needs but wants to stay together, crush/friend to be integral/semi-romantic/intimate part of support network
 6. Malina's husband (Cyril) disagrees, friend has to pull back, everything gets tense, Sélène left in weird limbo, mental health spirals, some psychosis (each tug of fur an ablution, each spike of pain sending up a magnesium flare to light that darkness), hospitalized, bipolar 1
 7. Malina starts helping Sélène get what she needs, acting as sponsor
 8. They start seeing each other in secret (maybe the end?)
@@ -90,7 +90,7 @@ Aiden talked to her about his upcoming day throughout the drive in his calm, soo
 
 He put up with her, too; that was the best thing about him.
 
-That was one thing that always calmed her. All of the things that made her life difficult, all those obsessions and rituals, they all didn't feel like so much work when she thought about Aiden and the way he cared about her. She could as him if he was alright a million times, and he would always say yes. If he was upset about work or money, he would say that he was okay, and then explain his frustrations.
+That was one thing that always calmed her. All of the things that made her life difficult, all those obsessions and rituals, they all didn't feel like so much work when she thought about Aiden and the way he cared about her. She could ask him if he was alright a million times, and he would always say yes. If he was upset about work or money, he would say that he was okay, and then explain his frustrations.
 
 Everyone else moved so much faster than he did, so haphazardly. There was so much noise and so much movement. So many ways for things to go wrong, so many missed opportunities to make sure someone else was okay.
 
@@ -145,3 +145,31 @@ Sélène set to petting, brushing her claws lightly through fur, combing lazy ro
 The narrator's voice droned on through the second half of the documentary, and neither fox noticed when it stopped and looped back to the loading screen. The motions of the vixen's petting had become hypnotic for them both: Aiden had nodded off, and Sélène wasn't far behind.
 
 -----
+
+Friday was a work-from-home day. It was always a bit of a relief for both her and Aiden. It was time away from all of the awkwardly shaped stresses of the office for her, a time with the more familiarly shaped stresses of home. And it was a time for Aiden to relax, drive as he pleased, go eat out. He had once joked that he would, on occasion, duck over to a nearby coworker's home to join him and his wife in cooking a gloriously uncomplicated meal.
+
+When Selene received her permission letter, it had been a joy and a relief. Getting the letter had been humiliating, as had the request from HR. They had been so positive about it, so supportive, and so clueless. Lots of "we just need to make sure" and "we want you to be safe, but also present". She *was* present. She was just *too* present.
+
+Work had known this, hiring her, too. She had made it clear in her cover letter when applying, and had repeated it (and repeated it, and repeated it) during the interview. Aiden had had to talk her through a night of anxious pacing and had even requested she turn her phone to net-only mode so that she wouldn't be so tempted to call and reassure her potential employers yet again that she had OCD but was willing to do everything she could.
+
+"We are happy to welcome you to the team with the position of junior editor," the acceptance letter had said. "We are eager to help you achieve all that you can in your work life. Please see HR about additional accommodations during orientation."
+
+And they did try. She was the cubicle furthest from the kitchen. They special-ordered her a desk which was a simple, flat table with no pesky drawers or cabinets. They provided her with a laptop --- paid for in installments direct from her paycheck --- instead of a desktop. It came pre-loaded with all the stuff she'd need, as well as some stuff she didn't, but found useful anyway. The time-sensitive monitor dimming software was nice, so she left that on, and she used the timed-break software to dictate when she could check her feeds.
+
+It just hadn't been quite enough. Nothing ever was, with OCD.
+
+Her cubicle being so far away from it hadn't necessarily kept her from the work kitchen. There had been several instances of her getting caught prowling through the cupboards. Caught by coworkers she didn't know well enough to explain *why* she she had to leave the cabinets open.
+
+She got a get-well-soon card addressed to her husband after she called to check on Aiden on every break and several times besides. She had accepted the card as gracefully as she could, stammering out a lie about a death in the family.
+
+HR had called her in one day for a meeting. It was a toss-up as to who was more anxious, her or the fretful mouse saying, "This is totally confidential, but one of your coworkers has been concerned about the appearance of your fur, and has asked me to pass this on." On the printout she was given were several domestic abuse hot-lines.
+
+That's when she'd asked about working remote.
+
+When Selene had first set up this arrangement with her employer, she had imagined that remote days would be far easier than working from the office.
+
+She was half right. At first, it had been much easier. The fact of just how terrifying driving was --- there was doubtless some helpful exercise her therapist would come up with --- combined with the completely uncontrolled and uncontrollable nature of the office weighed her down and left her anxieties scrabbling for purchase.
+
+Home was where all the particulars lived, and so home housed all of her particular anxieties. After a week of trying to work from the living room, Aiden helped her move her setup to the breakfast bar in the kitchen. It was a less-than-ideal solution, but, on bad days, she would at least be quick about checking the cabinets.
+
+Home is also where it felt okay to check her feeds. She began using the ergonomics software that timed her breaks in earnest, putting her phone in the other room
