@@ -12,15 +12,15 @@ title: Run Ragged Notes
 7. Malina starts helping Sélène get what she needs, acting as sponsor
 8. They start seeing each other in secret (maybe the end?)
 
-* Sélène (French/Greek) - Relating to the moon (macro: without accents)
-* Aiden (Irish, from Étaín) - Sun god/goddess, diminutive of ét: passion/jealousy
-* Malina (Inuit) - Strong sun goddess, not gonna put up with jealous men
-* Cyril (Greek) - Lordly, masterful
+* Sélène (French/Greek) - Relating to the moon (macro: without accents) - fox
+* Aiden (Irish, from Étaín) - Sun god/goddess, diminutive of ét: passion/jealousy - fox
+* Malina (Inuit) - Strong sun goddess, not gonna put up with jealous men - badger
+* Cyril (Greek) - Lordly, masterful - badger
 
-Obsession | Compulsion
+Obsession | Compulsion | Cause
 ---|---
-Afraid something got trapped in cabinets/closets/fridge/oven | Keeps checking, leaves cabinets open, etc
-Afraid of hitting someone while driving | can't drive or, later, ride in a car
-Fur and claws being infected | Picking, cleaning, filing, getting infections because of, reinforces
-Husband and friends dying, relationship-rightness with Aiden | Checking on others, pestering Aiden about whether things are working
-Other minor ones: doors latching, oven/stove being left on, lights off, being up to date with "federated feeds" (news, social) | checking
+Afraid something got trapped in cabinets/closets/fridge/oven | Keeps checking, leaves cabinets open, etc | Locked in a cabinet as a kid by mom as drunken punishment
+Afraid of hitting someone while driving | can't drive or, later, ride in a car | Making sure others are alright (viz social anxiety below)
+Fur and claws being infected | Picking, cleaning, filing, getting infections because of, reinforces | Never being groomed enough for mom
+Husband and friends dying, relationship-rightness with Aiden | Checking on others, pestering Aiden about whether things are working | Having to make sure mom was okay, would be seen as ignoring/ungrateful if not
+Other minor ones: doors latching, oven/stove being left on, lights off, being up to date with "federated feeds" (news, social) | checking | High anxiety

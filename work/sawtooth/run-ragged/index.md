@@ -80,7 +80,7 @@ The diagnosis had been fine. Her family dealt with her getting steadily worse ov
 
 She remembered thinking before nodding off that night, "Fine, okay, it's just me." It had been depressing, but it knocked her resentment of her family out almost entirely.
 
-Aiden one-upped all of her family's care: he'd fallen in love with her, he said, whether or not she checked all the cabinets to ensure nothing --- or no one --- was stuck, slowly starving to death. He'd gotten her more than just meds, he'd gotten her therapy. A doctor who was working with her on a steady program of exposure: "Next time you're in the kitchen, walk in, take a glass from the cabinet, pour yourself a glass of water, and walk out. Think about how that feels." Little steps, over and over.
+Aiden one-upped all of her family's care: he'd fallen in love with her, he said, whether or not she checked all the cabinets to ensure nothing --- or no one --- was stuck, slowly starving to death. He'd gotten her more than just meds, he'd gotten her therapy. A doctor who was working with her on a steady program of exposure: "Next time you're in the kitchen, walk in, take a glass from the cabinet, pour yourself a glass of water, and walk out. Think about how that feels." Little steps, over and over. Her family tried to hide her, Aiden tried to help her.
 
 And he'd gotten her more than just meds and therapy, he'd gotten her him.
 
@@ -132,7 +132,7 @@ Work had known this, hiring her, too. She had made it clear in her cover letter 
 
 And they did try. She was the cubicle furthest from the kitchen. They special-ordered her a desk which was a simple, flat table with no pesky drawers or cabinets. They provided her with a laptop --- paid for in installments direct from her paycheck --- instead of a desktop. It came pre-loaded with all the stuff she'd need, as well as some stuff she didn't, but found useful anyway. The time-sensitive monitor dimming software was nice, so she left that on, and she used the timed-break software to dictate when she could check her feeds.
 
-It just hadn't been quite enough. Nothing ever was, with OCD.
+It just hadn't been quite enough. Nothing ever was, with OCD, perhaps by its very definition.
 
 Her cubicle being so far away from it hadn't necessarily kept her from the work kitchen. There had been several instances of her getting caught prowling through the cupboards. Caught by coworkers she didn't know well enough to explain *why* she she had to leave the cabinets open.
 
@@ -148,4 +148,44 @@ She was half right. At first, it had been much easier. The fact of just how terr
 
 Home was where all the particulars lived, and so home housed all of her particular anxieties. After a week of trying to work from the living room, Aiden helped her move her setup to the breakfast bar in the kitchen. It was a less-than-ideal solution, but, on bad days, she would at least be quick about checking the cabinets.
 
-Home is also where it felt okay to check her feeds. She began using the ergonomics software that timed her breaks in earnest, putting her phone in the other room
+Home is where her grooming kit was --- something Aiden made sure she never brought to the office. Picking and over-grooming was a problem, but one that could be solved eighty percent of the way by just not having access to grooming implements. Her claws were only so good, after all.
+
+Home is also where it felt okay to check her feeds. She began using the ergonomics software that timed her breaks in earnest, putting her phone in the other room and only checking it when the software told her to put a break. Or at least trying to.
+
+Some days, days like today, it felt like the only anxiety remote days solved was that which surrounded driving.
+
+Today, Sélène suspected the uptick in anxiety was due to the night before. Aiden had been so stressed, and she'd done her best to be something positive for him. She had borrowed sanity from today, she figured. Last night, she'd pushed aside anxiety to cook and watch TV and pet, and today she was paying for it.
+
+Work was obscured by a constant cloud of half-formed fears. Her thoughts were obscured by subtle corruptions, with so much *un*-rightness, *un*-wellbeing. Her view was filled with cabinets thrown wide open, the oven door hanging slack in an unchanging yawn. And still she felt that trapped feeling, that fear of being locked in total darkness, too cramped to move, air too thick to breathe.
+
+When her break timer went off, she dashed through the kitchen, pausing only to make sure that the cabinets on the other side of the breakfast bar, and skittered out into the living room to grab at her phone. Anything to scratch one of those myriad itches. Anything for some breathing room.
+
+By the time she had curled on the couch, she'd already gotten her phone unlocked and her feeds open. There was nothing before her but her phone and the cushions at the back of the couch, nothing behind her but an empty room. She'd curled with her head toward her end of the couch, since she knew she'd have to call Aiden if all she could smell was him at his end.
+
+One news item. Fluff story about mod shops.
+
+Two social updates. High school friend posting a selfie (not a good one, could see up his nose), and Malina talking about food.
+
+She ignored the selfie, but left her thumb-pad hovering over Malina's post.
+
+She tried not to pester her neighbor too much. The badger was endlessly patient. Cyril, her husband, made no pretense of not understanding Selene, but did try to make her feel welcome. Perhaps because of that kindness, she always felt like she was intruding.
+
+She held her breath, counted to three, and tapped at Malina's icon, racing to type out a message and hit send before letting out her pent-up breath in a puff.
+
+> Hey! What's cooking?
+
+Clutching at her phone, she stifled a whine on rereading her message. *What's cooking* was an idiom, right? Was she being confusing? Did she use it right? What if-
+
+> Casserole! Want me to save you some?
+
+The whine slipped into more of a grumble, a soft curse at herself.
+
+> Why not! Home all day.
+
+> Want some lunch company?
+
+Selene's tail, already bottlebrushed out and full of nervous twitches, nearly tugged her off the couch. She slipped a paw down along it and held onto the tip, thumb teasing through the fur.
+
+> Would love some.
+
+She promised herself that this was a bonus, and not her intent in pinging her stay-at-home neighbor. She wasn't quite sure she believed herself, though. Either way, the company --- any distraction --- would make a better lunch than that constant, low-level buzz of anxiety.
