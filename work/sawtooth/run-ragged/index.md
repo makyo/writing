@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 8543
-    characters_total: 10469
-    file: ./work/claw17/run-ragged.md
-    paragraphs: 47
+    characters_real: 14901
+    characters_total: 18319
+    file: ./work/sawtooth/run-ragged/index.md
+    paragraphs: 90
     type: jekyll
-    words: 1885
+    words: 3379
 layout: draft
 title: Run Ragged
 ---
@@ -174,7 +174,7 @@ She held her breath, counted to three, and tapped at Malina's icon, racing to ty
 
 > Hey! What's cooking?
 
-Clutching at her phone, she stifled a whine on rereading her message. *What's cooking* was an idiom, right? Was she being confusing? Did she use it right? What if-
+Clutching at her phone, she stifled a whine on rereading her message. *What's cooking* was an idiom, right? Was she being confusing? Did she use it right? What if--
 
 > Casserole! Want me to save you some?
 
