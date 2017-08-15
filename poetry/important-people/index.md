@@ -202,3 +202,22 @@ And now we're
 Awaiting weeks
 Of careful touches.
 </div>
+
+-----
+
+<div class="verse">
+I could never tell you
+that you feel too much.
+That you feel too hard,
+or that your feelings
+overwhelm and overtake you.
+
+I could never tell you
+how beautiful that is.
+That I wish I could feel those things,
+that I wish I could feel that way.
+
+All I can tell you
+is how beautiful you are
+when you feel love.
+</div>

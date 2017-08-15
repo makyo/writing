@@ -20,6 +20,7 @@ Works of poetry are posted here in reverse chronological order. All of the poetr
 
 ---|---
 Ongoing    | [Unimportant verse about important people](important-people)
+2017-08-14 | [Every time I fall](every-time-i-fall)
 2017-06-03 | [Bruise Vision](bruise-vision)
 2017-02-20 | [Heligoland](heligoland)
 2017-02-12 | [A rose, single, now blooming](a-rose-single-now-blooming)
@@ -33,3 +34,4 @@ Ongoing    | [Unimportant verse about important people](important-people)
 2016-11-14 | [When I fall, I will remain whole](when-i-fall-i-will-remain-whole)
 2015-10-14 | [Being Transgender](being-transgender)
 2015-03-06 | [The Dogs Assure Me](the-dogs-assure-me)
+2004-05-04 | [High School Poetry Notebook](high-school-poetry-notebook)
