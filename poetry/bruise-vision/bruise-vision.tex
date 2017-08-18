@@ -1,0 +1,77 @@
+\documentclass[10pt]{memoir}
+
+%%% Resets
+% memoir defines footruleskip, we want fancyhdr's
+\let\footruleskip\undefined
+\DisemulatePackage{setspace}
+
+%%% Packages
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{lastpage}
+\usepackage{parcolumns}
+\usepackage{setspace}
+\usepackage{verse}
+
+%%% Font
+\usepackage{fontspec}
+\setmainfont{Gentium Book Basic}
+\newfontfamily\pfdfamily{Playfair Display}
+\newfontface\pfdfont{Playfair Display}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+\usepackage[none]{hyphenat}
+\renewcommand{\chapterheadstart}{}
+\renewcommand{\printchaptername}{}
+\renewcommand{\chapternamenum}{\pfdfamily\Huge{\itshape\thechapter}}
+\renewcommand{\printchapternum}{}
+\renewcommand{\printchaptertitle}[1]{\pfdfamily\huge\itshape #1}
+\setlength{\leftmargini}{0em}
+\setlength{\vleftmargin}{0em}
+
+%%% Headers/Footers
+\pagestyle{fancyplain}{
+  \fancyhf{}
+}
+
+%%% Spacing
+\usepackage[
+  letterpaper,
+  %paperwidth=5.5in,
+  %paperheight=8.5in,
+  layoutvoffset=1.25in,
+  layouthoffset=1.5in,
+  layoutwidth=5.5in,
+  layoutheight=8.5in,
+  vmargin=0.5in,
+  outer=0.5in,
+  inner=0.75in,
+  includeheadfoot,
+  showcrop,
+  twoside
+]{geometry}
+
+\sloppy
+
+%%% Commands
+\newcommand\secdiv{
+  \begin{center}
+    \S
+  \end{center}
+}
+
+%%% Title
+\title{Collected verse}
+\author{Madison Scott-Clary}
+\date{}
+
+\begin{document}
+  \pagestyle{empty}
+
+  \input{input.tex}
+\end{document}

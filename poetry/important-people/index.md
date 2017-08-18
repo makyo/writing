@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 3064
-    characters_total: 3863
+    characters_real: 3789
+    characters_total: 4809
     file: ./poetry/important-people/index.md
-    paragraphs: 26
+    paragraphs: 34
     type: jekyll
-    words: 716
+    words: 878
 date: 2017-02-23
 layout: post
 title: Unimportant verse about important people
@@ -220,4 +220,14 @@ that I wish I could feel that way.
 All I can tell you
 is how beautiful you are
 when you feel love.
+</div>
+
+-----
+
+<div class="verse">
+<em>Yit'gadal v'yit'kadash sh'mei raba</em>
+Would that I had the faith
+To pray daily.
+Eleven months to let you go,
+And an amen to end the sorrow.
 </div>
