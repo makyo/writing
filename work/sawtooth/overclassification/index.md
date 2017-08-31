@@ -3,6 +3,20 @@ layout: page
 title: Overclassification
 ---
 
+* Chronically neat, chronically unhappy otter, Dani.
+* Works as archivist to satisfy need for neatness.
+* Work and weekend bring no relief from malaise, but do bring cold snap
+* Sunday evening, sees homeless ringtail on pedestrian mall, brings her in
+* She won't tell Dani much, but does keep telling her stories
+* She notices the need for neatness, injects a little chaos in tolerable amounts - new name each day: Anne, Alex, Andrew, Amy, Amber (real name) - mentions OCPD (F60.5)
+* Dani starts talking to her about cataloging
+* They start making up stories to fit into the catalog
+* She makes up a story about Dani
+* They fuck
+* Disappears the next day, cold snap coming to an end
+
+-----
+
 "Some would say that the primary goal of folkloristics is one of anthropology, of understanding a culture's view of itself. I, naturally, disagree." Professor Haswell's voice droned on even in sleep, even these many years later. Dani hated it, hated these dreams. "Folkloristics works from the other direction. It constructs a semiotic niche out of so many *umwelten*..."
 
 How damning was it to have such boring dreams?
@@ -23,23 +37,32 @@ It wasn't the apartment, of course, it was Dani. Even that was obvious: one coul
 
 It wasn't OCD, her therapist had explained --- and she had explained to an ex-girlfriend --- so much as an aspect of personality.
 
-This was back in her undergrad, and she'd initially been hesitant to accept that. Surely an ICD10 code would help. If only she could stack all her problems up into a banker's box and scrawl *F42* across the top in permanent marker.
+This was back in her undergrad, and she'd initially been hesitant to accept that. Surely an ICD10 code would help. A bold *F42 - . If only she could stack all her problems up into a banker's box and scrawl *F42* across the top in permanent marker. This felt like an indictment that she wasn't fixable, just weird.
 
-In grad school, she had met a vixen with OCD in one of the classes she TA'd, and she'd immediately dropped an pretenses of F42-dom for herself. She lacked the raw, primal anxiety that went along with that.
+In grad school, she had met a vixen with OCD in one of the classes she TA'd, and she'd immediately dropped an pretenses of F42-dom for herself. She lacked the raw, primal anxiety that went along with such a thing. She was just weird.
 
 "Maybe not," her ex had said, at her explanation. "But that doesn't make you any less crazy."
 
 Ah well, 'ex' was just another shelf onto which one could put a relationship.
 
-By the time she was coffeed and groomed, all dressed in the usual natty slacks-and-shirt-and-bowtie-and-peacoat, the otter was quite thoroughly sick of this glum mood. There was no reason that work would change that, nor that Friday would bring any relief. None of the others had.d
+By the time she was coffeed and groomed, all dressed in the usual natty slacks-and-shirt-and-bowtie-and-peacoat, the otter was quite thoroughly sick of this glum mood. There was no reason that work would change that, nor that Friday would bring any relief. None of the others had.
 
 -----
 
-(work and weekend bring no relief from malaise, but do bring cold snap)
-(Sunday evening, sees homeless ringtail on pedestrian mall, brings her in)
-(She won't tell Dani much, but does keep telling her stories)
-(Dani starts talking to her about cataloging)
-(They start making up stories to fit into the catalog)
-(She makes up a story about Dani)
-(They fuck)
-(Disappears the next day)
+When Dani was younger, she got caught stealing a pack of blank cards that were used for the card catalog at the Sawtooth Library. That was the only time anyone had ever pulled her tail, too, before it'd gotten too unwieldy to pull. The librarian had caught her under the catalog desk with a pencil in hand and a fresh pack of cards half-opened, and had yanked her out.
+
+When her mom had hauled her out to the car, tail still aching, she had argued that the library *didn't even use the card catalog anymore* and *the books weren't even in order anyway* and *why did Miss Weaver have to pull so hard?*
+
+"It's still stealing, Danielle," her mother had sighed. "And I'll have a talk with Miss Weaver. Why were you even stealing cards? We've got lots of paper at home."
+
+Dani had sulked and grumbled something about wanting to organize things.
+
+The incident had been forgotten for years until a nineteen year old Dani announced that she would be adding a library sciences minor to her anthropology major. Her mother had laughed so hard she'd had to hang up and call back only once she could talk. She still had the pack of catalog cards (which Miss Weaver had grudgingly let young Dani keep) and would mail them soon.
+
+The discovery of the utility of categorizing, sorting, and cataloging things --- an act which previously had felt so pointless --- had been validating in a way she could never explain to her mother. There were boxes. Things were put into them. Sometimes you had to work out which box to use, or if there were actually *two* boxes it went into.
+
+Her degree had turned into one focused on folkloristics, a field she desperately loved, but, unless she went hunting, dominated by the tireless Doctor Haswell. She'd declared a master's degree Enough and moved, full circle, to working in the campus library's archive department.
+
+It was fulfilling work, but, as predicted, did little to lift her mood, of late. It was fulfilling without being good. Comfortable without being pleasant.
+
+She made it through the day, categorizing high-resolution scans of glass-plate negatives, and drove home to another night of plain dinner and a movie she'd seen dozens of times already.
