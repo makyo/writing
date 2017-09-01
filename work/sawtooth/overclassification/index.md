@@ -1,4 +1,11 @@
 ---
+counts:
+    characters_real: 8492
+    characters_total: 10459
+    file: ./work/sawtooth/overclassification/index.md
+    paragraphs: 47
+    type: jekyll
+    words: 1927
 layout: page
 title: Overclassification
 ---
@@ -87,16 +94,16 @@ Dani had always wondered at that. Sometimes, she would stand in the shower, wate
 
 The dishes were finished, her paws were plenty clean, and still she stood, trying to figure out if she could draw a grid in the sink.
 
-> Life within a comfortable grid.
-> Parallel lines
-> &nbsp; &nbsp; Interrupting narrowing circles
+> Life within a comfortable grid.  
+> Parallel lines  
+> &nbsp; &nbsp; Interrupting narrowing circles  
 > &nbsp; &nbsp; of birds in flight.
 
 A snippet of poetry tugged at memory, some bit of drivel she'd written in her undergrad. Something to try and put into words just how her life was organized, how she made order out of chaos.
 
-> Travel in straight lines.
-> Turn at right angles.
-> Trace the roof of your mouth
+> Travel in straight lines.  
+> Turn at right angles.  
+> Trace the roof of your mouth  
 > &nbsp; &nbsp; With wet tongue.
 
 She did that now, finding comfort in the ridges of her palate, each describing a successive concentric circle.
