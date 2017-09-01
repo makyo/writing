@@ -66,3 +66,49 @@ Her degree had turned into one focused on folkloristics, a field she desperately
 It was fulfilling work, but, as predicted, did little to lift her mood, of late. It was fulfilling without being good. Comfortable without being pleasant.
 
 She made it through the day, categorizing high-resolution scans of glass-plate negatives, and drove home to another night of plain dinner and a movie she'd seen dozens of times already.
+
+Her movie habit had started out of necessity for her degree, classifying the stories that she saw and how they were presented. Many of the movies that had wound up on her shelf had done so not out of enjoyment, so much as part of one assignment or another.
+
+She would be hard pressed to tell why she kept watching them, though. She'd park herself on her beanbag, rudder canted off to one side while she poked her way through a plate of pasta. The DVD would be set to play and she would...well, she didn't watch the movies. She didn't watch the movies, she didn't taste the food, she didn't think about whether or not she was comfortable. It was something more than a habit, but less than participation.
+
+Meditation, perhaps? The voices that she knew offering no companionship, but doing so companionably. She could hear voices on the TV and know that other people existed in the world. Rather than making her feel lonely, perhaps the movies made her feel alright to be alone. One didn't talk during a movie, so if she didn't have anyone to talk to, that was okay.
+
+As she cleaned up her plate and put the rest of the pasta away for tomorrow, she found herself in a cloud of glass-plate negatives, of catalogs and movie dialog. The static of her day was louder than the closing credits of the DVD.
+
+No amount of sound could drown out that sheer lack of feeling. No voices could add to Dani's life. The drunken slur of a fox in film, the sharp retort of his wife, none of those were more than unimportant variations in that thick static.
+
+The otter washed her paws, and stood at the sink a while longer, toying with the stream of cold water, brushing it up along her forearms and watching the way it beaded atop her fur.
+
+Her mother used to get her soap in the shape of crayons when she was only a kit. It give her a bright-red way to scrawl across the bathroom that was easy to wash off, and which --- theoretically --- got her clean in the process.
+
+Her mother had been furious when all Dani had done was draw that point of soap along the lines of grout between the tiles in the bathroom. It had turned the walls (and part of the floor) into a pleasing red grid. Her mom had grumbled about the grout being more difficult to clean than the tile itself.
+
+Dani had always wondered at that. Sometimes, she would stand in the shower, water beading along far more of her than just her forearms, and draw along the grout with a bar of soap she bought for such purposes. She never used the stuff, hated the very texture of it in her paws, but she did spend shower after shower seeing how well it rinsed out of the grout.
+
+The dishes were finished, her paws were plenty clean, and still she stood, trying to figure out if she could draw a grid in the sink.
+
+> Life within a comfortable grid.
+> Parallel lines
+> &nbsp; &nbsp; Interrupting narrowing circles
+> &nbsp; &nbsp; of birds in flight.
+
+A snippet of poetry tugged at memory, some bit of drivel she'd written in her undergrad. Something to try and put into words just how her life was organized, how she made order out of chaos.
+
+> Travel in straight lines.
+> Turn at right angles.
+> Trace the roof of your mouth
+> &nbsp; &nbsp; With wet tongue.
+
+She did that now, finding comfort in the ridges of her palate, each describing a successive concentric circle.
+
+She turned the TV off and wafted into her bedroom, driven by some part of her she couldn't quite access for all that static. *002.010.001* she thought. *I'll dream of (work, current job, nonspecific).* A small mantra, or maybe a supplication to the Oneiroi. *May I dream less and rest more.*
+
+-----
+
+There's something tinny about the smell of oncoming snow. Something metallic.
+
+Some days, it would stick around for a day or so, maybe a day and a night, right before a snow storm. It would be the herald of six or eight soft inches of perfectly dry, unpackable snow. The weather would be too cold to admit any of the moisture that was required in building a snowball.
+
+Some days, it would give one a scant hour to prepare for the oncoming weather. A cold front would move across the land in a swift gallop to the Rockies. Two quick inches of drive-by snow.
+
+Dani had read that the scent of snow was actually the lack of scent, of an air too cold and dry for the nose to pick out anything in particular. The opposite of petrichor. She wasn't sure that she'd believed it, though. That study had all been canines, and had focused specifically on temperature.
