@@ -119,3 +119,51 @@ Some days, it would stick around for a day or so, maybe a day and a night, right
 Some days, it would give one a scant hour to prepare for the oncoming weather. A cold front would move across the land in a swift gallop to the Rockies. Two quick inches of drive-by snow.
 
 Dani had read that the scent of snow was actually the lack of scent, of an air too cold and dry for the nose to pick out anything in particular. The opposite of petrichor. She wasn't sure that she'd believed it, though. That study had all been canines, and had focused specifically on temperature.
+
+Today, there was none of the expectancy that came with the scent of snow. It was just a lingering miasma around town, that non-scent that spread on the breeze. There would be no snow, at least not yet. There would just be cold.
+
+Dani bundled up to take her usual walk. As otters went, she was bog standard. Lithe enough, a bit soft without being fat, with short, oily fur. None of that did anything to protect against the cold.
+
+A walk was a walk, though.
+
+She lived two blocks or so from the 13th street plaza, and every weekend, at least twice, she'd take a walk down to the plaza and, at the very least, walk it's length. Some days, she'd grab a coffee from the bookstore-cum-coffeehouse that anchored the far end of it.
+
+It was only three blocks long, with a fountain set in the middle of the middle block, just outside the courthouse. Not really an arduous hike, but it was enough to get out of the apartment for a bit and stretch her legs, disengage from the monotony of a screen held at a fixed distance in front of her. In summer, she'd dangle her bare paws in the fountain, watching the streamers of water as she sat facing it.
+
+The fountain was off now, of course. Nigh on February, and it was too cold to be running water through pipes outside.
+
+Sawtooth liked to talk about its homelessness statistics. It was a strange thing to be proud of, these folks living without a place to call their own, but here the council was saying that only about a hundred and fifty folks were homeless out of sixty thousand.
+
+In the winter, this maxed out the homeless shelters in town and taxed the soup kitchens. Those who made it in were provided the barest of necessities, doubled up in the Open Door Mission and offered approximately fifteen hundred calories per day.
+
+In the summer, it seemed as though all hundred and fifty were out in front of the court house, making the benches their own, using the fountain for covert sponge baths.
+
+Dani talked with them. She readily admitted that she worked at a campus library, and made less than she probably needed herself, but she would talk.
+
+It was strange, when she thought about it, how few of them she knew. She'd talk, even wind up spending an hour or so talking with one person, and then seemingly never meet again.
+
+"You folks always go away," one had said, when she brought it up. "Talk's all well and good, but we can't ever expect to see you again. Y'all are, pardon, full of shit."
+
+Still, she kept at it. Or, perhaps, that was the wrong way to word it. She kept coming back. There was no conversion to be made, no minds to change, just a tacit agreement that it was best for both parties to talk to someone. No strings attached, just engagement.
+
+The scent of the oncoming snow had chased everyone indoors. Dani clutched at a mediocre coffee and wandered back to the beginning of the plaza, thinking of non-scents. Her eyes tracing the herringbone pattern of the walkway, she marveled at the dryness of it all. Maybe that's what the scientists had thought. The scent was the recognition of just how cold and dry the world was, not of anything so grand as snow.
+
+She made her way through a few cluttered shops, browsing the windows of the mod parlor and thinking of a movie she might pick up at the Discount Video at the corner near her apartment building.
+
+She was sick of documentaries. She needed something false.
+
+----
+
+Sunday was worse. Way worse.
+
+The cold had turned into a full-on snap. It was too dry for frost to form, but one didn't need to see that fine latticework on the windows to know that it was nearly thirty below outside. It was enough to walk past a window and pass into a brightly-lit shadow of coldness.
+
+Dani spent the day holed up within her apartment, curled on the couch with a movie running. To keep herself from getting too bored, she set one running in a language other than her own, meaning her eyes had to track the subtitles. It kept her from wallowing into nothingness with the voices registering on some subconscious level.
+
+The glum adherence to ridged lines had lessened, at least. She found herself wishing she had done more with herself, instead of wishing she could chart life on a sheet of graph paper.
+
+All the same, a movie alone wasn't enough to keep her satisfied. There was no way that she knew to achieve such a feat.
+
+Still, once the movie started to bore her, the otter had stood up in a huff, donning her jacket and gloves --- gotta keep the webs warm, they vent so much heat --- so that she could head out on a walk.
+
+*No sense lingering,* she thought. *No sense in anything, but at least I'll be moving.*
