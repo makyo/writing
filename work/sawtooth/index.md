@@ -1,4 +1,11 @@
 ---
+counts:
+    characters_real: 272
+    characters_total: 339
+    file: ./work/sawtooth/index.md
+    paragraphs: 4
+    type: jekyll
+    words: 55
 layout: page
 title: Sawtooth
 ---
@@ -11,32 +18,7 @@ I realized, as I was writing all of these things, I pictured them all happening 
 
 * [*Disappearance*](disappearance) --- 2017
 * [*The Fool*](the-fool) --- 2017
-* [*Overclassification*](Overclassification) --- 2017
+* [*Overclassification*](overclassification) --- 2017
 * [*Party*](party) --- 2016--*ongoing*
 * [*Run Ragged*](run-ragged) --- 2017--*ongoing*
 * [*What Remains of Yourself*](what-remains-of-yourself) --- 2017
-
------
-
-## Spoilers ahead
-
-### Connections
-
-* Aiden from *Run Ragged* secretly seeing Aaron and Erin from *Party*.
-* Sélène from *Run Ragged* reads news of the main character from *Disappearance*.
-* Dani from *Overclassification* knew Sélène from *Run Ragged*. Melina from *Run Ragged* helps at The Book and the Bean as a barista; Dani and Amber meet her there.
-
-Possible connections I haven't really decided on:
-
-* Avery from *The Fool* is Alex from *What Remains of Yourself*
-* Melina from *Run Ragged* is the badger from *The Fool*
-
-### Setting
-
-Sawtooth, ID:
-
-* Slightly larger version of Twin falls (maybe 60k).
-* Public transit akin to Fort Collins.
-* University town.
-* Some tech.
-* Very restless.

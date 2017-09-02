@@ -2,11 +2,11 @@
 counts:
     characters_real: 16414
     characters_total: 20452
-    file: ./work/the-fool/the-fool.md
+    file: ./work/sawtooth/the-fool/the-fool.md
     paragraphs: 168
     type: jekyll
     words: 3988
-layout: post
+layout: draft
 title: The Fool
 ---
 
