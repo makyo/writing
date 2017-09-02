@@ -19,6 +19,8 @@ title: Overclassification
 * Dani starts talking to her about cataloging
 * They start making up stories to fit into the catalog
 * She makes up a story about Dani
+* Dani starts guessing at her own story, hitching with a guy who takes advantage of her
+* Dani makes up a nicer story for her
 * They fuck
 * Disappears the next day, cold snap coming to an end
 
@@ -154,9 +156,9 @@ She was sick of documentaries. She needed something false.
 
 ----
 
-Sunday was worse. Way worse.
+Sunday was cold. Way cold.
 
-The cold had turned into a full-on snap. It was too dry for frost to form, but one didn't need to see that fine latticework on the windows to know that it was nearly thirty below outside. It was enough to walk past a window and pass into a brightly-lit shadow of coldness.
+The weather had turned into a full-on cold snap. It was too dry for frost to form, but one didn't need to see that fine latticework on the windows to know that it was nearly thirty below outside. It was enough to walk past a window and pass into a brightly-lit shadow of coldness.
 
 Dani spent the day holed up within her apartment, curled on the couch with a movie running. To keep herself from getting too bored, she set one running in a language other than her own, meaning her eyes had to track the subtitles. It kept her from wallowing into nothingness with the voices registering on some subconscious level.
 
@@ -166,4 +168,322 @@ All the same, a movie alone wasn't enough to keep her satisfied. There was no wa
 
 Still, once the movie started to bore her, the otter had stood up in a huff, donning her jacket and gloves --- gotta keep the webs warm, they vent so much heat --- so that she could head out on a walk.
 
-*No sense lingering,* she thought. *No sense in anything, but at least I'll be moving.*
+*No sense languishing at home,* she thought. *Well, no sense in anything, but at least I'll be moving.*
+
+By the time she made it to the plaza, Dani was pretty sure the walk was a mistake. The dryness of the cold air burned at the inside of her nostrils and her eyes, until she was sniffly and tearing up. Her paws were warm enough, and her peacoat helped her plenty, but her legs were more exposed, and the cold seemed intent on pulling warmth down through them. A hungry cold.
+
+*Just think of the coffeehouse at the end.*
+
+By the time she'd made it to the fountain, the otter wasn't sure she'd make it even that far. She promised herself she'd soldier on, but was caught up short by a bundle on the far side of the fountain.
+
+At first, it looked like a backpack someone had left there. One of the camping types, with a frame. On top of the backpack, a puffy anorak had been cinched down.
+
+Cold as it was, Dani detoured around the fountain a ways to at least get a better look.
+
+"F-fuck you want?" the bundle growled.
+
+Dani skipped back a pace at the sudden expletive.
+
+The bundle un-bundled itself enough to become recognizable. There was a small person --- Dani guessed a young woman, by her voice --- buried within the jacket. She'd tucked her knees up and pulled the jacket down over them. It looked like her tail had done similar, curled into her lap underneath the jacket.
+
+"Holy shit, are you okay? It's cold as hell."
+
+"Y-y-you're te-telling me." A snout poked out from beneath the hood of the coat, pointy and tan and masked. "Ch-change for c-coffee?"
+
+Dani shook her head vigorously. "Screw change, come on. I'll buy you a coffee." She pinned her ears back and added, murmuring, "And another layer of clothes."
+
+The laugh from within the coat was pained, desperate. "N-normally, I'd tell you to f-fuck off, but alright. I th-think I need it."
+
+The stammering speech seemed to be getting worse, and the shape shook awkwardly as it stretched out. The frame of the 'pack' under the form's anorak was a bundled up sleeping pad, a simple school backpack beneath that.
+
+The young woman stood up, shaking violently. A banded tail bristled out from beneath the coat, curling as best as it could around tattered-jeans-covered legs.
+
+Dani reached out to help, then rushed in at the sight of the shaking. She wrapped her arms around the ringtail, rubbing her gloved paws briskly over the form's sides, unsure if that was actually helping. "Come on," she tutted. "Coffeeshop's only a block, then we can figure things out from there."
+
+It was hard to tell with the shivering, but she was fairly sure bundled-up form nodded.
+
+Still clutching the lumpy and shaking form close, Dani guided them both down the street to the coffeeshop.
+
+-----
+
+The baristas in The Book and the Bean were good folks.
+
+There was a sort of unspoken rule that the homeless in Sawtooth were welcome in for about an hour at a time before they were ushered on their way. Still, they offered what they could. They even had a community "coffee pool", where those with a bit of extra cash could pay into it a coffee at a time, and those without could 'withdraw' from it.
+
+The frowsy badger behind the bar got one look at Dani and the still-indistinct form under the jacket, and leapt into action.
+
+Dani and the ringtail were guided to a table and made to sit down. The barista disappeared for a few minutes and returned with a mug for the bundled-up bassarisk.
+
+"Here you go, dear," she'd said, voice flush with concern. "Lemon and ginger and honey. Just tap warm for now. We'll get you a proper hot drink soon, don't want to shock the system." The jumbled speech trailed off as the badger padded back to the bar to start prepping the properly-hot drinks.
+
+Dani tugged her gloves and tucked them into the pockets of her coat, the better to help guide the ringtail's paws around the warm mug. It smelled spicy and citrusy, and Dani wanted to breathe that scent for hours to soothe her nose.
+
+Those tan paws had a hard time holding the mug still, shaking as hard as they were. The otter kept her own paws nearby in case of spills as the young woman sipped at the drink.
+
+"Fuck. C-cold."
+
+The badger bustled back up with two steaming mugs. Both of them were stronger versions of that same lemon-ginger-honey tea. "Cold? Freezing. Nineteen below, out there. Surprised you're not frozen solid. Don't drink this yet."
+
+Dani took a selfish moment to breathe in that steam, sating that craving and soothing her poor, dried out nose.
+
+"Y-yeah, sorry." The shivering seemed to be picking up, and the ringtail was having a hard time saying more than a word at a time.
+
+"Just hold onto your cup," the badger said, helping the ringtail out of her coat and pulling up a chair to sit with them at the table. "Gonna get worse before it gets better. Switch to the hot one once you can hold your hands still."
+
+The three sat in unsteady silence. Both Dani and Melina, the badger, tucked themselves in against either side of the shaking form, adding to the warmth. As Melina said, the shuddering turned into a ragged jerking before settling back into what one might call a 'shiver'.
+
+Dani made a mental note to look up stages of shivering when she got home.
+
+"Thank you both for helping. I thought if I bundled up and stayed still, I'd be okay."
+
+Melina shook her head, "You'd freeze no matter what, dear. What's your name?"
+
+The preparation of a lie showed in the moment's hesitation before the ringtail mumbled, "Anne."
+
+Dani nodded. "Do you have a place around here?"
+
+Anne shook her head.
+
+"What about the mission?" Melina asked.
+
+"Full." The ringtail looked uncomfortable as she added, "Or at least it looked full."
+
+Dani could sense Melina shutting down. She knew the badger was endlessly kind, but she also knew how fiercely protective she could be of the coffeeshop.
+
+The otter spoke up, "Well, either way, you're not fit to stay out there. Let's get you to my place and we can start calling around and see what's out there."
+
+Neither Anne nor Melina seemed overly happy with this, but neither brought up any objections.
+
+-----
+
+The walk --- or perhaps stumble --- back to Dani's apartment had been a rushed and urgent affair. After the coffeehouse and the spicy-sour-sweet tea, neither had wanted to go back out into the cold.
+
+Still, they'd made it, and while both were cold by the time the otter had latched the door behind her, neither were frozen.
+
+Anne stood just inside the door, looking shy. Dani shrugged out of her peacoat and helped the ringtail out of her own to hang them both together by the door.
+
+After a moment's hesitation, Anne also shrugged her backpack off and propped it up against the wall right next to the door. Beneath her coat and backpack, she was wearing a hoodie over a T-shirt that had obviously seen better days. The ringtail was smaller than Dani's initial estimate; a few inches shorter than herself and slight almost to the point of waifish.
+
+"So..."
+
+Dani laughed, "Sorry, didn't mean to space out like that. Pardon the mess."
+
+Anne tilted her head to the side and grinned, "Your place is kind of the opposite of a mess."
+
+"I sometimes get extra organized," the otter demurred. "Make yourself comfortable, though."
+
+Anne nodded.
+
+The silence grew weird.
+
+"I, uh," Dani straightened her shirt. "I don't have anyone over all that much. Can I get you anything?"
+
+The ringtail moved cautiously to sit on the couch, perched at the edge of the seat. "If you have any...I mean, I don't want to trouble--" She shook her head and gave Dani a bashful smile. "Do you have any food I could have? I can work to pay you back."
+
+The otter straightened up and grinned, "Oh! Yes, sorry, and don't worry about paying me back."
+
+Dani cooked in silence. It was past dinnertime by now, so  she didn't feel too bad doing so. She usually cooked three portions anyway, so she just wound up making one of her regular meals.
+
+There was no getting around the strained tension in the apartment. Dani's place was small and neat, and obviously built for one and organized to that one's specifications. She couldn't afford much, loans being what they were, and yet she felt obnoxiously wealthy, with a homeless girl sitting on her couch.
+
+She also felt obnoxiously awkward. It had been easy enough for her to help Anne out from the fountain to The Book and the Bean, and from there to her place, but now it was obvious that she really *didn't* have anyone over all that much. Or ever.
+
+She suspected that neither her nor Anne were all that good at engaging with others, and each had led to its own outcome. Dani had buried herself in school and work as an attempted to cope with a disordered mind that wanted everything else to be in order, one that didn't really want others around. She was pretty sure that Anne wasn't all that keen on being around folks either, though she couldn't guess why.
+
+Dani brought two plates piled high with pasta over to the couch where Anne had parked herself. "It's not much, but it'll be filling. Let me know if you need more, too. There's a whole other serving still on the stove."
+
+"Thank you," the ringtail said, whiskers and tail both bristled out at the opportunity for food. She seemed to be watching Dani for cues, but when the otter took a bite, she dug in. No prayers for either.
+
+It was easy to tell that Anne was doing her best to keep from just wolfing the food down. She looked like she was focusing on forking up reasonable amounts of pasta and chewing thoroughly, but her hunger showed in her movements.
+
+As predicted, she cleaned her plate.
+
+"Thanks again," she said, paws clutching at plate and fork. "For everything, I mean. I was colder than I thought out there. Fucking freezing."
+
+Dani set her plate down on her lap and nodded, "I thought you were a backpack at first, all bundled up like that."
+
+Anne laughed. "Kinda, yeah. Was hoping I could just conserve all my warmth under my jacket."
+
+"I think you'd probably need more than a jacket out in that level of cold, and it wasn't even dark yet."
+
+"Fuck, yeah." The ringtail looked down at her plate for a moment, then shrugged. "Dunno what I would've done."
+
+"And Open Door was full?"
+
+"I guess. Kinda."
+
+"'Kinda'?"
+
+Anne frowned at her plate.
+
+"It was full, then," Dani said quietly, trying to settle the matter before any of the ringtail's obviously complicated emotions needed to be put in words. "Is there, er--another place with beds?"
+
+"I dunno," Anne mumbled. "I only just got here last week. Had been staying at Open Door."
+
+"Where'd you come from?"
+
+"Out east a bit. Making my way out to Oregon, nice and slow. Was born here in Idaho, figured I'd get a good look at the state before fucking off."
+
+Dani laughed. "Fair enough. Never been out of state myself."
+
+Anne nodded, "I seen a few, but mostly saw a lot of brown. I wanna go west, see all that green they have there."
+
+"You, ah--" Dani hesitated, trying to think of the best way to ask. "Bussing? Hitching rides?"
+
+"Mostly hitching. My...well, we came in with a guy who drives between towns once a week."
+
+Anne was loosening up with the food and warmth. Her speech coming more fluidly, and language less stiff and formal. There were things being held back, but the otter figured it wasn't really for her to know.
+
+"So you landed here." Dani stood and took Anne's plate as the ringtail held it out to her. "Pretty cold time for hitching out west."
+
+"Yeah, it's crazy out. Been through cold snaps before, but not stuck out like that."
+
+Dani stacked the plates in the sink, right where they belonged, and thought of Anne. Here was this sudden ringtail-shaped kink in her life. She felt confused and anxious and tense. She'd have work tomorrow, and this wasn't how she'd picture'd her Sunday would go.
+
+"Listen, I--"
+
+Anne jolted upright. "It's late, sorry. I can head out, I think there's another shelter in town."
+
+Dani blinked away a moment of confusion and shook her head, whiskers bristling out in a bit of a grin. "I was going to suggest you stay here for the night." She gestured to the couch and beanbag. "Plenty of space, and I don't think either of us want to head out again."
+
+"Thank you," Anne mumbled, ears pinned back. "That wasn't what I was expecting, but thanks."
+
+The quiet that followed was broken by a giggle from Anne. "You know, you remind me of one of my mom's friends."
+
+Wrong-footed, Dani tilted her head. "What?"
+
+Anne stood from her spot on the couch and nodded. "She was a fox, not an otter, but she was kinda like you. Neat, you know?"
+
+Dani laughed and nodded.
+
+"Do you have any blankets for me? I'll tell you while you look."
+
+Dani nodded and padded to the hallway by the bathroom, opening the cabinet there to hunt around. Sometimes, she'd fall asleep on the beanbag rather than her bed. She'd always wake up with a weird kink in her tail or with memories of strange dreams, so she'd been trying to avoid it, recently. Still, she had some blankets of various thickness that had cycled through there.
+
+Anne continued her story as she followed along, trying to help where she could. "She was neat, like I said. She and her husband. Her husband would make things a little messy, but she'd put them in order. It was weird. Their place wasn't super clean, they had a lot of stuff, it was just all organized"
+
+Dani poked through the blankets, before giving up and just grabbing them all. It was cold, after all, might as well make sure her guest was comfortable. She stuffed the blankets into Anne's outstretched arms before reaching back for the pillows on the shelf below..
+
+"Anyway, they were super nice. But the guy, her husband, he got sick. Cancer or something. He passed away. Killed us all, you know? We all loved the guy. Mostly, though, it killed us to watch her. Her tail got all droopy and her fur would get matted and dirty, like she couldn't be bothered to organize again."
+
+Dani wasn't sure where the story was going. It didn't sound like a flattering comparison to herself. Still, the ringtail seemed to be having a good time of it. She wasn't so bristled out anymore, was loosening up. "Did she wind up getting organized again?" Dani asked.
+
+"Oh, definitely! You know, you get sad and stuff, and then things slowly get...I dunno, not easier. They get more comfortable. You can live with them better, you know?"
+
+"Yeah, I get that."
+
+"Anyway, they were super close, this couple. Two foxes who just couldn't live without each other. We thought this gal was gonna kick it soon after her husband. You know how that goes?"
+
+Dani nodded, setting the pillows down on the couch.
+
+"Someone told me once that girls outlive their guys, though. If the guy dies, the girl will keep going, but if the girl dies, the guy's not long after. So maybe we shouldn't have been surprised she kept on going."
+
+There was a bit of a pause as Anne decided on the beanbag over the couch. It looked soft, she said, so she started piling blankets up on it.
+
+"Anyway, poor fox. She gets her life back on track, gets her place all neat again, and starts lookin' for another guy, you know? You can remember your loved ones, but you gotta have company, and all.
+
+"Anyway, weirdest thing, though. There's lots of foxes in the area and such, so she's not hurtin' as to selection, but she keeps turnin' down loads of them. Says she'll reject any who don't look like her old husband. Isn't that weird?"
+
+Dani laughed and nodded. "Uh huh. Sixty five."
+
+Anne stopped fussing with the blankets and stared at Dani. "What? Sixty five?"
+
+Dani nodded again and, with the cabinet door shut, moved to help Anne set up her bed. "Yeah. Number sixty five. The suitors. A woman proves her loyalty by only dating those who look like her dead husband."
+
+The ringtail plopped down on the edge of the beanbag. Dani sat on the other side. "What kinda craziness is that?"
+
+"You can organize stories. Take folktales and boil them down to their essences. The core to that story is number sixty five on the list of, er...folktale essences. A story which proves a wife's faithfulness by how she remembers her husband in every new guy she dates." Dani realized she'd been rambling and gave an apologetic grin, "Sorry, I studied this in school."
+
+"Putting numbers to stories?" Anne laughed.
+
+The otter grinned, "Kind of. We would look at a culture's stories and see how the culture treated them. It would help us trace things back through history. That scale, the numbers, isn't really used anymore, but we all memorized it."
+
+"You majored in story numberology?"
+
+Dani laughed. "Well, folkloristics. Part of--"
+
+"Story numberology." Anne gave a firm nod, then winked to Dani, and they both laughed.
+
+"Do you tell lots of stories, Anne?"
+
+The ringtail shook her head. "My name isn't Anne. It's...hm." She made a show of thinking up another, then grinned, "Alex. You can call me Alex."
+
+Dani tilted her head and frowned, "Well, okay. Going to take me a bit to unlearn 'Anne', then."
+
+Alex grinned, "It'll do you good. And yeah, we tell stories a lot on the road. True ones. Made up ones. Ones that are a bit of both. It's good to tell stories to friends, and even better to tell them to strangers."
+
+"How do you figure?"
+
+"You didn't laugh until I told that one, did you?"
+
+Dani thought for a moment, then shrugged. "You got me there."
+
+Anne-- Alex grinned and nodded, "See? It works. Your turn, though."
+
+"My turn?"
+
+"Yeah, tell me a story."
+
+Dani froze. She knew stories. She knew tons of them. Each was stacked on a shelf, each had strings running from it to a list of motifs, each thoroughly cataloged.
+
+And all of them suddenly inaccessible.
+
+"I, uh--"
+
+Alex shook her head and laughed. "It's tough, don't worry. I'm good at this. Gotta get through the days somehow. It's only...what, eight? Just tell me something about you."
+
+Dani uncrossed her legs to get comfortable on the beanbag, leaning back against the couch where it was nearest, hips canted over to keep from resting solely on her tail. "About me? Hmm."
+
+Alex took her cue from the otter and stretched out on the beanbag. Dani felt strange emotions tugging at her. Here was someone she'd --- literally --- brought in from the cold, and now it felt like they were having a middle school sleepover.
+
+"Doesn't have to be you, I guess." Alex stretched out, then sat up and took her hoodie off, as though that were a serious barrier between her and comfort. Her shirt said 'Ladies is gender neutral'. "Mine wasn't about me. Just it's usually easier to talk about yourself."
+
+Dani nodded and smoothed her whiskers back thoughtfully, then shrugged. "I got caught stealing, once," she began, and told the story of Miss Weaver and the card catalog.
+
+Alex looked on thoughtfully, then nodded. "Clearly a three twenty eight."
+
+Dani snorted. "The treasures of a giant?"
+
+"Well, it's not wrong, is it?" Alex laughed. "You stole things from Miss Weaver."
+
+"Usually it's something more important. Something you go out of your way to steal. Treasure and such."
+
+They both grinned. The ringtail shrugged, and began a simple grooming of herself, brushing through tan and white fur. It was soft-looking, almost downy, but certainly no protection against the cold. Not that Dani's was any better. "There you were, concocting your secret plan to steal organization from the very lair of the beast, a treasure to keep for yourself."
+
+Dani laughed and urged Alex on with a gesture.
+
+"You saw the giant before you, the symbol of the system, of all things more powerful than wee little Dani. You snuck...uh, not up the beanstalk. You snuck around the counter, and there you saw it. The golden pack of catalog cards. 'From these,' you thought. 'I can rule over all of my toys. Each will have a number.'"
+
+"I did, too." Dani thumped her tail against the ground. "With an iron fist. I was a dictator."
+
+It was Alex's turn to laugh. "Alright. And so then you did it. You reached for your goal, and you took it in your hand. You were caught! Poor Dani, at the whim of a giant! Little did the giant know, you'd learn to master all of her organizational powers and unseat her!"
+
+Dani made as if to buff her claws, "And I did. Though Miss Weaver is still on the Library board here. I see her whenever we do archival work for them."
+
+"You grew up here?"
+
+"Yeah. Born here, did my undergrad here, and came back after grad school."
+
+Alex looked around the apartment, "You went to grad school and you live like this?"
+
+Dani rolled her eyes. "I owe more in student loans than this building is worth, I think."
+
+"Yeowch."
+
+"Yeah. Yeowch."
+
+The chatter continued between the two for another few hours. By the time Dani looked up, it was nearly ten.
+
+This was a surprising feeling, this talking the hours away. She had gone into the weekend filled with gloom, her mind unable to provide her with anything but static. A noise of delineated things, a sound of overclassification.
+
+And now here she was, chatting away like a kid again with, of all people, a homeless girl she'd rescued from the cold snap.
+
+There were problems to be sorted, of course. Dani basically trusted Anne/Alex. there was nothing for the ringtail to steal, really. She could take the TV, which would suck. She could take the DVDs and would probably be doing Dani a favor. This was no *Les Miserables*. Or maybe it was to a fault. If Alex was going to steal anything, Dani would forgive her. What use had she for the things she kept?
+
+Either way, they ought to find Alex something a little more permanent. Dani could certainly help with warmer clothing, as she had offered, and she certainly had no qualms in hosting the poor girl longer, if it left her feeling this good by the end of the night. Would it even be okay to ask her to stay?
+
+Maybe what they had to sort out was how much each of them would get from this.
+
+They yawned themselves to sleep, that night, and once Alex had dozed off, Dani wafted back into her bedroom. *Tonight, I'll dream of 035.028.000 (person, stranger, important in a positive way).*
+
+She didn't remember her dreams.

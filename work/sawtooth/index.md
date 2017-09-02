@@ -11,6 +11,7 @@ I realized, as I was writing all of these things, I pictured them all happening 
 
 * [*Disappearance*](disappearance) --- 2017
 * [*The Fool*](the-fool) --- 2017
+* [*Overclassification*](Overclassification) --- 2017
 * [*Party*](party) --- 2016--*ongoing*
 * [*Run Ragged*](run-ragged) --- 2017--*ongoing*
 * [*What Remains of Yourself*](what-remains-of-yourself) --- 2017
@@ -22,7 +23,8 @@ I realized, as I was writing all of these things, I pictured them all happening 
 ### Connections
 
 * Aiden from *Run Ragged* secretly seeing Aaron and Erin from *Party*.
-* Sélène from *Run Ragged* reads news of the main characer from *Disappearance*.
+* Sélène from *Run Ragged* reads news of the main character from *Disappearance*.
+* Dani from *Overclassification* knew Sélène from *Run Ragged*. Melina from *Run Ragged* helps at The Book and the Bean as a barista; Dani and Amber meet her there.
 
 Possible connections I haven't really decided on:
 
