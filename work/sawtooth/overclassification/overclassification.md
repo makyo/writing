@@ -10,22 +10,6 @@ layout: page
 title: Overclassification
 ---
 
-* Chronically neat, chronically unhappy otter, Dani.
-* Works as archivist to satisfy need for neatness.
-* Work and weekend bring no relief from malaise, but do bring cold snap
-* Sunday evening, sees homeless ringtail on pedestrian mall, brings her in
-* She won't tell Dani much, but does keep telling her stories
-* She notices the need for neatness, injects a little chaos in tolerable amounts - new name each day: Anne, Alex, Amy, Amber (real name) - mentions OCPD (F60.5)
-* Dani starts talking to her about cataloging
-* They start making up stories to fit into the catalog
-* She makes up a story about Dani
-* Dani starts guessing at her own story, hitching with a guy who takes advantage of her, 81: Too cold for hare to build house in winter, not necessary in summer: must go without a house
-* Dani makes up a nicer story for her, 58: The jackal, who wants to eat fruit or carrion on the other bank, persuades a crocodile to carry him across the river by saying he will find a bride for the crocodile. He makes a dummy and, safe back on shore, sends the crocodile to that.
-* They fuck
-* Disappears the next day, cold snap coming to an end
-
------
-
 "Some would say that the primary goal of folkloristics is one of anthropology, of understanding a culture's view of itself. I, naturally, disagree." Professor Haswell's voice droned on even in sleep, even these many years later. Dani hated it, hated these dreams. "Folkloristics works from the other direction. It constructs a semiotic niche out of so many *umwelten*..."
 
 How damning was it to have such boring dreams?
@@ -658,7 +642,7 @@ Amy grinned. "How do you even know all this?"
 
 Dani rested her chin on her folded arms, a motion to conceal some embarrassment. "They didn't make me. I did because it was fun."
 
-The ringtail stared, then motioned for her to continue.
+The ringtail stared in disbelief, then motioned for her to continue.
 
 "I really like organizing things, and--"
 
@@ -668,7 +652,7 @@ Dani smirked, then continued. "--and I like the way things can be categorized wh
 
 "Sorta like putting things in a box, then?"
 
-"I guess. Or writing them down on a sheet of paper with a specific heading, then puttin that sheet in a folder, which is put in another folder. At the very top, you give rules for how to get to what you need."
+"I guess. Or writing them down on a sheet of paper with a specific heading, then putting that sheet in a folder, which is put in another folder. At the very top, you give rules for how to get to what you need."
 
 Amy looked thoughtful for a moment, then nodded. "Makes sense, then."
 
@@ -688,13 +672,13 @@ Dani shifted over onto her side enough to look at Amy more directly, trying to l
 
 "But, like...look at you. Everything about you is based around order, around the need for things to be in their place, all classified."
 
-"Well, sure," Dani demurred. "But OCD requires anxiety that I don't have. You have to feel anxiety about things that you obsess over, and you have to have the compulsion required to fix them. I don't have those."
+"Well, sure," Dani demurred. "But OCD requires anxiety that I don't have. You have to feel anxiety about things that you obsess over, and you have to have the compulsion required to fix them. I don't have those. I just classify things. That's just what I do."
 
-Amy looked thoroughly sorry for having brought the topic up. All the same, the ringtail persevered. "Okay, well, maybe not OCD, but my ma, she told me that there's all these disorders around anxiety, and each has a personality disorder to go with it." Her voice was fast, as thought she were rushing to fill a hole she were digging herself into. "Maybe you have that? Obsessive-compuslive, uh...personality disorder?"
+Amy looked thoroughly sorry for having brought the topic up. All the same, the ringtail persevered. "Okay, well, maybe not OCD, but my ma, she told me that there's all these disorders around anxiety, and each has a personality disorder to go with it." Her voice was fast, as thought she were rushing to fill a hole she were digging herself into. "Maybe you have that? Obsessive-Compulsive, uh...personality disorder?"
 
 Dani reached out a paw to rest on Amy's. None of this was too terribly surprising, it was all stuff that made sense. Still, Amy looked as though she had talked herself into a tizzy. The ringtail looked absolutely panicked. "Maybe," she allowed. "What does this version entail?"
 
-Amy took the hint from Dani's paw on her own. She smiled bashfully and made a show of calming down. "They, well," she straightened up, organizing her thoughts. "They are like the regular dis--ones, they're like the regular ones, but without the anxiety. The life is as ordered, order is the obsession, but without, uh...without the anxiety."
+Amy took the hint from Dani's paw on her own. She smiled bashfully and made a show of calming down. "They, well," she straightened up, organizing her thoughts. "They are like the regular dis--er, they're like the regular ones, but without the anxiety. The life is as ordered, order is the obsession, but without, uh...without the anxiety."
 
 The otter thought it over, spending a few seconds grooming her whiskers back. "I guess that makes sense. It's something that isn't eating me alive, but it's still a big part of me."
 
@@ -704,13 +688,13 @@ Dani laughed and rolled onto her side, letting her aching tail rest against the 
 
 Amy tilted her head, though whether at the 'girlfriend' part or the 'seeing someone about chronic neatness' part, she couldn't tell.
 
-"My doctor said it wasn't OCD, just part of my personality. Not something I felt bad about, something I felt good about."
+"My doctor said it wasn't OCD, just part of my personality. Not something I felt bad about, something I felt good about. My ex still thought I was crazy, though."
 
 Amy patted at the otter's paw in her own, then gave it a little pet, brushing the fur that was already straight all the straighter. "Can I confess?"
 
 Dani laughed. "Of course. I'm no priest, though."
 
-"I didn't think so" Amy laughed. "Anyway, I guess I saw how neat you were, and that's why I've told you so many names."
+"I didn't think so" Amy laughed. "Anyway, I guess I saw how neat you were, and that's why I've told you so many names. Just add a little disorder to your life."
 
 "None of them real?"
 
@@ -724,17 +708,17 @@ The otter started counting mentally, then perked up. "In the bedroom, there's a 
 
 "Uh, me?"
 
-"Yeah you. My tail hurts too much. It's just a book, don't worry."
+"Yeah, you." Dani laughed, "My tail hurts too much. I'm laying down and you're sitting. I'm older than you. Just because."
 
 -----
 
 "Okay. Fourteen seventy five."
 
-Dani had found a more comfortable spot on the beanbag, having laid out on her back with her tail resting between the folds of the cushion. "Right, hm. Back when I was a kid, my dad used to take all of us to church. The preacher was a kind old guy, but one day, he got it into his head that it was best to keep it in the town.
+Dani had found a few comfortable spots on the beanbag, alternating between stretching out on her front and laying out on her back with her tail resting between the folds of the cushion. "Right, hm. Back when I was a kid, my dad used to take all of us to church. The preacher was a kind old guy, but one day, he got it into his head that it was best to keep it in the town.
 
 "He saw us girls sitting in the front row and asked us all to come up on the stage. It was so embarrassing. He made us promise to God and the congregation that we weren't to be married to girls in other parishes.
 
-"Everyone laughed and laughed, *girls marrying,* they'd say. *Good joke, preacher.* But there I was, standing up there with my sisters, saying I'd never marry a girl from another town. All my hopes and--I'm no good at this, am I?"
+"Everyone laughed and laughed. *Girls marrying,* they'd say. *Good joke, preacher.* But there I was, standing up there with my sisters, saying I'd never marry a girl from another town. All my hopes and--I'm no good at this, am I?"
 
 Amy laughed and slapped her paws down on the page. "No, you're good! You came up with that better than I thought you would'a. You just got all stiff at the end, is all."
 
@@ -744,13 +728,15 @@ Dani grinned. "Makes sense, I guess. I kinda get the rhythm, but it's hard for m
 
 They laughed together.
 
-Contrary to expectations, the outside thermometer had pegged itself at thirty below for a few hours and then, around noon, started to drop even lower. Neither otter nor ringtail were keen to go outside, so they'd parked themselves on the beanbag with the catalog of folktale types.
+Contrary to expectations, the outside thermometer had pegged itself at thirty below for a few hours and then, around noon, started to drop even lower. They had eaten a late lunch. Amy asked if she could wash her clothes while she was here, and Dani had found her a shirt and pair of loose pants that would fit the ringtail meanwhile. The temperature stayed cold through the afternoon.
+
+Neither were keen to go outside and see just how cold, so they'd parked themselves on the beanbag with the catalog of folktale types.
 
 Amy had said that she was going to teach Dani how to tell a story, but that was a thin excuse for a continuation of the sleepover atmosphere. What would be more 'sleepover' than telling stories and a friendly competition?
 
 Dani was losing, that much was obvious.
 
-"Alright, ninety one," she said. "When someone is caught for their heart (or paw, or eyes) as a remedy, but convinces the antagonist that they left it at home."
+"Alright, ninety one," she said. "When someone is caught for their heart (or paw, or eyes) as a remedy to steal, but convinces the antagonist that they left it at home."
 
 Amy grinned and launched right into the story. She would always win, so long as she could jump right in like that. "Oh yeah, that reminds me of one of my daddy's stories. He laughed about this all the time, said one day, this cat came to him. One of those all black ones, the uh..."
 
@@ -790,7 +776,7 @@ Amy looked as though she was cuing up a response to that, perhaps some list of i
 
 The ringtail shut down at this outburst, her expression going blank and her paws going slack in Dani's.
 
-The otter persisted. "You said, *It's so wonderful out, I'm all set for the next year.*
+The otter persisted. "You said, *It's so wonderful out now, I must be all set for the next year.*
 
 "But you were with someone, weren't you? Someone at Open Door? He had a home, something he could offer, he could..." Dani trailed off. "Shit, I'm sorry. I went way too far, there."
 
@@ -798,31 +784,31 @@ The otter tried to tug her paws back to herself, to withdraw. *Drunk on storytel
 
 Amy clutched at Dani's paws, shaking her head. It was a confused gesture, a sad gesture. "No, you're right. He's down at Open Door."
 
-Ears pinned back and whiskers sleeked in against her cheeks, Dani continued haltingly. "You didn't...you didn't prep for the winter. He had. He kept you in his debt."
+Ears pinned back and whiskers sleeked in against her cheeks, Dani continued haltingly. "You didn't...you didn't prep for the winter because summer was easy. He had, so he kept you in his debt."
 
 The ringtail's grip tightened around Dani's paws.
 
 There was nothing the otter could say to continue.
 
-"So he pulls me aside, he says *we just need to keep ourselves warm.*" Amy's voice is quiet, hoarse. "And that sounds good to me. But I have to do something, so I think to myself, *Ah-hah, I've got a plan.*"
+"So he pulls me aside, he says *we just need to keep ourselves warm.*" Amy's voice is quiet, hoarse. "And that sounds good to me. But I have to do something in return, so I think to myself, *Aha, I've got a plan.*"
 
-Dani returns the squeeze of paws. Amy isn't looking at her any longer, staring toward the blank wall with a smile that's more rictus than jolly.
+Dani returned the squeeze of paws. Amy wasn't looking at her any longer, staring toward the blank wall with a smile that's more rictus than jolly.
 
 "*Don't worry. I'll hold up the roof,* I tell him. So I hide myself away up in the attic, tell him I'm doing something useful, when all the while, I'm making sure I can get away without giving him everything he asks."
 
-There's a silence between them, then. True silence. Neither has anything to say, and neither can offer any path forward.
+There was a silence between them, then. True silence. Neither had anything to say, and neither could offer any path forward.
 
-It takes a good five minutes for the moment to pass. Amy's expression cycles through vacant amusement, thinly veiled anger, and despair. Dani, frozen where she is with the strained tail, can only hold on to the ringtail's paws and hope that she hasn't fucked up too badly.
+It took a good five minutes for the moment to pass. Amy's expression cycled through vacant amusement, thinly veiled anger, and despair. Dani, frozen where she was with the strained tail, could only hold on to the ringtail's paws and hope that she hadn't fucked up too badly.
 
-"That--" Amy coughs, clearing her throat, and sits up. "That got a little too real. Alright if we switch to a movie or something?"
+"That--" Amy coughed, clearing her throat and sitting up. "That got a little too real. Alright if we switch to a movie or something?"
 
-Dani nods and shrugs in the direction of the shelves of DVDs. "Take your pick."
+Dani nodded and bowed her head, gesturing in the direction of the shelves of DVDs. "Take your pick."
 
 -----
 
 Dani stayed silent through the movie. Amy had chosen a thriller, something with enough action to hold their interest without demanding it. Not too actiony, not to cerebral.
 
-The ringtail had shrunk in size, Dani noticed. The jokey story-telling exercise really had gone too far, and although she stands by her assessment, she realized she probably should have been a bit more careful of providing it.
+The ringtail had shrunk in size, Dani noticed, all her confidence drained away. The jokey story-telling exercise really had gone too far, and although she stood by her assessment, she realized she probably should have been a bit more careful of providing it.
 
 All of that openness she had grown over the past few hours, all of that was slowly unwound. She had built up this stanchion of confidence, only to find she'd planned the bridge in the wrong spot. She hadn't had a goal in this sleepover storytime, but even so, she'd fucked it up.
 
@@ -948,7 +934,7 @@ Dani froze. It was one of those things that was both expected and completely out
 
 All the same, the otter relented, shifting more onto her side and ignoring the twinge in her tail. When presented with a kiss, there was no further categorization to be done. They were kissing, and that was that.
 
-The moment shifted and so did Amber, leaning back away from Dani. The otter plastered her whiskers back against her muzzle. She couldn't hide just how much the kiss had meant, but she could at least distract fromt he fact.
+The moment shifted and so did Amber, leaning back away from Dani. The otter plastered her whiskers back against her muzzle. She couldn't hide just how much the kiss had meant, but she could at least distract from the fact.
 
 "Tell me your name."
 
@@ -966,28 +952,38 @@ Her whiskers bristling from the close contact, Dani smiled. "What power does tha
 
 "What power would you like?" Amber grinned.
 
+"Flight?"
+
+Amber laughed.
+
+"Seeing through walls, maybe?" Dani continued. "Precognition? Pyrokinesis? That might be nice with it being this cold."
+
+"And dangerous, probably."
+
+It was Dani's turn to laugh. "Okay, yeah, probably."
+
+The ringtail propped herself up on an elbow, resting her cheek in her paw. "Okay, how about company, then? I can give you the power to not be alone, at least for a bit."
+
+"I don't know if that's a power, really, but I'm more than happy for it."
+
 -----
 
 When Dani awoke early the next morning --- very early, far before her alarms --- she was alone. Amber was gone.
 
-When she thought of the last few days, she wasn't totally surprised. The parable from the night before had been accurate enough. Amber had gotten to the other side. Dani would be left grappling with the Amber-that-was, the Amy and the Alex and the Anne, for a while yet.
+When she thought of the last few days, she wasn't totally surprised. The parable from the night before had been accurate enough. Amber had gotten to the other side of the cold snap. Dani would be left grappling with the Amber-that-was, the Amy and the Alex and the Anne, for a while yet.
 
 Not surprised, but not happy. She had left behind that hindbrain need to categorize and order her life for someone, and now they were gone. Maybe that was good, though. Maybe she needed a bit less order in her life.
 
-She clumsily paced her apartment for a few hours, that Tuesday. The university was still closed for the remainer of the cold snap, though the temperature was now well above zero. She suspected it was more of an issue about the boiler than the temperature. Either way, she was still all wobbly from the strain in her tail.
+She clumsily paced her apartment for a few hours, that Tuesday. The university was still closed for the remainder of the cold snap, though the temperature was now well above zero. She suspected it was more of an issue about the boiler than the temperature. Either way, she was still all wobbly from the strain in her tail.
 
 She made coffee.
 
-There was nothing she could do to follow Amber.
-
 She took a nap.
 
-There was nothing she *would* do to follow her. She had moved on, Dani was left to deal with what remained.
-
-She thought about Amber.
-
-Dani could no more follow her than the crocodile could. She was bound for the other shore, for more loneliness and more dreams.
+There was nothing she could do to follow Amber. There was nothing she *would* do to follow her. She had moved on, Dani was left to deal with what remained. Dani could no more follow her than the crocodile could. She was bound for the other shore, for more loneliness and more dreams.
 
 She put a movie to playing.
+
+She cleaned the kitchen and picked up all the blankets on the beanbag.
 
 The only thing missing was her catalog of folktales.
