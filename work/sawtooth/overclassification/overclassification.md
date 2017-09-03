@@ -637,3 +637,199 @@ The otter thought for a moment, then nodded. "Five hundred, yeah."
 Alex--er, Amy rolled her eyes. "They really did include everything in that catalog, didn't they?"
 
 Dani nodded as she waddled over to the couch. "Yep. Five hundred is a trickster who will be defeated by someone knowing his true name. Fuck," she interrupted herself. "How the hell did I fuck up my tail? I don't think I did anything to it yesterday."
+
+"Well, it *is* big."
+
+Dani laughed, making her way over to the beanbag and laying down on her front. "Yeah, it is. Still, I didn't think I could sprain a tail."
+
+"Well, doesn't that just make us a pair? I don't have the clothing to go outside, and you can hardly walk."
+
+"Guess it was good fortune, then."
+
+"Does your catalog of tales have anything to say about this? Is three hundred and eighty a story about an injured person being stuck with someone who can't go out in the cold?"
+
+The otter shrugged. "I don't think so, no. And there isn't a three eighty. They're all organized into a hierarchy, and they leave some numbers unassigned so that they can add to them later on."
+
+Amy grinned. "How do you even know all this?"
+
+"I went to school for it."
+
+"And they made you memorize it or something?"
+
+Dani rested her chin on her folded arms, a motion to conceal some embarrassment. "They didn't make me. I did because it was fun."
+
+The ringtail stared, then motioned for her to continue.
+
+"I really like organizing things, and--"
+
+"I could tell."
+
+Dani smirked, then continued. "--and I like the way things can be categorized while still retaining the things that make them unique. Like, the five hundred from earlier? That's a vague classification that can be applied to many stories, which are all different from each other."
+
+"Sorta like putting things in a box, then?"
+
+"I guess. Or writing them down on a sheet of paper with a specific heading, then puttin that sheet in a folder, which is put in another folder. At the very top, you give rules for how to get to what you need."
+
+Amy looked thoughtful for a moment, then nodded. "Makes sense, then."
+
+"What does?"
+
+"Your inability to be, uh...extemporaneous. You can't pull things out of thin air, 'cause you're rifling through a catalog."
+
+Dani stayed silent.
+
+"I mean that in the best of ways!"
+
+Dani shifted over onto her side enough to look at Amy more directly, trying to look as kind as possible. She had no idea how to take this being told that she was uninventive.
+
+"Well, listen," Amy continued. "You have OCD, right?"
+
+"I don't know. I've been told I don't."
+
+"But, like...look at you. Everything about you is based around order, around the need for things to be in their place, all classified."
+
+"Well, sure," Dani demurred. "But OCD requires anxiety that I don't have. You have to feel anxiety about things that you obsess over, and you have to have the compulsion required to fix them. I don't have those."
+
+Amy looked thoroughly sorry for having brought the topic up. All the same, the ringtail persevered. "Okay, well, maybe not OCD, but my ma, she told me that there's all these disorders around anxiety, and each has a personality disorder to go with it." Her voice was fast, as thought she were rushing to fill a hole she were digging herself into. "Maybe you have that? Obsessive-compuslive, uh...personality disorder?"
+
+Dani reached out a paw to rest on Amy's. None of this was too terribly surprising, it was all stuff that made sense. Still, Amy looked as though she had talked herself into a tizzy. The ringtail looked absolutely panicked. "Maybe," she allowed. "What does this version entail?"
+
+Amy took the hint from Dani's paw on her own. She smiled bashfully and made a show of calming down. "They, well," she straightened up, organizing her thoughts. "They are like the regular dis--ones, they're like the regular ones, but without the anxiety. The life is as ordered, order is the obsession, but without, uh...without the anxiety."
+
+The otter thought it over, spending a few seconds grooming her whiskers back. "I guess that makes sense. It's something that isn't eating me alive, but it's still a big part of me."
+
+Amy nodded, turning her paw up to let Dani's paw slip into her own, resting the her free paw on top of it. "I really do mean that in the best way."
+
+Dani laughed and rolled onto her side, letting her aching tail rest against the side of the beanbag, taking some of the weight off. "No, I get that. It really does make sense. I saw someone about it years ago, on an old girlfriend's suggestion."
+
+Amy tilted her head, though whether at the 'girlfriend' part or the 'seeing someone about chronic neatness' part, she couldn't tell.
+
+"My doctor said it wasn't OCD, just part of my personality. Not something I felt bad about, something I felt good about."
+
+Amy patted at the otter's paw in her own, then gave it a little pet, brushing the fur that was already straight all the straighter. "Can I confess?"
+
+Dani laughed. "Of course. I'm no priest, though."
+
+"I didn't think so" Amy laughed. "Anyway, I guess I saw how neat you were, and that's why I've told you so many names."
+
+"None of them real?"
+
+"Of course not." The ringtail grinned as mischievously as she could. "I can't tell you that, remember?"
+
+Dani laughed. "Right. Five hundred."
+
+"How many of those classifications are there, anyway?"
+
+The otter started counting mentally, then perked up. "In the bedroom, there's a book on the bed. I was reading it after yesterday. That should have the catalog in it. Go grab that."
+
+"Uh, me?"
+
+"Yeah you. My tail hurts too much. It's just a book, don't worry."
+
+-----
+
+"Okay. Fourteen seventy five."
+
+Dani had found a more comfortable spot on the beanbag, having laid out on her back with her tail resting between the folds of the cushion. "Right, hm. Back when I was a kid, my dad used to take all of us to church. The preacher was a kind old guy, but one day, he got it into his head that it was best to keep it in the town.
+
+"He saw us girls sitting in the front row and asked us all to come up on the stage. It was so embarrassing. He made us promise to God and the congregation that we weren't to be married to girls in other parishes.
+
+"Everyone laughed and laughed, *girls marrying,* they'd say. *Good joke, preacher.* But there I was, standing up there with my sisters, saying I'd never marry a girl from another town. All my hopes and--I'm no good at this, am I?"
+
+Amy laughed and slapped her paws down on the page. "No, you're good! You came up with that better than I thought you would'a. You just got all stiff at the end, is all."
+
+Dani grinned. "Makes sense, I guess. I kinda get the rhythm, but it's hard for me to just pull it out of nothing. I get part way through and start thinking about my story too much, about what other categories it fills. I start thinking, *oh, that's four eighty, the kind and unkind girls* and then I'm totally lost."
+
+"Yeah. I can tell. You get this look on your face when you get to let go. You get all confident lookin' and then you fall apart, and I can almost see the filing cabinets in your eyes."
+
+They laughed together.
+
+Contrary to expectations, the outside thermometer had pegged itself at thirty below for a few hours and then, around noon, started to drop even lower. Neither otter nor ringtail were keen to go outside, so they'd parked themselves on the beanbag with the catalog of folktale types.
+
+Amy had said that she was going to teach Dani how to tell a story, but that was a thin excuse for a continuation of the sleepover atmosphere. What would be more 'sleepover' than telling stories and a friendly competition?
+
+Dani was losing, that much was obvious.
+
+"Alright, ninety one," she said. "When someone is caught for their heart (or paw, or eyes) as a remedy, but convinces the antagonist that they left it at home."
+
+Amy grinned and launched right into the story. She would always win, so long as she could jump right in like that. "Oh yeah, that reminds me of one of my daddy's stories. He laughed about this all the time, said one day, this cat came to him. One of those all black ones, the uh..."
+
+"A leopard?"
+
+"Yeah, that's the one! Daddy would always say hi to this guy as he walked his property. He used to walk the perimeter of his property and make sure all was okay, but it got him to talking with all his neighbors.
+
+"Anyway, one day, one of his neighbors takes a shine to his tail, says, *Dang, you know, I wish I had that tail. My wife left me some years ago, you know, and I bet the gals would be all over me, I had a tail like that.*  Dad would laugh, we'd all laugh at that. Poor old Mister Lincoln, he looked like a shadow in every picture, like someone had cut out someone, wherever he went.
+
+"Dad, he can sense Mister Lincoln starting to get more insistent about things, and one day, on a hunch, he grabs a handful of soot from the fireplace --- we hardly ran the thing these days, but the soot was still there --- and rubbed it into his tail."
+
+Dani laughed, picturing Amy rubbing soot into her tail, turning the stripes all black.
+
+Amy grinned. "So dad, he's got this all-black tail. It was nearing night, so it wasn't too out of place, but sure enough, once he runs into Mister Lincoln, out walking his property, the big old guy grabs dad by his collar, starts shaking him, asking for his stripes!
+
+"Dad doesn't know what to do, starts squealing, just as sure as I would.
+
+"Well, didn't take a genius to know Mister Lincoln was as drunk as he was plain. He thought he could grab the stripes off daddy's tail and take them for his own. Maybe he'd put them on his face and gain some features. Maybe he'd put them on his paws, so he could always see where his hands were. Maybe he just plain wanted dad's tail."
+
+"And he left it at home?" Dani asked, giggling.
+
+"Of course he did! Dad, he told Mister Lincoln he left it in the trunk by his bed. *No stripes today, sir,* he said, kind as could be. *Talk to me tomorrow, though, and I'll hook you up!*
+
+"Well, Mister Lincoln, he looked pleased as peach, said that'd be real nice. Dad, he had something like ten stripes. Golly, Mister Lincoln would'a been able to do plenty with that!"
+
+Dani clapped her paws gleefully at the story. "Wonderful! You've got the entire thing set up, right there. I feel like I get close so often, but I just don't quite get it to stick the whole way through."
+
+The two were as two girls at a sleepover, stretched out on their fronts on a beanbag, a book propped up before them both.
+
+It was Amy's turn to laugh. "You do get close, yeah. You're just missing mechanics. Like, y'gotta start telling little side stories, no more than a sentence long, to buy yourself some time. We don't care what Mister Lincoln does with the stripes, but we make something up to give us time to, uh...stick our landing, I guess."
+
+"Yeah, I can't even begin to think of how to do that." Dani shrugged, stretching her tail out carefully and wincing. "If I don't go into the story with the whole thing already written, I'm more than likely just going to run myself in circles trying to think of all of the archetypes."
+
+Amy looked as though she was cuing up a response to that, perhaps some list of improvements for Dani to follow. The otter interrupted, both of her paws clutching at Amy's. She almost had the ringtail clocked. Shelved, cataloged, organized.
+
+"You, see, you're eighty one. Here you are, plowing through the world, and you're doing really good. You find yourself on the road, and you got yourself some friends, or maybe just one. Just someone you're traveling with."
+
+The ringtail shut down at this outburst, her expression going blank and her paws going slack in Dani's.
+
+The otter persisted. "You said, *It's so wonderful out, I'm all set for the next year.*
+
+"But you were with someone, weren't you? Someone at Open Door? He had a home, something he could offer, he could..." Dani trailed off. "Shit, I'm sorry. I went way too far, there."
+
+The otter tried to tug her paws back to herself, to withdraw. *Drunk on storytelling* was a new sensation for her. She hadn't expected it would lead to such an overreach. She hadn't expected it to drop her barriers around classification.
+
+Amy clutched at Dani's paws, shaking her head. It was a confused gesture, a sad gesture. "No, you're right. He's down at Open Door."
+
+Ears pinned back and whiskers sleeked in against her cheeks, Dani continued haltingly. "You didn't...you didn't prep for the winter. He had. He kept you in his debt."
+
+The ringtail's grip tightened around Dani's paws.
+
+There was nothing the otter could say to continue.
+
+"So he pulls me aside, he says *we just need to keep ourselves warm.*" Amy's voice is quiet, hoarse. "And that sounds good to me. But I have to do something, so I think to myself, *Ah-hah, I've got a plan.*"
+
+Dani returns the squeeze of paws. Amy isn't looking at her any longer, staring toward the blank wall with a smile that's more rictus than jolly.
+
+"*Don't worry. I'll hold up the roof,* I tell him. So I hide myself away up in the attic, tell him I'm doing something useful, when all the while, I'm making sure I can get away without giving him everything he asks."
+
+There's a silence between them, then. True silence. Neither has anything to say, and neither can offer any path forward.
+
+It takes a good five minutes for the moment to pass. Amy's expression cycles through vacant amusement, thinly veiled anger, and despair. Dani, frozen where she is with the strained tail, can only hold on to the ringtail's paws and hope that she hasn't fucked up too badly.
+
+"That--" Amy coughs, clearing her throat, and sits up. "That got a little too real. Alright if we switch to a movie or something?"
+
+Dani nods and shrugs in the direction of the shelves of DVDs. "Take your pick."
+
+-----
+
+Dani stays silent through the movie. Amy had chosen a thriller, something with enough action to hold their interest without demanding it. Not too actiony, not to cerebral.
+
+The ringtail has shrunk in size, Dani thinks. The jokey story-telling exercise really had gone too far, and although she stands by her assessment, she realized she probably should have been a bit more careful of providing it.
+
+All of that openness she had grown over the past few hours, all of that was slowly unwound. She had built up this stanchion of confidence, only to find she'd planned the bridge in the wrong spot. She hadn't had a goal in this sleepover storytime, but even so, she'd fucked it up.
+
+She spends her time pretending to leaf through the book of motifs and tropes. Amy sits where she had been, watching the TV over Dani as the otter pokes through her book. she doesn't have quite what it takes to look Amy in the eyes.
+
+*Perhaps I should find her a place to go,* she thinks. *Perhaps this whole thing was a mistake. We don't know each other, neither of us know how to share.*
+
+And yet they stay there. Amy watches her movie, and Dani's eyes trace lines of text without reading them.
+
+Dani perks up enough to watch the climax of the movie, canting her ears back enough so that the movie isn't all she hears. She's seen it dozens of times already. She's more interested in Amy's thoughts than in the movie itself.
