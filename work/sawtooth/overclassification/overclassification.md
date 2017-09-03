@@ -820,16 +820,174 @@ Dani nods and shrugs in the direction of the shelves of DVDs. "Take your pick."
 
 -----
 
-Dani stays silent through the movie. Amy had chosen a thriller, something with enough action to hold their interest without demanding it. Not too actiony, not to cerebral.
+Dani stayed silent through the movie. Amy had chosen a thriller, something with enough action to hold their interest without demanding it. Not too actiony, not to cerebral.
 
-The ringtail has shrunk in size, Dani thinks. The jokey story-telling exercise really had gone too far, and although she stands by her assessment, she realized she probably should have been a bit more careful of providing it.
+The ringtail had shrunk in size, Dani noticed. The jokey story-telling exercise really had gone too far, and although she stands by her assessment, she realized she probably should have been a bit more careful of providing it.
 
 All of that openness she had grown over the past few hours, all of that was slowly unwound. She had built up this stanchion of confidence, only to find she'd planned the bridge in the wrong spot. She hadn't had a goal in this sleepover storytime, but even so, she'd fucked it up.
 
-She spends her time pretending to leaf through the book of motifs and tropes. Amy sits where she had been, watching the TV over Dani as the otter pokes through her book. she doesn't have quite what it takes to look Amy in the eyes.
+She spent her time pretending to leaf through the book of motifs and tropes. Amy sat where she had been, watching the TV over Dani as the otter poked through her book. She didn't have quite what it took to look Amy in the eyes.
 
-*Perhaps I should find her a place to go,* she thinks. *Perhaps this whole thing was a mistake. We don't know each other, neither of us know how to share.*
+*Perhaps I should find her a place to go,* she thougt. *Perhaps this whole thing was a mistake. We don't know each other, neither of us know how to share.*
 
-And yet they stay there. Amy watches her movie, and Dani's eyes trace lines of text without reading them.
+And yet they stayed there. Amy watched her movie, and Dani's eyes traced lines of text without reading them.
 
-Dani perks up enough to watch the climax of the movie, canting her ears back enough so that the movie isn't all she hears. She's seen it dozens of times already. She's more interested in Amy's thoughts than in the movie itself.
+Dani perked up enough to watch the climax of the movie, canting her ears back enough so that the movie isn't all she hears. She'd seen it dozens of times already. She was more interested in Amy's thoughts than in the movie itself.
+
+The denouement of the film was swift. A proper thriller, she decided long ago, should leave several threads hanging. Explain too much, and you get a detective story. Explain too little and you get...well, a mess. You get her life. Too many things independently explained which do nothing to provide a sense of the whole.
+
+Amy seemed to melt beside her, slouching first toward one side, then stretching her legs out, and finally slipping down onto her side. It was more of a collapse than a deliberate movement, but at least it was something.
+
+"You okay?" Dani asked, setting her book down off to the side.
+
+Nothing but the sounds of the ringtail settling into the beanbag bed. It was her bed, even. Dani's was around the corner in the bedroom.
+
+The otter carefully squirms onto her side, doing all she can not to tweak her tail more than she already has. She'll need to get up to use the bathroom a some point, but for now, she considered herself stuck.
+
+*Might as well fix this, while we're at it.*
+
+"You okay, Amy?"
+
+"Amber."
+
+Dani hesitated for a moment before murmuring, "Is that your name now?"
+
+"No, just Amber. That's my name."
+
+The ringtail's voice was flat, her eyes downcast and even then focusing on nothing. It hurt to listen to.
+
+"Did I go to far?"
+
+"No, you're fine."
+
+Dani watched the way the ringtail's eyes went in and out of focus. They never shifted the direction in which they were looking, but it was still plain enough to see the focus shifting.
+
+"You want to know something?" Dani asked.
+
+The ringtail lifted her gaze enough to look at Dani properly. "Mm."
+
+"I don't think this story is eighty one, like I said. It's fifty eight."
+
+Amy--Amber's ears tilt back. Short, sharp condemnations of intent.
+
+Dani pressed on. "You're the one who sees something on the far bank that she wants. You have a goal, something you could really desire. Not just a passing fancy."
+
+Amber's smile started to shine through.
+
+"So you think, *Ah, there we go! Just what I was after.* But it's on the far bank, right? So you look around and you see the crocodile. He's a good kid, you know. The type of person who would try to do right by you, even if he doesn't get the whole story.
+
+"Well now, you've got a means, and you've got a goal, but you don't have the influence to make it happen. So you sit down by the crocodile and you say, *Great day out here, really nice.* And he says *yup.* And it's not great and all, but you know it's gonna take a while to sway the crocodile's interests to align with yours.
+
+"*I always find myself thinking of the far bank, of what that would bring me, what I could gain by being there.* The croc frowns. Each bank is the same to him. The river is as valid as land, when it comes to crossing.
+
+"*All I think about,* the croc says. *Is how I'm going to meet someone. Come to a river, and you've got a one dimensional dating pool. I can't meet anyone across the river I can't meet on this side. The river's not that wide.*"
+
+Amber was grinning outright, thought she stayed quiet to let Dani finish her telling.
+
+"And that crocodile, well, you know he was kinda of an asshole. All he was thinking about was what he'd get out of the deal. Sometimes that's good and all, like you want to get to the other side too, right?
+
+"Still, you've got goals other than just *Hey, just looking for a lay.*"
+
+Amber's grin gets tight, a bit mean, but no less earnest.
+
+"So you give it a bit of thought, and you duck off down the bank, and you put your hard-earned vo-tech skills to use, and you come up with a present for the crocodile.
+
+"*Tell you what, buddy,* you say. *I know a bunch of folks on both sides of the river. I've got a guy on the other side, he says he knows someone. I think she's even on this side of the river.*
+
+"The croc laughs, and comes back at you with. *Why don't you just send her my way, then?*
+
+"*Well, it's not that easy, duh. I don't know the girl, I just know my guy, he says he knows all sorts of these girls.* You give this big, exasperated sigh. *Look, just get me over there, and I'll get this all sorted out. We both want that, right?*"
+
+The ringtail was fully engaged now, laughing and rolling her eyes and nodding along with Dani.
+
+"You can always tell when a guy's just after one thing, so you just need to point it out to him. Anyway, that's what you've done, and your friendly croc bud helps you across the river. That shit's deep, and you could swim, but that'd suck.
+
+"Crocodile dude drops you off at the far shore, and sure as shit, you're closer to where you want to be. *Sweet, thanks,* you say. *My buddy here, he says that you've got someone already waiting for you on the other side. She's heard all about you, if you know what I mean. See? there she is now!*
+
+"And you point across the river. There, just across on the other side, poking just out over the water, is the snout of another crocodile! Well, your dude, he gives you the biggest thumbs up and tackiest wink one could manage, and starts back across the river with your blessing.
+
+"That's your crocodile on the other side, after all. You made him out of reeds, built up from whole cloth, and now here you are, where you need to be. What your dude does with his very flammable wife is up to him. You've done your part."
+
+Amber laughed outright at that last bit, and Dani grinned happily in response.
+
+"I'll give you an eight out of ten on delivery on that one," the ringtail says. "You sold me at the end there, but at the beginning, it sounded like an apology."
+
+"Yeah, I'm sorry, Amber." Dani grinned sheepishly.
+
+"It's cool, I swear."
+
+"So what about the story?"
+
+"Oh, that gets a ten out of ten."
+
+Dani laughed. "Oh yeah?"
+
+"Of course! I think your earlier story was true, too, but this one's better. I got here, didn't I? I got what I wanted."
+
+The otter went quiet at that, tilting her head. "How do you mean?"
+
+Amber shrugged. "I got here. I made it across the rockies, and I have a few more, uh...rivers to cross, but I got here with a bunch of help."
+
+Dani nodded, waited.
+
+"It cost a lot. More than I want to say. But I can move on from that."
+
+The otter gathered up the ringtail's paws in her own and gave them a squeeze. "You sure you're okay?"
+
+"I think so, yeah." Amber nodded. "He's too interested in experiences, rather than people. He can go off and get more of those, while I get what I want."
+
+Dani nodded, and let the silence linger on. Finally, she screwed up the courage to add, "You can stay here, too, you know. Long as you need."
+
+Amber laughed. It was kind, easy. "Thank you. You've done so much for me."
+
+"Does that make me your crocodile?" Dani shot back, grinning.
+
+The ringtail didn't respond so much as lean in and give the otter a kiss.
+
+Dani froze. It was one of those things that was both expected and completely out of the blue. The tension had been a thing, of course, but had always been on her end of the court. She hadn't expected a homeless girl to be giving her a kiss, no matter the stories that surrounded it.
+
+All the same, the otter relented, shifting more onto her side and ignoring the twinge in her tail. When presented with a kiss, there was no further categorization to be done. They were kissing, and that was that.
+
+The moment shifted and so did Amber, leaning back away from Dani. The otter plastered her whiskers back against her muzzle. She couldn't hide just how much the kiss had meant, but she could at least distract fromt he fact.
+
+"Tell me your name."
+
+The ringtail smiled. It was a soft and kind smile, open and honest. "Amber."
+
+"I'm not going to wake up to a different name, am I?"
+
+"Would you like to?"
+
+Dani laughed. "Probably not. If your goal was to subvert me organizing everything too much, you did it. This, though--" and she leaned forward to give Amber another kiss. "I'd like to hold onto this."
+
+The ringtail smiled, nose nearly pressed in against Dani's. "Amber's real. That's my true name."
+
+Her whiskers bristling from the close contact, Dani smiled. "What power does that grant me, that knowledge?"
+
+"What power would you like?" Amber grinned.
+
+-----
+
+When Dani awoke early the next morning --- very early, far before her alarms --- she was alone. Amber was gone.
+
+When she thought of the last few days, she wasn't totally surprised. The parable from the night before had been accurate enough. Amber had gotten to the other side. Dani would be left grappling with the Amber-that-was, the Amy and the Alex and the Anne, for a while yet.
+
+Not surprised, but not happy. She had left behind that hindbrain need to categorize and order her life for someone, and now they were gone. Maybe that was good, though. Maybe she needed a bit less order in her life.
+
+She clumsily paced her apartment for a few hours, that Tuesday. The university was still closed for the remainer of the cold snap, though the temperature was now well above zero. She suspected it was more of an issue about the boiler than the temperature. Either way, she was still all wobbly from the strain in her tail.
+
+She made coffee.
+
+There was nothing she could do to follow Amber.
+
+She took a nap.
+
+There was nothing she *would* do to follow her. She had moved on, Dani was left to deal with what remained.
+
+She thought about Amber.
+
+Dani could no more follow her than the crocodile could. She was bound for the other shore, for more loneliness and more dreams.
+
+She put a movie to playing.
+
+The only thing missing was her catalog of folktales.
