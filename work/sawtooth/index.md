@@ -10,8 +10,6 @@ layout: page
 title: Sawtooth
 ---
 
-### Notes
-
 I realized, as I was writing all of these things, I pictured them all happening in the same world, maybe even the same town. Still figuring out the specifics, but I'm collecting notes here.
 
 ### Stories

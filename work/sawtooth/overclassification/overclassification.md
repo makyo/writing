@@ -15,12 +15,12 @@ title: Overclassification
 * Work and weekend bring no relief from malaise, but do bring cold snap
 * Sunday evening, sees homeless ringtail on pedestrian mall, brings her in
 * She won't tell Dani much, but does keep telling her stories
-* She notices the need for neatness, injects a little chaos in tolerable amounts - new name each day: Anne, Alex, Andrew, Amy, Amber (real name) - mentions OCPD (F60.5)
+* She notices the need for neatness, injects a little chaos in tolerable amounts - new name each day: Anne, Alex, Amy, Amber (real name) - mentions OCPD (F60.5)
 * Dani starts talking to her about cataloging
 * They start making up stories to fit into the catalog
 * She makes up a story about Dani
-* Dani starts guessing at her own story, hitching with a guy who takes advantage of her
-* Dani makes up a nicer story for her
+* Dani starts guessing at her own story, hitching with a guy who takes advantage of her, 81: Too cold for hare to build house in winter, not necessary in summer: must go without a house
+* Dani makes up a nicer story for her, 58: The jackal, who wants to eat fruit or carrion on the other bank, persuades a crocodile to carry him across the river by saying he will find a bride for the crocodile. He makes a dummy and, safe back on shore, sends the crocodile to that.
 * They fuck
 * Disappears the next day, cold snap coming to an end
 
@@ -46,9 +46,9 @@ It wasn't the apartment, of course, it was Dani. Even that was obvious: one coul
 
 It wasn't OCD, her therapist had explained --- and she had explained to an ex-girlfriend --- so much as an aspect of personality.
 
-This was back in her undergrad, and she'd initially been hesitant to accept that. Surely an ICD10 code would help. A bold *F42 - . If only she could stack all her problems up into a banker's box and scrawl *F42* across the top in permanent marker. This felt like an indictment that she wasn't fixable, just weird.
+This was back in her undergrad, and she'd initially been hesitant to accept that. Surely an ICD10 code would help. A bold *F42 --- Obsessive-Compulsive Disorder*. If only she could stack all her problems up into a banker's box and scrawl *F42* across the top in permanent marker. This felt like an indictment that she wasn't fixable, just weird.
 
-In grad school, she had met a vixen with OCD in one of the classes she TA'd, and she'd immediately dropped an pretenses of F42-dom for herself. She lacked the raw, primal anxiety that went along with such a thing. She was just weird.
+In grad school, she had met a vixen with OCD in one of the classes she TA'd, and she'd immediately dropped an pretenses of *F42*-dom for herself. She lacked the raw, primal anxiety that went along with such a thing. She was just weird.
 
 "Maybe not," her ex had said, at her explanation. "But that doesn't make you any less crazy."
 
@@ -519,3 +519,121 @@ The furrowed brow turned into an outright frown. Still standing in the middle of
 >
 > On Sunday evening, a boiler in central heating ceased working. The back-up boiler was brought online, but cannot heat all campus buildings to a safe temperature. Crews are working to replace the boiler.  
 > Temperatures have reached -30, stay inside and keep warm."
+
+"I guess that solves that," Dani mumbled.
+
+Remembering her guest, she slipped on a loose pair of pants before heading out to the kitchen and living room. Alex was a lump of clothes and blankets on the couch, the only visible part of her being the tip of her tail peeking out from beneath two layers of blankets.
+
+It *was* cold, Dani thought, and checked on her thermostat. She bumped it up a few degrees, wary of the outcome if it got too low. Hot water baseboard heaters were nice and all, but the last thing she wanted was for one of them to freeze and for the pipe to burst.
+
+She set about making the quietest cup of tea she could manage, waddling around the kitchen as best she could with the ache in her tail. She was normally a coffee drinker, but that'd wake the ringtail in the living room. Tea would do fine, though, if she didn't have to race into work.
+
+Alex grumbled from beneath the covers at the sound of the water boiling in the electric kettle, but, as far as Dani could tell, kept on sleeping.
+
+The otter spent the next few hours holed up in her bedroom, sipping her way through a mug of tea as she poked through news and stories on her phone, before pulling down the book of folklore classifications.
+
+Her life was in disarray, she knew. Alex had thrown a wrench into things, into her neat little life and her neat little apartment. It brushed up against all sorts of weird desires to keep both life and home organized.
+
+Not that the ringtail had been a problem. She'd set her backpack down where backpacks go, she'd given Dani her plate when she was done, had used the bathroom once or twice. She had, in fact, not budged from her spot on the beanbag otherwise.
+
+And yet this all felt like some intrusion.
+
+Perhaps it was the way in which Dani approached it. Perhaps it wasn't Alex at all, and it was all just on her. She was the one who had taken Alex in. She was the one who was stuck thinking about this. For Alex it was nothing, she could keep clean and to herself. It was Dani who was having a hard time classifying things.
+
+She realized she was doing the same with her book as she did with her movies. Her eyes scanned over the text in the thin workbook, but none of the text made it further into her mind. She covered each line, recognizing letters, before turning the page.
+
+*I should just put it up,* she thought, feeling grumpy. *I'm not getting anything out of it. I could take a nap.*
+
+She shook her head to shake wandering thoughts into a sense of order, and turned back to the index of folklore motifs.
+
+Maybe she could come up with a story to tell Alex.
+
+-----
+
+The silence --- or at least soft snores --- from the living room slowly morphed into soft rustlings, and then from there to audible yawns and the sound of padding feet heading to the bathroom.
+
+Dani levered herself quietly out of bed and snuck into the kitchen before Alex could make it it out of the bathroom.
+
+"Coffee?" Dani asked when Alex stumbled back to the beanbag. The ringtail sat down heavily on the cushion, looking mussed up from her night's sleep.
+
+"Nngh. Mmhm."
+
+The otter nodded and flicked a switch on the little countertop espresso machine, then set the grinder to run for two shots worth of coffee grounds. The tea had helped, of course, but she suspected the coffee would help all the more.
+
+"You're chipper," Alex grumbled.
+
+Dani nodded. "Been up a few hours already. Dad always used to get us up early for the sunrise. He said it wouldn't rise without us kids. Someone had to be there to see it."
+
+The otter finished pulling one shot of espresso, and walked it over to the ringtail on the couch. "Let me know if you need milk or anything."
+
+Alex shook her head, sipped gratefully at the bitter coffee.
+
+"Anyway, one day we all got sick. One of those bouts of the flu that catches the whole house at once." Dani tamped down the grounds in the portafilter, using the tamp to brush the grounds off the rim. She paused to lick a finger and sweep up a scattering of grounds that had missed the used-grounds container she built the shot over, flicking the gritty coffee back into the container.
+
+"We all slept in to--" She leaned back to look at the clock on the microwave. "Until about ten thirty. We were all so surprised when we saw the sun had risen without us."
+
+Alex laughed as Dani pulled her own shot. "Oh yeah? And which number is that?"
+
+Dani leaned back against the counter, wincing at the strain in her tail and clutching her little demitasse in her paws. "You got me. One hundred fourteen."
+
+The ringtail held onto her empty cup with one hand and leaned back onto the other, grinning up to the otter. "I'll give your delivery an eight out of ten, but the story needs work. Did you rehearse it?"
+
+"A little," Dani admitted, ears and whiskers both canted back in embarrassment. "Was it that obvious?"
+
+"To me, yeah. But I live off stories. You get a feel for truth, lies, and the right mix, you tell enough stories. You can hear when one's being told on the spot."
+
+"What about mine didn't work?"
+
+The ringtail shrugged and leaned forward to hand over her cup when the otter held out her paw.  "Your truth-to-lie ratio was good. Lemme guess," she said, tilting her head. "You got up with your dad, but don't have any siblings."
+
+Dani laughed. "Yeah, that's it. How'd you guess?"
+
+"The way you talked about your mom last night, about stealing office supplies." Alex shook her head. "It wasn't that, though. Like I said, that was good. The, uh...what's it. How much the story means..."
+
+"Consequence?"
+
+"Yeah, it was inconsequential to a good level. You tell a story, and if you're trying to weave one, you don't make it too consequential. You told me a true story last night; those can be consequential. A tale should make you care enough to laugh or cry, but not much more."
+
+Dani thought for a moment. "When we'd talk about folktales, we'd talk about what tied them to one culture versus another, even if they'd share a common core. That feels pretty consequential."
+
+"I guess a little." The ringtail shrugged and stood up once more. "But you're not imparting deep wisdom. They're all just stories, still. They gotta be light, inconsequential --- and yours was --- but they also gotta be, um...spontaneous."
+
+"Extemporaneous, maybe?"
+
+"That's it. They gotta be on the spot. Yours was just too rehearsed."
+
+Dani grinned and shrugged, "I'm not sure if I could do that."
+
+"It's not for everyone. You--" She paused for a moment, thinking before continuing. "You're too organized. Too OCD to pull a story out of thin air like that. Hey, can I grab a shower? I know you're probably sick of me, but I really need one."
+
+The OCD comment had caught Dani off her guard. She had so many thoughts, countless words, about how she was or wasn't that. She didn't have the *F42* required for *F42*-dom. All of those had disappeared, as they always did at time of need.
+
+She just nodded and waved Alex into the bathroom.
+
+-----
+
+"So, it's gotten down to negative thirty. I know I was going to offer to help you get more layers, but I think it's too cold for even that."
+
+Alex nodded and kept quiet. She looked as though she were preparing to be kicked out.
+
+Dani hastened to clarify, "I don't even want to go out to the car. Plus, my tail hurts too bad to do much more than sit around. You alright just staying in until things warm up this afternoon? I can get you to Open Door or another place if you don't want to."
+
+The relief was writ plain on the ringtail's face. She nodded. "Yeah, that'd be good. I don't want to go out either. Really don't want to go to Open Door. Can I, uh...can I help out any? I don't have much to pay with, but I can do work or whatever."
+
+"There's not really much to be done, I don't think." Her expression softened. "You're just welcome to say until things warm up, Alex."
+
+"Amy."
+
+Dani blinked.
+
+"You can call me Amy today," the ringtail grinned.
+
+"First Anne, then Alex, now Amy?" Dani laughed.
+
+"A real name holds power, right?"
+
+The otter thought for a moment, then nodded. "Five hundred, yeah."
+
+Alex--er, Amy rolled her eyes. "They really did include everything in that catalog, didn't they?"
+
+Dani nodded as she waddled over to the couch. "Yep. Five hundred is a trickster who will be defeated by someone knowing his true name. Fuck," she interrupted herself. "How the hell did I fuck up my tail? I don't think I did anything to it yesterday."
