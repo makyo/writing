@@ -924,13 +924,13 @@ The otter gathered up the ringtail's paws in her own and gave them a squeeze. "Y
 
 Dani nodded, and let the silence linger on. Finally, she screwed up the courage to add, "You can stay here, too, you know. Long as you need."
 
-Amber laughed. It was kind, easy. "Thank you. You've done so much for me."
+Amber laughed easily. "Thank you. You've done so much for me."
 
 "Does that make me your crocodile?" Dani shot back, grinning.
 
-The ringtail didn't respond so much as lean in and give the otter a kiss.
+The ringtail didn't respond verbally, but leaned in and give Dani a kiss.
 
-Dani froze. It was one of those things that was both expected and completely out of the blue. The tension had been a thing, of course, but had always been on her end of the court. She hadn't expected a homeless girl to be giving her a kiss, no matter the stories that surrounded it.
+The otter froze. It was completely out of the blue, though perhaps some part of Dani suspected it was coming.. The tension had been a thing, of course, but had always been on her end of the court. She hadn't expected a homeless girl to be giving her a kiss, no matter the stories that surrounded it.
 
 All the same, the otter relented, shifting more onto her side and ignoring the twinge in her tail. When presented with a kiss, there was no further categorization to be done. They were kissing, and that was that.
 
@@ -966,13 +966,15 @@ The ringtail propped herself up on an elbow, resting her cheek in her paw. "Okay
 
 "I don't know if that's a power, really, but I'm more than happy for it."
 
+Amber shrugged and grinned down to the otter, "Good. I don't feel very powerful. I don't grant wishes or anything, but "
+
 -----
 
 When Dani awoke early the next morning --- very early, far before her alarms --- she was alone. Amber was gone.
 
-When she thought of the last few days, she wasn't totally surprised. The parable from the night before had been accurate enough. Amber had gotten to the other side of the cold snap. Dani would be left grappling with the Amber-that-was, the Amy and the Alex and the Anne, for a while yet.
+When she thought of the last few days, she wasn't totally surprised. The parable from the night before had been accurate enough: Amber had gotten to the other side of the cold snap. Dani would be left grappling with the Amber-that-was, the Amy and the Alex and the Anne, for a while yet.
 
-Not surprised, but not happy. She had left behind that hindbrain need to categorize and order her life for someone, and now they were gone. Maybe that was good, though. Maybe she needed a bit less order in her life.
+Not surprised, but not happy. She had set aside that hindbrain need to categorize and order her life for someone, and now they were gone. Maybe that was good, though. Maybe she needed a bit less order in her life.
 
 She clumsily paced her apartment for a few hours, that Tuesday. The university was still closed for the remainder of the cold snap, though the temperature was now well above zero. She suspected it was more of an issue about the boiler than the temperature. Either way, she was still all wobbly from the strain in her tail.
 
@@ -986,4 +988,4 @@ She put a movie to playing.
 
 She cleaned the kitchen and picked up all the blankets on the beanbag.
 
-The only thing missing was her catalog of folktales.
+She slowly reorganized her life around this Amber-shaped hole, and the only thing left missing was her catalog of folktales.
