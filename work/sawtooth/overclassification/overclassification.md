@@ -24,7 +24,7 @@ By the time she had actually woken up, written her dream journal entry, and stre
 
 The otter's apartment was small and, surprising no one, quite orderly. It wasn't neat, per se. It wasn't pretty or aesthetically pleasing, but there was some unnatural level of order to it that was immediately noticeable. Where many homes would slowly settle into a comfortable sort of entropy, into that "I know it's messy, but I know where everything is"-ness, Dani's seemed resistant to that particular form of entropy, in some intangible way.
 
-The kitchen was tight, and the plates stacked as one might stack plates, but in such a way as to not permit bowls in their proximity. The DVDs stacked on the shelf were of all sorts of genres, but one would be hard pressed to return one out of alphabetical order. Something about the vanity in the bathroom, disinvited one from placing anything on its surface.
+The kitchen was tight, and the plates stacked as one might stack plates, but in such a way as to not permit bowls in their proximity. The DVDs stacked on the shelf were of all sorts of genres, but one would be hard pressed to return one out of alphabetical order. Something about the vanity in the bathroom disinvited one from placing anything on its surface.
 
 It wasn't the apartment, of course, it was Dani. Even that was obvious: one could no more place that blame on the apartment than one could place a dirty dish on the counter rather than in the sink.
 
