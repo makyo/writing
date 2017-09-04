@@ -814,7 +814,7 @@ All of that openness she had grown over the past few hours, all of that was slow
 
 She spent her time pretending to leaf through the book of motifs and tropes. Amy sat where she had been, watching the TV over Dani as the otter poked through her book. She didn't have quite what it took to look Amy in the eyes.
 
-*Perhaps I should find her a place to go,* she thougt. *Perhaps this whole thing was a mistake. We don't know each other, neither of us know how to share.*
+*Perhaps I should find her a place to go,* she thought. *Perhaps this whole thing was a mistake. We don't know each other, neither of us know how to share.*
 
 And yet they stayed there. Amy watched her movie, and Dani's eyes traced lines of text without reading them.
 
@@ -838,7 +838,7 @@ The otter carefully squirms onto her side, doing all she can not to tweak her ta
 
 Dani hesitated for a moment before murmuring, "Is that your name now?"
 
-"No, just Amber. That's my name."
+"No, that's my name. Just Amber."
 
 The ringtail's voice was flat, her eyes downcast and even then focusing on nothing. It hurt to listen to.
 
@@ -854,15 +854,15 @@ The ringtail lifted her gaze enough to look at Dani properly. "Mm."
 
 "I don't think this story is eighty one, like I said. It's fifty eight."
 
-Amy--Amber's ears tilt back. Short, sharp condemnations of intent.
+Amy--Amber's ears tilt back. Short, sharp condemnations.
 
 Dani pressed on. "You're the one who sees something on the far bank that she wants. You have a goal, something you could really desire. Not just a passing fancy."
 
-Amber's smile started to shine through.
+Amber's expression softened.
 
 "So you think, *Ah, there we go! Just what I was after.* But it's on the far bank, right? So you look around and you see the crocodile. He's a good kid, you know. The type of person who would try to do right by you, even if he doesn't get the whole story.
 
-"Well now, you've got a means, and you've got a goal, but you don't have the influence to make it happen. So you sit down by the crocodile and you say, *Great day out here, really nice.* And he says *yup.* And it's not great and all, but you know it's gonna take a while to sway the crocodile's interests to align with yours.
+"Well now, you've got a means, and you've got a goal, but you don't have the influence to make it happen. So you sit down by the crocodile and you say, *Great day out here, really nice.* And he says, *Yup.* And it's not great and all, but you know it's gonna take a while to sway the crocodile's interests to align with yours.
 
 "*I always find myself thinking of the far bank, of what that would bring me, what I could gain by being there.* The croc frowns. Each bank is the same to him. The river is as valid as land, when it comes to crossing.
 
@@ -876,7 +876,7 @@ Amber was grinning outright, thought she stayed quiet to let Dani finish her tel
 
 Amber's grin gets tight, a bit mean, but no less earnest.
 
-"So you give it a bit of thought, and you duck off down the bank, and you put your hard-earned vo-tech skills to use, and you come up with a present for the crocodile.
+"So you give it a bit of thought, and you duck off down the bank, and you put your hard-earned basket-weaving skills to use, and you come up with a present for the crocodile.
 
 "*Tell you what, buddy,* you say. *I know a bunch of folks on both sides of the river. I've got a guy on the other side, he says he knows someone. I think she's even on this side of the river.*
 
@@ -892,13 +892,13 @@ The ringtail was fully engaged now, laughing and rolling her eyes and nodding al
 
 "And you point across the river. There, just across on the other side, poking just out over the water, is the snout of another crocodile! Well, your dude, he gives you the biggest thumbs up and tackiest wink one could manage, and starts back across the river with your blessing.
 
-"That's your crocodile on the other side, after all. You made him out of reeds, built up from whole cloth, and now here you are, where you need to be. What your dude does with his very flammable wife is up to him. You've done your part."
+"That's your crocodile on the other side, after all. You made her out of reeds, built up from whole cloth, and now here you are, where you need to be. What your dude does with his very flammable wife is up to him. You've done your part."
 
 Amber laughed outright at that last bit, and Dani grinned happily in response.
 
 "I'll give you an eight out of ten on delivery on that one," the ringtail says. "You sold me at the end there, but at the beginning, it sounded like an apology."
 
-"Yeah, I'm sorry, Amber." Dani grinned sheepishly.
+"Yeah." Dani grinned sheepishly. "I'm sorry, Amber."
 
 "It's cool, I swear."
 
@@ -946,9 +946,9 @@ The ringtail smiled. It was a soft and kind smile, open and honest. "Amber."
 
 Dani laughed. "Probably not. If your goal was to subvert me organizing everything too much, you did it. This, though--" and she leaned forward to give Amber another kiss. "I'd like to hold onto this."
 
-The ringtail smiled, nose nearly pressed in against Dani's. "Amber's real. That's my true name."
+The ringtail smiled, nose nearly pressed in against Dani's. "'Amber's real. That's my true name."
 
-Her whiskers bristling from the close contact, Dani smiled. "What power does that grant me, that knowledge?"
+Her whiskers bristling from the close contact, Dani smiled. "What power does that grant me, knowing that?"
 
 "What power would you like?" Amber grinned.
 
@@ -966,7 +966,47 @@ The ringtail propped herself up on an elbow, resting her cheek in her paw. "Okay
 
 "I don't know if that's a power, really, but I'm more than happy for it."
 
-Amber shrugged and grinned down to the otter, "Good. I don't feel very powerful. I don't grant wishes or anything, but "
+Amber shrugged and grinned down to the otter, "Good. I don't feel very powerful. I don't grant wishes or anything, but it's good to be here."
+
+"Mm," Dani agreed.
+
+Amber paused, then laughed again, "And this is the point when you kiss me again."
+
+And so Dani did.
+
+The otter would ever be herself, and she owned that. It was her place in life to classify the things around her, and so she took up the reins and did as she was built to do.
+
+Amber, her fur was soft. It wasn't pillowy or silky, but it did fall into the category of soft, similar to the way silt was soft.
+
+*F.S03 --- fur, soft, dry and smooth*.{: class="text-right"}
+
+The ringtail was small --- she barely fit in Dani's clothes, and the otter wasn't large by any stretch of the imagination. But one can wear oversized clothing in a number of ways. Amber didn't seem young, like a girl wearing her father's clothes. She didn't seem like someone wearing ill-fitted clothing. She was just comfortably two sizes under Dani, and was wearing that clothing while her clothing was being dried off.
+
+That had to be a trope of its own: *C.Sm.03 --- clothing, small, by necessity (cute)*.{: class="text-right"}
+
+Sometimes, one comes out of the shower smelling not just clean, but bearing the Scent of Clean, patented and trademarked. Amber had just come out of the shower earlier in the day, but she smelled...not clean, but of herself, with nothing standing in the way of that.
+
+*O.C.10 --- odor, clean, pleasant (self, not perfumed*.{: class="text-right"}
+
+She was responsive to Dani's touches. She didn't arch or buck her hips or do anything so silly, but neither was she totally passive. Dani felt that she could drag her paws down along the ringtail's sides and front, and trust that she would continue to feel that confidence. Not eager, but willing. Not slack, but still. Not passive, but soft. Available and open to Dani as the otter moved against her.
+
+*R.5.05 --- responsiveness, consensual, familiar*.{: class="text-right"}
+
+Nose twitched, ears perked, paws touched. Dani explored and investigated, gleefully categorizing as she went. Amber was middling ticklish, more quiet than not, and prone to stretching when touched. When they interacted, they were neither verbose nor silent, neither shy nor bold; just a comfortable interaction that was sensual enough to be labeled as such without being lewd.
+
+Dani ignored the twinges of pain in her tail as she moved. It was more important to find the ways in which they fit together than to hold her tail still. There are things, she knew, that she would regret the next day: stretches, actions, words. Each of those was duly labeled and set aside.
+
+The otter focused instead on the things that made them both feel fulfilled. They were both all-in on this, they were both moving together, and that left her path clear: there were a limited set of choices she could make, and she made them.
+
+By the time the two of them settle down together once more, panting and laughing, Dani knew that her classification of Amber had been wrong from start to finish. The act, the moment, the motions --- those had all been tagged and labeled, described and delineated.
+
+The ringtail: not at all.
+
+Amber had come into her life through both of their actions, as well as circumstances outside their control. Along each step of their journey, each had made choices and taken actions that wound up here, with each tangled in their own clothes, and both tangled with one another.
+
+Every step of the way had been noted and slotted into its own comfortable box.
+
+Dani was easily described, but Amber...she was wholly uncategorizable.
 
 -----
 
