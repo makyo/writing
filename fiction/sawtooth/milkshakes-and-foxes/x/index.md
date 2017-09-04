@@ -2,7 +2,7 @@
 counts:
     characters_real: 8106
     characters_total: 9962
-    file: ./fiction/milkshakes-and-foxes/x/index.md
+    file: ./fiction/sawtooth/milkshakes-and-foxes/x/index.md
     paragraphs: 38
     type: jekyll
     words: 1806

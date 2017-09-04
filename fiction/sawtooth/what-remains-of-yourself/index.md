@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 11655
-    characters_total: 14383
-    file: ./fiction/what-remains-of-yourself/index.md
-    paragraphs: 108
+    characters_real: 11676
+    characters_total: 14408
+    file: ./fiction/sawtooth/what-remains-of-yourself/index.md
+    paragraphs: 110
     type: jekyll
-    words: 2716
+    words: 2720
 date: 2017-01-30
 layout: post
 rating: X

@@ -3,7 +3,7 @@ comments: false
 counts:
     characters_real: 1063
     characters_total: 1288
-    file: ./fiction/party/centerpiece/reviews.md
+    file: ./fiction/sawtooth/party/centerpiece/reviews.md
     paragraphs: 8
     type: jekyll
     words: 223

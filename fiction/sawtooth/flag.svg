@@ -1,0 +1,6 @@
+<svg width="500" height="300" viewbox="0 0 500 300"  xmlns="http://www.w3.org/2000/svg">
+    <path fill="blue" d="M 0,0 l 0,140 l 100,-40 l 0,40 l 100,-40 l 0,40 l 100,-40 l 0,40 l 100,-40 l 0,40 l 100,-40 l 0,40 l 0,-140 Z" />
+    <path fill="yellow" d="M 0,140 l 100,-40 l 0,40 l 100,-40 l 0,40 l 100,-40 l 0,40 l 100,-40 l 0,40 l 100,-40 l 0,20 l -100,40 l 0,-40 l -100,40 l 0,-40 l -100,40 l 0,-40 l -100,40 l 0,-40 l -100,40 l 0,-40 Z" />
+    <path fill="green" d="M 0,160 l 100,-40 l 0,40 l 100,-40 l 0,40 l 100,-40 l 0,40 l 100,-40 l 0,40 l 100,-40 l 0,40 l 0,140 l -500,0 Z" />
+    <path fill="none" stroke="black" d="M 0,0 l 500,0 l 0,300 l -500,0 l 0,-300" stroke-width="5"/>
+</svg>

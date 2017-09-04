@@ -2,7 +2,7 @@
 counts:
     characters_real: 18825
     characters_total: 23225
-    file: ./fiction/party/centerpiece/index.md
+    file: ./fiction/sawtooth/party/centerpiece/index.md
     paragraphs: 121
     type: jekyll
     words: 4370
