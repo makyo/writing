@@ -350,7 +350,7 @@ Dani nodded and padded to the hallway by the bathroom, opening the cabinet there
 
 Anne continued her story as she followed along, trying to help where she could. "She was neat, like I said. She and her husband. Her husband would make things a little messy, but she'd put them in order. It was weird. Their place wasn't super clean, they had a lot of stuff, it was just all organized"
 
-Dani poked through the blankets, before giving up and just grabbing them all. It was cold, after all, might as well make sure her guest was comfortable. She stuffed the blankets into Anne's outstretched arms before reaching back for the pillows on the shelf below..
+Dani poked through the blankets, before giving up and just grabbing them all. It was cold, after all, might as well make sure her guest was comfortable. She stuffed the blankets into Anne's outstretched arms before reaching back for the pillows on the shelf below.
 
 "Anyway, they were super nice. But the guy, her husband, he got sick. Cancer or something. He passed away. Killed us all, you know? We all loved the guy. Mostly, though, it killed us to watch her. Her tail got all droopy and her fur would get matted and dirty, like she couldn't be bothered to organize again."
 
@@ -432,7 +432,7 @@ Alex looked on thoughtfully, then nodded. "Clearly a three twenty eight."
 
 Dani snorted. "The treasures of a giant?"
 
-"Well, it's not wrong, is it?" Alex laughed. "You stole things from Miss Weaver."
+"Well, okay, I made that up. It's not wrong, is it?" Alex laughed. "You stole things from Miss Weaver."
 
 "Usually it's something more important. Something you go out of your way to steal. Treasure and such."
 
