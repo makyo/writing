@@ -1,5 +1,5 @@
 body {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Gentium Book Basic', serif;
     font-size: 12pt;
     color: #222;
 }
@@ -9,7 +9,7 @@ body.inverse {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Playfair Display', serif;
+    font-family: 'Gentium Book Basic', serif;
 }
 
 h4, h5, h6 {
