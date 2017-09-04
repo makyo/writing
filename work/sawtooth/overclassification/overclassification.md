@@ -266,7 +266,7 @@ The silence grew weird.
 
 "I, uh," Dani straightened her shirt. "I don't have anyone over all that much. Can I get you anything?"
 
-The bassarisk moved cautiously to sit on the couch, perched at the edge of the seat. "If you have any...I mean, I don't want to trouble--" She shook her head and gave Dani a bashful smile. "Do you have any food I could have? I can work to pay you back."
+Anne moved cautiously to sit on the couch, perched at the edge of the seat. "If you have any...I mean, I don't want to trouble--" She shook her head and gave Dani a bashful smile. "Do you have any food I could have? I can work to pay you back."
 
 The otter straightened up and grinned, "Oh! Yes, sorry, and don't worry about paying me back."
 
@@ -304,7 +304,7 @@ Anne laughed. "Kinda, yeah. Was hoping I could just conserve all my warmth under
 
 Anne frowned at her plate.
 
-"It was full, then," Dani said quietly, trying to settle the matter before any of the bassarisk's obviously complicated emotions needed to be put in words. "Is there, er--another place with beds?"
+"It was full, then," Dani said quietly, trying to settle the matter before any of the ringtail's obviously complicated emotions needed to be put in words. "Is there, er--another place with beds?"
 
 "I dunno," Anne mumbled. "I only just got here last week. Had been staying at Open Door."
 
@@ -436,7 +436,7 @@ Dani snorted. "The treasures of a giant?"
 
 "Usually it's something more important. Something you go out of your way to steal. Treasure and such."
 
-They both grinned. The bassarisk shrugged, and began a simple grooming of herself, brushing through tan and white fur. It was soft-looking, almost downy, but certainly no protection against the cold. Not that Dani's was any better. "There you were, concocting your secret plan to steal organization from the very lair of the beast, a treasure to keep for yourself."
+They both grinned. Alex shrugged, and began a simple grooming of herself, brushing through tan and white fur. It was soft-looking, almost downy, but certainly no protection against the cold. Not that Dani's was any better. "There you were," she said. "Concocting your secret plan to steal organization itself from the very lair of the beast, a treasure to keep for yourself."
 
 Dani laughed and urged Alex on with a gesture.
 
@@ -552,7 +552,7 @@ The otter nodded and flicked a switch on the little countertop espresso machine,
 
 Dani nodded. "Been up a few hours already. Dad always used to get us up early for the sunrise. He said it wouldn't rise without us kids. Someone had to be there to see it."
 
-The otter finished pulling one shot of espresso, and walked it over to the bassarisk on the couch. "Let me know if you need milk or anything."
+The otter finished pulling one shot of espresso, and walked it over to the ringtail on the couch. "Let me know if you need milk or anything."
 
 Alex shook her head, sipped gratefully at the bitter coffee.
 
@@ -678,7 +678,7 @@ Dani shifted over onto her side enough to look at Amy more directly, trying to l
 
 "Well, sure," Dani demurred. "But OCD requires anxiety that I don't have. You have to feel anxiety about things that you obsess over, and you have to have the compulsion required to fix them. I don't have those. I just classify things. That's just what I do."
 
-Amy looked thoroughly sorry for having brought the topic up. All the same, the bassarisk persevered. "Okay, well, maybe not OCD, but my ma, she told me that there's all these disorders around anxiety, and each has a personality disorder to go with it." Her voice was fast, as thought she were rushing to fill a hole she were digging herself into. "Maybe you have that? Obsessive-Compulsive, uh...personality disorder?"
+Amy looked thoroughly sorry for having brought the topic up. All the same, she persevered. "Okay, well, maybe not OCD, but my ma, she told me that there's all these disorders around anxiety, and each has a personality disorder to go with it." Her voice was fast, as thought she were rushing to fill a hole she were digging herself into. "Maybe you have that? Obsessive-Compulsive, uh...personality disorder?"
 
 Dani reached out a paw to rest on Amy's. None of this was too terribly surprising, it was all stuff that made sense. Still, Amy looked as though she had talked herself into a tizzy. The ringtail looked absolutely panicked. "Maybe," she allowed. "What does this version entail?"
 
@@ -778,7 +778,7 @@ Amy looked as though she was cuing up a response to that, perhaps some list of i
 
 "You, see, you're eighty one. Here you are, plowing through the world, and you're doing really good. You find yourself on the road, and you got yourself some friends, or maybe just one. Just someone you're traveling with."
 
-The bassarisk shut down at this outburst, her expression going blank and her paws going slack in Dani's.
+Amy shut down at this outburst, her expression going blank and her paws going slack in Dani's.
 
 The otter persisted. "You said, *It's so wonderful out now, I must be all set for the next year.*
 
@@ -812,7 +812,7 @@ Dani nodded and bowed her head, gesturing in the direction of the shelves of DVD
 
 Dani stayed silent through the movie. Amy had chosen a thriller, something with enough action to hold their interest without demanding it. Not *too* actiony, not too cerebral.
 
-The bassarisk had shrunk in size, Dani noticed, all her confidence drained away. The jokey story-telling exercise really had gone too far, and although she stood by her assessment, she realized she probably should have been a bit more careful of providing it.
+The ringtail had shrunk in size, Dani noticed, all her confidence drained away. The jokey story-telling exercise really had gone too far, and although she stood by her assessment, she realized she probably should have been a bit more careful of providing it.
 
 All of that openness she had grown over the past few hours, all of that was slowly unwound. She had built up this stanchion of confidence, only to find she'd planned the bridge in the wrong spot. She hadn't had a goal in this sleepover storytime, but even so, she'd fucked it up.
 
@@ -850,7 +850,7 @@ The ringtail's voice was flat, her eyes downcast and even then focusing on nothi
 
 "No, you're fine."
 
-Dani watched the way the bassarisk's eyes went in and out of focus. They never shifted the direction in which they were looking, but it was still plain enough to see the focus shifting.
+Dani watched the way Amber's eyes went in and out of focus. They never shifted the direction in which they were looking, but it was still plain enough to see the focus shifting.
 
 "You want to know something?" Dani asked.
 
@@ -900,7 +900,7 @@ The ringtail was fully engaged now, laughing and rolling her eyes and nodding al
 
 Amber laughed outright at that last bit, and Dani grinned happily in response.
 
-"I'll give you an nine out of ten on delivery on that one," the bassarisk says. "You sold me at the end there, but at the beginning, it sounded like an apology."
+"I'll give you an nine out of ten on delivery on that one," the ringtail said. "You sold me at the end there, but at the beginning, it sounded like an apology."
 
 "Yeah." Dani grinned sheepishly. "I'm sorry, Amber."
 
@@ -942,7 +942,7 @@ The moment shifted and so did Amber, leaning back away from Dani. The otter plas
 
 "Tell me your name."
 
-The ringtail smiled. It was a soft and kind smile, open and honest. "Amber."
+Amber smiled. It was a soft and kind smile, open and honest. "Amber."
 
 "I'm not going to wake up to a different name, am I?"
 
@@ -950,7 +950,7 @@ The ringtail smiled. It was a soft and kind smile, open and honest. "Amber."
 
 Dani laughed. "Probably not. If your goal was to subvert me organizing everything too much, you did it. This, though--" and she leaned forward to give Amber another kiss. "I'd like to hold onto this."
 
-The bassarisk smiled, nose nearly pressed in against Dani's. "'Amber's real. That's my true name."
+The ringtail smiled, looking happier than before with nose nearly pressed in against Dani's. "'Amber's real. That's my true name."
 
 Her whiskers bristling from the close contact, Dani smiled. "What power does that grant me, knowing that?"
 
@@ -982,19 +982,23 @@ The otter would ever be herself, and she owned that. It was her place in life to
 
 Amber, her fur was soft. It wasn't pillowy or silky, but it did fall into the category of soft, similar to the way silt was soft.
 
-*F.S03 --- fur, soft, dry and smooth*.{: class="text-right"}
+*F.S03 --- fur, soft, dry and smooth*.
+{: class="text-right"}
 
-The ringtail was small --- she barely fit in Dani's clothes, and the otter wasn't large by any stretch of the imagination. But one can wear oversized clothing in a number of ways. Amber didn't seem young, like a girl wearing her father's clothes. She didn't seem like someone wearing ill-fitted clothing. She was just comfortably two sizes smaller than Dani, and was wearing that clothing while her clothing was being dried off.
+The ringtail was small --- she barely fit in Dani's clothes, and the otter wasn't large by any stretch of the imagination. But one can wear oversized clothing in a number of ways. Amber didn't seem young, like a girl wearing her father's clothes. She didn't seem like someone wearing ill-fitted clothing. She was just comfortably two sizes smaller than Dani, and was wearing that clothing while her clothing was being dried off. That had to be a trope of its own.
 
-That had to be a trope of its own: *C.Sm.03 --- clothing, small, by necessity (cute)*.{: class="text-right"}
+*C.Sm.03 --- clothing, small, by necessity (cute)*.
+{: class="text-right"}
 
 Sometimes, one comes out of the shower smelling not just clean, but bearing the Scent of Clean, patented and trademarked. Amber had just come out of the shower earlier in the day, but she smelled...not clean, but of herself, with nothing standing in the way of that.
 
-*Os.C.10 --- odor (self), clean, pleasant (not perfumed)*.{: class="text-right"}
+*Os.C.10 --- odor (self), clean, pleasant (not perfumed)*.
+{: class="text-right"}
 
 She was responsive to Dani's touches. She didn't arch or buck her hips or do anything so silly, but neither was she totally passive. Dani felt that she could drag her paws down along the ringtail's sides and front, and trust that she would continue to feel that confidence. Not eager, but willing. Not slack, but still. Not passive, but soft. Available and open to Dani as the otter moved against her.
 
-*R.5.05 --- responsiveness, consensual, familiar*.{: class="text-right"}
+*R.5.05 --- responsiveness, consensual, familiar*.
+{: class="text-right"}
 
 Nose twitched, ears perked, paws touched. Dani explored and investigated, gleefully categorizing as she went. Amber was middling ticklish, more quiet than not, and prone to stretching when touched. When they interacted, they were neither verbose nor silent, neither shy nor bold; just a comfortable commingling that was sensual enough to be labeled as such without being lewd.
 
