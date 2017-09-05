@@ -1,13 +1,13 @@
 ---
 counts:
-    characters_real: 58318
-    characters_total: 72227
+    characters_real: 58339
+    characters_total: 72252
     file: ./fiction/sawtooth/overclassification/index.md
-    paragraphs: 507
+    paragraphs: 510
     type: jekyll
-    words: 13794
+    words: 13798
 date: 2017-09-04
-layout: page
+layout: post
 rating: R
 title: Overclassification
 ---

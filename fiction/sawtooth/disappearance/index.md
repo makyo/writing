@@ -1,13 +1,13 @@
 ---
 counts:
-    characters_real: 44939
-    characters_total: 56106
+    characters_real: 44956
+    characters_total: 56125
     file: ./fiction/sawtooth/disappearance/index.md
-    paragraphs: 377
+    paragraphs: 379
     type: jekyll
-    words: 11067
+    words: 11070
 date: 2017-08-02
-layout: draft
+layout: post
 title: Disappearance
 ---
 
@@ -692,7 +692,7 @@ The skirt, though, requires coordination. Aurora and I have to exchange a few gl
 
 "Mm."
 
-Soft noises. Gestures of paws. The warmth of a tongue, attentive and . Finely-tapered coyote muzzle. Lithe, arched weasel back. Quiet moans and subtle shifts to express what works and what doesn't. Paws finding places to rest, to touch, to brush and stroke.
+Soft noises. Gestures of paws. The warmth of a tongue, attentive and insistent. Finely-tapered coyote muzzle. Lithe, arched weasel back. Quiet moans and subtle shifts to express what works and what doesn't. Paws finding places to rest, to touch, to brush and stroke.
 
 And then something new, something different clicks within me. A rising swell of pleasure, and a sudden, uneven tumble of memories. A shuddering gasp and an attachment of name to place to time. A contraction, then relaxation of muscles and a line drawn between two points. A connection.
 
