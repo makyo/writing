@@ -1,0 +1,140 @@
+\documentclass[10pt]{memoir}
+
+%%% Resets
+% memoir defines footruleskip, we want fancyhdr's
+\let\footruleskip\undefined
+\DisemulatePackage{setspace}
+
+%%% Packages
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{lastpage}
+\usepackage{parcolumns}
+\usepackage{setspace}
+\usepackage{verse}
+
+%%% Font
+\usepackage{fontspec}
+\setmainfont{Gentium Book Basic}
+\newfontfamily\pfdfamily{Playfair Display}
+\newfontface\pfdfont{Playfair Display}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+\usepackage[none]{hyphenat}
+\renewcommand{\chapterheadstart}{}
+\renewcommand{\printchaptername}{}
+\renewcommand{\chapternamenum}{}
+\renewcommand{\printchapternum}{}
+\renewcommand{\printchaptertitle}[1]{\pfdfamily\huge\itshape #1}
+\setlength{\leftmargini}{0em}
+\setlength{\vleftmargin}{0em}
+
+%%% Headers/Footers
+\pagestyle{fancyplain}{
+  \fancyhf{}
+  \fancyheadoffset[r]{.01in}
+  \fancyhf[FRO,FLE]{\thepage}
+  \fancyhf[HLE]{\pfdfamily{\itshape\leftmark}}
+  \fancyhf[HRO]{\pfdfamily{\theauthor}}
+}
+
+%%% Spacing
+\usepackage[
+  % letterpaper,
+  paperwidth=5.5in,
+  paperheight=8.5in,
+  % layoutvoffset=1.25in,
+  % layouthoffset=1.5in,
+  layoutwidth=5.5in,
+  layoutheight=8.5in,
+  vmargin=0.5in,
+  outer=0.5in,
+  inner=0.75in,
+  includeheadfoot,
+  showcrop,
+  twoside
+]{geometry}
+
+\sloppy
+
+%%% Commands
+\newcommand\secdiv{
+  \begin{center}
+    \S
+  \end{center}
+}
+
+%%% Title
+\title{Restless Town}
+\author{Madison Scott-Clary}
+\date{}
+
+\begin{document}
+  \frontmatter
+  \pagestyle{empty}
+  \null
+  \vfill
+
+  \hfill\textit{Restless Town}
+
+  \vfill
+  \cleardoublepage
+  \null
+  \vfill
+  \begin{raggedleft}
+    {\Huge Restless Town}
+
+    \vspace{0.4in}
+
+    {\Large Madison Scott-Clary}
+
+    \vfill
+
+  \end{raggedleft}
+  \newpage
+  \null
+  \vfill
+
+  {\small
+  \noindent All stories \copyright\ Madison Scott-Clary the year of their publications. Licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+  \vspace{0.25in}
+
+  \noindent Current publication \today.
+  }
+
+  \vfill
+  \newpage
+  \tableofcontents*
+  \thispagestyle{empty}
+
+  \mainmatter
+
+  \pagestyle{fancyplain}
+
+  \chapter*{Disappearance}
+  \markboth{Disappearance}{}
+  \addcontentsline{toc}{chapter}{Disappearance}
+  \thispagestyle{empty}
+  \input{disappearance/input.tex}
+  \vfill
+  \begin{center}
+    \tiny \copyright\ Madison Scott-Clary, 2017
+  \end{center}
+
+  \chapter*{Overclassification}
+  \markboth{Overclassification}{}
+  \addcontentsline{toc}{chapter}{Overclassification}
+  \thispagestyle{empty}
+  \input{overclassification/input.tex}
+  \vfill
+  \begin{center}
+    \tiny \copyright\ Madison Scott-Clary, 2017
+  \end{center}
+
+\end{document}
