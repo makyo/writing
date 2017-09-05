@@ -6,6 +6,7 @@ counts:
     paragraphs: 377
     type: jekyll
     words: 11067
+date: 2017-08-02
 layout: draft
 title: Disappearance
 ---

@@ -8,5 +8,5 @@ concat:
 	for in in ??-*.md; do \
 		out=`echo $$in | sed -e 's/\.md/.tex/'`; \
 		echo "$$in => $$out"; \
-		pandoc -f markdown -t latex -o content/$$out $$in; \
+		pandoc -f markdown -t latex -o content/$$out $$in --wrap=none; \
 	done
