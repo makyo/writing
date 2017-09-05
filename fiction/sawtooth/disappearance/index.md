@@ -11,6 +11,11 @@ layout: draft
 title: Disappearance
 ---
 
+Print
+:   [PDF](disappearance.pdf)
+
+-----
+
 "This is going to sting."
 
 I nod.
