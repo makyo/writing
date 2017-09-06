@@ -33,6 +33,7 @@
 \renewcommand{\printchaptertitle}[1]{\pfdfamily\huge\itshape #1}
 \setlength{\leftmargini}{0em}
 \setlength{\vleftmargin}{0em}
+\setlength{\parskip}{0pt}
 
 %%% Headers/Footers
 \pagestyle{fancyplain}{
@@ -67,6 +68,12 @@
   \begin{center}
     \S
   \end{center}
+}
+\newcommand{\story}[1]{
+  \chapter*{#1}
+  \markboth{#1}{}
+  \addcontentsline{toc}{chapter}{#1}
+  \thispagestyle{empty}
 }
 
 %%% Title
@@ -117,21 +124,22 @@
 
   \pagestyle{fancyplain}
 
-  \chapter*{Disappearance}
-  \markboth{Disappearance}{}
-  \addcontentsline{toc}{chapter}{Disappearance}
-  \thispagestyle{empty}
+  \story{Disappearance}
   \input{disappearance/input.tex}
   \vfill
   \begin{center}
     \tiny \copyright\ Madison Scott-Clary, 2017
   \end{center}
 
-  \chapter*{Overclassification}
-  \markboth{Overclassification}{}
-  \addcontentsline{toc}{chapter}{Overclassification}
-  \thispagestyle{empty}
+  \story{Overclassification}
   \input{overclassification/input.tex}
+  \vfill
+  \begin{center}
+    \tiny \copyright\ Madison Scott-Clary, 2017
+  \end{center}
+
+  \story{The Fool}
+  \input{the-fool/input.tex}
   \vfill
   \begin{center}
     \tiny \copyright\ Madison Scott-Clary, 2017
