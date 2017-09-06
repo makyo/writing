@@ -1,16 +1,16 @@
 ---
 counts:
-    characters_real: 14901
-    characters_total: 18319
+    characters_real: 15128
+    characters_total: 18592
     file: ./work/sawtooth/run-ragged/run-ragged.md
-    paragraphs: 90
+    paragraphs: 94
     type: jekyll
-    words: 3379
+    words: 3425
 layout: draft
 title: Run Ragged
 ---
 
-Sélène made a quick pass through the kitchen, fingers brushing along the rims of cabinet doors. Each one was opened and inspected, leaving her standing on tiptoes to peer in the cabinets above the counters. Nothing but cups and glasses, plates and bowls, cutting boards and pots and pans and trays and dishes. All clean and neatly stacked.
+Sélène made a quick pass through the kitchen, fingers brushing along the edges of cabinet doors. Each one was opened and inspected, leaving her standing on tiptoes to peer in those above the counters. Nothing but cups and glasses, plates and bowls, cutting boards and pots and pans and trays and dishes. All clean and neatly stacked.
 
 Each cabinet was carefully left ajar. The vixen had perfected the art of finding the balance point that would leave them open before the weight of the door on the hinge would close them, without simply leaving them all the way open. The barest crack.
 
@@ -18,19 +18,23 @@ The fridge bore her inspection patiently, door held open as she inspected along 
 
 The oven yawned out to her, empty. The oven was easy, because it had a light that turned on while open, and off when closed. The fridge did, too, but the oven had its pristine glass door through which she could observe the light cycling. The stove had similar lights which, the associate at the hardware store assured here, were connected directly to the burners. Even so, she touched each cooktop surface gingerly to test for warmth, turned all the burners on, then off again.
 
-On a whim, the drawers were next. Thankfully, most of those were empty, and the rest mostly so. The underside of the silverware tray was inspected with care. While she had the drawer open, a sudden pang of fear coursed through her. Down on her knees, Sélène eased open the cabinet door and peered up toward the underside of the drawer, ensuring that there was nothing between the drawer's underside and the cabinet, and that the drawer sides didn't reach the underside of the counter, that there was a gap.
+On a whim, the drawers were next. Thankfully, most of those were empty, and the rest mostly so. The underside of the silverware tray was inspected with care.
 
-The pang continued to grow with a cool intensity, spreading out along her limbs.
+A twinge in her chest, a little pang, she held the drawer partly open. A fear. A cool, blue, perfectly smooth and round fear just behind her breastbone, snaking tendrils out along her limbs.
+
+Down on her knees, Sélène eased open the cabinet door and peered up toward the underside of the drawer, ensuring that there was nothing between the drawer's underside and the cabinet, and that the drawer sides didn't reach the underside of the counter, that there was a gap.
+
+The pang continued to grow with a cool intensity, arteries as avenues to carry it throughout her body.
 
 So she checked the rest of the drawers.
 
-Finally, she stood in the center of the kitchen, fished her phone out of her pocket, and thumbed the screen on. Turning a slow circle, she took a panorama of the kitchen.
+Finally, swallowing as best she could, Sélène stood in the center of the kitchen. She fished her phone out of her pocket, and thumbed the screen on. Turning a slow circle, she took a panorama of the kitchen.
 
 She waited for the panorama to be stitched together, then pulled it up and inspected it carefully, scrolling along its length.
 
-And there, in the doorway as seen in the pano, was the barest hint of a figure.
+Cabinet. Cabinet. Fridge. Cabinet. Doorway. The barest hint of a figure.
 
-Her head jerked up and she let out a shriek at the sight of her husband standing at the entrance to the kitchen, tired smile on his muzzle. She let her phone drop from her hands and clutched at her chest, that cool ache replaced with hot embarrassment.
+Her head jerked up and she let out a shriek at the sight of her husband standing at the entrance to the kitchen, tired smile on his muzzle. Her phone dropped from her paws and she clutched at her chest, that cool ache replaced with hot embarrassment.
 
 Aiden stepped forward quickly and lifted up her phone careful to touch only the edges, and deposit it back into her paw. "Sorry, Sélène, I should've stepped in more. May I hug?"
 
@@ -38,11 +42,15 @@ Sélène laughed breathlessly, inspecting her phone and tucking it back into her
 
 The taller fox --- much taller, which Sélène quite enjoyed --- tucked his muzzle over her head and nodded against her. "I'm fine, it's alright," he murmured. "You going to head into work today, sweetheart? You only have one from-home day left this week."
 
-"I think so, yeah. Feeling pretty good today, actually." That cool ache did that thing where it didn't grow any, yet somehow made it's presence known. An easily fixable thing. "You sure you're alright?"
+"I think so, yeah. Feeling pretty good today, actually." That cool ache sat in her chest, where it didn't grow any, yet somehow made it's presence all the more known.
+
+An easily fixable thing. She just had to ask. "You sure you're alright?"
+
+The pang subsided.
 
 Aiden leaned back and nodded where she could see, then leaned in again to touch his cheek to hers --- the closest she could stand to affection around her face. "Fine, love. I'm doing okay."
 
-Sélène returned the touch and nodded, silently promising herself that Aiden meant to say "I'm fine", rather than a resigned "fine", that her husband was just tired, not tired of her.
+Sélène returned the touch and nodded, silently promising that thin pang of fear that Aiden meant to say "I'm fine", rather than a resigned "fine", that her husband was just tired, not tired of her.
 
 "I'd like to head out soon, is that alright?"
 
@@ -78,7 +86,7 @@ The medical industry solemnly swore that Sélène Kelly was off her rocker, utte
 
 The diagnosis had been fine. Her family dealt with her getting steadily worse over the years, and when they finally got her in, hearing "obsessive-compulsive disorder" confirmed that *they* were not crazy, she was. She'd resented them right up until her first dose of the emergency sublingual anxiolytic. It had made her sleepy, but it had made her mind quiet. It had quelled so many of those cold pangs of anxiety.
 
-She remembered thinking before nodding off that night, "Fine, okay, it's just me." It had been depressing, but it knocked her resentment of her family out almost entirely.
+She remembered thinking before nodding off that night, "Fine, okay, it *is* just me." It had been depressing, but it knocked her resentment of her family out almost entirely.
 
 Aiden one-upped all of her family's care: he'd fallen in love with her, he said, whether or not she checked all the cabinets to ensure nothing --- or no one --- was stuck, slowly starving to death. He'd gotten her more than just meds, he'd gotten her therapy. A doctor who was working with her on a steady program of exposure: "Next time you're in the kitchen, walk in, take a glass from the cabinet, pour yourself a glass of water, and walk out. Think about how that feels." Little steps, over and over. Her family tried to hide her, Aiden tried to help her.
 
@@ -98,7 +106,7 @@ The fox smiled and turned off the engine, pulling the parking break up with a se
 
 Sélène felt lucky she was actually able to pull off a seamless dinner, even if it meant relying on microwaved leftovers. She loved to cook, but sometimes, reducing the friction her brain seemed intent on pushing into the act --- ovens and stoves are fraught with needs and anxieties --- was what the night called for. The more tired Aiden was, the less she wanted her personal idiosyncrasies to intrude on him, or on them.
 
-They settled into their respective sides of the couch with their plates, and set the TV to droning. It was Sélène's night to choose, so the result was a documentary. Aiden had put his foot down early on and specified that they would alternate nights of choosing programs to watch. That had soon after been amended to specify no repetitions of a program or movie within a month's span, when Sélène watched the same documentary four times in two weeks.
+They settled into their respective sides of the couch with their plates, and set the TV to droning. It was Sélène's night to choose, so the result was a documentary. Aiden had put his foot down early on and specified that they would alternate nights of choosing programs to watch. That had soon after been amended to specify no repetitions of a program or movie within a month's span, when Sélène watched the same documentary four times in two weeks. Old habits from university turned coping mechanisms.
 
 Tonight was some investigative journalism piece about missing people. It wasn't particularly interesting to Sélène, but the narrator's voice was nice.
 
@@ -168,7 +176,7 @@ Two social updates. High school friend posting a selfie (not a good one, could s
 
 She ignored the selfie, but left her thumb-pad hovering over Malina's post.
 
-She tried not to pester her neighbor too much. The badger was endlessly patient. Cyril, her husband, made no pretense of not understanding Selene, but did try to make her feel welcome. Perhaps because of that kindness, she always felt like she was intruding.
+She tried not to pester her neighbor too much. The badger was endlessly patient. Cyril, her husband, made no pretense of not understanding Sélène, but did try to make her feel welcome. Perhaps because of that kindness, she always felt like she was intruding.
 
 She held her breath, counted to three, and tapped at Malina's icon, racing to type out a message and hit send before letting out her pent-up breath in a puff.
 
@@ -184,7 +192,7 @@ The whine slipped into more of a grumble, a soft curse at herself.
 
 > Want some lunch company?
 
-Selene's tail, already bottlebrushed out and full of nervous twitches, nearly tugged her off the couch. She slipped a paw down along it and held onto the tip, thumb teasing through the fur.
+Sélène's tail, already bottlebrushed out and full of nervous twitches, nearly tugged her off the couch. She slipped a paw down along it and held onto the tip, thumb teasing through the fur.
 
 > Would love some.
 
