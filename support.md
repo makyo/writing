@@ -1,7 +1,14 @@
 ---
-layout: page
-title: support
 comments: false
+counts:
+    characters_real: 1464
+    characters_total: 1833
+    file: ./support.md
+    paragraphs: 7
+    type: jekyll
+    words: 348
+layout: page
+title: Support
 ---
 
 Howdy!
