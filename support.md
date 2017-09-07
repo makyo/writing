@@ -29,4 +29,4 @@ I have a few mechanisms for support:
 * [**Gratipay**](https://gratipay.com/makyo/) --- Gratipay works more like a tip system, but it also allows users to pledge on a schedule. The benefit of this is that it's super lightweight, and also works well with GitHub.
 * [**Ko-fi**](https://ko-fi.com/drabmakyo) --- Ko-fi is another tipping site, and is nicely integrated with PayPal. It's also got a bit of a friendlier interface than Gratipay, one that folks are more used to.
 
-If you're interested in support my writing work (and development work, if that's your bag!), I will be eternally grateful!
+If you're interested in supporting my writing work (and development work, if that's your bag!), I will be eternally grateful!
