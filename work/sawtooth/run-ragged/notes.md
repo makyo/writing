@@ -15,9 +15,10 @@ title: Run Ragged Notes
 3. ~~They get closer, hint at sleeping together.~~
 4. Panic attack next night about what happened, what will Aiden think, etc, Aiden hollers, sleeps on the couch
 5. Aiden admits to sleeping with coworker (Aaron) and his wife (Erin), suggests just opening relationship because he can't provide what Sélène needs but wants to stay together, friend to be integral/semi-romantic part of support network
-6. Malina's husband (Cyril) disagrees, friend has to pull back, everything gets tense, Sélène left in weird limbo, mental health spirals, some psychosis (each tug of fur an ablution, each spike of pain sending up a magnesium flare to light that darkness), hospitalized, bipolar 1
-7. Malina starts helping Sélène get what she needs, acting as sponsor
-8. They start seeing each other in secret (maybe the end?)
+6. Malina's husband (Cyril) disagrees, friend has to pull back, everything gets tense, Sélène left in weird limbo, mental health spirals, some psychosis (each tug of fur an ablution, each spike of pain sending up a magnesium flare to light that darkness), hospitalized, bipolar 1, Aiden disappears
+7. Malina starts helping Sélène get what she needs, acting as sponsor - cyril unhappy, Aiden returns from bender
+8. ... (on the way back up)
+9. ... (end reasonably positive, if damaged)
 
 * Sélène (French/Greek) - Relating to the moon (macro: without accents) - fox
 * Aiden (Irish, from Étaín) - Sun god/goddess, diminutive of ét: passion/jealousy - fox

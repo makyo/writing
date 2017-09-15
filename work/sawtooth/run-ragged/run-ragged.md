@@ -86,7 +86,7 @@ The medical industry solemnly swore that Sélène Kelly was off her rocker, utte
 
 The diagnosis had been fine. Her family dealt with her getting steadily worse over the years, and when they finally got her in, hearing "obsessive-compulsive disorder" confirmed that *they* were not crazy, she was. She'd resented them right up until her first dose of the emergency sublingual anxiolytic. It had made her sleepy, but it had made her mind quiet. It had quelled so many of those cold pangs of anxiety.
 
-She remembered thinking before nodding off that night, "Fine, okay, it *is* just me." It had been depressing, but it knocked her resentment of her family out almost entirely.
+She remembered thinking before nodding off that night, "Fine, okay, it *is* just me." It had been depressing, but it knocked her resentment of her family down a few notches.
 
 Aiden one-upped all of her family's care: he'd fallen in love with her, he said, whether or not she checked all the cabinets to ensure nothing --- or no one --- was stuck, slowly starving to death. He'd gotten her more than just meds, he'd gotten her therapy. A doctor who was working with her on a steady program of exposure: "Next time you're in the kitchen, walk in, take a glass from the cabinet, pour yourself a glass of water, and walk out. Think about how that feels." Little steps, over and over. Her family tried to hide her, Aiden tried to help her.
 
@@ -120,17 +120,27 @@ The vixen straightened up and set her phone to the side, nodding eagerly. "Of co
 
 Sélène nodded and shifted from her half-curled position to a proper sit as Aiden shifted and turned, settling back to lay his head in her lap.
 
-'Petting' was another bit of exposure therapy her therapist had suggested. All that it involved petting or combing through Aiden's fur. No picking, no grooming, no inspecting. Just simple interaction with fur, with no goals in mind.
+"It's exposure therapy, just like with the kitchen," her therapist had said. "All of these are just means of exposing yourself to the biggest stressors and triggers in a careful and controlled way."
 
-Aiden loved it. It was both exposure- and relationship-therapy, in that sense. It would let Sélène "work on her coping mechanisms", as her therapist had put it, but it was also a way for her and her husband to share touch and affection, with the express goal of not tweaking any of her obsessions *except* for those related to grooming. Those she could work on in isolation.
+Aiden had come in with her that day. For a while, they had had group sessions once a month with her usual therapist, "so that you can learn to be whole together." The phrase had made Sélène roll her eyes, but there was no denying the utility of the sessions.
 
-Sélène set to petting, brushing her claws lightly through fur, combing lazy rows into it, fingertips tracing around the base of her husband's ears. Her day had gone well enough that there wasn't any tugs this way or that on her anxiety. No tugs this way or that on Aiden's fur.
+"So she should just touch me?" Aiden had asked.
+
+"If you two would like, yes. Just a simple touch, a way to interact with fur deliberately."
+
+"Would you like that, Aiden?"
+
+He had grinned at that, she remembered, and nodded eagerly. "I always loved that feeling as a kid, but thought it was childish to ask for it."
+
+Her therapist had smiled and nodded encouragingly. "Just petting, then. No picking, no grooming, no inspecting. And no goals, this isn't a sexual exercise."
+
+There had been a tense silence at that. Her therapist had looked between them, then offered, "That can be a separate exercise. For now, there should be no goal to the act other than exposure and being close to one another. It should be a comfortable way for you to work on your coping mechanisms around the picking."
+
+And so Sélène set to petting, brushing her claws lightly through Aiden's fur, combing lazy rows into it, fingertips tracing around the base of her husband's ears. Her day had gone well enough that there wasn't any tugs this way or that on her anxiety. No tugs this way or that on Aiden's fur.
 
 The narrator's voice droned on through the second half of the documentary, and neither fox noticed when it stopped and looped back to the loading screen. The motions of the vixen's petting had become hypnotic for them both: Aiden had nodded off, and Sélène wasn't far behind.
 
 -----
-
-Friday was a work-from-home day. It was always a bit of a relief for both her and Aiden. It was time away from all of the awkwardly shaped stresses of the office for her, a time with the more familiarly shaped stresses of home. And it was a time for Aiden to relax, drive as he pleased, go eat out. He had once joked that he would, on occasion, duck over to a nearby coworker's home to join him and his wife in cooking a gloriously uncomplicated meal.
 
 When Sélène received her permission letter, it had been a joy and a relief. Getting the letter had been humiliating, as had the request from HR. They had been so positive about it, so supportive, and so clueless. Lots of "we just need to make sure" and "we want you to be safe, but also present". She *was* present. She was just *too* present.
 
@@ -149,6 +159,8 @@ She got a get-well-soon card addressed to her husband after she called to check 
 HR had called her in one day for a meeting. It was a toss-up as to who was more anxious, her or the fretful mouse saying, "This is totally confidential, but one of your coworkers has been concerned about the appearance of your fur, and has asked me to pass this on." On the printout she was given were several domestic abuse hot-lines.
 
 That's when she'd asked about working remote.
+
+Friday was a work-from-home day. It was always a bit of a relief for both her and Aiden. It was time away from all of the awkwardly shaped stresses of the office for her, a time with the more familiarly shaped stresses of home. And it was a time for Aiden to relax, drive as he pleased, go eat out. He had once joked that he would, on occasion, duck over to a nearby coworker's home to join him and his wife in cooking a gloriously uncomplicated meal.
 
 When Sélène had first set up this arrangement with her employer, she had imagined that remote days would be far easier than working from the office.
 
@@ -196,4 +208,4 @@ Sélène's tail, already bottlebrushed out and full of nervous twitches, nearly 
 
 > Would love some.
 
-She promised herself that this was a bonus, and not her intent in pinging her stay-at-home neighbor. She wasn't quite sure she believed herself, though. Either way, the company --- any distraction --- would make a better lunch than that constant, low-level buzz of anxiety.
+She promised herself that this was a bonus, and not her intent in pinging her unfailingly kind neighbor. She wasn't quite sure she believed herself, though. Either way, the company --- any distraction --- would make a better lunch than that constant, low-level buzz of anxiety.
