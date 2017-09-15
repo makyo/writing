@@ -1,15 +1,3 @@
----
-counts:
-    characters_real: 59988
-    characters_total: 74280
-    file: ./work/sawtooth/overclassification/overclassification.md
-    paragraphs: 513
-    type: jekyll
-    words: 14160
-layout: page
-title: Overclassification
----
-
 "Some would say that the primary goal of folkloristics is one of anthropology, of understanding a culture's view of itself. I, naturally, disagree." Professor Haswell's voice droned on even in sleep, even these many years later. Dani hated it, hated these dreams. "Folkloristics works from the other direction. It constructs a semiotic niche out of so many *umwelten*..."
 
 How damning was it to have such boring dreams?
@@ -84,16 +72,16 @@ Dani had always wondered at that. Sometimes, she would stand in the shower, wate
 
 The dishes were finished, her paws were plenty clean, and still she stood, trying to figure out if she could draw lines in the sink.
 
-> Life within a comfortable grid.  
-> Parallel lines  
-> &nbsp; &nbsp; Interrupting narrowing circles  
+> Life within a comfortable grid.
+> Parallel lines
+> &nbsp; &nbsp; Interrupting narrowing circles
 > &nbsp; &nbsp; Of birds in flight.
 
 A snippet of poetry tugged at memory, some bit of drivel she'd written in her undergrad. Something to try and put into words just how her life was organized, how she made sense out of chaos.
 
-> Travel in straight lines.  
-> Turn at right angles.  
-> Trace the roof of your mouth  
+> Travel in straight lines.
+> Turn at right angles.
+> Trace the roof of your mouth
 > &nbsp; &nbsp; With wet tongue.
 
 She did that now, finding comfort in the ridges of her palate, each describing a successive concentric arc radiating from her throat.
@@ -502,10 +490,10 @@ Dani furrowed her brow and skipped to the second message.
 
 Her furrowed brow turned into an outright frown. Still standing in the middle of her cold room, she pulled up the university website on her phone. Right at the top of the page in bold, red text, an announcement.
 
-> **Inclement weather closure**  
+> **Inclement weather closure**
 > Monday, January 30, 2017
 >
-> On Sunday evening, a boiler in central heating ceased working. The back-up boiler was brought online, but cannot heat all campus buildings to a safe temperature. Crews are working to replace the boiler.  
+> On Sunday evening, a boiler in central heating ceased working. The back-up boiler was brought online, but cannot heat all campus buildings to a safe temperature. Crews are working to replace the boiler.
 > Temperatures have reached -30, stay inside and keep warm."
 
 "I guess that solves that," Dani mumbled.
