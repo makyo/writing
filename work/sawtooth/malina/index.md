@@ -65,6 +65,23 @@ please keep an eye on reality."
 ## II
 
 <!-- (The problems with boss) -->
+<div class="verse">
+When one's coworker up and goes missing,
+taking her life and leaving without even kissing
+
+her husband goodbye,
+it takes every good lie
+
+you've told in the office and either makes you ask
+why you told it, or shatters the carefully constructed mask
+
+it implies. Your boss, for instance,
+might come after you with some persistence,
+
+aiming for a kiss here, a touch there,
+
+(or maybe that's just you imagining things now that she's gone, etc)
+</div>
 
 ## III
 
