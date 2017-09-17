@@ -326,7 +326,7 @@ Anne was loosening up with the food and warmth. Her speech coming more fluidly, 
 
 "Yeah, it's crazy out. Been through cold snaps before, but not stuck out in one like that."
 
-Dani stacked the plates in the sink, right where they belonged, and thought of Anne. Here was this sudden ringtail-shaped kink in her life. She felt confused and anxious and tense. She'd have work tomorrow, and this wasn't how she'd picture'd her Sunday would go.
+Dani stacked the plates in the sink, right where they belonged, and thought of Anne. Here was this sudden ringtail-shaped kink in her life. She felt confused and anxious and tense. She'd have work tomorrow, and this wasn't how she'd pictured her Sunday would go.
 
 "Listen, I--"
 
@@ -678,7 +678,7 @@ Dani shifted over onto her side enough to look at Amy more directly, trying to l
 
 "Well, sure," Dani demurred. "But OCD requires anxiety that I don't have. You have to feel anxiety about things that you obsess over, and you have to have the compulsion to fix them at all costs. I don't have those. I just classify things. That's just what I do."
 
-Amy looked thoroughly sorry for having brought the topic up. All the same, she persevered. "Okay, well, maybe not OCD, but my ma, she told me that there's all these disorders around anxiety, and each has a personality disorder to go with it." Her voice was fast, as though she were rushing to fill a hole she were digging herself into. "Maybe you have that? Obsessive-Compulsive, uh...personality disorder?"
+Amy looked thoroughly sorry for having brought the topic up. All the same, she persevered. "Okay, well, maybe not OCD, but my ma, she told me that there's all these disorders around anxiety, and each has a personality disorder to go with it." Her voice was fast, as though she were rushing to fill a hole she was digging herself into. "Maybe you have that? Obsessive-Compulsive, uh...personality disorder?"
 
 Dani reached out a paw to rest on Amy's. None of this was too terribly surprising, it was all stuff that made sense. Still, Amy had talked herself into a tizzy. The ringtail looked absolutely panicked. "Maybe," Dani allowed. "What does this version entail?"
 
@@ -796,7 +796,7 @@ There was nothing the otter could say to continue.
 
 "So he pulls me aside, he says *we just need to keep ourselves warm.*" Amy's voice was quiet, hoarse. "And that sounds good to me. But I have to do something in return. Something for him. So I think to myself, *Aha, I've got a plan.*"
 
-Dani returned the squeeze of paws. Amy wasn't looking at her any longer, staring toward the blank wall with a smile that's more rictus than the jolly grin her story would imply..
+Dani returned the squeeze of paws. Amy wasn't looking at her any longer, staring toward the blank wall with a smile that's more rictus than the jolly grin her story would imply.
 
 "*Don't worry. I'll hold up the roof,* I tell him. So I hide myself away up in the attic, tell him I'm doing something useful, when all the while, I'm making sure I can get away without giving him everything he asks."
 
@@ -848,7 +848,7 @@ Dani hesitated for a moment before murmuring, "Is that your name now?"
 
 The ringtail's voice was flat, her eyes downcast, and even then focusing on nothing. It hurt to listen to.
 
-"Did I go to far?"
+"Did I go too far?"
 
 "No, you're fine."
 
@@ -876,7 +876,7 @@ Amber's expression softened.
 
 Amber was grinning outright, though she stayed quiet to let Dani finish her telling.
 
-"And that crocodile, well, you know he was kinda of an asshole. All he was thinking about was what he'd get out of the deal. Sometimes that's good and all, like you want to get to the other side too, right?
+"And that crocodile, well, you know he was kind of an asshole. All he was thinking about was what he'd get out of the deal. Sometimes that's good and all, like you want to get to the other side too, right?
 
 "Still, you've got goals other than just *Hey, just looking for a lay.*"
 
@@ -902,7 +902,7 @@ The ringtail was fully engaged now, laughing and rolling her eyes and nodding al
 
 Amber laughed outright at that last bit, and Dani grinned happily in response.
 
-"I'll give you an nine out of ten on delivery on that one," the ringtail said. "You sold me at the end there, but at the beginning, it sounded like an apology."
+"I'll give you a nine out of ten on delivery on that one," the ringtail said. "You sold me at the end there, but at the beginning, it sounded like an apology."
 
 "Yeah." Dani grinned sheepishly. "I'm sorry, Amber."
 
