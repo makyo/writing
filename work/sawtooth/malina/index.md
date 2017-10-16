@@ -79,6 +79,30 @@ it implies. Your boss, for instance,
 might come after you with some persistence,
 
 aiming for a kiss here, a touch there,
+Even as he wonders aloud, "Where
+
+has she gone? And why?" It makes no sense.
+You rebuff every approach and set up a little fence
+
+around your desk, one made of papers and inboxes,
+and work with your back to a wall to keep that fox's
+
+advances at bay. It could be that you're just, you know,
+imagining things. That your boss is just stooping this low
+
+not because he's upset, but because you are.
+Even then, it doesn't really matter just how far
+
+he goes. Sigh. He's still an asshole.
+One day, you reject and rebuff a pass while
+
+explaining what a shitty thing that is to do,
+and finally tell the truth about how little you care who
+
+he thinks he is. He backs off, anger cool and plain,
+but he does back off.
+
+
 
 (or maybe that's just you imagining things now that she's gone, etc)
 </div>
