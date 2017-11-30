@@ -13,7 +13,7 @@ title: Mind Your Manners
 
 "I'm sure that we can find something for you here, sir. We have the largest selection of mattresses anywhere in Sawtooth."
 
-An angry opossum, Jake decided, looked basically like an angry rat. They all looked about the same, when they were angry. they get their teeth out. They make a show of balling their fists as if to say *my claws may be manicured, but that doesn't mean they aren't still sharp.* "I can't see how you can live with yourself mister--" The opossum peered at Jake's badge. "Mister Jabbs. You stand their, calm as can be, when you're peddling...peddling...when you're selling filth!"
+An angry opossum, Jake decided, looked basically like an angry rat. They all looked about the same, when they were angry. they get their teeth out. They make a show of balling their fists as if to say *my claws may be manicured, but that doesn't mean they aren't still sharp.* "I can't see how you can live with yourself mister--" The opossum peered at Jake's badge. "Mister Jabbs. You stand there, calm as can be, when you're peddling...peddling...when you're selling filth!"
 
 The wolverine tilted his head to the side and offered his best apologetic smile. "I'm sorry, sir, I really am. We stock several different kinds of mattresses --- we're one of the largest retailers in Idaho, you see --- and we understand that you've received one that isn't a good fit for you. If you would be so kind as to come with me, my manager would be more than willing to get you set up with a mattress you would be happy to take home with you tonight."
 
