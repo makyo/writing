@@ -10,7 +10,7 @@ layout: draft
 title: Run Ragged
 ---
 
-Sélène made a quick pass through the kitchen, fingers brushing along the edges of cabinet doors. Each one was opened and inspected, leaving her standing on tiptoes to peer in those above the counters. Nothing but cups and glasses, plates and bowls, cutting boards and pots and pans and trays and dishes. All clean and neatly stacked.
+Sélène made a quick pass through the kitchen, fingers brushing along the edges of cabinet doors. Each one was opened and inspected in turn, leaving her standing on tiptoes to peer in those above the counters. Nothing but cups and glasses, plates and bowls, cutting boards and pots and pans and trays and dishes. All clean and neatly stacked.
 
 Each cabinet was carefully left ajar. The vixen had perfected the art of finding the balance point that would leave them open before the weight of the door on the hinge would close them, without simply leaving them all the way open. The barest crack.
 
