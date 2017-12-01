@@ -8,7 +8,7 @@ counts:
     words: 5238
 date: 2016-12-04
 layout: post
-title: 'Gender: Furry'
+title: 'Gender: Furry - An investigation into the interplay of gender and fandom'
 ---
 
 _**Gender: Furry** was originally commissioned for and published in **Furries Among Us II**, released by Thurston Howl Publications_

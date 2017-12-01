@@ -1,0 +1,1 @@
+That lunch had only ever been forty-five minutes long, and that it was so tightly controlled, was one of the things that drove Joan away from her office job. So much of her day wasn't hers, it felt like. So much of her life was only leased from her employers.

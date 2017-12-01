@@ -18,4 +18,12 @@ Still, I have a good idea of all the steps ahead of me and quite a few guiding h
 
 ### Criteria
 
+* Evocative
+* Fixable
+* Marketable
+* Liberal
+* Fit
+
+#### Spreadsheet #1
+
 ### Line editing
