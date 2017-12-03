@@ -1,5 +1,9 @@
 # Publishing
 
+* Communicating with the publisher
+    * Cover
+    * Images
+    * Ebook and PDF
 * Communicating with the layers involved:
     * readers
     * points of sale
