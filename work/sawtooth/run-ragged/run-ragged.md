@@ -10,7 +10,7 @@ layout: draft
 title: Run Ragged
 ---
 
-Sélène made a quick pass through the kitchen, fingers brushing along the edges of cabinet doors. Each one was opened and inspected, leaving her standing on tiptoes to peer in those above the counters. Nothing but cups and glasses, plates and bowls, cutting boards and pots and pans and trays and dishes. All clean and neatly stacked.
+A cool lightness sitting just behind her sternum, Sélène made a quick pass through the kitchen, fingers brushing along the edges of cabinet doors. Each one was opened and inspected, leaving her standing on tiptoes to peer in those above the counters. Nothing but cups and glasses, plates and bowls, cutting boards and pots and pans and trays and dishes. All clean and neatly stacked.
 
 Each cabinet was carefully left ajar. The vixen had perfected the art of finding the balance point that would leave them open before the weight of the door on the hinge would close them, without simply leaving them all the way open. The barest crack.
 
@@ -20,17 +20,17 @@ The oven yawned out to her, empty. The oven was easy, because it had a light tha
 
 On a whim, the drawers were next. Thankfully, most of those were empty, and the rest mostly so. The underside of the silverware tray was inspected with care.
 
-A twinge in her chest, a little pang, she held the drawer partly open. A fear. A cool, blue, perfectly smooth and round fear just behind her breastbone, snaking tendrils out along her limbs.
+That coolness in her chest ticked up in intensity, a little pang, as she held the drawer partly open. Anxiety into fear. A cool, blue, perfectly smooth and perfectly round fear just behind her breastbone, snaking tendrils out along her limbs.
 
 Down on her knees, Sélène eased open the cabinet door and peered up toward the underside of the drawer, ensuring that there was nothing between the drawer's underside and the cabinet, and that the drawer sides didn't reach the underside of the counter, that there was a gap.
 
-The pang continued to grow with a cool intensity, arteries as avenues to carry it throughout her body.
+The pang continued to grow with an implacable intensity, arteries as avenues to carry it throughout her body.
 
 So she checked the rest of the drawers.
 
 Finally, swallowing as best she could, Sélène stood in the center of the kitchen. She fished her phone out of her pocket, and thumbed the screen on. Turning a slow circle, she took a panorama of the kitchen.
 
-She waited for the panorama to be stitched together, then pulled it up and inspected it carefully, scrolling along its length.
+She waited for the panorama to stitch itself together, then pulled it up and inspected it carefully, scrolling along its length.
 
 Cabinet. Cabinet. Fridge. Cabinet. Doorway. The barest hint of a figure.
 
@@ -42,15 +42,15 @@ Sélène laughed breathlessly, inspecting her phone and tucking it back into her
 
 The taller fox --- much taller, which Sélène quite enjoyed --- tucked his muzzle over her head and nodded against her. "I'm fine, it's alright," he murmured. "You going to head into work today, sweetheart? You only have one from-home day left this week."
 
-"I think so, yeah. Feeling pretty good today, actually." That cool ache sat in her chest, where it didn't grow any, yet somehow made it's presence all the more known.
+"I think so, yeah. Feeling pretty good today, actually." That cool ache sat in her chest, where it didn't grow any, yet somehow made it's presence all the more known. The cold of anxiety tickled along her ribs
 
-An easily fixable thing. She just had to ask. "You sure you're alright?"
+It was an easily fixable thing. She just had to ask. "You sure you're alright?"
 
 The pang subsided.
 
 Aiden leaned back and nodded where she could see, then leaned in again to touch his cheek to hers --- the closest she could stand to affection around her face. "Fine, love. I'm doing okay."
 
-Sélène returned the touch and nodded, silently promising that thin pang of fear that Aiden meant to say "I'm fine", rather than a resigned "fine", that her husband was just tired, not tired of her.
+Sélène returned the touch and nodded, silently promising that thin pang of fear that Aiden meant to say "I'm fine", rather than a resigned "*fine*", that her husband was just tired, not tired of her.
 
 "I'd like to head out soon, is that alright?"
 
@@ -98,19 +98,19 @@ By the time they'd stopped at her office, just outside the front door, the day h
 
 "You're picking, love."
 
-Sélène jolted to awareness, realizing she had totally zoned out. She pinned her ears back, massaging the fur on her wrist in an attempt to cover the frayed look of where she'd been picking. "Uh, sorry, Aiden. Are you okay?"
+Sélène jolted to awareness, realizing she had totally zoned out. She pinned her ears back, massaging the fur on her wrist in an attempt to cover the frayed patch where she'd been digging with her claws, trying to root out a bump she'd thought she felt on her skin. "Uh, sorry, Aiden. Are you okay?"
 
 The fox smiled and turned off the engine, pulling the parking break up with a series of sharp, satisfying clicks. He looked exhausted "I'm alright. Work was...it was a long day. Eight appointments, two meetings, no lunch. I'm starving, can we get inside and whip something up?" His expression of excitement was transparently false.
 
 "Mmhm, I'll make us something quick," she said, giving him her best goofy grin in return. "Microwave. I promise."
 
-Sélène felt lucky she was actually able to pull off a seamless dinner, even if it meant relying on microwaved leftovers. She loved to cook, but sometimes, reducing the friction her brain seemed intent on pushing into the act --- ovens and stoves are fraught with needs and anxieties --- was what the night called for. The more tired Aiden was, the less she wanted her personal idiosyncrasies to intrude on him, or on them.
+Sélène felt lucky she was actually able to pull off a seamless dinner, even if it meant relying on microwaved leftovers. She loved to cook, but sometimes, reducing the friction her brain seemed intent on pushing into the act was what the night called for. Ovens and stoves are fraught with needs, dangers, anxieties. The more tired Aiden was, the less she wanted her personal idiosyncrasies to intrude on him, or on them.
 
 They settled into their respective sides of the couch with their plates, and set the TV to droning. It was Sélène's night to choose, so the result was a documentary. Aiden had put his foot down early on and specified that they would alternate nights of choosing programs to watch. That had soon after been amended to specify no repetitions of a program or movie within a month's span, when Sélène watched the same documentary four times in two weeks. Old habits from university turned coping mechanisms.
 
 Tonight was some investigative journalism piece about missing people. It wasn't particularly interesting to Sélène, but the narrator's voice was nice.
 
-Sélène finished faster than Aiden, but she always did. All of her anxieties around correctness and proper fit and safety, and none of them ever involved food. Chow's chow.
+Sélène finished faster than Aiden, but she always did. All of her anxieties around correctness and proper fit and safety, and somehow none of them ever involved food. Chow's chow.
 
 "Sweetheart," Aiden murmured, setting his plate to the side. "Can you pet?"
 
@@ -142,9 +142,11 @@ The narrator's voice droned on through the second half of the documentary, and n
 
 -----
 
-When Sélène received her permission letter, it had been a joy and a relief. Getting the letter had been humiliating, as had the request from HR. They had been so positive about it, so supportive, and so clueless. Lots of "we just need to make sure" and "we want you to be safe, but also present". She *was* present. She was just *too* present.
+When Sélène received her work-from-home permission letter, it had been a joy and a relief. Getting the letter had been humiliating, as had the request from HR. They had been so positive about it, so supportive, and so clueless. Lots of "we just need to make sure" and "we want you to be safe, but also present".
 
-Work had known this, hiring her, too. She had made it clear in her cover letter when applying, and had repeated it (and repeated it, and repeated it) during the interview. Aiden had had to talk her through a night of anxious pacing and had even requested she turn her phone to net-only mode so that she wouldn't be so tempted to call and reassure her potential employers yet again that she had OCD but was willing to do everything she could.
+She *was* present. She was just *too* present.
+
+Work had known this when hiring her, too. She had made it clear in her cover letter when applying, and had repeated it (and repeated it, and repeated it) during the interview. Aiden had had to talk her through a night of anxious pacing and had even requested she turn her phone to net-only mode so that she wouldn't be so tempted to call and reassure her potential employers, yet again, that she had OCD but was willing to do everything she could.
 
 "We are happy to welcome you to the team with the position of junior editor," the acceptance letter had said. "We are eager to help you achieve all that you can in your work life. Please see HR about additional accommodations during orientation."
 
@@ -156,7 +158,7 @@ Her cubicle being so far away from it hadn't necessarily kept her from the work 
 
 She got a get-well-soon card addressed to her husband after she called to check on Aiden on every break and several times besides. She had accepted the card as gracefully as she could, stammering out a lie about a death in the family.
 
-HR had called her in one day for a meeting. It was a toss-up as to who was more anxious, her or the fretful mouse saying, "This is totally confidential, but one of your coworkers has been concerned about the appearance of your fur, and has asked me to pass this on." On the printout she was given were several domestic abuse hot-lines.
+The worst had been when HR had called her in one day for a meeting. It was a toss-up as to who was more anxious, her or the fretful mouse saying, "This is totally confidential, but one of your coworkers has been concerned about the appearance of your fur, and has asked me to pass this on." On the printout she was given were several domestic abuse hot-lines.
 
 That's when she'd asked about working remote.
 
@@ -166,7 +168,7 @@ When Sélène had first set up this arrangement with her employer, she had imagi
 
 She was half right. At first, it had been much easier. The fact of just how terrifying driving was --- there was doubtless some helpful exercise her therapist would come up with --- combined with the completely uncontrolled and uncontrollable nature of the office weighed her down and left her anxieties scrabbling for purchase.
 
-Home was where all the particulars lived, and so home housed all of her particular anxieties. After a week of trying to work from the living room, Aiden helped her move her setup to the breakfast bar in the kitchen. It was a less-than-ideal solution, but, on bad days, she would at least be quick about checking the cabinets.
+Home was where all the particulars lived, however, and so home housed all of her particular anxieties. After a week of trying to work from the living room, Aiden helped her move her setup to the breakfast bar in the kitchen. It was a less-than-ideal solution, but, on bad days, she would at least be quick about checking the cabinets.
 
 Home is where her grooming kit was --- something Aiden made sure she never brought to the office. Picking and over-grooming was a problem, but one that could be solved eighty percent of the way by just not having access to grooming implements. Her claws were only so good, after all.
 
@@ -174,11 +176,11 @@ Home is also where it felt okay to check her feeds. She began using the ergonomi
 
 Some days, days like today, it felt like the only anxiety remote days solved was that which surrounded driving.
 
-Today, Sélène suspected the uptick in anxiety was due to the night before. Aiden had been so stressed, and she'd done her best to be something positive for him. She had borrowed sanity from today, she figured. Last night, she'd pushed aside anxiety to cook and watch TV and pet, and today she was paying for it.
+Sélène knew the uptick in anxiety was due to the upcoming Saturday. An anxiety that seemed to veer wildly between "very good" and "oh no".
 
 Work was obscured by a constant cloud of half-formed fears. Her thoughts were obscured by subtle corruptions, with so much *un*-rightness, *un*-wellbeing. Her view was filled with cabinets thrown wide open, the oven door hanging slack in an unchanging yawn. And still she felt that trapped feeling, that fear of being locked in total darkness, too cramped to move, air too thick to breathe.
 
-When her break timer went off, she dashed through the kitchen, pausing only to make sure that the cabinets on the other side of the breakfast bar, and skittered out into the living room to grab at her phone. Anything to scratch one of those myriad itches. Anything for some breathing room.
+When her break timer went off, she dashed through the kitchen, pausing only to make sure that the cabinets on the other side of the breakfast bar were still left open, and skittered out into the living room to grab at her phone. Anything to scratch one of those myriad itches. Anything for some breathing room.
 
 By the time she had curled on the couch, she'd already gotten her phone unlocked and her feeds open. There was nothing before her but her phone and the cushions at the back of the couch, nothing behind her but an empty room. She'd curled with her head toward her end of the couch, since she knew she'd have to call Aiden if all she could smell was him at his end.
 
@@ -186,26 +188,60 @@ One news item. Fluff story about mod shops.
 
 Two social updates. High school friend posting a selfie (not a good one, could see up his nose), and Malina talking about food.
 
-She ignored the selfie, but left her thumb-pad hovering over Malina's post.
+Her tail, already bottlebrushed and full of nervous twitches, nearly jerked her off the couch in a rush of excitement. She cursed and scooted herself further onto the couch, slipping a paw back to brush along her tail, to calm the fur.
 
-She tried not to pester her neighbor too much. The badger was endlessly patient. Cyril, her husband, made no pretense of not understanding Sélène, but did try to make her feel welcome. Perhaps because of that kindness, she always felt like she was intruding.
+Sélène tapped 'favorite' on the post and flipped over to her messaging window with Malina.
 
-She held her breath, counted to three, and tapped at Malina's icon, racing to type out a message and hit send before letting out her pent-up breath in a puff.
+*Selene> Hey you. What's cooking?*
 
-> Hey! What's cooking?
+The vixen winced. That had a different meaning, didn't it? What's cooking, what's *cooking*. What's cooking? What *is* cooking? Hey, what's cooking?
 
-Clutching at her phone, she stifled a whine on rereading her message. *What's cooking* was an idiom, right? Was she being confusing? Did she use it right? What if--
+She growled to herself and tamped down her clamoring anxieties. Malina was endlessly patient. Had been from day one. Last thing Sélène wanted to do was let her anxieties spill over onto the badger.
 
-> Casserole! Want me to save you some?
+_Malina> Casserole! I made some marshmallows yesterday, too. Alright if I bring those with tomorrow? I was going to surprise you, but figured I should probably ask._
 
-The whine slipped into more of a grumble, a soft curse at herself.
+Tension drained from her as the chill of stress melted into a pleasant embarrassment. A flush of warmth within her ears. A goofy smile. Where Aiden was calm, collected, and supportive, Malina was kind and earnest. Both did wonders to calm her.
 
-> Why not! Home all day.
+*Selene> You make marshmallows?*
 
-> Want some lunch company?
+_Malina> Yeah, they're really easy. Just sugar, corn syrup, gelatin, and whatever flavor you want._
 
-Sélène's tail, already bottlebrushed out and full of nervous twitches, nearly tugged her off the couch. She slipped a paw down along it and held onto the tip, thumb teasing through the fur.
+Sélène grinned to her phone. She had no idea why it was surprising to her that people, not just machines, made marshmallows. It fit Malina perfectly. *Selene> That's cool. What flavor?*
 
-> Would love some.
+_Malina> Lime. Sound good to you?_
 
-She promised herself that this was a bonus, and not her intent in pinging her unfailingly kind neighbor. She wasn't quite sure she believed herself, though. Either way, the company --- any distraction --- would make a better lunch than that constant, low-level buzz of anxiety.
+*Selene> Sounds excellent.* She paused, then added, *I'm really nervous, but really excited.*
+
+_Malina> Me too. I've been thinking about it all morning. I've never been on a date.*
+
+Sélène's grin grew wider and the flush within her ears grew warmer. *Selene> Wait, never?*
+
+_Malina> Well, I mean I've been on dates, yeah, but never a DATE date. Like, one that was agreed upon as a date ahead of time._
+
+*Selene> Oh. Me neither, come to think of it. Aiden and I would go out and whatever, and then just suddenly -boom-, in a relationship. I don't think either of us said 'date'.*
+
+_Malina> \*laughs\* yeah? I suppose that makes sense. You sure Aiden is okay with this?_
+
+*Selene> He says he is every time I've asked. He says it'll be good for me, but I worry.*
+
+_Malina> I know. We'll keep talking about it, though._
+
+There was a soft, pleasant chime from the kitchen.
+
+*Selene> Break time's up, I gotta get back to work. You working tonight?*
+
+_Malina> Yeah. I traded shifts so I could get tomorrow off._
+
+*Selene> Good. You sure you don't want to go to Book and Bean for our date?*
+
+_Malina> \*laughs\* QUITE sure. Last thing I want to do is go on a date where I work._
+
+*Selene> Fine, fine. Have fun, and I'll see you tomorrow.*
+
+_Malina> Can't wait! <3_
+
+The chime was growing louder in the kitchen, but Selene clutched her phone in her paw for a moment longer, smiling at that little heart at the end of Malina's last message.
+
+-----
+
+The rest of the day had passed with relative ease. The conversation with Malina had broken a lot of cycling trains of thought. Not all of them, but enough that she didn't get interrupted by her compulsions

@@ -10,6 +10,7 @@ layout: draft
 title: Run Ragged Notes
 ---
 
+<!-- NEVERMIND LET'S BE HAPPIER
 1. Married couple, woman with OCD (Sélène), Aiden getting more and more frustrated, Sélène getting more and more anxious that she's pushing her husband (Aiden) away, making symptoms worse, trichotillomania
 2. Aiden storms out at one point, Sélène left a mess, calls friend (Malina) who comes over, feels bad for Sélène, stops her from picking at herself and pacing by hugging, telling Sélène to pick at her own fur
 3. ~~They get closer, hint at sleeping together.~~
@@ -18,12 +19,21 @@ title: Run Ragged Notes
 6. Malina's husband (Cyril) disagrees, friend has to pull back, everything gets tense, Sélène left in weird limbo, mental health spirals, some psychosis (each tug of fur an ablution, each spike of pain sending up a magnesium flare to light that darkness), hospitalized, bipolar 1, Aiden disappears
 7. Malina starts helping Sélène get what she needs, acting as sponsor - cyril unhappy, Aiden returns from bender
 8. ... (on the way back up)
-9. ... (end reasonably positive, if damaged)
+9. ... (end reasonably positive, if damaged) -->
+
+1. Married couple, Selene and Aiden, with Selene's crush and potential new third partner, Malina, date in a few days
+2. Talking through the date, addressing Aiden's fears (over and over again)
+3. Date goes really well for Selene, Aiden happy for her, but stressed working through the rammifications
+4. Selene and Malina play around next date
+5. Aiden gets upset and angry because their attempts at sex were always stressful, whereas this came easy to Selene and Malina
+6. Third date at Malina's, Selene has panic attack, locks herself in the bathroom to be away from cabinets, texts Aiden, who calls Malina and races over and stays on the phone meanwhile, talking Malina through helping Selene
+7. They all wind up eating together, despite it being a date, Selene mentions cabinets as PTSD/OCD interaction, having been locked in one as a kid, how family never understood her but Aiden did, and Malina was okay with learning to
+8. End on hopeful note of each of Selene's partners playing a role in her life: Aiden is practical-supportive, Malina is emotional-supportive
+
 
 * Sélène (French/Greek) - Relating to the moon (macro: without accents) - fox
 * Aiden (Irish, from Étaín) - Sun god/goddess, diminutive of ét: passion/jealousy - fox
 * Malina (Inuit) - Strong sun goddess, not gonna put up with jealous men - badger
-* Cyril (Greek) - Lordly, masterful - badger
 
 Obsession | Compulsion | Cause
 ---|---
