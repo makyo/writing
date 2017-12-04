@@ -23,14 +23,18 @@ title: Run Ragged Notes
 
 1. Married couple, Selene and Aiden, with Selene's crush and potential new third partner, Malina, date in a few days
 2. Talking through the date, addressing Aiden's fears (over and over again)
-3. Date goes really well for Selene, Aiden happy for her, but stressed working through the rammifications
+3. Date goes really well for Selene, Aiden happy for her, but stressed working through the ramifications
 4. Selene and Malina play around next date
 5. Aiden gets upset and angry because their attempts at sex were always stressful, whereas this came easy to Selene and Malina
-6. Third date at Malina's, Selene has panic attack, locks herself in the bathroom to be away from cabinets, texts Aiden, who calls Malina and races over and stays on the phone meanwhile, talking Malina through helping Selene
+6. Third date at Malina's, Selene has panic attack similar to PNES, locks herself in the bathroom to be away from cabinets, texts Aiden, who calls Malina and races over and stays on the phone meanwhile, talking Malina through helping Selene
 7. They all wind up eating together, despite it being a date, Selene mentions cabinets as PTSD/OCD interaction, having been locked in one as a kid, how family never understood her but Aiden did, and Malina was okay with learning to
 8. End on hopeful note of each of Selene's partners playing a role in her life: Aiden is practical-supportive, Malina is emotional-supportive
 
+Notes:
+* cheekrub kiss
+* Emphasize helplessness before anxiety, madness riding her
 
+Names:
 * Sélène (French/Greek) - Relating to the moon (macro: without accents) - fox
 * Aiden (Irish, from Étaín) - Sun god/goddess, diminutive of ét: passion/jealousy - fox
 * Malina (Inuit) - Strong sun goddess, not gonna put up with jealous men - badger
@@ -40,5 +44,5 @@ Obsession | Compulsion | Cause
 Afraid something got trapped in cabinets/closets/fridge/oven | Keeps checking, leaves cabinets open, etc | Locked in a cabinet as a kid by mom as drunken punishment
 Afraid of hitting someone while driving | can't drive or, later, ride in a car | Making sure others are alright (viz social anxiety below)
 Fur and claws being infected | Picking, cleaning, filing, getting infections because of, reinforces | Never being groomed enough for mom
-Husband and friends dying, relationship-rightness with Aiden | Checking on others, pestering Aiden about whether things are working | Having to make sure mom was okay, would be seen as ignoring/ungrateful if not
+Husband and friends dying, relationship-rightness with Aiden and Malina | Checking on others, pestering Aiden about whether things are working | Having to make sure mom was okay, would be seen as ignoring/ungrateful if not
 Other minor ones: doors latching, oven/stove being left on, lights off, being up to date with "federated feeds" (news, social) | checking | High anxiety
