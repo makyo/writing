@@ -1,14 +1,4 @@
----
-counts:
-    characters_real: 15128
-    characters_total: 18592
-    file: ./work/sawtooth/run-ragged/run-ragged.md
-    paragraphs: 94
-    type: jekyll
-    words: 3425
-layout: draft
-title: Run Ragged
----
+# A Theory of Attachment
 
 A cool lightness sitting just behind her sternum, Sélène made a quick pass through the kitchen, fingers brushing along the edges of cabinet doors. Each one was opened and inspected, leaving her standing on tiptoes to peer in those above the counters. Nothing but cups and glasses, plates and bowls, cutting boards and pots and pans and trays and dishes. All clean and neatly stacked.
 

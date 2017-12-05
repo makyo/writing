@@ -1,13 +1,6 @@
 ---
-counts:
-    characters_real: 1626
-    characters_total: 1963
-    file: ./work/sawtooth/run-ragged/notes.md
-    paragraphs: 3
-    type: jekyll
-    words: 310
 layout: draft
-title: Run Ragged Notes
+title: A Theory of Attachment Notes
 ---
 
 <!-- NEVERMIND LET'S BE HAPPIER
