@@ -25,10 +25,10 @@ title: Run Ragged Notes
 2. Talking through the date, addressing Aiden's fears (over and over again)
 3. Date goes really well for Selene, Aiden happy for her, but stressed working through the ramifications
 4. Selene and Malina play around next date
-5. Aiden gets upset and angry because their attempts at sex were always stressful, whereas this came easy to Selene and Malina
-6. Third date at Malina's, Selene has panic attack similar to PNES, locks herself in the bathroom to be away from cabinets, texts Aiden, who calls Malina and races over and stays on the phone meanwhile, talking Malina through helping Selene
+5. Aiden gets upset and angry because their attempts at sex were always stressful, whereas this came easy to Selene and Malina, agrees to give it one more go, but asks if he can start looking around, too, admits he's been talking with Aaron and Erin
+6. Third date at Malina's, Selene has been on edge since and has panic attack similar to PNES, locks herself in the bathroom to be away from cabinets, texts Aiden, who calls Malina and races over and stays on the phone meanwhile, talking Malina through helping Selene
 7. They all wind up eating together, despite it being a date, Selene mentions cabinets as PTSD/OCD interaction, having been locked in one as a kid, how family never understood her but Aiden did, and Malina was okay with learning to
-8. End on hopeful note of each of Selene's partners playing a role in her life: Aiden is practical-supportive, Malina is emotional-supportive
+8. End on hopeful note of each of Selene's partners playing a role in her life: Aiden is practical-supportive and steadfast, Malina is emotional-supportive and fluid
 
 Notes:
 * cheekrub kiss
