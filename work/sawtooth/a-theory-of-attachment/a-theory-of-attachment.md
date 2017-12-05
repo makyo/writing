@@ -1,4 +1,11 @@
 ---
+counts:
+    characters_real: 35604
+    characters_total: 43807
+    file: ./work/sawtooth/a-theory-of-attachment/a-theory-of-attachment.md
+    paragraphs: 299
+    type: jekyll
+    words: 8157
 layout: draft
 title: A Theory of Attachment
 ---
@@ -571,25 +578,25 @@ He laughed and gave her paws a gentle squeeze in his own. "I love you too, sweet
 
 She squeezed his paws back before tugging free, grabbing her phone once more and squirming around to lean back against him. "Alright, let me tell Malina, then, before I lose my nerve."
 
-Shifting to let her get more comfortable against him, Aiden rested his arm up along the back of the couch, making a show of watching the movie. Selene was protective of her phone, but Aiden always went out of his way to show he wasn't shoulder-surfing.
+Shifting to let her get more comfortable against him, Aiden rested his arm up along the back of the couch, making a show of watching the movie. Sélène was protective of her phone, but Aiden always went out of his way to show he wasn't shoulder-surfing.
 
 Once she'd finished and gotten the okay from Malina and set her phone back down in her lap, Aiden tilted his muzzle enough to brush it against one of his wife's ears. "You've been doing really good the last few days, you know that?"
 
-Selene tensed at a frisson and flicked her ears against Aiden's muzzle. "Tickles," she mumbled, then nodded. "Yeah, it's been good."
+Sélène tensed at a frisson and flicked her ears against Aiden's muzzle. "Tickles," she mumbled, then nodded. "Yeah, it's been good."
 
 "Any particular reason why?"
 
-"I think..." Selene hesitated while she dug for words. "I think just having a direction to put energy."
+"I think..." Sélène hesitated while she dug for words. "I think just having a direction to put energy."
 
 "Good, yeah." Aiden gave her ear another nuzzle before leaning down to put a kiss --- a proper one, rather than a cheekrub --- atop her head.
 
-Hunching her shoulders and splaying her ears to the sides, Selene tucked herself in closer to her husband, paws folded together so she could pick at her thumb again.
+Hunching her shoulders and splaying her ears to the sides, Sélène tucked herself in closer to her husband, paws folded together so she could pick at her thumb again.
 
 "Sorry, sweetheart. Bit too much?" Aiden lifted his muzzle clear of the area.
 
 "Uh, a little." Realizing what she was doing, she reached up to tug Aiden's arm along the back of the sofa down along her front so that she could focus on petting rather than picking. "Sorry. Are you alright?"
 
-Aiden let his arm be claimed, carefully snaking it partway around his Selene in a sort of hug. "Mmhm, I'm fine."
+Aiden let his arm be claimed, carefully snaking it partway around his Sélène in a sort of hug. "Mmhm, I'm fine."
 
 The two sat quietly, letting the rest of the show play out until the creds.
 
@@ -597,6 +604,6 @@ The two sat quietly, letting the rest of the show play out until the creds.
 
 "Mm? I love you too, sweetheart."
 
-"I think I forgot to say so earlier," Selene murmured sleepily. "Thank you for putting up with your wife."
+"I think I forgot to say so earlier," Sélène murmured sleepily. "Thank you for putting up with your wife."
 
 Aiden turned enough to give his wife a fond cheekrub. "Of course, sweetheart. Let's get you to bed so you can be all rested for tomorrow."

@@ -1,4 +1,11 @@
 ---
+counts:
+    characters_real: 1912
+    characters_total: 2320
+    file: ./work/sawtooth/a-theory-of-attachment/notes.md
+    paragraphs: 5
+    type: jekyll
+    words: 379
 layout: draft
 title: A Theory of Attachment Notes
 ---
@@ -26,6 +33,7 @@ title: A Theory of Attachment Notes
 Notes:
 * cheekrub kiss
 * Emphasize helplessness before anxiety, madness riding her
+* ...
 
 Names:
 * Sélène (French/Greek) - Relating to the moon (macro: without accents) - fox
