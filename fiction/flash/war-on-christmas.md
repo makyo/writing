@@ -38,9 +38,9 @@ Good enough prompt for me! Bonus restriction of 280 or fewer characters! Here we
 
 \#WarOnChristmas It's a horrifying sound. Quiet. Implacable. Old Hermey covers his ears. "Shoulda been a dentist, shoulda been a dentist, shoulda been a dentist," he mouths over and over, his own private litany to stay the horror of his work.
 
-\#WarOnChristmas Our first hint of battle is a series of dull pops, and then the faintest whiff of peppermint. We tug the masks from around our necks and fit them to our faces. Elves can stand a lot of peppermint, more than humans, but we hav eour limits. Masks it is.
+\#WarOnChristmas Our first hint of battle is a series of dull pops, and then the faintest whiff of peppermint. We tug the masks from around our necks and fit them to our faces. Elves can stand a lot of peppermint, more than humans, but we have our limits. Masks it is.
 
-\#WarOnChristmas And so we descent upon the town, skirting th edges of peppermint and gingerbread clouds, leaving chaos in our silent wakes. We are cold, efficient. Dancer herself hovers above the field, providing air cover for us and the drones.
+\#WarOnChristmas And so we descend upon the town, skirting the edges of peppermint and gingerbread clouds, leaving chaos in our silent wakes. We are cold, efficient. Dancer herself hovers above the field, providing air cover for us and the drones.
 
 \#WarOnChristmas There's no way to feel good about this. Elf ears pick up screams just better than our human opponents. They also start to pick up the crackle of defensive fire. A pop, louder than the rest, and a blossom of pain in my shoulder. Another, and my leg is useless.
 
