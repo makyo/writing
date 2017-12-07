@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 48512
-    characters_total: 59697
+    characters_real: 54168
+    characters_total: 66643
     file: ./work/sawtooth/a-theory-of-attachment/a-theory-of-attachment.md
-    paragraphs: 429
+    paragraphs: 490
     type: jekyll
-    words: 11128
+    words: 12417
 layout: draft
 title: A Theory of Attachment
 ---
@@ -867,3 +867,125 @@ Malina laughed, "Isn't that just 'excited'?"
 "Excited, yeah," Sélène said, after a moment's thought. "Excited and warm."
 
 Rubbing her cheek to Sélène's, Malina broadened the reach of her touches, hiking Sélène's shirt up a little further to comb her fingers through more fur. "You are warm, at that. And soft. Is this okay?"
+
+"Mmhm." Sélène felt as though she as thinking through a layer of cotton, her thoughts and feelings coming through softer, warmer, more rounded than they would have otherwise. The sensation of Malina's fingers brushing and stroking through the mussed up fur beneath her shirt added to this muzziness with each pass.
+
+She stretched almost luxuriously, careful not to melt out of range of the badger's wide paws. It was unusual for her to relax under touch, rather than tense up. Even when the touch felt good, it usually brought with it tension, if not anxiety. She was keen to enjoy what she could.
+
+"When we started to get closer," Malina murmured, muzzle resting against Sélène's cheek. "I would think a lot about how soft you'd be."
+
+Sélène perked an ear up. "Soft?"
+
+Malina nodded, smoothing out the fur under her paw. "Even when you were picking, your fur looked so much softer than mine. Or Cyril's, for that matter."
+
+Sélène laughed.
+
+"I'd think about that a lot. Just kind of daydream."
+
+"And?"
+
+Malina tilted her head. "And what?" she murmured, putting both paws to work petting over Sélène's belly and sides.
+
+The fox squirmed at the touches, and Malina paused. "Sorry, little ticklish. Am I as soft as you daydreamed?"
+
+The badger nodded and shifted her paws back toward Sélène's belly. "I think so, yeah. You're not pillowy soft or whatever, but your fur is way softer than mine."
+
+Sélène brushed her own pawpads along the backs of Malina's paws and up her forearms a ways. Her fur was far coarser than hers, but no less pleasant to touch. "You thought about that a lot, didn't you?"
+
+Malina nodded again, whiskers brushing against Sélène's cheek. "I thought about *you* a lot, dear. I was crushing on you for a long time, there."
+
+Tilting her head back, Sélène did her best to rub her cheek against Malina's, murmuring, "I'm pretty sure that went both ways."
+
+She languidly lifted her arms to try and loop them loosely around the badger's shoulders. It was a bit too much of a stretch, but she made it far enough to comfortably reach Malina's nape, which she set about combing with her claws.
+
+She could feel Malina shiver behind her at the touches, hear a growl and a chuff. She quickly lifted her paws. "Sorry. You alright?"
+
+"Mmhm." Malina's arms tightened around Sélène, one paw slipping around the fox's waist and the other slipping up beneath her shirt, wandering perilously close to her chest. It was a kind grip, but a possessive one. "Bit of a tender spot, there."
+
+Sélène held still in the badger's arms, tense and quiet. "In a good way?"
+
+"In a good way."
+
+Relaxing again slowly, Sélène delicately set her paws back down on the badger's scruff, petting slowly through the fur. "Are you...uh, is this okay?"
+
+The growl came out as more of a rumble this time as Malina nodded. "This is okay. I'm alright, dear."
+
+Sélène relaxed back against the badger, trying to get back to that warm, cotton-muffled space. It was easy to do. So easy to relax into comfort like this around Malina.
+
+It took another moment or two, but they both settled down again. Malina resumed her petting, ruffling, combing, and grooming with one paw on Sélène's belly and the other just above that, inching her shirt up higher and higher.
+
+For her part, Sélène combed and stroked down over the scruff of the badger's neck, gently at first, and then a bit more firm, listening and responding to the pleased sounds.
+
+They murmured quiet things to each other. An is-this-alright here and a you-can-do-that-more there. Through careful negotiations, their touches moved from comfortable to sensual, from aimless to focused. Each explored the ways in which the other moved, found ticklish spots and avoided them, found pleasurable spots and gravitated toward them.
+
+Sélène learned that if she combed her claws from the base of Malina's skull down to the base of her neck, she could get a thrill out of the badger, a shudder and another of those chuffs. She used this sparingly, knowing full well that too much touch left one tingly.
+
+She also learned that she arched up when Malina's paws brushed up over her chest, cupping a breast. It added to that pleasurable current of warmth flowing through her.
+
+The current stole time from her. It took logic, and caution, too. It was a smooth sense of pleasure that arced from behind her sternum to the center of her abdomen. Smooth and alluring, it made her want more, and the more she got the more she wanted. It was desire, panic inverted.
+
+By the time Malina's other paw dipped down over her belly to tug at the drawstring to her pants, Sélène was lost.
+
+She gave herself up to Malina.
+
+Malina, who was so comforting a presence, who had so sure a touch, who seemed to know just what Sélène needed.
+
+Malina, who learned quickly how to draw a moan from Selene, who knew to shift her focus before a touch got to be too much, who responded to Selene as readily as Selene responded to her.
+
+Malina, who seemed to know just how intensely that desire moved within Selene, who knew how to track its rise, its plateau, its crest, and who held Selene tightly to her as the vixen cried out and shook in that sudden rush of pleasure.
+
+And as that wave of warmth ecstasy passed, Malina kept Selene held comfortable and safe.
+
+Selene brought her arms down to simply hold onto Malina's arm. The warmth within her faded and was replaced by that soft, cottony feeling magnified ten times over. She could feel a touch of anxiety, a touch of shame peeking in, but it was muffled, distant, barely visible behind the comfort and calm.
+
+"Was that alright, love?" Malina's voice was soft, low. She sounded as though she were in the same cozy dream as Selene.
+
+Selene purred. "Wonderful."
+
+The two sat in silence, Malina hugging around Selene's middle and Selene hugging Malina's arms to her front.
+
+-----
+
+Selene must have dozed off, or at least gotten close to it, as she jolted suddenly awake at the feeling of her phone buzzing against her thigh.
+
+"Your vibrating," Malina mumbled, sounding about as asleep as Selene had been.
+
+Squirming, the vixen struggled to free the phone from her pocket. She blinked and squinted as the screen swam into focus. "Nine thirty, yikes," she mumbled, and pawed at the message notification from Aiden.
+
+_Aiden> Having a good time, sweetheart?_
+
+Selene furrowed her brow. What could she say?
+
+*Selene> Wonderful!*
+
+_Aiden> Glad to hear! Would you like me to pick you up tonight, or will Malina drive?_
+
+"Shit."
+
+Malina yawned. "Everything alright, dear?"
+
+Logic seemed to be making its way back in fits and starts. Late. She needed to be back home tonight. Aiden come pick her up, or Malina drive her.
+
+"Shit." She squirmed until she could sit up straight. "Um. Sorry. Are you alright, Malina?"
+
+The badger, nodded. "Sleepy, but alright. Is everything okay?"
+
+"I need to be back home soon." She bit at the side of her tongue and winced. "Aiden is wondering whether he should drive or you."
+
+Malina shrugged, yawned once more, and smiled to Selene. "I can drive, if you give me a bit to stretch."
+
+"Sorry, Malina. I hope it's not...I lost track of...are you alright?"
+
+"I'm alright, love." The badger leaned in to rub her cheek to Selene's. "It's no trouble. Sorry I dozed off there. It got late, didn't it?"
+
+Selene settled down at the cheekrub, returning it and smiling bashfully. "A little, yeah. I think I dozed off, too."
+
+<!-- This should be more for the next date:
+
+Instead, she felt ashamed. She felt sticky and unappealing and dirty. She felt like she'd intruded and had done something horrible. She grasped for any thought that might help. She remembered she could text Aiden. She remembered Aiden, and the anxiety doubled and trebled --- had she done something horribly wrong?
+
+The anxiety was humiliating.
+
+"Selene?" Malina sounded worried. "Selene, are you okay? You're barely breathing, dear."
+
+She shook her head. "Sorry, just got...uh, are you alright?" Her voice sounded weak to herself.  -->

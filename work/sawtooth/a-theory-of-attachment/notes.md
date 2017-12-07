@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 2065
-    characters_total: 2505
+    characters_real: 2257
+    characters_total: 2743
     file: ./work/sawtooth/a-theory-of-attachment/notes.md
     paragraphs: 5
     type: jekyll
-    words: 411
+    words: 455
 layout: draft
 title: A Theory of Attachment Notes
 ---
@@ -25,7 +25,7 @@ title: A Theory of Attachment Notes
 2. Talking through the date, addressing Aiden's fears (over and over again)
 3. Date goes really well for Selene, Aiden happy for her, but stressed working through the ramifications
 4. Selene and Malina play around next date
-5. Aiden gets upset and angry because their attempts at sex were always stressful, whereas this came easy to Selene and Malina, agrees to give it one more go, but asks if he can start looking around, too, admits he's been talking with Aaron and Erin
+5. Aiden gets upset and angry because their attempts at sex were always stressful (selene hints past sexual abuse?), whereas this came easy to Selene and Malina, agrees to give it one more go, but asks if he can start looking around, too, admits he's been talking with Aaron and Erin
 6. Third date at Malina's, Selene has been on edge since and has panic attack caused by exposed kitchen, locks herself in the bathroom to be away from cabinets, texts Aiden, who calls Malina and races over and stays on the phone meanwhile, talking Malina through helping Selene
 7. They all wind up eating together, despite it being a date, Selene mentions cabinets as PTSD/OCD interaction, having been locked in one as a kid, how family never understood her but Aiden did, and Malina was okay with learning to
 8. End on hopeful note of each of Selene's partners playing a role in her life: Aiden is practical-supportive and steadfast, Malina is emotional-supportive and fluid
@@ -36,6 +36,8 @@ Editing notes:
 * Don't forget marshmallows on Saturday night
 * Introduce Malina earlier
 * More with cabinets in the middle of the story
+* Make sure you tell from Selene's perspective and don't slip int others'
+* If Aiden was her rock, the steadying force in her life that kept her going, Malina was her blanket, her pillow, her means to relax and rest.
 
 Names:
 * Sélène (French/Greek) - Relating to the moon (macro: without accents) - fox
