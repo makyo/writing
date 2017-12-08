@@ -29,6 +29,7 @@ I have a few mechanisms for support:
 * [**Gratipay**](https://gratipay.com/makyo/) --- Gratipay works like a tip system, but it also allows users to pledge on a schedule. The benefit of this is that it's super lightweight, and also works well with GitHub. -->
 * ~~Patreon~~ --- removed for an underhanded cash grab that fucked over smaller content creators. And no, I'm not sorry about the language.
 * ~~Gratipay~~ --- went away. You will be missed o7
+* [**Liberapay**](https://liberapay.com/makyo/) --- Liberapay is a successor to Gratipay and works on a tip/recurring donation scheme.
 * [**Ko-fi**](https://ko-fi.com/drabmakyo) --- Ko-fi is another tipping site, and is nicely integrated with PayPal. It's also got a bit of a friendlier interface than Gratipay, one that folks are more used to.
 
 If you're interested in supporting my writing work (and development work, if that's your bag!), I will be eternally grateful!
