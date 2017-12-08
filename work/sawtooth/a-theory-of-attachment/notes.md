@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 2257
-    characters_total: 2743
+    characters_real: 2269
+    characters_total: 2758
     file: ./work/sawtooth/a-theory-of-attachment/notes.md
     paragraphs: 5
     type: jekyll
-    words: 455
+    words: 457
 layout: draft
 title: A Theory of Attachment Notes
 ---
@@ -38,6 +38,7 @@ Editing notes:
 * More with cabinets in the middle of the story
 * Make sure you tell from Selene's perspective and don't slip int others'
 * If Aiden was her rock, the steadying force in her life that kept her going, Malina was her blanket, her pillow, her means to relax and rest.
+* Malina's voice
 
 Names:
 * Sélène (French/Greek) - Relating to the moon (macro: without accents) - fox
