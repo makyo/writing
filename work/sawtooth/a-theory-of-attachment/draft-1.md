@@ -1,4 +1,14 @@
-# A Theory of Attachment
+---
+counts:
+    characters_real: 67741
+    characters_total: 83567
+    file: ./work/sawtooth/a-theory-of-attachment/a-theory-of-attachment.md
+    paragraphs: 608
+    type: jekyll
+    words: 15739
+layout: draft
+title: A Theory of Attachment
+---
 
 A cool, pale blue lightness sitting just behind her sternum, Sélène made what she promised herself would be a quick pass through the kitchen
 
