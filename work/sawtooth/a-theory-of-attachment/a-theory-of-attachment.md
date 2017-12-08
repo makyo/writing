@@ -522,6 +522,8 @@ She thought for a moment. "I think that I was able to open up, I guess. I can ta
 
 She felt Aiden nod above her. "Yeah. Talking can take a lot out of you, if you're not engaging."
 
+## DON'T FORGET SÉLÈNE HAS THERAPY FRIDAY
+
 "Mmhm."
 
 "And did you come up with any plans for another date?"
