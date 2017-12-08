@@ -71,12 +71,24 @@ h3.alignTop {
     display: block;
     position: fixed;
     font-size: 1200%;
-    color: rgba(0, 0, 0, 0.25);
+    color: rgba(0, 0, 0, 0.05);
     transform: rotate(-45deg) translate(7rem, -7rem);
+    animation-duration: 5s;
+    animation-name: fade;
+    animation-iteration-count: 1;
 }
 @media only screen and (max-width: 960px) {
     .draft::before {
         font-size: 700%;
+    }
+}
+@keyframes fade {
+    from {
+        color: rgba(0, 0, 0, 0.25);
+    }
+
+    to {
+        color: rgba(0, 0, 0, 0.05);
     }
 }
 

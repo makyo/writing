@@ -1,22 +1,24 @@
 ---
 counts:
-    characters_real: 65769
-    characters_total: 81103
+    characters_real: 67741
+    characters_total: 83567
     file: ./work/sawtooth/a-theory-of-attachment/a-theory-of-attachment.md
-    paragraphs: 602
+    paragraphs: 608
     type: jekyll
-    words: 15253
+    words: 15739
 layout: draft
 title: A Theory of Attachment
 ---
 
-A cool lightness sitting just behind her sternum, Sélène made a quick pass through the kitchen, fingers brushing along the edges of cabinet doors. Each one was opened and inspected, leaving her standing on tiptoes to peer in those above the counters. Nothing but cups and glasses, plates and bowls, cutting boards and pots and pans and trays and dishes. All clean and neatly stacked.
+A cool, pale blue lightness sitting just behind her sternum, Sélène made what she promised herself would be a quick pass through the kitchen
+
+She brushed her fingers along the edges of cabinet doors. Each one was opened and inspected, leaving her standing on tiptoes to peer in those above the counters. Nothing but cups and glasses, plates and bowls, cutting boards and pots and pans and trays and dishes. All clean and neatly stacked.
 
 Each cabinet was carefully left ajar. The vixen had perfected the art of finding the balance point that would leave them open before the weight of the door on the hinge would close them, without simply leaving them all the way open. The barest crack.
 
 The fridge bore her inspection patiently, door held open as she inspected along each of the shelves, gently moving well organized bottles to check between each of them. The freezer was equally patient as the vixen lifted containers of leftovers and trays of uncooked meats. Doing her best to avoid glancing at the back walls of either, she pressed the doors shut to keep the fridge from endlessly breathing cold out into the kitchen. Just to be sure, she opened them again, savoring that clean snap of the magnetic seal pulling away from the body of the fridge, then gritting her teeth in frustration as closing the door offered no such tangible reward.
 
-The oven yawned out to her, empty. The oven was easy, because it had a light that turned on while open, and off when closed. The fridge did, too, but the oven had its pristine glass door through which she could observe the light cycling. The stove had similar lights which, the associate at the hardware store assured here, were connected directly to the burners. Even so, she touched each cooktop surface gingerly to test for warmth, turned all the burners on, then off again.
+The oven yawned out to her, empty. The oven was easy, because it had a light that turned on while open, and off when closed. The fridge did, too, but the oven had its pristine glass door through which she could observe the light cycling. The stove had similar lights which, the associate at the hardware store assured here, were connected directly to the burners. Even so, she touched each cook-top surface gingerly to test for warmth, turned all the burners on, then off again.
 
 On a whim, the drawers were next. Thankfully, most of those were empty, and the rest mostly so. The underside of the silverware tray was inspected with care.
 
@@ -50,7 +52,7 @@ The pang subsided.
 
 Aiden leaned back and nodded where she could see, then leaned in again to touch his cheek to hers --- the closest she could stand to affection around her face. "Fine, love. I'm doing okay."
 
-Sélène returned the touch and nodded, silently promising that thin pang of fear that Aiden meant to say "I'm fine", rather than a resigned "*fine*", that her husband was just tired, not tired of her.
+Sélène returned the touch and nodded, silently promising that thin pang of fear that Aiden meant to say "I'm fine", rather than a grouchy "*fine*", that her husband was just tired, not tired of her.
 
 "I'd like to head out soon, is that alright?"
 
@@ -60,7 +62,7 @@ Aiden nodded. "It's by the door. Check your phone, it's already packed."
 
 Her ears twitched to attention, smile brightening. Sure enough, just before the pano of the kitchen was a photo of the inside of her shoulder bag. Laptop, all her pens, an empty book of blank paper she never could bring herself to write in, and an umbrella.
 
-"Alright, just a quick look. Let's head out before I get lost again," she waved vaguely at the cabinets, ignoring the cool blue sensation of doubt traveling down her arms. She could *see* the cabinets were open. She didn't need to check. She didn't need to check.
+"Alright, just a quick look. Let's head out before I get lost again," she waved vaguely at the cabinets, ignoring the cool blue sensation of doubt traveling down her arms, little flares arcing out from the anxiety in her chest. She could *see* the cabinets were open. She didn't need to check. She didn't need to check.
 
 Aiden seemed to pick up on her hesitancy and set his paws on her shoulders, "Come on, bag's all packed, love."
 
@@ -192,59 +194,65 @@ Her tail, already bottlebrushed and full of nervous twitches, nearly jerked her 
 
 Sélène tapped 'favorite' on the post and flipped over to her messaging window with Malina.
 
-*Sélène> Hey you. What's cooking?*
+*Sélène [2:03 PM]> Hey you. What's cooking?*
 
-The vixen winced. That had a different meaning, didn't it? What's cooking, what's *cooking*. What's cooking? What *is* cooking? Hey, what's cooking?
+The vixen winced. That had a different meaning, didn't it? What's cooking, what's *cooking*. What's cooking? What *is* cooking? Hey, what's cooking, sexy?
 
 She growled to herself and tamped down her clamoring anxieties. Malina was endlessly patient. Had been from day one. Last thing Sélène wanted to do was let her anxieties spill over onto the badger.
 
-_Malina> Casserole! I made some marshmallows yesterday, too. Alright if I bring those with tomorrow? I was going to surprise you, but figured I should probably ask._
+_Malina [2:04 PM]> Casserole! I made some marshmallows yesterday, too. Alright if I bring those with tomorrow? I was going to surprise you, but figured I should probably ask._
 
 Tension drained from her as the chill of stress melted into a pleasant embarrassment. A flush of warmth within her ears. A goofy smile. Where Aiden was calm, collected, and supportive, Malina was kind and earnest. Both did wonders to calm her.
 
-*Sélène> You make marshmallows?*
+*Sélène [2:04 PM]> You make marshmallows?*
 
-_Malina> Yeah, they're really easy. Just sugar, corn syrup, gelatin, and whatever flavor you want._
+_Malina [2:04 PM]> Yup, they're really easy. Just sugar, corn syrup, gelatin, and whatever flavor you want_
 
-Sélène grinned to her phone. She had no idea why it was surprising to her that people, not just machines, made marshmallows. It fit Malina perfectly. *Sélène> That's cool. What flavor?*
+Sélène grinned to her phone. She had no idea why it was surprising to her that people, not just machines, made marshmallows. It fit Malina perfectly.
 
-_Malina> Lime. Sound good to you?_
+*Sélène [2:04 PM]> That's cool. What flavor?*
 
-*Sélène> Sounds excellent.* She paused, then added, *I'm really nervous, but really excited.*
+_Malina [2:05 PM]> Lime. Sound good to you?_
 
-_Malina> Me too. I've been thinking about it all morning. I've never been on a date._
+*Sélène [2:05 PM]> Sounds excellent.* She paused, then added, *I'm really nervous, but really excited.*
 
-Sélène's grin grew wider and the flush within her ears grew warmer. *Sélène> Wait, never?*
+_Malina [2:05 PM]> Me too. I've been thinking about it all morning. I've never been on a date_
 
-_Malina> Well, I mean I've been on dates, yeah, but never a DATE date. Like, one that was agreed upon as a date ahead of time._
+Sélène's grin grew wider and the flush within her ears grew warmer.
 
-*Sélène> Oh. Me neither, come to think of it. Aiden and I would go out and whatever, and then just suddenly -boom-, in a relationship. I don't think either of us said 'date'.*
+*Sélène [2:05 PM]> Wait, never?*
 
-_Malina> \*laughs\* yeah? I suppose that makes sense. You sure Aiden is okay with this?_
+_Malina [2:06 PM]> Well, I mean I've been on dates, yeah, but never a DATE date. Like, one that was agreed upon as a date ahead of time_
 
-*Sélène> He says he is every time I've asked. He says it'll be good for me, but I worry.*
+*Sélène [2:06 PM]> Oh. Me neither, come to think of it. Aiden and I would go out and whatever, and then just suddenly -boom-, in a relationship. I don't think either of us said 'date'.*
 
-_Malina> I know. We'll keep talking about it, though._
+_Malina [2:07 PM]> \*laughs\* yeah? I suppose that makes sense. You sure Aiden is okay with this?_
 
-*Sélène> Yeah.*
+*Sélène [2:07 PM]> He says he is every time I've asked. He says it'll be good for me, but I worry.*
 
-A comfortable pause, and then a thrill of chill anxiety behind her breastbone. *Sélène> You alright?*
+_Malina [2:08 PM]> I know. We'll keep talking about it, though_
 
-_Malina> Doing great!_
+*Sélène [2:08 PM]> Yeah.*
+
+A comfortable pause, and then a thrill of chill anxiety behind her breastbone, a splash of blue mood.
+
+*Sélène [2:09 PM]> You alright?*
+
+_Malina [2:09 PM]> Doing great!_
 
 The chill faded again. There was a soft, pleasant chime from the kitchen. Sélène grumbled.
 
-*Sélène> Break time's up, I gotta get back to work. You working tonight?*
+*Sélène  [2:10 PM]> Break time's up, I gotta get back to work. You working tonight?*
 
-_Malina> Yeah. I traded shifts so I could get tomorrow off._
+_Malina [2:10 PM]> Yeah. I traded shifts so I could get tomorrow off_
 
-*Sélène> Good. You sure you don't want to go to Book and Bean for our date?*
+*Sélène [2:10 PM]> Good. You sure you don't want to go to Book and Bean for our date?*
 
-_Malina> \*laughs\* QUITE sure. Last thing I want to do is go on a date where I work._
+_Malina [2:10 PM]> \*laughs\* QUITE sure. Last thing I want to do is go on a date where I work_
 
-*Sélène> Fine, fine. Have fun, and I'll see you tomorrow.*
+*Sélène [2:11 PM]> Fine, fine. Have fun, and I'll see you tomorrow.*
 
-_Malina> Can't wait! <3_
+_Malina [2:11 PM]> Can't wait! <3_
 
 The chime was growing louder in the kitchen, but Sélène clutched her phone in her paw for a moment longer, smiling at that little heart at the end of Malina's last message.
 
@@ -336,7 +344,17 @@ She bounced off the bus and straight into a hug, "Hi you!"
 
 Sélène grinned. "Yeah, I was all fidgety, too. You alright?"
 
-"Mmhm. Excited, is all." Malina leaned back from the embrace and grinned. "Come on, let's walk a bit before food."
+"Mmhm. Excited, is all." Malina leaned back from the embrace and grinned. She held up a small paper bag. "I'm sorry to say that I ate a bunch of them earlier, but I brought some marshmallows for you."
+
+"I'll admit that I've never had a homemade marshmallow," Sélène admitted, peeking into the bag, then reached in to grab one. "They're square! What's the white stuff?"
+
+Malina reached in to grab one as well. "Cornstarch. Keeps them from sticking together."
+
+Sélène sniffed at it carefully. It smelled sweet, with a hint of citrus and what she could only describe as chalk. She figured the last was probably from the cornstarch, so she took a cautious bite and chewed. It was...well, a marshmallow. But it was fresher than any she'd ever had, far more flavorful and less cloying. The lime was there almost as an afterthought, a bit of brightness that added without overwhelming.
+
+"'oh-ee thit!" She laughed a puff of cornstarch and struggled to chew the rest of the marshmallow, swallowing to say more clearly, "Holy shit, Malina. That's good!"
+
+Malina grinned as best she could, a dusting of cornstarch on her own muzzle. One she was able, she laughed. "Glad you like, dear. Come on, let's walk a bit before real food. We can save the other two for dessert."
 
 The 13th Street Plaza had begun some decades before when the courthouse lawn and the road in front of it had been redone to fix the water main. The city had decided that, to keep the shops there open for business, to turn the two blocks to either side of the courthouse into a pedestrian mall. It was an attempt at turning the utility fix into something that benefited the city.
 
@@ -374,9 +392,9 @@ Malina tilted her head. "I'm fine, don't worry about me. How about you? Hope I'm
 
 The vixen splayed her ears and shook her head. "I'm fine. Sorry." She bit her tongue a moment, holding back another are-you-alright. "I'm good."
 
-They turned and continued on their slow stroll down the plaza. Antica Roma was directly in front of the courthouse. Cozy and pricy. Definitely date material.
+They turned and continued on their slow stroll down the plaza. Antica Roma was directly in front of the courthouse. Cozy and pricey. Definitely date material.
 
-"You sure you're alright, Sélène? You got quiet."
+"You sure you're alright, dear? You got quiet."
 
 "Uh, sorry. I'm fine." She laughed breathlessly. "Sorry. Are you...uh, sorry."
 
@@ -396,7 +414,7 @@ Sélène froze, fur bristling.
 
 "R-really nice." Sélène giggled, ears pinned back. That giddiness swelled within her. "That was really nice."
 
-It was Sélène's turn to pick up the conversational lead as they continued to meander east. She talked about the various compulsions and the obsessions and anxieties that drove them, about her struggles with relationship-rightness and need to ask Aiden --- and now Malina --- if they were alright. She talked about her therapist and the exposure therapy that was part of her work. She talked about the problems with touches to her face.
+It was Sélène's turn to pick up the conversational lead as they continued to meander east. She talked about the various compulsions and the obsessions and anxieties that drove them, about her struggles with relationship-rightness and need to ask Aiden --- and now Malina --- if they were alright. She talked about her therapist and attachment styles and the exposure therapy that was part of her work. She talked about the problems with touches to her face.
 
 Malina, for her part, listened attentively up until the end. "I'm sorry about the kiss, I didn't know."
 
@@ -422,8 +440,6 @@ Sélène hadn't know Malina had a car, much less were the badger lived. After di
 
 Malina laughed. "Yeah, I'm super close. I walk, but have the car for errands and such."
 
-# MADDY DON'T FORGET THE MARSHMALLOWS
-
 The ten-minute ride was mostly quiet, otherwise. They had been talking nearly non-stop for well on five hours now, and their silence was comfortable. Sélène's mind was quiet, glowing. She reveled in the silence.
 
 By the time they pulled up in front of Sélène and Aiden's house, the vixen could feel just how much the night and all the anxiety that led up to it had taken out of her. It was a cozy sort of exhaustion, the satisfying kind.
@@ -442,7 +458,7 @@ The fox nodded once more, ears tilted back as if to hide her embarrassment. She 
 
 Sélènea leaned across the center console to hug awkwardly around Malina, hungry for a bit more contact before heading inside. "I'll ask Aiden, but I think so, yeah."
 
-With one last cheekrub, she unbuckled and slipped out of the car.
+With one last cheek rub, she unbuckled and slipped out of the car.
 
 Aiden met her at the door, smiling. He held the screen door open so that he could let Sélène in and wave to Malina out in the car. "Have a good evening, sweetheart?"
 
@@ -468,7 +484,7 @@ Sélène nodded and relaxed against her husband's front, tucking her muzzle up u
 
 "I think I understand. Are you alright?"
 
-Aiden nodded. "I'm alright, love. It's good to see you happy. You look exhausted." He paused for a moment before asking, "Would you be up for chilling on the couch for a bit before bed? I want to hear about your date, if you'd like."
+Aiden nodded. "I'm alright, love. It's good to see you happy. You look exhausted." He paused for a moment before asking, "Would you be up for chilling on the couch for a bit before bed, though? I want to hear about your date, if you'd like."
 
 Sélène nodded and tightened her hug around Aiden briefly before relaxing. She padded quickly past the entrance to the kitchen so as to not get caught up in compulsions just yet, though she could feel the doubt and worry growing frostily within. She clambered up onto the couch and dug her phone out of her pocket instead. She'd checked her feeds in the car, so they should be empty, but the act of pulling down to refresh was a comforting thought.
 
@@ -488,7 +504,7 @@ Aiden nodded and opened his mouth to speak, before being cut off frantically by 
 
 "Are you alright? Is that alright?"
 
-Her husband held up his paws to forestall any further questions. "It's alright, love. I promise. I'm really happy for you." He laughed and added, "Sweetheart, you're adorable."
+Her husband held up his paws to forestall any further questions. "It's alright, I promise. I'm really happy for you." He laughed and added, "Sweetheart, you're adorable."
 
 Sélène smiled nervously and bowed her head. "Uh, thank you."
 
@@ -500,7 +516,7 @@ The fox brushed his thumbs over the soft-furred backs of his wife's paws. "I thi
 
 Sélène winced, more at the words than the touch. "'Think so'?"
 
-"Mmhm. I'm really happy for you. I was just thinking," he trailed off, shrugged, and pushed ahead. "I was just thinking, that's probably something only the two of us had ever done, until tonight."
+"Mmhm. I'm really happy for you. I was just thinking," he trailed off, shrugged, and pushed ahead. "I was just thinking, the kiss is probably something only the two of us had ever done, until tonight."
 
 Sélène shivered and nodded. Without any direction for her nervousness, without anything to obsess over other than her relationship-rightness with Aiden, she felt trapped, frozen in an icy block of anxiety. "Is that okay?"
 
@@ -508,11 +524,11 @@ Aiden nodded. "It is, sweetheart. Like I said. It's something for us to work on.
 
 The vixen nodded, struggling to find an outlet for that energy. She couldn't meet her husband's eyes, and was unwilling to lose the contact of his paws holding hers for anything so silly as grabbing her phone.
 
-"Hey. Sélène, look here," Aiden said. When she pointed her muzzle at him without making eye contact, he lifted her paws in his, and gave them a rub of his cheek, a 'kiss' to their backs. A gesture he'd never done before.
+"Hey. Sélène, look here," Aiden said. When she pointed her muzzle at him without making eye contact, he lifted her paws in his, and gave them a rub of his cheek, a 'kiss' to their backs. A gesture he'd never done before. "Look at me, sweetheart."
 
 At that, she did make eye contact. She felt on the verge of tears, without fully understanding why. Aiden was so reassuring, so loving; and she was so terrified of losing him. Aiden was smiling so kindly, and she could barely keep from crying.
 
-"May I hug, sweetheart?"
+"May I hug?"
 
 Sélène nodded, and let Aiden draw her into his arms. They brushed cheeks a few times, before she just wound up resting against him. She managed to keep from crying outright, but at the expense of some sniffles.
 
@@ -521,8 +537,6 @@ Sélène nodded, and let Aiden draw her into his arms. They brushed cheeks a few
 She thought for a moment. "I think that I was able to open up, I guess. I can talk *about* stuff with people, but only really engage with you two." She hesitated, then added, "If that makes sense."
 
 She felt Aiden nod above her. "Yeah. Talking can take a lot out of you, if you're not engaging."
-
-## DON'T FORGET SÉLÈNE HAS THERAPY FRIDAY
 
 "Mmhm."
 
@@ -544,9 +558,9 @@ Aiden nodded again. "Definitely. Go. I want you to experience more of that, and 
 
 -----
 
-Sunday was a calm leisurely day for Sélène and Aiden.
+Sunday was a calm leisurely day for the pair.
 
-Aiden cooked brunch --- Sélène was hopeless when it came to eggs --- while Sélène picked out songs she thought were interesting and tried to explain why to Aiden. Later, they walked to the park at the end of the block and made their way through the frisbee golf course. Neither played, but it was exercise, and comforting for Sélène to walk each hole from start to finish.
+Aiden cooked brunch --- Sélène was hopeless when it came to eggs --- while Sélène picked out songs she thought were interesting and tried to explain why to Aiden. Later, they walked to the park at the end of the block and made their way through the Frisbee golf course. Neither played, but it was low-key    exercise, and comforting for Sélène to walk each hole from start to finish.
 
 Later, Aiden ran to get groceries while Sélène wrote on some of her personal projects.
 
@@ -576,7 +590,7 @@ She transfered her phone to the other and let her husband take her paw. She smil
 
 Aiden lifted her paw, gently held her thumb separate and leaned to brush his cheek over it. "A kiss to make it better."
 
-Sélène giggled happily and moved her phone to the armrest of the couch so she could lean in closer, and return the kiss in turn, brushing her cheek in against his. "You're a dork, Aiden."
+Sélène giggled happily and moved her phone to the armrest of the couch so she could lean in closer, and return the kiss in turn, brushing her cheek in against his. "You're a dork."
 
 He laughed and gave her paws a gentle squeeze in his own. "I love you too, sweetheart."
 
@@ -592,7 +606,7 @@ Sélène tensed at a frisson and flicked her ears against Aiden's muzzle. "Tickl
 
 "I think..." Sélène hesitated while she dug for words. "I think just having a direction to put energy."
 
-"Good, yeah." Aiden gave her ear another nuzzle before leaning down to put a kiss --- a proper one, rather than a cheekrub --- atop her head.
+"Good, yeah." Aiden gave her ear another nuzzle before leaning down to put a kiss --- a proper one, rather than a cheek rub --- atop her head.
 
 Hunching her shoulders and splaying her ears to the sides, Sélène tucked herself in closer to her husband, paws folded together so she could pick at her thumb again.
 
@@ -610,7 +624,7 @@ The two sat quietly, letting the rest of the show play out until the credits.
 
 "I think I forgot to say so earlier," Sélène murmured sleepily. "Thank you for putting up with your wife."
 
-Aiden turned enough to give his wife a fond cheekrub. "Of course, love. Let's get you to bed so you can be all rested for tomorrow."
+Aiden turned enough to give his wife a fond cheek rub. "Of course, love. Let's get you to bed so you can be all rested for tomorrow."
 
 -----
 
@@ -624,7 +638,7 @@ This Wednesday was seemingly neither of these. It was apart from other Wednesday
 
 She was going to have her husband drop her off at her girlfriend's house tonight.
 
-She kept repeating that over and over inside her head, trying to make the shapes fit. *Work. Husband. Girlfriend. Husband...driving her to girlfriend. And it was a good thing? Very good.*
+She kept repeating that over and over inside her head, trying to make the shapes fit. *Work. Husband. Girlfriend. Husband...driving me to girlfriend. And it was a good thing? Very good.*
 
 She'd never had a giddy Wednesday before.
 
@@ -646,13 +660,13 @@ Shit.
 
 True enough.
 
-"Oh, well, have a good one." Jeff smiled quizzically as Sélène skittered out of her office.
+"Oh, well, have a good one," Jeff said, smiling quizzically as Sélène skittered out of his office.
 
 She managed to make it through the rest of the day without incident, but perhaps only by dint of her sticking to her cubicle as much as possible. She spent half her time there working, and the other half daydreaming and digging at the spot on her thumb. That little bump she'd found had been a focal point ever since, and she'd already picked it to bleeding once. There had to be something there. Ingrown fur, or something.
 
 As early as she could manage without attracting attention, Sélène made her way out to the front of the building, camping on one of the benches normally used by smokers during their breaks.
 
-Fall had treated Sawtooth well, this year. There had been a few chill days, but no freezes yet. It had remained unremarkably comfortable. The sort of weather you never think about. The sort of weather that was only ever "nice".
+Fall had treated Sawtooth well, this year. There had been a few chill days, but no freezes yet. It had remained unremarkably comfortable. The sort of weather you never think about. The sort of weather that was only ever "nice" in conversation.
 
 It *was* nice, too, so Sélène sat and waited outside for Aiden. Enjoying the non-conditioned air, relative quiet, and natural light.
 
@@ -664,7 +678,7 @@ Sélène yelped and jumped to her feet. "Aiden! Sorry!"
 
 The fox laughed and held out his arms to offer a hug. "It's okay! It's okay. Spacing out?"
 
-"A little," Sélène gasped. She got her breathing under control and un-bushed her tail before leaning into Aiden's arms. She brushed her cheek up against his. "Sorry Aiden. You alright?"
+"A little," Sélène gasped. She got her breathing under control and un-bushed her tail with a few brushes of her paws before leaning into Aiden's arms. She brushed her cheek up against his. "Sorry. You alright?"
 
 "I'm alright," he rumbled. "How're you?"
 
@@ -684,15 +698,15 @@ Sélène tilted her ears in a flush of embarrassment. "Right. But to Malina's?"
 
 Aiden nodded.
 
-"Alright. This feels a little goofy, I guess."
+"Alright." She picked at her thumb briefly, then forced herself to stop. "This feels a little goofy, I guess."
 
-"What?" he asked. "Driving my wife to a date with someone? I guess it is. It was on my mind all day, too. I'm still excited for you, though."
+"What?" he asked. "Driving my wife to a date with her girlfriend? I guess it is. It was on my mind all day, too. I'm still excited for you, though."
 
 Smiling nervously, Sélène brushed her fingers along her arm, finding bits of fur she tugged out of order and straightening them out as best she could. She kept finding new bumps and spots begging to be picked. "I hope it goes well. Been looking forward to it."
 
 "It will sweetheart, I'm sure of it."
 
-"Just hoping I don't get all weird about her kitchen or whatever, is all."
+"Just hoping I don't get all weird about her kitchen cabinets or whatever, is all."
 
 "If so, do you think you could ask to put on a show or something?"
 
@@ -700,7 +714,7 @@ Smiling nervously, Sélène brushed her fingers along her arm, finding bits of f
 
 "So, good movies, then?" Aiden laughed. "Maybe we could do a double date or something, sometime. A...one-and-a-half date."
 
-The vixen giggled. "That might be fun. Is that something you'd be up for?"
+The vixen grinned. "That might be fun. Is that something you'd be up for?"
 
 Aiden hesitated. "Down the road, perhaps."
 
@@ -722,11 +736,11 @@ Aiden smiled over to her, then nodded up the street. "This it, here?"
 
 The car slid smoothly up to the sidewalk in front of the townhouse. Aiden had to reclaim his paw to shift into park, but quickly returned it. "Have a good evening, okay, sweetheart? Message if you need a ride back."
 
-Sélène gave his paw a squeeze once she got it back, leaning over to brush cheeks with her husband. "Mm, alright. Are you okay?"
+Sélène gave his paw a squeeze once she got it back, leaning over to brush cheeks with her husband. "Mm, alright. Can I leave my bag with you? Um, and are you okay?"
 
-Aiden nodded and smiled. "I'm good. Now go, have a good time," he said, reclaiming his paw so he could shoo his wife out of the car.
+Aiden laughed and nodded. "I'm good. I'll get your bag home safe and sound. Now go, have a good time," he said, reclaiming his paw so he could shoo his wife out of the car.
 
-"Alright, alright." Sélène giggled, leaned in for one more cheekrub, then slipped out of the car. "Love you."
+"Alright, alright." Sélène beamed, leaned in for one more cheek rub, then slipped out of the car. "Love you."
 
 "Love you too, sweetheart."
 
@@ -738,7 +752,7 @@ Sélène smiled back and leaned in to brush her cheek against Malina's. "Hi. Lon
 
 "It's been ages," Malina laughed, opening the door further. "Days, even. Come on in, dinner's already ready, so no need to prep anything."
 
-She followed after Malina, slipping into the entryway and closing the door behind her.
+She followed after Malina, slipping into the entryway, swishing her tail out of the way, and closing the door behind her.
 
 Malina's place is bright and spacious. A simple place, clean and orderly, the room was larger than she would've expected, though perhaps that was due in part to the way the kitchen was an open corner of the room. Kitchen, dining room, and living room provided a veritable landscape of a room.
 
@@ -746,15 +760,17 @@ It was very Malina.
 
 "Your place is beautiful."
 
-Malina nodded. "I like this place. Cyril never did, so I lucked out on that end of things, when we split. Come on in, though, make yourself comfortable.
+Malina nodded. "I like this place. Cyril never did, so I lucked out on that end of things when we split. Come on in, though, make yourself comfortable.
 
 Sélène followed the badger as she trundled in to the kitchen. The sight of all of those cabinets, clearly visible from anywhere in the great room, made Sélène's arms itch all over again. "Didn't realize how big this place was. Never seen a kitchen this exposed to the rest of the house."
 
 "It's nice, isn't it?"
 
-"Mm."
+"Mm." So many cabinets, so many drawers.
 
-"Can duck in and out of the kitchen whenever I want. Suits me, I guess."
+*Stop it, Sélène.*
+
+"Can duck in and out of the kitchen whenever I want," Malina said proudly. "Suits me, I guess."
 
 The fox grinned, "That it does. Smells nice in here, too."
 
@@ -776,9 +792,9 @@ Malina laughed and shook her head, "I'm no clairvoyant. I did make us food, thou
 
 The two ate at the dining room table, though the 'dining room' was simply a handy spot next to the kitchen.
 
-After some waffling, Sélène took the seat facing away from the kitchen, though she regretted it soon after. It felt as though the kitchen were watching over her shoulder.
+After some waffling, Sélène took the seat facing away from the kitchen, though she regretted it soon after. It felt as though the cabinets were watching over her shoulder. Too much anxiety, too much blue.
 
-Still, the food was very good, and not at all how she would've made chicken and noodles. Malina had cooked the chicken to be quite spicy in the barest hint of a sauce, and the noodles were fried with peppers and vegetables. Looming kitchen or not, Sélène cleaned her plate. The badger was a wonderful cook.
+Still, the food was very good, and not at all how she would've made chicken and noodles. Malina had cooked the chicken to be quite spicy in the barest hint of a sauce, and the noodles were tossed with peppers and vegetables. Looming kitchen or not, Sélène cleaned her plate. The badger was a wonderful cook.
 
 They talked about their day, though Malina did most of the talking. All Sélène could manage was to say that she'd been nervous all day. Malina filled in for her, talking about deciding what to cook, running into people at the store, peeking in at The Book and The Bean to say hi.
 
@@ -786,17 +802,17 @@ From anyone else, Sélène would've glossed over all of this as polite chatter, 
 
 The conversation flowed from the day to broader topics, and as Malina swept the dishes off to the sink, Sélène talked about her work, and what had gone into finding a job that would work with her as well as this one did. They wafted over to the couch --- much to Sélène's relief --- and slouched together. Sélène kept talking, about school and finding ways to live and work, and about meeting Aiden.
 
-"You're a very lucky, fox, Sélène." The badger smiled kindly at Sélène's embarrassment. "You and Aiden fit together so well. I mean this in the nicest way, but he needs someone to care for, and you need someone to care for you. It's a good fit."
+"You're a very lucky, fox, Sélène." The badger smiled kindly at the vixen's embarrassment before carrying on. "You and Aiden fit together so well. I mean this in the nicest way, but he needs someone to care for, and you need someone to care for you. It's a good fit."
 
-"Thank you, Malina. If I'm honest, it wasn't until I admitted to myself that I couldn't do things alone that I started doing better. I never did well as a kid, and no one knew what to do about it, so they left me alone."
+"Thank you." She looked down at her paws and shrugged. "If I'm honest, it wasn't until I admitted to myself that I couldn't do things alone that I started doing better. I never did well as a kid, and no one knew what to do about it, so they left me alone."
 
 "'They'?"
 
-Sélène gave a dismissive wave of her paw. "Mom and older sister. Mom was unpredictable, Marguerite was just mean."
+Sélène gave a dismissive wave of her paw. "Mom and older sister. Mom was unpredictable, Marguerite was just mean. Her favorite joke was locking me in a cabinet while mom was out."
 
-"Yeah, childhood's hard enough as is, without that." Perhaps sensing the tenseness in Sélène, Malina shifted the subject. "Marguerite? Is your family French?"
+"Yeesh, childhood's hard enough as is, without that." Perhaps sensing the tenseness in the fox, Malina shifted the subject. "'Marguerite'? Is your family French?"
 
-"Oh god no," Sélène laughed. "We're from here, via the east coast, and we think England before that. Mom was a nut, though, and really wanted to have been from France. 'Sélène' isn't really a French name. That'd be *Sélene*. My mom thought the extra accent made it sound more French, but now I just mean 'lunar'. She lived in a fantasy."
+"Oh goodness no," Sélène laughed. "We're from here, via the east coast, and I think England before that. Mom was crazy, though, and really wanted to have been from France. 'Sélène' isn't really a French name, not like 'Selena' or 'Celine'. My mom thought the extra accent made it sound more French, but now I just mean 'lunar'. She lived in a fantasy."
 
 Malina gave the fox an appraising look. "You don't look much like a moon, dear."
 
@@ -804,15 +820,15 @@ Malina gave the fox an appraising look. "You don't look much like a moon, dear."
 
 The badger slipped her arm around Sélène, gently tugging the fox toward her. Sélène let herself be guided until she was leaning back against Malina, and Malina back against the arm of the couch.
 
-"You may not be lunar, but you are looking a little worse for the wear," Malina murmured, brushing fingers along the scuffed up and pocked fur on Sélènea's arm.
+"You may not be lunar, but you are looking kind of pocked and cratered, a little worse for the wear," Malina murmured, brushing fingers along the scuffed up and pocked fur on Sélènea's arm.
 
-Sélène massaged at a tuft of fur on the back of her paw self-consciously. The badger was comfortable and comforting, but that didn't stop the desire to fix her fur. "Sorry, Malina. I was picking."
+"Sorry. I was picking, I guess." Sélène massaged at a tuft of fur on the back of her paw self-consciously. The badger was comfortable and comforting, but that didn't stop the desire to dig at her fur.
 
-"It's alright, dear. You don't need to apologize." The badger fussed a dull claw through another of those tufts, then paused. "I should've asked. Is this alright? Me touching where you were picking?"
+"It's alright, dear. You don't need to apologize." The badger fussed a dull claw through another of those tufts, then paused. "I should have asked. Is this alright? Me touching where you were picking?"
 
-"It's okay, yeah. If I do it now, I'll find what I was picking at and start doing it again." Sélène tilted her head enough to get a peripheral glance of Malina, a pale blue flare of anxiety tickling along her ribs. "Sorry. I mean...sorry. Are you alright?"
+"It's okay, yeah. If I try to do it now, I'll find what I was picking at and start doing it again." Sélène tilted her head enough to get a peripheral glance of Malina, a pale blue flare of anxiety tickling along her spine. "Sorry. I mean...sorry. Are you alright?"
 
-Malina met Sélène's headtilt with her own, brushing cheek to cheek. "Shh, I'm alright, dear," she murmured, setting about grooming along one of Sélène's forearms. She worried her claws through the fur around each spot, straightening it out to lay flat again.
+Malina met Sélène's head-tilt with her own, brushing cheek to cheek. "Shh, I'm alright, dear," she murmured, setting about grooming along one of Sélène's forearms. She worried her claws through the fur around each spot, straightening it out to lay flat again.
 
 The sensation of being fussed over and cared for made Sélène feel small, young. It was some combination of intimate and caring, that touched on both the parts of her that needed affection and the parts that needed attention. It calmed her and made her anxious at the same time.
 
@@ -822,23 +838,23 @@ The vixen nodded, "It's okay. I just...still kinda anxious, I think."
 
 Those attentive paws continued their work of grooming down her arms as the badger brushed her cheek to Sélène's. "If you need to pick at something, you can pick at my fur."
 
-Sélène buzzed past possible responses --- "that's not how it works" and "it doesn't feel good, I don't want to do that to you" and "are you alright?" --- and just did her best to settle against Malina and enjoy the touches. *It's exposure therapy, maybe,* she thought. *I'm being present without engaging in the behavior.*
+Sélène buzzed past possible responses --- "that's not how it works" and "it doesn't feel good, I don't want to do that to you" and "are you alright?" --- and just did her best to settle against Malina and enjoy the touches. *It's exposure therapy, maybe,* she thought desperately. *I'm being present without engaging in the compulsion.*
 
 "This is nice," she mumbled.
 
 "To be touched? Or groomed?"
 
-Sélène grinned and shrugged. "Both, I guess."
+Sélène smiled and shrugged. "Both, I guess."
 
 Malina nodded and brushed her fingers down over the fox's left arm, having mostly sorted out the rough patches, and moved on to the right. "When I first met you, when you started coming to Book and Bean, I'd see you with your arms or neck like this, and I thought you were sick, like your fur was falling out."
 
 "Thankfully not," Sélène giggled.
 
-"Mmhm. And once I knew what was up, I wanted to sit you down and help you groom."
+"And once I knew what was up, I guess I wanted to sit you down and help you groom."
 
 "Like this?"
 
-Malina grinned, "Well, I figured it was more likely we'd sit at a table all professional like. That I get to do it with you in my arms is beyond anything I imagined."
+"Well, I figured it was more likely we'd sit at a table all professional like." Malina laughed. "That I get to do it with you in my arms is certainly beyond anything I imagined."
 
 Sélène tilted her ears back, feeling them flush along the insides. She shifted herself more comfortably against Malina. "That's the nicest bit," she purred, brushing her free paw along the badger's arm.
 
@@ -910,7 +926,7 @@ Sélène held still in the badger's arms, tense and quiet. "In a good way?"
 
 Relaxing again slowly, Sélène delicately set her paws back down on the badger's scruff, petting slowly through the fur. "Are you...uh, is this okay?"
 
-The growl came out as more of a rumble this time as Malina nodded. "This is okay. I'm alright, dear."
+The growl came out as more of a rumble this time. "This is okay. I'm alright, dear."
 
 Sélène relaxed back against the badger, trying to get back to that warm, cotton-muffled space. It was easy to do. So easy to relax into comfort like this around Malina.
 
@@ -934,7 +950,7 @@ Malina, who was so comforting a presence, who had so sure a touch, who seemed to
 
 Malina, who learned quickly how to draw a moan from Sélène, who knew to shift her focus before a touch got to be too much, who responded to Sélène as readily as Sélène responded to her.
 
-Malina, who seemed to know just how intensely that desire moved within Sélène, who knew how to track it - itss rise, its plateau, its crest - and who held Sélène tightly to her as the vixen cried out and shook as the desire crashed down into a sudden rush of pleasure.
+Malina, who seemed to know just how intensely that desire moved within Sélène, who knew how to track it --- its rise, its plateau, its crest --- and who held Sélène tightly to her as the vixen cried out and shook when the desire crashed down into a sudden rush of pleasure.
 
 And as that wave of warmth ecstasy passed, Malina kept Sélène held comfortable and safe.
 
@@ -954,13 +970,13 @@ Sélène must have dozed off, or at least gotten close to it, as she jolted sudd
 
 Squirming, the vixen struggled to free the phone from her pocket. She blinked and squinted as the screen swam into focus. "Nine thirty, yikes," she mumbled, and pawed at the message notification from Aiden.
 
-_Aiden> Having a good time, sweetheart?_
+_Aiden [9:32 PM]> Having a good time, sweetheart?_
 
 Sélène furrowed her brow. What could she say?
 
-*Sélène> Wonderful!*
+*Sélène [9:33 PM]> Wonderful!*
 
-_Aiden> Glad to hear! Would you like me to pick you up tonight, or will Malina drive?_
+_Aiden [9:33 PM]> Glad to hear! Would you like me to pick you up tonight, or will Malina drive?_
 
 "Shit."
 
@@ -968,7 +984,7 @@ Malina yawned. "Everything alright, dear?"
 
 Logic seemed to be making its way back in fits and starts. Late. She needed to be back home tonight. Aiden come pick her up, or Malina drive her.
 
-"Shit." She squirmed until she could sit up straight. "Um. Sorry. Are you alright, Malina?"
+"Shit." She squirmed until she could sit up straight. "Um. Sorry. Are you alright?"
 
 The badger, nodded. "Sleepy, but alright. Is everything okay?"
 
@@ -980,25 +996,27 @@ Malina shrugged, yawned once more, and smiled to Sélène. "I can drive, if you 
 
 "I'm alright, love." The badger leaned in to rub her cheek to Sélène's. "It's no trouble. Sorry I dozed off there. It got late, didn't it?"
 
-Sélène settled down at the cheekrub, returning it and smiling bashfully. "A little, yeah. I think I dozed off, too."
+Sélène settled down at the cheek rub, returning it and smiling bashfully. "A little, yeah. I think I dozed off, too."
 
 Malina nodded. "Well, alright. I'll get ready. Do you want to take any of the chicken home with you?"
 
-Stretching and twisting at the waist, Sélène winced, then nodded. "If you'd like. It was wonderful, and I bet Aiden would like some." She hesitated a moment, before asking, "May I use your bathroom before we leave?"
+Stretching and twisting at the waist, Sélène winced at tense muscle and cool anxiety, then nodded. "If you'd like. It was wonderful, and I bet Aiden would like some." She hesitated a moment, before asking, "May I use your bathroom before we leave?"
 
 "Mmhm, first door on the right, dear."
 
 Sélène padded off and locked herself in the restroom, which was, thankfully, as spotless as the badger's kitchen. She had made the judgment between urgency and anxiety, factoring in the admonition to urinate after sex and the likelihood of cabinets, and...
 
-She could feel herself starting to spiral, but tamped it down as best she could. The night had been good. Spectacular, really. The last thing she needed was for it to be colored blue with worry.
+She could feel herself starting to spiral, She felt ashamed. She felt sticky and unappealing and dirty. She felt like she'd intruded and had done something horrible.
 
-All the same, she quietly eased open the cabinets under the sink, less to look than to just have them open.
+She tamped it down as best she could. The night had been good. Spectacular, really. The last thing she needed was for it to be colored blue with worry.
+
+All the same, she quietly eased open the cabinets under the sink, settling down on her knees to peer into the darkness.
 
 On finishing up, she tugged her phone out and swiped over to Aiden's messages.
 
-*Sélène> Malina will drive. Home in a bit!*
+*Sélène [9:37 PM]> Malina will drive. Home in a bit.*
 
-_Aiden> Okay, see you soon._
+_Aiden [9:37 PM]> Okay, see you soon_
 
 Sélène padded back to the great room and smiled sheepishly to Malina. "Sorry. I'm about ready. Are you alright?"
 
@@ -1010,7 +1028,7 @@ The drive back was quick and quiet. Both Sélène and Malina seemed content in t
 
 The ride wasn't nearly long enough to sort out either, and by the time they stopped in front of home, Sélène could feel the anxiety coming on in icy pangs. It made her chest tight and her fingers tingle.
 
-"Tonight was good, Sélène. Thank you for coming over," Malina rumbled. "I hope you enjoyed as well."
+"Tonight was wonderful, dear. Thanks for coming over," Malina rumbled. "I hope you had fun, too."
 
 Sélène nodded. "Very much so. You sure you're alright?"
 
@@ -1018,7 +1036,7 @@ Sélène nodded. "Very much so. You sure you're alright?"
 
 The fox nodded again and picked at a spot on her wrist. "I'll ask Aiden. And you're sure--" She cut herself off and shook her head. "Sorry. Um, kiss before I head off?"
 
-They brushed cheeks and smiled to each other, exchanging their goodbyes before Sélène slipped out of the car and padded up to the stoop.
+They brushed cheeks and smiled to each other, exchanging their goodbyes before Sélène slipped out of the car and padded up to the stoop, clutching her little container of leftovers.
 
 As before, Aiden was waiting at the door with a smile. He waved to Malina and held the screen door open for his wife. Sélène ducked inside quickly. The night felt crisp and chilly. She wasn't sure how much of that was actually the case, though, and how much was just her anxiety robbing her warmth.
 
@@ -1028,15 +1046,15 @@ Sélène's own ears perked up, and then pinned back as she realized that her hus
 
 He could smell what they had done.
 
-Her body tensed up as she tried to make herself smaller, tried to hide without moving. The chill blue of anxiety froze to a bright white, and Sélène began shivering. "I'm s-sorry Aiden...I-- W-we just..." She swallowed. "Are you alright?"
+Her body tensed up as she tried to make herself smaller, tried to hide without moving. The chill blue of anxiety froze to a bright, frozen white of outright panic, and Sélène began shivering. "I'm s-sorry Aiden...I-- W-we just..." She swallowed. "Are you alright?"
 
-"I'm..." Aiden frowned, then shook his head. He straightened his back and squared his shoulders. "I'm okay, and I know you're stressed, sweetheart, but can we talk?"
+"I'm..." Aiden frowned, then shook his head. He straightened his back and squared his shoulders. "I'm okay, I think. I know you're stressed, sweetheart, but can we talk?"
 
 Sélène could barely move, and certainly couldn't speak. So calm was Aiden usually, that this reaction felt like an slap to the face. Almost literally: her cheeks were burning, and she could barely breathe. She nodded as best she could.
 
-Aiden's shoulders sagged and his expression softened. "Oh, love, I'm so sorry. You look terrified. Come on, let's go sit on the couch, and we can talk."
+Aiden's shoulders sagged and his expression softened. "Oh, love, I'm so sorry. You look terrified, you're barely breathing. Come on, let's go sit on the couch, and we can talk."
 
-When Sélène didn't move, he gingerly took her by the elbow, guiding her over to her spot on the couch. Sélène sat on the edge of the cushions. Her muscles felt tight and ready to launch; this wasn't panic so much as an adrenaline rush, she realized, and with that realization, was able to relax a little bit.
+When Sélène didn't move, he gingerly took her by the elbow, guiding her over to her spot on the couch. Sélène sat on the edge of the cushions and set the container of leftovers on on the table by the couch. Her muscles felt tight and ready to launch; this wasn't panic so much as an adrenaline rush, she realized, and with that realization, was able to relax a little bit.
 
 Aiden sat in his spot and looked down at his paws thoughtfully. After a moment, he spoke. "So, when we first started talking about this, we talked about sex right away, and I agreed that it'd be fine. We agreed, I mean."
 
@@ -1070,9 +1088,9 @@ Sélène sniffled, unable to see through the tears, but she heard Aiden trot bac
 
 Sélène struggled to follow the directions, confused as to the sudden halt in the conversation. She fumbled with a a bit of paper towel Aiden put in her paw, lifting it to wipe at her eyes and nose.
 
-"Oh, uh...shit." She whined quietly, more tears filling her eyes. "I'm sorry, Aiden, I didn't mean to."
+"Oh, uh...shit." She whined quietly, more tears filling her eyes. "I'm sorry, Aiden, I didn't mean...I mean, are you alright?"
 
-Aiden folded his long legs and sat cross-legged before her, pressing a paper towel, wet with blood, to the spot on Sélène's wrist. "Hush, love, I know you didn't."
+Aiden folded his long legs and sat cross-legged before her, pressing a paper towel, wet with blood, to the spot on Sélène's wrist. "Hush, love, I'm alright. I know you didn't mean to."
 
 She held the paper towel to her face and struggled to keep from totally breaking down. "Im-important c-conversation and here I am making a mess."
 
@@ -1100,7 +1118,7 @@ Sélène nodded. "I'm sorry, Aiden. If you want, we can do more."
 
 Aiden tilted his head. "I won't say no to that, of course, but I don't want to push you. I know sex can make you feel gross."
 
-Wiping at her face, Sélène was a little surprised that she'd stopped crying. "We can maybe work on that."
+Wiping at her face, Sélène was a little surprised that she'd stopped crying. "Yeah, I'm sorry, it has since high school" she mumbled. "We can maybe work on that, though."
 
 "I'd like that, sweetheart." The fox bowed his head for a moment. "Though I was also wondering if you had thoughts on if I branched out some, myself."
 
@@ -1144,7 +1162,7 @@ He nodded. "Not a relationship, but...uh..."
 
 Aiden nodded again, more emphatically. "Yes! That's a good way to put it."
 
-Sélène shrugged and smiled. "I can go along with that, I think. Maybe something to try out, like with me and Malina?"
+Sélène shrugged and smiled. "I can go along with that, I think. Maybe something to try out, like us trying with me and Malina?"
 
 "I suppose, yeah." He frowned. "Would you still be willing to work on our own sex life, too?"
 
@@ -1170,7 +1188,7 @@ Aiden nodded. "And I want to see you happy, too. I don't want you to stop seeing
 
 Sélène splayed her ears. It wasn't really something she could argue against. Whether or not the sex had been a fluke, it was true on a very base level. If Aiden was her rock, the steadying force in her life that kept her going, Malina seemed to be her blanket, her pillow, her means to relax and rest from too much energy.
 
-"What should I do, Aiden?"
+"What should I do?"
 
 Her husband frowned, looking down to her paws rather than up to her face. "That's a hard one, Sélène. I don't think either of us can make long term decisions with what little we know, now."
 
@@ -1190,11 +1208,11 @@ Sélène nodded, adding another cheek-rub as she did so. "Do you want me to call
 
 Aiden leaned back from the hug, letting Sélène sit back on the floor as well, though he kept her paws in his. "No, sweetheart. Not at all. Just slow down a bit, for me. Let me get used to this."
 
-"Of course, Aiden," she murmrured. "The last thing I want to do is to hurt you."
+"Of course," she murmured. "The last thing I want to do is to hurt you."
 
 "I know, love." He lifted her paws and brushed his cheek against them, then seemed to remember the wound on her wrist and smiled apologetically. "Sorry."
 
-"It's alright. Still, do you want me to hold off on any more dates with her for a while, too? Would that help any?"
+"It's alright, it stings, but isn't bad." She paused, then picked up the thread again. "Still, do you want me to hold off on any more dates with her for a while, too? Would that help any?"
 
 Aiden shook his head. "No, that's alright. In fact, more would probably be better, so I can get used to things faster."
 
@@ -1204,14 +1222,6 @@ He looked exhausted. *She* was exhausted. Work, a date, sex, fighting, blood, lo
 
 Aiden was quiet for a few seconds, then he smiled and brushed his cheek against hers in another soft kiss. "Do you think she'd like to have dinner over here?"
 
------
+"The three of us?"
 
-<!-- This should be more for the next date:
-
-Instead, she felt ashamed. She felt sticky and unappealing and dirty. She felt like she'd intruded and had done something horrible. She grasped for any thought that might help. She remembered she could text Aiden. She remembered Aiden, and the anxiety doubled and trebled --- had she done something horribly wrong?
-
-The anxiety was humiliating.
-
-"Sélène?" Malina sounded worried. "Sélène, are you okay? You're barely breathing, dear."
-
-She shook her head. "Sorry, just got...uh, are you alright?" Her voice sounded weak to herself.  -->
+Aiden smiled and nodded. "The three of us."

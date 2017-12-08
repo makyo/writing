@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 2269
-    characters_total: 2758
+    characters_real: 1731
+    characters_total: 2108
     file: ./work/sawtooth/a-theory-of-attachment/notes.md
     paragraphs: 5
     type: jekyll
-    words: 457
+    words: 345
 layout: draft
 title: A Theory of Attachment Notes
 ---
@@ -26,8 +26,6 @@ title: A Theory of Attachment Notes
 3. Date goes really well for Selene, Aiden happy for her, but stressed working through the ramifications
 4. Selene and Malina play around next date
 5. Aiden gets upset and angry because their attempts at sex were always stressful (selene hints past sexual abuse?), whereas this came easy to Selene and Malina, agrees to give it one more go, but asks if he can start looking around, too, admits he's been talking with Aaron and Erin
-6. Therapy Friday
-7. Third date Saturday, Malina comes over for dinner and movies with Selene and Aiden
 
 Editing notes:
 * Cheekrub kiss for both, Aiden the only one to do it to Selene's paws
