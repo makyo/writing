@@ -1166,7 +1166,7 @@ Sélène shrugged and smiled. "I can go along with that, I think. Maybe somethin
 
 "I suppose, yeah." He frowned. "Would you still be willing to work on our own sex life, too?"
 
-"I do, yeah."
+"I would, yeah."
 
 "I would really like that, sweetheart. The playing around thing is one thing, but I don't really want to use it to...I don't know. I don't want to use it instead of fixing our relationship"
 
@@ -1218,7 +1218,7 @@ Aiden shook his head. "No, that's alright. In fact, more would probably be bette
 
 He looked exhausted. *She* was exhausted. Work, a date, sex, fighting, blood, love. Sélène felt like she lived in a soap opera. She winced as she struggled to stand, helping Aiden up shortly after. then it was time for a proper hug, with no leaning forward or awkward angles. Aiden really was her pillar, her anchor.
 
-"Malina wants to meet up Friday or Saturday, would you like to come?"
+"Malina wants to meet up Friday or Saturday, would you like to cancel?"
 
 Aiden was quiet for a few seconds, then he smiled and brushed his cheek against hers in another soft kiss. "Do you think she'd like to have dinner over here?"
 

@@ -8,10 +8,17 @@
   % headers
   \fancyhf{}
   \fancyhf[FRO,FLE]{\thepage}
-  \fancyhf[HLE]{\leftmark}
-  \fancyhf[HRO]{\AuthorFull}
+  \fancyhf[HLE]{\TitleFont{\leftmark}}
+  \fancyhf[HRO]{\TitleFont{\AuthorFull}}
   \renewcommand{\headrulewidth}{0.5pt}
+  \renewcommand{\printchaptername}{}
+  \renewcommand{\chapternamenum}{}
+  \renewcommand{\printchapternum}{}
+  \renewcommand{\printchaptertitle}[1]{%
+  \TitleFamily\huge ##1}
+  \setlength{\parskip}{0pt}
 }
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 
 % plain style with only page num
 \fancypagestyle{plain}{
@@ -19,6 +26,8 @@
   \renewcommand{\headrulewidth}{0pt}
   \renewcommand{\footrulewidth}{0pt}
   \fancyhf[FRO,FLE]{\thepage}
+  \renewcommand{\printchaptertitle}[1]{%
+  \TitleFamily\huge ##1}
 }
 
 % single space after periods
