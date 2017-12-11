@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 1731
-    characters_total: 2108
+    characters_real: 1423
+    characters_total: 1728
     file: ./work/sawtooth/a-theory-of-attachment/notes.md
     paragraphs: 5
     type: jekyll
-    words: 345
+    words: 279
 layout: draft
 title: A Theory of Attachment Notes
 ---
@@ -28,13 +28,7 @@ title: A Theory of Attachment Notes
 5. Aiden gets upset and angry because their attempts at sex were always stressful (selene hints past sexual abuse?), whereas this came easy to Selene and Malina, agrees to give it one more go, but asks if he can start looking around, too, admits he's been talking with Aaron and Erin
 
 Editing notes:
-* Cheekrub kiss for both, Aiden the only one to do it to Selene's paws
-* Emphasize helplessness before anxiety, madness riding her
-* Don't forget marshmallows on Saturday night
-* Introduce Malina earlier
-* More with cabinets in the middle of the story
 * Make sure you tell from Selene's perspective and don't slip int others'
-* If Aiden was her rock, the steadying force in her life that kept her going, Malina was her blanket, her pillow, her means to relax and rest.
 * Malina's voice
 
 Names:
