@@ -1,16 +1,19 @@
 ---
 counts:
-    characters_real: 69529
-    characters_total: 85747
+    characters_real: 69550
+    characters_total: 85772
     file: ./fiction/sawtooth/a-theory-of-attachment/index.md
-    paragraphs: 607
+    paragraphs: 609
     type: jekyll
-    words: 16131
+    words: 16135
 date: 2017-12-11
 layout: post
 rating: R
 title: A Theory of Attachment
 ---
+
+Print
+:   [PDF](a-theory-of-attachment.pdf)
 
 Online
 :   [SoFurry](https://www.sofurry.com/view/1235693)
