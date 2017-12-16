@@ -10,6 +10,11 @@ layout: post
 title: Acts of Intent
 ---
 
+Online
+:   [SoFurry](https://www.sofurry.com/view/1275793)
+
+-----
+
 <style>
 blockquote {
     padding: 0 1em;
