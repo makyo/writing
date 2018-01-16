@@ -1,14 +1,24 @@
 ---
 counts:
-    characters_real: 5159
-    characters_total: 6566
+    characters_real: 11218
+    characters_total: 14021
     file: ./work/sawtooth/youre-gone/youre-gone.md
-    paragraphs: 138
+    paragraphs: 267
     type: jekyll
-    words: 1267
+    words: 2792
 layout: draft
 title: You're Gone (WORKING TITLE)
 ---
+
+<style>
+h3 {
+    padding-left: 2rem;
+    font-size: 12pt;
+    color: #aaa;
+    font-style: italic;
+    border-bottom: 1px solid #aaa;
+}
+</style>
 
 ### Sunday, March 30
 
@@ -136,408 +146,408 @@ title: You're Gone (WORKING TITLE)
 
 ### Saturday, April 5
 
-*[] Markus>* Anyway, that bitch was there at your service.
+*[TODO] Markus>* Anyway, that bitch was there at your service.
 
-*[] Markus>* Of course she was, I mean.
+*[TODO] Markus>* Of course she was, I mean.
 
-*[] Markus>* But I call her a bitch because she was.
+*[TODO] Markus>* But I call her a bitch because she was.
 
-*[] Markus>* She made it sound like I killed you.
+*[TODO] Markus>* She made it sound like I killed you.
 
-*[] Markus>* She said if her daughter had married another cat, it would've been fine.
+*[TODO] Markus>* She said if her daughter had married another cat, it would've been fine.
 
-*[] Markus>* But no.
+*[TODO] Markus>* But no.
 
-*[] Markus>* You married me.
+*[TODO] Markus>* You married me.
 
-*[] Markus>* And I don't know how, but somehow it became my fault that you died.
+*[TODO] Markus>* And I don't know how, but somehow it became my fault that you died.
 
-*[] Markus>* We went from crying together over supermarket snack trays to terse arguments in surprisingly little time.
+*[TODO] Markus>* We went from crying together over supermarket snack trays to terse arguments in surprisingly little time.
 
-*[] Markus>* She thought that if she'd married a cat, she would've had kids and a happier life.
+*[TODO] Markus>* She thought that if she'd married a cat, she would've had kids and a happier life.
 
-*[] Markus>* I don't know where the cancer came in, but she was convinced that this was somehow the cause of it.
+*[TODO] Markus>* I don't know where the cancer came in, but she was convinced that this was somehow the cause of it.
 
-*[] Markus>* Marry a coyote? Get cancer.
+*[TODO] Markus>* Marry a coyote? Get cancer.
 
-*[] Markus>* I mean, duh.
+*[TODO] Markus>* I mean, duh.
 
-*[] Markus>* She really wanted grandkits.
+*[TODO] Markus>* She really wanted grandkits.
 
-*[] Markus>* (didn't tell her about the ligation. You never did, so I promised I wouldn't)
+*[TODO] Markus>* (didn't tell her about the ligation. You never did, so I promised I wouldn't)
 
-*[] Markus>* Anyway.
+*[TODO] Markus>* Anyway.
 
-*[] Markus>* I'm really upset.
+*[TODO] Markus>* I'm really upset.
 
-*[] Markus>* The service wasn't meaningful. It was boring.
+*[TODO] Markus>* The service wasn't meaningful. It was boring.
 
-*[] Markus>* Your mother aside, I think that's the most upsetting thing.
+*[TODO] Markus>* Your mother aside, I think that's the most upsetting thing.
 
-*[] Markus>* Your service was boring.
+*[TODO] Markus>* Your service was boring.
 
-*[] Markus>* I got home at nine or whatever, and I just sat on the bed.
+*[TODO] Markus>* I got home at nine or whatever, and I just sat on the bed.
 
-*[] Markus>* I fell asleep in my nice clothes.
+*[TODO] Markus>* I fell asleep in my nice clothes.
 
-*[] Markus>* Now I'm sitting on the bathroom floor waiting for the water to heat up, and it's already hot, but I'm still on my phone, just like you hate.
+*[TODO] Markus>* Now I'm sitting on the bathroom floor waiting for the water to heat up, and it's already hot, but I'm still on my phone, just like you hate.
 
-*[] Markus>* \*hated
+*[TODO] Markus>* \*hated
 
 ### Sunday, April 6
 
-*[] Markus>* Thank you for leaving a will.
+*[TODO] Markus>* Thank you for leaving a will.
 
-*[] Markus>* Met with MiL again, this time with lawyers.
+*[TODO] Markus>* Met with MiL again, this time with lawyers.
 
-*[] Markus>* Thank you for leaving me everything.
+*[TODO] Markus>* Thank you for leaving me everything.
 
-*[] Markus>* Even your ashes. Your mom hated that most, I think.
+*[TODO] Markus>* Even your ashes. Your mom hated that most, I think.
 
-*[] Markus>* You left me will all of our debts, but you left her with nothing.
+*[TODO] Markus>* You left me will all of our debts, but you left her with nothing.
 
-*[] Markus>* Surprised I don't feel self-righteous or whatever. Just resolute. I didn't "win". If anyone won, it was you.
+*[TODO] Markus>* Surprised I don't feel self-righteous or whatever. Just resolute. I didn't "win". If anyone won, it was you.
 
-*[] Markus>* But if I'd had to cede to your mom and stepdad that would have hurt.
+*[TODO] Markus>* But if I'd had to cede to your mom and stepdad that would have hurt.
 
-*[] Markus>* Thank you.
+*[TODO] Markus>* Thank you.
 
 ### Monday, April 7
 
-*[] Markus>* I formed your ashes into a rock by mixing them with water and baking until they got hard, and then I skipped it across the university pond.
+*[TODO] Markus>* I formed your ashes into a rock by mixing them with water and baking until they got hard, and then I skipped it across the university pond.
 
-*[] Markus>* Kidding.
+*[TODO] Markus>* Kidding.
 
-*[] Markus>* I know you asked for that.
+*[TODO] Markus>* I know you asked for that.
 
-*[] Markus>* I also didn't dump your ashes out in the parking lot of your office.
+*[TODO] Markus>* I also didn't dump your ashes out in the parking lot of your office.
 
-*[] Markus>* I didn't dump them in the plaza fountain or flush them down a toilet at your office, either.
+*[TODO] Markus>* I didn't dump them in the plaza fountain or flush them down a toilet at your office, either.
 
-*[] Markus>* Sorry. All your last wishes gone to waste.
+*[TODO] Markus>* Sorry. All your last wishes gone to waste.
 
-*[] Markus>* I took your ashes and drove up into the hills, because I decided this wasn't for you.
+*[TODO] Markus>* I took your ashes and drove up into the hills, because I decided this wasn't for you, it was for me.
 
-*[] Markus>* I'm sorry.
+*[TODO] Markus>* I'm sorry.
 
-*[] Markus>* I drove up into the hills until I got to one of those pull-aside rest stops, and I walked down to the river there, and I just sat for a bit and cried.
+*[TODO] Markus>* I drove up into the hills until I got to one of those pull-aside rest stops, and I walked down to the river there, and I just sat for a bit and cried.
 
-*[] Markus>* And I wasn't thinking.
+*[TODO] Markus>* And I wasn't thinking.
 
-*[] Markus>* And I cut open the bag of ashes and scooped a few pawfuls of water in there and mixed it up to a sort of smoothie consistency.
+*[TODO] Markus>* And I cut open the bag of ashes and scooped a few pawfuls of water in there and mixed it up to a sort of smoothie consistency.
 
-*[] Markus>* And I poured it out on the river bank.
+*[TODO] Markus>* And I poured it out on the river bank.
 
-*[] Markus>* And I kinda mixed and kneaded and massaged it into the river mud.
+*[TODO] Markus>* And I kinda mixed and kneaded and massaged it into the river mud.
 
-*[] Markus>* And I just kinda cried and gave you up bit by bit.
+*[TODO] Markus>* And I just kinda cried and gave you up bit by bit.
 
-*[] Markus>* The water would splash up on the banks and I just let you be carried away bit by bit.
+*[TODO] Markus>* The water would splash up on the banks and I just let you be carried away bit by bit.
 
-*[] Markus>* Until there was nothing left but a messy spot on the shore.
+*[TODO] Markus>* Until there was nothing left but a messy spot on the shore.
 
-*[] Markus>* And I washed my paws.
+*[TODO] Markus>* And I washed my paws.
 
-*[] Markus>* And it was super cold.
+*[TODO] Markus>* And it was super cold.
 
-*[] Markus>* And I only had my jeans to dry my paws on, so I just sat there like an idiot.
+*[TODO] Markus>* And I only had my jeans to dry my paws on, so I just sat there like an idiot.
 
-*[] Markus>* Crying and puffing into my paws to try and warm them up.
+*[TODO] Markus>* Crying and puffing into my paws to try and warm them up.
 
-*[] Markus>* You'll be proud to know that it was disgusting.
+*[TODO] Markus>* You'll be proud to know that it was disgusting.
 
-*[] Markus>* there's you all over that river bank
+*[TODO] Markus>* there's you all over that river bank
 
-*[] Markus>* and all over my paws
+*[TODO] Markus>* and all over my paws
 
-*[] Markus>* and stuck in my fur
+*[TODO] Markus>* and stuck in my fur
 
-*[] Markus>* and probably on my muzzle
+*[TODO] Markus>* and probably on my muzzle
 
-*[] Markus>* and the steering wheel of the car
+*[TODO] Markus>* and the steering wheel of the car
 
-*[] Markus>* and the doorknib
+*[TODO] Markus>* and the doorknib
 
-*[] Markus>* asnd your all over now
+*[TODO] Markus>* asnd your all over now
 
-*[] Markus>* and ?I? thought I was saying goodbye
+*[TODO] Markus>* and ?I? thought I was saying goodbye
 
-*[] Markus>* and your still here
+*[TODO] Markus>* and your still here
 
-*[] Markus>* i miss you
+*[TODO] Markus>* i miss you
 
-*[] Markus>* i love you
+*[TODO] Markus>* i love you
 
 ### Tuesday, April 8
 
-*[] Markus>* Okay.
+*[TODO] Markus>* Okay.
 
-*[] Markus>* So.
+*[TODO] Markus>* So.
 
-*[] Markus>* Not only was that a mess, but it was apparently illegal.
+*[TODO] Markus>* Not only was that a mess, but it was apparently illegal.
 
-*[] Markus>* I slept and feel better, and now I'm giggling like an idiot over the fact that I did something meaningful to me, and it turned out I was breaking the law the whole time. You're not supposed to scatter ashes in water.
+*[TODO] Markus>* I slept and feel better, and now I'm giggling like an idiot over the fact that I did something meaningful to me, and it turned out I was breaking the law the whole time. You're not supposed to scatter ashes in water.
 
-*[] Markus>* (And even if it were legal, there's probably a better way to do it than what I did.)
+*[TODO] Markus>* (And even if it were legal, there's probably a better way to do it than what I did.)
 
-*[] Markus>* So there you have it. I thought I was going to snub your goofy wishes but your idiot husband wound up going along with them all the same.
+*[TODO] Markus>* So there you have it. I thought I was going to snub your goofy wishes but your idiot husband wound up going along with them all the same.
 
 ### Wednesday, April 9
 
-xx Back at work today.
+*[TODO] Markus>* Back at work today.
 
-xx Everyone was nice.
+*[TODO] Markus>* Everyone was nice.
 
-xx Calm.
+*[TODO] Markus>* Calm.
 
-*[] Markus>* And I do feel better, PS. I think I got more out of that than I can put into words.
+*[TODO] Markus>* And I do feel better, PS. I think I got more out of that than I can put into words.
 
 ### Thursday, April 10
 
-xx I miss you, sweetheart.
+*[TODO] Markus>* I miss you, sweetheart.
 
-xx I remember when you got diagnosed and we both had a good cry over it, but then it all turned out to be so boring after that.
+*[TODO] Markus>* I remember when you got diagnosed and we both had a good cry over it, but then it all turned out to be so boring after that.
 
-xx It was hard having that hang over us both, I know, but it all got routine
+*[TODO] Markus>* It was hard having that hang over us both, I know, but it all got routine
 
-xx Awful, but routine
+*[TODO] Markus>* Awful, but routine
 
-xx And then things got better.
+*[TODO] Markus>* And then things got better.
 
-xx Until they didn't.
+*[TODO] Markus>* Until they didn't.
 
-xx Everything got so bad so quickly.
+*[TODO] Markus>* Everything got so bad so quickly.
 
-xx Your mom didn't even come and see you.
+*[TODO] Markus>* Your mom didn't even come and see you.
 
-xx Oh well.
+*[TODO] Markus>* Oh well.
 
-xx Starting on the rest of your will and such tonight.
+*[TODO] Markus>* Starting on the rest of your will and such tonight.
 
-xx Looks like you just left me anything.
+*[TODO] Markus>* Looks like you just left me anything.
 
-xx Which is good.
+*[TODO] Markus>* Which is good.
 
-xx When my sister died, everything was a mess, because she had two wills.
+*[TODO] Markus>* When my sister died, everything was a mess, because she had two wills.
 
-xx Neither had been updated.
+*[TODO] Markus>* Neither had been updated.
 
-xx Oh god, and her husband and my parents were a mess trying to figure things out with the house and title and stuff.
+*[TODO] Markus>* Oh god, and her husband and my parents were a mess trying to figure things out with the house and title and stuff.
 
-xx Renting is making things easier.
+*[TODO] Markus>* Renting is making things easier.
 
-xx And your "everything to Markus" will.
+*[TODO] Markus>* And your "everything to Markus" will.
 
-xx Your mom's pissed.
+*[TODO] Markus>* Your mom's pissed.
 
 ### Friday, April 11
 
-xx Okay, your mom's really pissed.
+*[TODO] Markus>* Okay, your mom's really pissed.
 
-xx She says that a lot of your stuff is rightfully hers.
+*[TODO] Markus>* She says that a lot of your stuff is rightfully hers.
 
-xx I've yet to find anything that could rightfully be called hers.
+*[TODO] Markus>* I've yet to find anything that could rightfully be called hers.
 
-xx She wants to go through your desk with me, and I don't know what to say to her. She says she's got books and papers that are hers in there, and I don't know what to do about that.
+*[TODO] Markus>* She wants to go through your desk with me, and I don't know what to say to her. She says she's got books and papers that are hers in there, and I don't know what to do about that.
 
-xx I wish you were here to tell her off.
+*[TODO] Markus>* I wish you were here to tell her off.
 
-xx She keeps sending me messages in all caps that are half about your stuff and half about how I'm the wrong species, and that you deserved a cat who would take care of her and give her grandkits. She says I'm garbage and disreputable and that I tarnished the reputation of your family.
+*[TODO] Markus>* She keeps sending me messages in all caps that are half about your stuff and half about how I'm the wrong species, and that you deserved a cat who would take care of her and give her grandkits. She says I'm garbage and disreputable and that I tarnished the reputation of your family.
 
-xx Which I don't get.
+*[TODO] Markus>* Which I don't get.
 
-xx You guys aren't famous
+*[TODO] Markus>* You guys aren't famous
 
-xx *Forwarded message from Sue (Lee)* GARBAGE YOUR GARBAGE I CANT BELIEVE YOUD KEEP ME FROM MY DAUGHTER
+*[TODO] Markus>* *Forwarded message from Sue (Lee)* GARBAGE YOUR GARBAGE I CANT BELIEVE YOUD KEEP ME FROM MY DAUGHTER
 
-xx *Forwarded message from Sue (Lee)* You took our name and DRAGGED IT THROUGH MUD YOU TOOK LEANNE AND DRAGGED HER THROUGH MUD GIVE ME WHATS MINE
+*[TODO] Markus>* *Forwarded message from Sue (Lee)* You took our name and DRAGGED IT THROUGH MUD YOU TOOK LEANNE AND DRAGGED HER THROUGH MUD GIVE ME WHATS MINE
 
-xx I don't know what she means about keeping you from her.
+*[TODO] Markus>* I don't know what she means about keeping you from her.
 
-xx I thought I knew what hatred felt like, but damn, Lee.
+*[TODO] Markus>* I thought I knew what hatred felt like, but damn, Lee.
 
-xx How did so sane a cat from so crazy a family?
+*[TODO] Markus>* How did so sane a cat from so crazy a family?
 
-xx I was going to go through your clothes first, because those felt like they'd be easy, but I'm going to go through your desk instead.
+*[TODO] Markus>* I was going to go through your clothes first, because those felt like they'd be easy, but I'm going to go through your desk instead.
 
 ### Sunday, April 13
 
-xx There is literally nothing in your desk of interest.
+*[TODO] Markus>* There is literally nothing in your desk of interest.
 
-xx I took all our bills and boxed up everything and gave it to your mom.
+*[TODO] Markus>* I took all our bills and boxed up everything and gave it to your mom.
 
-xx Seriously. You had some notes printed out about research, two planners, and  12 blank books.
+*[TODO] Markus>* Seriously. You had some notes printed out about research, two planners, and  12 blank books.
 
-xx I counted.
+*[TODO] Markus>* I counted.
 
-xx I swear to god, Lee. I miss the hell out of you, but 12 blank books?
+*[TODO] Markus>* I swear to god, Lee. I miss the hell out of you, but 12 blank books?
 
-xx I just kept your laptop.
+*[TODO] Markus>* I just kept your laptop.
 
 ### Monday, April 14
 
-xx Your mom's yelling at me again.
+*[TODO] Markus>* Your mom's yelling at me again.
 
-xx She wants to go through my papers now, too. And my books?
+*[TODO] Markus>* She wants to go through my papers now, too. And my books?
 
-xx I love you and miss you so much. You were always so good at telling her to go away. She won't listen to me at all.
+*[TODO] Markus>* I love you and miss you so much. You were always so good at telling her to go away. She won't listen to me at all.
 
 ### Tuesday, April 15
 
-xx Your stepdad is meeting with me after work.
+*[TODO] Markus>* Your stepdad is meeting with me after work.
 
-xx We're meeting at a coffee shop, don't worry.
+*[TODO] Markus>* We're meeting at a coffee shop, don't worry.
 
-xx WHAT THE FUCK WHAT THE FUCK
+*[TODO] Markus>* WHAT THE FUCK WHAT THE FUCK
 
-xx Your stepdad was nice enough, we talked about memories of you. He said he knew about your feelings toward him, and that he wished he'd done better by you.
+*[TODO] Markus>* Your stepdad was nice enough, we talked about memories of you. He said he knew about your feelings toward him, and that he wished he'd done better by you.
 
-xx But then I got home and YOUR MOM HAS BEEN IN OUR APARTMENT
+*[TODO] Markus>* But then I got home and YOUR MOM HAS BEEN IN OUR APARTMENT
 
-xx I guess I got home faster than they thought, but I think your stepdad was keeping me occupied while your mom BROKE INTO OUR PLACE
+*[TODO] Markus>* I guess I got home faster than they thought, but I think your stepdad was keeping me occupied while your mom BROKE INTO OUR PLACE
 
-xx I ran into her in front of the building and she started yelling and hollering at me, and I was so confused.
+*[TODO] Markus>* I ran into her in front of the building and she started yelling and hollering at me, and I was so confused.
 
-xx She said I was hiding your stuff from her and that she would be calling her lawyer.
+*[TODO] Markus>* She said I was hiding your stuff from her and that she would be calling her lawyer.
 
-xx AND THEN SHE HIT ME
+*[TODO] Markus>* AND THEN SHE HIT ME
 
-xx SHE SLAPPED ME
+*[TODO] Markus>* SHE SLAPPED ME
 
-xx I yelled that I was going to call the police when Dan screeched up in a car and she jumped in and drove off
+*[TODO] Markus>* I yelled that I was going to call the police when Dan screeched up in a car and she jumped in and drove off
 
-xx What the FUCK
+*[TODO] Markus>* What the FUCK
 
-xx I'm calling the cops to get her away from here
+*[TODO] Markus>* I'm calling the cops to get her away from here
 
-xx They took a report and said to call again if she shows up, that way they can talk with her, and worst case, then I can get a restraining order.
+*[TODO] Markus>* They took a report and said to call again if she shows up, that way they can talk with her, and worst case, then I can get a restraining order.
 
-xx She trashed our bookshelf and dug through our closets.
+*[TODO] Markus>* She trashed our bookshelf and dug through our closets.
 
-xx I don't think anything's missing. It's just a mess.
+*[TODO] Markus>* I don't think anything's missing. It's just a mess.
 
-xx The cop took a report, though.
+*[TODO] Markus>* The cop took a report, though.
 
-xx Don't know how she got a key.
+*[TODO] Markus>* Don't know how she got a key.
 
 ### Wednesday, April 16
 
-xx Now she wants your laptom.
+*[TODO] Markus>* Now she wants your laptom.
 
-xx I had it with me at coffee even.
+*[TODO] Markus>* I had it with me at coffee even.
 
-xx I don't have the password, though, no idea what she'd do with it.
+*[TODO] Markus>* I don't have the password, though, no idea what she'd do with it.
 
-xx I think I may destroy it.
+*[TODO] Markus>* I think I may destroy it.
 
 ### Friday, April 18
 
-xx I miss you so much, Lee.
+*[TODO] Markus>* I miss you so much, Lee.
 
-xx I think it's really starting to hit me.
+*[TODO] Markus>* I think it's really starting to hit me.
 
-xx You're gone.
+*[TODO] Markus>* You're gone.
 
-xx You're dead.
+*[TODO] Markus>* You're dead.
 
-xx You're never coming back.
+*[TODO] Markus>* You're never coming back.
 
-xx Your mom went quiet, and now I'm finally starting to digest this.
+*[TODO] Markus>* Your mom went quiet, and now I'm finally starting to digest this.
 
-xx I wish I could take your place.
+*[TODO] Markus>* I wish I could take your place.
 
-xx I wish I were dead.
+*[TODO] Markus>* I wish I were dead.
 
-xx I wish I was gone.
+*[TODO] Markus>* I wish I was gone.
 
-xx Oh god.
+*[TODO] Markus>* Oh god.
 
-xx I keep getting stukc crying and
+*[TODO] Markus>* I keep getting stukc crying and
 
-xx its so heard to keep going sometimes
+*[TODO] Markus>* its so heard to keep going sometimes
 
-xx i want to die without yowue
+*[TODO] Markus>* i want to die without yowue
 
-xx oh god
+*[TODO] Markus>* oh god
 
-xx lee
+*[TODO] Markus>* lee
 
-xx oh god
+*[TODO] Markus>* oh god
 
 ### Saturday, April 19
 
-xx I miss you
+*[TODO] Markus>* I miss you
 
 ### Sunday, April 20
 
-xx I can't believe you set your password to that!
+*[TODO] Markus>* I can't believe you set your password to that!
 
-xx I could spank you for that.
+*[TODO] Markus>* I could spank you for that.
 
-xx You're such a dork <3
+*[TODO] Markus>* You're such a dork <3
 
 ### Monday, April 21
 
 *[1:02 AM] Markus>* Lee
 
-xx Lee I'm so sorry
+*[TODO] Markus>* Lee I'm so sorry
 
-xx I'm so sorry
+*[TODO] Markus>* I'm so sorry
 
-xx I'm reading it now
+*[TODO] Markus>* I'm reading it now
 
 *[9:20 AM] Markus>* stayed home
 
-xx cant stop crying
+*[TODO] Markus>* cant stop crying
 
-xx sorry
+*[TODO] Markus>* sorry
 
-xx im so sorry lee
+*[TODO] Markus>* im so sorry lee
 
 *[4:11 PM] Markus>* I could kill him
 
-xx I could fucking kill him right now
+*[TODO] Markus>* I could fucking kill him right now
 
-xx I could destroy him and your mom for all they've done
+*[TODO] Markus>* I could destroy him and your mom for all they've done
 
 ### Tuesday, April 22
 
 *[12:31 AM] Markus>* I won't
 
-xx But I could.
+*[TODO] Markus>* But I could.
 
-xx I'm sorry Lee
+*[TODO] Markus>* I'm sorry Lee
 
-xx I wish I could go back in time and help you.
+*[TODO] Markus>* I wish I could go back in time and help you.
 
 ### Wednesday, April 23
 
-xx oh god
+*[TODO] Markus>* oh god
 
-xx i miss you
+*[TODO] Markus>* i miss you
 
-xx you made me whole
+*[TODO] Markus>* you made me whole
 
-xx don't want to tgo on weifthout oyu
+*[TODO] Markus>* don't want to tgo on weifthout oyu
 
-xx sdf
+*[TODO] Markus>* sdf
 
-xx sorry
+*[TODO] Markus>* sorry
 
 ### Friday, April 25
 
-xx I'm calling your mom and Dan today.
+*[TODO] Markus>* I'm calling your mom and Dan today.
 
-xx I'm going to invite them over this weekend and confront them.
+*[TODO] Markus>* I'm going to invite them over this weekend and confront them.
 
-xx You're right in that it's just a document. No signature, no verification.
+*[TODO] Markus>* You're right in that it's just a document. No signature, no verification.
 
-xx Biot I need to do right by youl/. i miss youl, and i want to do right by you
+*[TODO] Markus>* Biot I need to do right by youl/. i miss youl, and i want to do right by you
 
-xx you tolfd me not to fight
+*[TODO] Markus>* you tolfd me not to fight
 
-xx and i wont
+*[TODO] Markus>* and i wont
 
-xx im just goin to tell thm i know
+*[TODO] Markus>* im just goin to tell thm i know
 
-xx tey need to know that someone else knowds
+*[TODO] Markus>* tey need to know that someone else knowds
