@@ -108,7 +108,7 @@ h3 {
 
 *[10:08 AM] Markus>* cryinf ovef a bvox
 
-*[3:43 PM] Markus>* Service Friday 4pm call Maru dad mom mil Jenna Aaron Selene flowers 664-1140
+*[3:43 PM] Markus>* Service Friday 4pm call Maru dad mom mil Jenna Jeff Selene flowers 664-1140
 
 *[3:43 PM] Markus>* ...
 
@@ -362,6 +362,10 @@ h3 {
 
 *[TODO] Markus>* *Forwarded message from Sue (Lee)* You took our name and DRAGGED IT THROUGH MUD YOU TOOK LEANNE AND DRAGGED HER THROUGH MUD GIVE ME WHATS MINE
 
+xx Though I guess I did drag you throuugh the mud.
+
+xx Har Har
+
 *[TODO] Markus>* I don't know what she means about keeping you from her.
 
 *[TODO] Markus>* I thought I knew what hatred felt like, but damn, Lee.
@@ -522,6 +526,22 @@ h3 {
 
 ### Wednesday, April 23
 
+*[TODO] Lee ❤️ Sent a file: "should-I-pass.txt"*
+
+*[TODO] Markus>* Sorry, wanted that on my end, so I sent it from your account.
+
+xx Apparently your account expires after six months inactivity.
+
+xx I wonder if I should keep logging on once a month to keep it active?
+
+xx Or
+
+xx Maybe I should let it expire
+
+xx And set that as a date to let you go
+
+xx Oh god Lee
+
 *[TODO] Markus>* oh god
 
 *[TODO] Markus>* i miss you
@@ -551,3 +571,79 @@ h3 {
 *[TODO] Markus>* im just goin to tell thm i know
 
 *[TODO] Markus>* tey need to know that someone else knowds
+
+### Saturday, April 26
+
+xx Your mom and Dan are coming over tomorrow.
+
+xx I think I'm going to just tell them plain and simple, what I found.
+
+xx I hate them. I loathe them.
+
+xx But I owe it to you to not make it a big fight.
+
+xx Not on my part, at least.
+
+xx If they get angry, whatever. I'm just going to read it.
+
+xx Most of it.
+
+xx Read it and watch and make sure they understand that I know.
+
+xx I'm starting to second guess this.
+
+xx Like, obviously I'm upset, and obviously you wanted me to know that your parents are awful.
+
+xx But I'm starting to second guess what I'll get out of this.
+
+xx Even when I said I wouldn't make it a big fight, I was still coming at it from a vengeance standpoint.
+
+xx I wanted to hurt them.
+
+xx Still do.
+
+xx I just don't think that's totally right.
+
+xx I thought about it more, and I think I still need to share what you wrote.
+
+xx It'll hurt them, and it'll probably hurt me more than it already has.
+
+xx But I don't think any of us will be able to start grieving with the current state.
+
+xx ...I'm going to call Dr Maura.
+
+xx I wasn't expecting her to get back to me, but she actually picked up her phone on the first ring.
+
+xx I don't know why that strikes me as weird.
+
+xx We talked for a bit about what I should do.
+
+xx I told her about the letter you left. She agrees I should share with your parents, if only to give closure, like I said before.
+
+xx She says she's worried about me and wants to talk more soon.
+
+xx I told her about this.
+
+xx About sending you messages, even though you'll never respond. Just talking to you.
+
+xx She says it can be a healthy coping mechanism, but only to a point, and that I shouldn't lean on it too much, or I won't stop grieving.
+
+xx Makes sense.
+
+xx I promised I'd let your account expire, and would do my best to start moving on sooner than that.
+
+xx We also talked about getting through grief in stages. She says there are a few different lists of 'stages of grief', but that they're all just loose guidelines.
+
+xx She says it sounds like I'm going through some healthy stuff, but that she wants to meet again to make sure I keep going.
+
+xx She says that things could wear me out and make me depressed, or that things could be super easy and I could finish all the work I need to do, and realize you're truly gone and get depressed.
+
+xx I countered that I was depressed now, but I'm not sure about that anymore. I think I'm sad, and that depression will come soon.
+
+xx I'm sad, Lee.
+
+xx I'm sad and I'm tired and I want you back.
+
+xx I'm sitting on the floor waiting for the shower again. My tail's fallen asleep. I'm gonna go before you get mad, even if that isn't possible.
+
+xx I'll try to only write again after things with your parents.
