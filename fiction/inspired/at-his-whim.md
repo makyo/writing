@@ -1,14 +1,16 @@
 ---
 counts:
-    characters_real: 7780
-    characters_total: 9760
-    file: ./work/for-friends/cat.md
-    paragraphs: 88
+    characters_real: 7805
+    characters_total: 9789
+    file: ./fiction/inspired/at-his-whim.md
+    paragraphs: 89
     type: jekyll
-    words: 1938
-layout: draft
+    words: 1942
+layout: post
 title: At His Whim
 ---
+
+<div class="cw">sex; hypnosis; dubious consent</div>
 
 Oh god.
 
@@ -28,7 +30,7 @@ Hell, I could still picture so many people in the outfits I first met them in. "
 
 So, okay. Yeah. Lets do this.
 
-This date's unspoken theme --- at least on my end --- was Business Goth: I had a satiny black blouse with barest hint of silky shimmer; long fingerless gloves that reach up to the elbows, also in black; a black box-pleated skirt, just above the knees, with the only concession to color being navy blue piping along the waist and hem. Oh, and underthings of course: black panties and...well, actually a light grey bra, since I didn't have a black one. Padded out slightly because why not.
+This date's unspoken theme --- at least on my end --- was Business Goth: I had a satiny black blouse with barest hint of silky shimmer; long fingerless gloves that reach up to the elbows, also in black; a black box-pleated skirt, just above the knees, with the only concession to color being navy blue piping along the waist and hem. Oh, and underthings of course: black panties and...well, actually a light gray bra, since I didn't have a black one. Padded out slightly because why not.
 
 Dang, see? You can dress up nice! I looked halfway like I was gonna go take over a company, halfway like I was going to some industrial show.
 
@@ -68,7 +70,7 @@ I lost track halfway through the description. The food was good. *Very* good. "I
 
 Handsome guy. Very handsome. He had dressed just as smart as I, his dark fur set off by a linen jacket and trousers, and a pressed shirt. No tie, and lemme tell you, ties are for chumps. Jacket and shirt without a tie is top notch.
 
-The food was good, the company was good, the wine was good. Plum wine, natch, which went weirdly well with the temaki made of a curled, fried Parmesan crisp, stuffed with arborio and lightly seared ahi dredged through a basalmic---
+The food was good, the company was good, the wine was good. Plum wine, natch, which went weirdly well with the temaki made of a curled, fried Parmesan crisp, stuffed with arborio and lightly seared ahi dredged through a balsamic---
 
 Anyway, it was all too good.
 

@@ -1,16 +1,18 @@
 ---
 counts:
-    characters_real: 11676
-    characters_total: 14408
+    characters_real: 11698
+    characters_total: 14434
     file: ./fiction/sawtooth/what-remains-of-yourself/index.md
-    paragraphs: 110
+    paragraphs: 111
     type: jekyll
-    words: 2720
+    words: 2724
 date: 2017-01-30
 layout: post
 rating: X
 title: What Remains of Yourself
 ---
+
+<div class="cw">sex; drugs; dubious consent</div>
 
 Print
 :   [PDF](what-remains-of-yourself.pdf)
