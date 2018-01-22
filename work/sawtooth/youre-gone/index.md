@@ -7,5 +7,5 @@ counts:
     type: jekyll
     words: 1
 layout: page
-title: You're Gone (WORKING TITLE)
+title: You're Gone
 ---
