@@ -24,7 +24,11 @@ Do you want to combine those two into a story commission? Let's talk.
 
 1. You [get in touch with me](http://makyo.io/contact) and let me know what you're looking for and at what length, from 2,000 to 12,000 words. Any longer and we'll need to have a more in-depth conversation.
 2. If it's something I'm interested in and can fit in (I do work a day job, after all), I'll let you know, and we can start hammering out details. You'll pay the first half of the price here.
-3. Provide as much or as little detail as you want. If you want characters, feel free to send visual or textual refs, but I'll need something. If you have plot ideas, let me know (but understand that I may bend them some). If you have a name, sweet. If you want to go with less and give me more freedom to work, I love doing that, too!
+3. Provide as much or as little detail as you want. Here are some examples:
+    * If you want to suggest characters or even use your own, feel free to send visual or textual refs.
+    * If you have plot ideas, let me know (but understand that I may bend them some). For example, if you want some story to go with your RPG campaign, or you want more stories featuring your kink, or you want a chat log re-cast as a story...the sky's the limit.
+    * If you have a name in mind, sweet.
+    * If you want to go with less and give me more freedom to work, I love doing that, too!
 4. I'll send you a draft and we can go over it for any changes. After this point, I won't accept any further changes.
 5. You'll soon get an edited, final version. At this point, only emergency changes may be made. You'll pay the second half of the price here.
 
