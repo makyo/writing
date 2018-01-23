@@ -8,6 +8,28 @@
     font-weight: 200;
 }
 
+#credits {
+    z-index: 1000;
+    background-color: rgba(0, 0, 50, 0.5);
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    padding-top: 10rem;
+    display: none;
+}
+
+#credits.visible {
+    display: block;
+}
+
+#credits * {
+    color: #eef;
+    margin-bottom: 1rem;
+}
+
 #device {
     width: 100%;
     position: absolute;
@@ -102,7 +124,7 @@
     font-variant: small-caps;
     color: #888;
     border-bottom: 1px solid #aaa;
-    margin: 5px 1rem;
+    margin: 5px 1rem 1rem 1rem;
     float: right;
     font-weight: 300;
 }
@@ -122,7 +144,7 @@
     border-bottom-right-radius: 0;
     padding: 10px;
     margin: 0 5px 5px 20%;
-    background: linear-gradient(80deg, rgba(127, 255, 127, 0.2), #fff);
+    background: linear-gradient(80deg, rgba(200, 255, 200, 0.2), #fff);
     box-shadow: 1px 1px 1px rgba(127, 255, 127, 0.2);
     clear: both;
 }

@@ -1,6 +1,6 @@
 (() => {
   // Array to contain our messages.
-  let messages;
+  let messages, loaded = false;
 
   // Elements we'll be referring to.
   const log = document.getElementById('log');
@@ -13,6 +13,7 @@
     messages = result;
     entry.innerHTML = messages[1].message;
     entry.scrollTo(0, entry.scrollHeight);
+    loaded = true;
   })
 
   // Event forr clicking Send
@@ -20,6 +21,12 @@
     // Bail if we don't have messages (before we start, after we end)
     if (!messages) {
       return;
+    }
+
+    if (loaded && messages.length === 0) {
+      console.log('should we make credits visible?')
+      document.getElementById('credits').classList.add('visible');
+      document.getElementById('send').onclick = null;
     }
 
     // Get the most recent message.
@@ -80,7 +87,7 @@
 
     // If we stil have messages, attempt to get the next one to display in the
     // entry box.
-    if (messages) {
+    if (messages.length > 1) {
       let next = messages[0];
       if (next.dateChange) {
         next = messages[1];
@@ -90,6 +97,8 @@
       }
       entry.innerHTML = next.message;
       entry.scrollTo(0, entry.scrollHeight);
+    } else {
+      entry.innerHTML = '';
     }
 
     // Scroll the log to the bottom.
