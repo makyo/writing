@@ -1,0 +1,64 @@
+#device {
+    width: 350px;
+    height: 600px;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+#log {
+    width: 350px;
+    height: 500px;
+    overflow: hidden;
+    border: 1px solid black;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+
+#entryText {
+    width: 275px;
+    display: inline-block;
+    border: 1px solid black;
+    height: 24pt;
+    overflow: hidden;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+#send {
+    width: 50px;
+    margin-left: 3%;
+    display: inline-block;
+    height: 24pt;
+    margin-top: -24pt;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.date {
+    width: 350px;
+    text-align: center;
+    font-size: 8pt;
+    font-variant: small-caps;
+    border-bottom: 1px solid black;
+    margin: 5px 0;
+}
+
+.msg {
+    width: 285px;
+    margin-left: 10%;
+    text-align: right;
+    border: 1px solid green;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.msgTime {
+    font-size: 8pt;
+}
