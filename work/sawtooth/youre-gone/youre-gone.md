@@ -7,7 +7,7 @@ counts:
     type: jekyll
     words: 2792
 layout: draft
-title: You're Gone
+title: You're Gone (Working title)
 ---
 
 <style>
@@ -146,161 +146,161 @@ h3 {
 
 ### Saturday, April 5
 
-*[] Markus>* Anyway, that bitch was there at your service.
+*[12:21 AM] Markus>* Anyway, that bitch was there at your service.
 
-*[] Markus>* Of course she was, I mean.
+*[12:21 AM] Markus>* Of course she was, I mean.
 
-*[] Markus>* But I call her a bitch because she was.
+*[12:21 AM] Markus>* But I call her a bitch because she was.
 
-*[] Markus>* She made it sound like I killed you.
+*[12:22 AM] Markus>* She made it sound like I killed you.
 
-*[] Markus>* She said if her daughter had married another cat, it would've been fine.
+*[12:22 AM] Markus>* She said if her daughter had married another cat, it would've been fine.
 
-*[] Markus>* But no.
+*[12:23 AM] Markus>* But no.
 
-*[] Markus>* You married me.
+*[12:23 AM] Markus>* You married me.
 
-*[] Markus>* And I don't know how, but somehow it became my fault that you died.
+*[12:23 AM] Markus>* And I don't know how, but somehow it became my fault that you died.
 
-*[] Markus>* We went from crying together over supermarket snack trays to terse arguments in surprisingly little time.
+*[12:24 AM] Markus>* We went from crying together over supermarket snack trays to terse arguments in surprisingly little time.
 
-*[] Markus>* She thought that if she'd married a cat, she would've had kids and a happier life.
+*[12:24 AM] Markus>* She thought that if she'd married a cat, she would've had kids and a happier life.
 
-*[] Markus>* I don't know where the cancer came in, but she was convinced that this was somehow the cause of it.
+*[12:25 AM] Markus>* I don't know where the cancer came in, but she was convinced that this was somehow the cause of it.
 
-*[] Markus>* Marry a coyote? Get cancer.
+*[12:26 AM] Markus>* Marry a coyote? Get cancer.
 
-*[] Markus>* I mean, duh.
+*[12:26 AM] Markus>* I mean, duh.
 
-*[] Markus>* She really wanted grandkits.
+*[12:26 AM] Markus>* She really wanted grandkits.
 
-*[] Markus>* (didn't tell her about the ligation. You never did, so I promised I wouldn't)
+*[12:26 AM] Markus>* (didn't tell her about the ligation. You never did, so I promised I wouldn't)
 
-*[] Markus>* Anyway.
+*[12:26 AM] Markus>* Anyway.
 
-*[] Markus>* I'm really upset.
+*[12:27 AM] Markus>* I'm really upset.
 
-*[] Markus>* The service wasn't meaningful. It was boring.
+*[12:27 AM] Markus>* The service wasn't meaningful. It was boring.
 
-*[] Markus>* Your mother aside, I think that's the most upsetting thing.
+*[12:27 AM] Markus>* Your mother aside, I think that's the most upsetting thing.
 
-*[] Markus>* Your service was boring.
+*[12:27 AM] Markus>* Your service was boring.
 
-*[] Markus>* I got home at nine or whatever, and I just sat on the bed.
+*[12:27 AM] Markus>* I got home at nine or whatever, and I just sat on the bed.
 
-*[] Markus>* I fell asleep in my nice clothes.
+*[12:28 AM] Markus>* I fell asleep in my nice clothes.
 
-*[] Markus>* Now I'm sitting on the bathroom floor waiting for the water to heat up, and it's already hot, but I'm still on my phone, just like you hate.
+*[12:28 AM] Markus>* Now I'm sitting on the bathroom floor waiting for the water to heat up, and it's already hot, but I'm still on my phone, just like you hate.
 
-*[] Markus>* \*hated
+*[12:28 AM] Markus>* \*hated
 
 ### Sunday, April 6
 
-*[] Markus>* Thank you for leaving a will.
+*[10:10 AM] Markus>* Thank you for leaving a will.
 
-*[] Markus>* Met with MiL again, this time with lawyers.
+*[11:12 AM] Markus>* Met with MiL again, this time with lawyers.
 
-*[] Markus>* Thank you for leaving me everything.
+*[11:12 AM] Markus>* Thank you for leaving me everything.
 
-*[] Markus>* Even your ashes. Your mom hated that most, I think.
+*[11:12 AM] Markus>* Even your ashes. Your mom hated that most, I think.
 
-*[] Markus>* You left me will all of our debts, but you left her with nothing.
+*[11:13 AM] Markus>* You left me will all of our debts, but you left her with nothing.
 
-*[] Markus>* Surprised I don't feel self-righteous or whatever. Just resolute. I didn't "win". If anyone won, it was you.
+*[11:13 AM] Markus>* Surprised I don't feel self-righteous or whatever. Just resolute. I didn't "win". If anyone won, it was you.
 
-*[] Markus>* But if I'd had to cede to your mom and stepdad that would have hurt.
+*[11:14 AM] Markus>* But if I'd had to cede to your mom and stepdad that would have hurt.
 
-*[] Markus>* Thank you.
+*[11:16 AM] Markus>* Thank you.
 
 ### Monday, April 7
 
-*[] Markus>* I formed your ashes into a rock by mixing them with water and baking until they got hard, and then I skipped it across the university pond.
+*[2:18 PM] Markus>* I formed your ashes into a rock by mixing them with water and baking until they got hard, and then I skipped it across the university pond.
 
-*[] Markus>* Kidding.
+*[2:19 PM] Markus>* Kidding.
 
-*[] Markus>* I know you asked for that.
+*[2:19 PM] Markus>* I know you asked for that.
 
-*[] Markus>* I also didn't dump your ashes out in the parking lot of your office.
+*[2:19 PM] Markus>* I also didn't dump your ashes out in the parking lot of your office.
 
-*[] Markus>* I didn't dump them in the plaza fountain or flush them down a toilet at your office, either.
+*[2:20 PM] Markus>* I didn't dump them in the plaza fountain or flush them down a toilet at your office, either.
 
-*[] Markus>* Sorry. All your last wishes gone to waste.
+*[2:21 PM] Markus>* Sorry. All your last wishes gone to waste.
 
-*[] Markus>* I took your ashes and drove up into the hills, because I decided this wasn't for you, it was for me.
+*[2:24 PM] Markus>* I took your ashes and drove up into the hills, because I decided this wasn't for you, it was for me.
 
-*[] Markus>* I'm sorry.
+*[2:25 PM] Markus>* I'm sorry.
 
-*[] Markus>* I drove up into the hills until I got to one of those pull-aside rest stops, and I walked down to the river there, and I just sat for a bit and cried.
+*[2:27 PM] Markus>* I drove up into the hills until I got to one of those pull-aside rest stops, and I walked down to the river there, and I just sat for a bit and cried.
 
-*[] Markus>* And I wasn't thinking.
+*[2:27 PM] Markus>* And I wasn't thinking.
 
-*[] Markus>* And I cut open the bag of ashes and scooped a few pawfuls of water in there and mixed it up to a sort of smoothie consistency.
+*[2:28 PM] Markus>* And I cut open the bag of ashes and scooped a few pawfuls of water in there and mixed it up to a sort of smoothie consistency.
 
-*[] Markus>* And I poured it out on the river bank.
+*[2:29 PM] Markus>* And I poured it out on the river bank.
 
-*[] Markus>* And I kinda mixed and kneaded and massaged it into the river mud.
+*[2:29 PM] Markus>* And I kinda mixed and kneaded and massaged it into the river mud.
 
-*[] Markus>* And I just kinda cried and gave you up bit by bit.
+*[2:29 PM] Markus>* And I just kinda cried and gave you up bit by bit.
 
-*[] Markus>* The water would splash up on the banks and I just let you be carried away bit by bit.
+*[2:30 PM] Markus>* The water would splash up on the banks and I just let you be carried away bit by bit.
 
-*[] Markus>* Until there was nothing left but a messy spot on the shore.
+*[2:30 PM] Markus>* Until there was nothing left but a messy spot on the shore.
 
-*[] Markus>* And I washed my paws.
+*[2:30 PM] Markus>* And I washed my paws.
 
-*[] Markus>* And it was super cold.
+*[2:30 PM] Markus>* And it was super cold.
 
-*[] Markus>* And I only had my jeans to dry my paws on, so I just sat there like an idiot.
+*[2:30 PM] Markus>* And I only had my jeans to dry my paws on, so I just sat there like an idiot.
 
-*[] Markus>* Crying and puffing into my paws to try and warm them up.
+*[2:30 PM] Markus>* Crying and puffing into my paws to try and warm them up.
 
-*[] Markus>* You'll be proud to know that it was disgusting.
+*[2:31 PM] Markus>* You'll be proud to know that it was disgusting.
 
-*[] Markus>* there's you all over that river bank
+*[2:31 PM] Markus>* there's you all over that river bank
 
-*[] Markus>* and all over my paws
+*[2:31 PM] Markus>* and all over my paws
 
-*[] Markus>* and stuck in my fur
+*[2:31 PM] Markus>* and stuck in my fur
 
-*[] Markus>* and probably on my muzzle
+*[2:31 PM] Markus>* and probably on my muzzle
 
-*[] Markus>* and the steering wheel of the car
+*[2:31 PM] Markus>* and the steering wheel of the car
 
-*[] Markus>* and the doorknib
+*[2:31 PM] Markus>* and the doorknib
 
-*[] Markus>* asnd your all over now
+*[2:31 PM] Markus>* asnd your all over now
 
-*[] Markus>* and ?I? thought I was saying goodbye
+*[2:32 PM] Markus>* and ?I? thought I was saying goodbye
 
-*[] Markus>* and your still here
+*[2:32 PM] Markus>* and your still here
 
-*[] Markus>* i miss you
+*[2:32 PM] Markus>* i miss you
 
-*[] Markus>* i love you
+*[2:32 PM] Markus>* i love you
 
 ### Tuesday, April 8
 
-*[] Markus>* Okay.
+*[12:01 PM] Markus>* Okay.
 
-*[] Markus>* So.
+*[12:01 PM] Markus>* So.
 
-*[] Markus>* Not only was that a mess, but it was apparently illegal.
+*[12:01 PM] Markus>* Not only was that a mess, but it was apparently illegal.
 
-*[] Markus>* I slept and feel better, and now I'm giggling like an idiot over the fact that I did something meaningful to me, and it turned out I was breaking the law the whole time. You're not supposed to scatter ashes in water.
+*[12:03 PM] Markus>* I slept and feel better, and now I'm giggling like an idiot over the fact that I did something meaningful to me, and it turned out I was breaking the law the whole time. You're not supposed to scatter ashes in water.
 
-*[] Markus>* (And even if it were legal, there's probably a better way to do it than what I did.)
+*[12:03 PM] Markus>* (And even if it were legal, there's probably a better way to do it than what I did.)
 
-*[] Markus>* So there you have it. I thought I was going to snub your goofy wishes but your idiot husband wound up going along with them all the same.
+*[12:04 PM] Markus>* So there you have it. I thought I was going to snub your goofy wishes but your idiot husband wound up going along with them all the same.
 
 ### Wednesday, April 9
 
-*[] Markus>* Back at work today.
+*[9:41 AM] Markus>* Back at work today.
 
-*[] Markus>* Everyone was nice.
+*[9:41 AM] Markus>* Everyone was nice.
 
-*[] Markus>* Calm.
+*[9:41 AM] Markus>* Calm.
 
-*[] Markus>* And I do feel better, PS. I think I got more out of that than I can put into words.
+*[10:21 AM] Markus>* And I do feel better, PS. I think I got more out of that than I can put into words.
 
 ### Thursday, April 10
 
@@ -390,11 +390,11 @@ h3 {
 
 ### Monday, April 14
 
-*[] Markus>* Your mom's yelling at me again.
+*[4:21 PM] Markus>* Your mom's yelling at me again.
 
-*[] Markus>* She wants to go through my papers now, too. And my books?
+*[4:21 PM] Markus>* She wants to go through my papers now, too. And my books?
 
-*[] Markus>* I love you and miss you so much. You were always so good at telling her to go away. She won't listen to me at all.
+*[4:22 PM] Markus>* I love you and miss you so much. You were always so good at telling her to go away. She won't listen to me at all.
 
 ### Tuesday, April 15
 
@@ -436,7 +436,7 @@ h3 {
 
 ### Wednesday, April 16
 
-*[] Markus>* Now she wants your laptom.
+*[] Markus>* Now she wants your laptop.
 
 *[] Markus>* I had it with me at coffee even.
 
@@ -866,76 +866,78 @@ h3 {
 
 ### Tuesday, May 7
 
-*[] Markus>* I
+*[6:11 PM] Markus>* I
 
-*[] Markus>* shit, tomorrow
+*[6:11 PM] Markus>* shit, tomorrow
 
 ### Wednesday, May 8
 
-*[] Markus>* I was going to text you yesterday because I got a call from Dan.
+*[7:58 PM] Markus>* I was going to text you yesterday because I got a call from Dan.
 
-*[] Markus>* Your mom was released that weekend, of course, but she had to go do a trial or something and has community service and therapy.
+*[7:59 PM] Markus>* Your mom was released that same weekend, of course, but she got charged and had to go do a trial or something and has community service and therapy.
 
-*[] Markus>* And Dan sounded like he'd perked up some, too.
+*[7:59 PM] Markus>* And Dan sounded like he'd perked up some, too.
 
-*[] Markus>* So we talked about you and sort of had the conversation that we were going to have without your mom.
+*[8:00 PM] Markus>* So we talked about you and sort of had the conversation that we were going to have without your mom.
 
-*[] Markus>* You know, memories and good stuff and rebuilding bridges.
+*[8:00 PM] Markus>* You know, memories and good stuff and rebuilding bridges.
 
-*[] Markus>* And he said that he'll probably be getting a divorce from your mom after the letter (I emailed it) and coming to realize just how much your mom was after him as well as you, keeping you in her service and using anxiety as a tool.
+*[8:01 PM] Markus>* And he said that he'll probably be getting a divorce from your mom after the letter (I emailed it) and coming to realize just how much your mom was after him as well as you, keeping you in her service and using anxiety as a tool.
 
-*[] Markus>* So that was good.
+*[8:01 PM] Markus>* So that was good.
 
-*[] Markus>* Or maybe not good, I imagine divorces suck.
+*[8:02 PM] Markus>* Or maybe not good, I imagine divorces suck.
 
-*[] Markus>* Anyway, it's been a week of caring for myself.
+*[8:18 PM] Markus>* Anyway, it's been a week of caring for myself.
 
-*[] Markus>* I did move the gaming rig.
+*[8:18 PM] Markus>* I did move the gaming rig.
 
-*[] Markus>* Sorry not sorry.
+*[8:18 PM] Markus>* Sorry not sorry.
 
-*[] Markus>* And I started putting the stuff that was yours but worth keeping into a few boxes, which are now in my closet, and the rest of your stuff is gone.
+*[8:19 PM] Markus>* And I started putting the stuff that was yours but worth keeping into a few boxes, which are now in my closet, and the rest of your stuff is gone.
 
-*[] Markus>* Well, there's probably more, but it's gone.
+*[8:20 PM] Markus>* Well, there's probably more, but it's gone.
 
-*[] Markus>* And hell, I miss you, Lee.
+*[8:20 PM] Markus>* And hell, I miss you, Lee.
 
-*[] Markus>* I always will, and I'll always love you.
+*[8:20 PM] Markus>* I always will, and I'll always love you.
 
-*[] Markus>* But you're gone.
+*[8:20 PM] Markus>* But you're gone.
 
-*[] Markus>* You're gone now, and I'm working to find a way to live with that.
+*[8:21 PM] Markus>* You're gone now, and I'm working to find a way to live with that.
 
-*[] Markus>* So.
+*[8:21 PM] Markus>* So.
 
-*[] Markus>* I'm going to start journaling.
+*[8:21 PM] Markus>* I'm going to start journaling.
 
-*[] Markus>* And delete your contact.
+*[8:21 PM] Markus>* And delete your contact.
 
-*[] Markus>* And write for myself, and not for you.
+*[8:21 PM] Markus>* Though I saved your messages.
 
-*[] Markus>* With Dr. Maura's blessing.
+*[8:21 PM] Markus>* And write for myself, and not for you.
 
-*[] Markus>* And hopefully with yours.
+*[8:21 PM] Markus>* With Dr. Maura's blessing.
 
-*[] Markus>* I love you.
+*[8:22 PM] Markus>* And hopefully with yours.
 
-*[] Markus>* I miss you.
+*[8:22 PM] Markus>* I love you.
 
-*[] Markus>* I always will.
+*[8:22 PM] Markus>* I miss you.
 
-*[] Markus>* But you're gone.
+*[8:22 PM] Markus>* I always will.
 
-*[] Markus>* And you're not at the store.
+*[8:22 PM] Markus>* But you're gone.
 
-*[] Markus>* Or at chemo, or still sick at the hospital.
+*[8:22 PM] Markus>* And you're not at the store.
 
-*[] Markus>* You're gone.
+*[8:23 PM] Markus>* Or at chemo, or still sick at the hospital.
 
-*[] Markus>* And it's time for me to work on that.
+*[8:23 PM] Markus>* You're gone.
 
-*[] Markus>* So goodbye, Lee.
+*[8:23 PM] Markus>* And it's time for me to work on that.
 
-*[] Markus>* Sleep well, miss prissy whiskers.
+*[8:24 PM] Markus>* So goodbye, Lee.
 
-*[] Markus>* Crazy face, out.
+*[8:24 PM] Markus>* Sleep well, miss prissy whiskers.
+
+*[8:24 PM] Markus>* Crazy face, out.
