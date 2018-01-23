@@ -1,45 +1,98 @@
-let messages;
+(() => {
+  // Array to contain our messages.
+  let messages;
 
-const log = document.getElementById('log');
-const entry = document.getElementById('entryText');
+  // Elements we'll be referring to.
+  const log = document.getElementById('log');
+  const entry = document.getElementById('entryText');
 
-fetch('vis.json').then(response => {
-  return response.json();
-}).then(result => {
-  messages = result;
-  entry.innerHTML = messages[1].message;
-})
+  // Fetch the data.
+  fetch('vis.json').then(response => {
+    return response.json();
+  }).then(result => {
+    messages = result;
+    entry.innerHTML = messages[1].message;
+    entry.scrollTo(0, entry.scrollHeight);
+  })
 
-document.getElementById('send').onclick = (evt) => {
-  if (!messages) {
-    return;
-  }
-  let message = messages.shift();
-  if (message.dateChange) {
-    const dateNode = document.createElement('div');
-    dateNode.classList.add('date');
-    const dateText = document.createTextNode(message.dateChange);
-    dateNode.appendChild(dateText);
-    log.appendChild(dateNode);
-    message = messages.shift();
-  }
-  const msgTextNode = document.createElement('div');
-  msgTextNode.classList.add('msgText')
-  const msgText = document.createTextNode(message.message);
-  msgTextNode.appendChild(msgText);
-  const timeNode = document.createElement('div');
-  timeNode.classList.add('msgTime')
-  const timeText = document.createTextNode(message.time);
-  timeNode.appendChild(timeText)
-  const msgNode = document.createElement('div');
-  msgNode.classList.add('msg')
-  msgNode.appendChild(msgTextNode);
-  msgNode.appendChild(timeNode);
-  log.appendChild(msgNode);
-  let next = messages[0];
-  if (next.dateChange) {
-    next = messages[1];
-  }
-  entry.innerHTML = next.message;
-  log.scrollTo(0, log.scrollHeight);
-};
+  // Event forr clicking Send
+  document.getElementById('send').onclick = (evt) => {
+    // Bail if we don't have messages (before we start, after we end)
+    if (!messages) {
+      return;
+    }
+
+    // Get the most recent message.
+    let message = messages.shift();
+
+    // If it's a date, add the date node, then get the followinug message.
+    if (message.dateChange) {
+      // Create a date div.
+      const dateNode = document.createElement('div');
+      dateNode.classList.add('date');
+      const dateText = document.createTextNode(message.dateChange);
+      dateNode.appendChild(dateText);
+      log.appendChild(dateNode);
+      message = messages.shift();
+    }
+
+    if (message.file) {
+      // Create the div for the message text.
+      const msgTextNode = document.createElement('div');
+      msgTextNode.classList.add('msgText')
+      const msgText = document.createTextNode(`Lee ♥ sent you: ${message.file}`);
+      msgTextNode.appendChild(msgText);
+
+      // Create the div for the message time.
+      const timeNode = document.createElement('div');
+      timeNode.classList.add('msgTime')
+      const timeText = document.createTextNode(message.time);
+      timeNode.appendChild(timeText)
+
+      // Create the div for the full message and append to the log.
+      const msgNode = document.createElement('div');
+      msgNode.classList.add('msg')
+      msgNode.classList.add('file')
+      msgNode.appendChild(msgTextNode);
+      msgNode.appendChild(timeNode);
+      log.appendChild(msgNode);
+      return;
+    }
+
+    // Create the div for the message text.
+    const msgTextNode = document.createElement('div');
+    msgTextNode.classList.add('msgText')
+    const msgText = document.createTextNode(message.message);
+    msgTextNode.appendChild(msgText);
+
+    // Create the div for the message time.
+    const timeNode = document.createElement('div');
+    timeNode.classList.add('msgTime')
+    const timeText = document.createTextNode(message.time);
+    timeNode.appendChild(timeText)
+
+    // Create the div for the full message and append to the log.
+    const msgNode = document.createElement('div');
+    msgNode.classList.add('msg')
+    msgNode.appendChild(msgTextNode);
+    msgNode.appendChild(timeNode);
+    log.appendChild(msgNode);
+
+    // If we stil have messages, attempt to get the next one to display in the
+    // entry box.
+    if (messages) {
+      let next = messages[0];
+      if (next.dateChange) {
+        next = messages[1];
+      }
+      if (next.file) {
+        next = messages[2];
+      }
+      entry.innerHTML = next.message;
+      entry.scrollTo(0, entry.scrollHeight);
+    }
+
+    // Scroll the log to the bottom.
+    log.scrollTo(0, log.scrollHeight);
+  };
+})();
