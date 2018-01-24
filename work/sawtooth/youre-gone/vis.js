@@ -23,10 +23,11 @@
       return;
     }
 
+    // Make the credits visible and bail, removing the event, once we're done.
     if (loaded && messages.length === 0) {
-      console.log('should we make credits visible?')
       document.getElementById('credits').classList.add('visible');
       document.getElementById('send').onclick = null;
+      return;
     }
 
     // Get the most recent message.
