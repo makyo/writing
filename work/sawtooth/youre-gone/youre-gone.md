@@ -204,7 +204,7 @@ h3 {
 
 *[11:12 AM] Markus>* Even your ashes. Your mom hated that most, I think.
 
-*[11:13 AM] Markus>* You left me will all of our debts, but you left her with nothing.
+*[11:13 AM] Markus>* You left me with all of our debts, but you left her with nothing.
 
 *[11:13 AM] Markus>* Surprised I don't feel self-righteous or whatever. Just resolute. I didn't "win". If anyone won, it was you.
 
