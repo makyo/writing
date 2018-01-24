@@ -115,18 +115,18 @@
     user-select: none;
     background-color: rgba(255, 255, 255, 0);
     animation-name: flash;
-    animation-duration: 0.33s;
+    animation-duration: 0.5s;
     animation-iteration-count: 10;
     animation-direction: alternate;
 }
 
 @keyframes flash {
     from {
-        background-color: rgba(255, 0, 0, 0.3);
-    }
-
-    to {
         background-color: rgba(255, 255, 255, 0);
+    }
+    
+    to {
+        background-color: rgba(255, 0, 0, 0.5);
     }
 }
 
