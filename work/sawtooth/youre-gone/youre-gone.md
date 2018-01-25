@@ -1,7 +1,7 @@
 ---
 counts:
-    characters_real: 23917
-    characters_total: 30125
+    characters_real: 23918
+    characters_total: 30126
     file: ./work/sawtooth/youre-gone/youre-gone.md
     paragraphs: 505
     type: jekyll
@@ -644,7 +644,7 @@ h3 {
 
 *3:06 PM Markus>* I'm sad and I'm tired and I want you back.
 
-*3:06 PM Markus>* I'm sitting on the floor waiting for the shower again. My tail's fallen asleep. I'm gonna go before you get mad, even if that isn't possible.
+*3:06 PM Markus>* I'm sitting on the floor waiting for the shower again. My butt's fallen asleep. I'm gonna go before you get mad, even if that isn't possible.
 
 *3:07 PM Markus>* I don't care if that's me grieving in an unhealthy manner or anything, I'm going to go before you get mad.
 
@@ -780,7 +780,7 @@ h3 {
 
 *12:07 AM Markus>* Jun got her turned around and hauled her outside, hollering at us to call the ambulance on the way out.
 
-*12:08 AM Markus>* And the badger at the bar already had the police on the phone, so she added something about an ambulance.
+*12:08 AM Markus>* And the barista at the bar already had the police on the phone, so she added something about an ambulance.
 
 *12:08 AM Markus>* And then the police were there and the fire truck because they're the first responders.
 
