@@ -21,6 +21,20 @@
     display: none;
 }
 
+#credits ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#credits ul li {
+    display: inline-block;
+}
+
+#credits ul li:not(:last-of-type)::after {
+    content: " ◦ "
+}
+
 #credits.visible {
     display: block;
 }
@@ -124,7 +138,7 @@
     from {
         background-color: rgba(255, 255, 255, 0);
     }
-    
+
     to {
         background-color: rgba(255, 0, 0, 0.5);
     }
@@ -138,8 +152,7 @@
 .date {
     width: calc(100% - 2rem);
     text-align: center;
-    font-size: 8pt;
-    font-variant: small-caps;
+    font-size: 9pt;
     color: #888;
     border-bottom: 1px solid #aaa;
     margin: 5px 1rem 1rem 1rem;
@@ -156,7 +169,7 @@
 
 .msg {
     float: right;
-    text-align: right;
+    max-width: 60%;
     border: 1px solid rgba(0, 127, 0, 0.3);
     border-radius: 10px;
     border-bottom-right-radius: 0;
@@ -169,6 +182,15 @@
 
 .msg + .msg {
     border-top-right-radius: 0;
+}
+
+.date + .msg::before {
+    content: "Markus";
+    display: block;
+    font-size: 9pt;
+    font-style: italic;
+    color: rgba(0, 127, 0, 0.5);
+    padding-bottom: 5px;
 }
 
 .msg::after {
@@ -186,6 +208,7 @@
 .msgTime {
     font-size: 8pt;
     color: #aaa;
+    text-align: right;
 }
 
 @media only screen and (max-width: 960px) {
@@ -212,5 +235,10 @@
 
     #send img {
         height: calc(40pt - 4px);
+        margin-left: -5px;
+    }
+
+    .msg {
+        max-width: none;
     }
 }
