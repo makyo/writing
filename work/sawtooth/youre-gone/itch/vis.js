@@ -5,8 +5,6 @@
   // Elements we'll be referring to.
   const log = document.getElementById('log');
   const entry = document.getElementById('entryText');
-  const send = document.getElementById('send');
-  const credits = document.getElementById('credits');
 
   // Fetch the data.
   fetch('vis.json').then(response => {
@@ -27,16 +25,8 @@
 
     // Make the credits visible and bail, removing the event, once we're done.
     if (loaded && messages.length === 0) {
-      credits.classList.add('visible');
-      credits.onclick = (evt) => {
-        credits.classList.remove('visible');
-      };
-      credits.getElementsByTagName('a').forEach((a) => {
-        a.onclick = (aEvt) => {
-          aEvt.stopPropagation();
-        }
-      });
-      send.onclick = null;
+      document.getElementById('credits').classList.add('visible');
+      document.getElementById('send').onclick = null;
       return;
     }
 
