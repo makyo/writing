@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 47150
-    characters_total: 59385
+    characters_real: 23917
+    characters_total: 30125
     file: ./work/sawtooth/youre-gone/youre-gone.md
-    paragraphs: 994
+    paragraphs: 505
     type: jekyll
-    words: 12211
+    words: 6193
 layout: draft
 title: You're Gone
 ---
@@ -370,7 +370,7 @@ h3 {
 
 *6:50 PM Markus>* I thought I knew what hatred felt like, but damn, Lee.
 
-*6:50 PM Markus>* How did so sane a cat from so crazy a family?
+*6:50 PM Markus>* How did so sane a cat come from so crazy a family?
 
 *6:52 PM Markus>* I was going to go through your clothes first, because those felt like they'd be easy, but I'm going to go through your desk instead.
 
@@ -684,7 +684,7 @@ h3 {
 
 *5:49 PM Markus>* I hate coffee, but I got a mocha or whatever, because Lee, I've just been so tired.
 
-*5:50 PM Markus>* This isn't helping, I'm sorry.
+*5:50 PM Markus>* this isn't helping, i'm sorry.
 
 *5:50 PM Markus>* i miss yuo
 
@@ -812,7 +812,7 @@ h3 {
 
 *1:24 PM Markus>* And I think she's right.
 
-*1:24 PM Markus>* I think I'd been holding you close to keep you safe from what I perceived as Junger.
+*1:24 PM Markus>* I think I'd been holding you close to keep you safe from what I perceived as danger.
 
 *1:24 PM Markus>* Rightfully so!
 
@@ -828,7 +828,7 @@ h3 {
 
 *1:25 PM Markus>* but she's right
 
-*1:25 PM Markus>* I need to start working on myself, too.
+*1:35 PM Markus>* I need to start working on myself, too.
 
 ### Wednesday, May 1
 
@@ -960,29 +960,33 @@ h3 {
 
 ### Friday, May 24
 
-*7:20 PM Markus>* I miss you, Lee.
+*6:58 PM Markus>* I miss you, Lee.
 
-*7:20 PM Markus>* I always will, and I'll always love you.
+*6:58 PM Markus>* I always will, and I'll always love you.
 
-*7:20 PM Markus>* But you're gone.
+*6:58 PM Markus>* But you're gone.
 
-*7:21 PM Markus>* You're gone now, and I'm working to find a way to live with that.
+*6:59 PM Markus>* You're gone now, and I'm working to find a way to live with that.
 
-*7:21 PM Markus>* I've been slowly washing the apartment of your presence.
+*6:59 PM Markus>* I've been slowly washing the apartment of your presence.
 
-*7:21 PM Markus>* Not that you'll be gone entirely, of course. I have your picture in a few places.
+*7:03 Markus>* Not that you'll be gone entirely, of course. I have your picture in a few places.
 
-*7:21 PM Markus>* But I got rid of all the stuff that was -yours-.
+*7:03 Markus>* But I got rid of all the stuff that was -yours-.
 
-*7:21 PM Markus>* and washed the bedding several times.
+*7:03 Markus>* and washed the bedding several times.
 
-*7:21 PM Markus>* To get rid of the smell of you.
+*7:04 PM Markus>* To get rid of the smell of you.
 
-*7:21 PM Markus>* I'm not grieving or mourning.
+*7:06 PM Markus>* Christ, this is hard.
 
-*7:21 PM Markus>* Not by a long shot.
+*7:07 PM Markus>* Good, in the long run, I hope, but hard.
 
-*7:21 PM Markus>* But I'm working on it. I'm working on finding a way to accept that you're gone.
+*7:18 PM Markus>* I'm not done grieving or mourning.
+
+*7:18 PM Markus>* Not by a long shot.
+
+*7:18 PM Markus>* But I'm working on it. I'm working on finding a way to accept that you're gone.
 
 *7:21 PM Markus>* Not to forget you, but, tacky as it sounds, honor you.
 
