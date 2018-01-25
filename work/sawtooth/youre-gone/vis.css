@@ -39,6 +39,12 @@
     display: block;
 }
 
+#credits a, #credits small {
+    color: #fff;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 #credits * {
     color: #eef;
     margin-bottom: 1rem;

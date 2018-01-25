@@ -5,6 +5,9 @@
   // Elements we'll be referring to.
   const log = document.getElementById('log');
   const entry = document.getElementById('entryText');
+  const send = document.getElementById('send');
+  const credits = document.getElementById('credits');
+  const anchors = document.getElementsByTagName('a');
 
   // Fetch the data.
   fetch('vis.json').then(response => {
@@ -17,7 +20,7 @@
   })
 
   // Event forr clicking Send
-  document.getElementById('send').onclick = (evt) => {
+  document.getElementById('send').onclick = () => {
     // Bail if we don't have messages (before we start, after we end)
     if (!messages) {
       return;
@@ -25,8 +28,17 @@
 
     // Make the credits visible and bail, removing the event, once we're done.
     if (loaded && messages.length === 0) {
-      document.getElementById('credits').classList.add('visible');
-      document.getElementById('send').onclick = null;
+      credits.classList.add('visible');
+      document.getElementById('dismiss').onclick = (aEvt) => {
+        aEvt.stopPropagation();
+        credits.classList.remove('visible');
+      };
+      for (let i = 0; i < anchors.length; i++) {
+        anchors[i].onclick = (aEvt) => {
+          aEvt.stopPropagation();
+        }
+      };
+      send.onclick = null;
       return;
     }
 

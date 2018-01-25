@@ -39,6 +39,12 @@
     display: block;
 }
 
+#credits a, #credits small {
+    color: #fff;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 #credits * {
     color: #eef;
     margin-bottom: 1rem;
@@ -169,7 +175,7 @@
 
 .msg {
     float: right;
-    max-width: 60%;
+    max-width: 50%;
     border: 1px solid rgba(0, 127, 0, 0.3);
     border-radius: 10px;
     border-bottom-right-radius: 0;
@@ -184,7 +190,7 @@
     border-top-right-radius: 0;
 }
 
-.date + .msg::before {
+.date + .msg::before, .file + .msg::before {
     content: "Markus";
     display: block;
     font-size: 9pt;
@@ -203,6 +209,18 @@
 .file {
     background: linear-gradient(80deg, rgba(255, 255, 127, 0.2), #fff);
     box-shadow: 1px 1px 1px rgba(255, 255, 127, 0.2);
+    float: left;
+    border-radius: 10px;
+    border-bottom-left-radius: 0px;
+    margin-left: 5px;
+}
+.date + .file::before {
+    content: "Lee ♥";
+    display: block;
+    font-size: 9pt;
+    font-style: italic;
+    color: rgba(0, 127, 0, 0.5);
+    padding-bottom: 5px;
 }
 
 .msgTime {
