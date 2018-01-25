@@ -56,7 +56,7 @@
 
     {"time": "2:30 PM", "message": "Hah hah."},
 
-    {"time": "2:48 PM", "message": "Nice skunk working with me there is irked that I keep texting."},
+    {"time": "2:48 PM", "message": "Nice skunk working with me there is irked that I keep texting.", "retime": true},
 
     {"time": "2:49 PM", "message": "Just showed him this."},
 
@@ -64,7 +64,7 @@
 
     {"time": "2:50 PM", "message": "Feeling slightly less stupid, but no less sad."},
 
-    {"time": "3:08 PM", "message": "Cremation and all that goes with it is expensive."},
+    {"time": "3:08 PM", "message": "Cremation and all that goes with it is expensive.", "retime": true},
 
     {"time": "3:08 PM", "message": "I mean, not super expensive. Cheaper than the other stuff."},
 
@@ -76,7 +76,7 @@
 
     {"time": "3:09 PM", "message": "Oh god."},
 
-    {"time": "3:28 PM", "message": "You're gone."},
+    {"time": "3:28 PM", "message": "You're gone.", "retime": true},
 
     {"dateChange": "Thursday, April 3"},
 
@@ -88,7 +88,7 @@
 
     {"time": "10:08 AM", "message": "cryinf ovef a bvox"},
 
-    {"time": "3:43 PM", "message": "Service Friday 4pm call Maru dad mom mil Jenna Jeff Selene flowers 664-1140"},
+    {"time": "3:43 PM", "message": "Service Friday 4pm call Maru dad mom mil Jenna Jeff Selene flowers 664-1140", "retime": true},
 
     {"time": "3:43 PM", "message": "..."},
 
@@ -178,7 +178,7 @@
 
     {"time": "10:10 AM", "message": "Thank you for leaving a will."},
 
-    {"time": "11:12 AM", "message": "Met with MiL again, this time with lawyers."},
+    {"time": "11:12 AM", "message": "Met with MiL again, this time with lawyers.", "retime": true},
 
     {"time": "11:12 AM", "message": "Thank you for leaving me everything."},
 
@@ -280,7 +280,7 @@
 
     {"time": "9:41 AM", "message": "Calm."},
 
-    {"time": "10:21 AM", "message": "And I do feel better, PS. I think I got more out of that than I can put into words."},
+    {"time": "10:21 AM", "message": "And I do feel better, PS. I think I got more out of that than I can put into words.", "retime": true},
 
     {"dateChange": "Thursday, April 10"},
 
@@ -304,7 +304,7 @@
 
     {"time": "4:58 PM", "message": "Starting on the rest of your will and such tonight."},
 
-    {"time": "5:20 PM", "message": "Looks like you just left me anything."},
+    {"time": "5:20 PM", "message": "Looks like you just left me anything.", "retime": true},
 
     {"time": "5:20 PM", "message": "Which is good."},
 
@@ -350,7 +350,7 @@
 
     {"time": "6:50 PM", "message": "I thought I knew what hatred felt like, but damn, Lee."},
 
-    {"time": "6:50 PM", "message": "How did so sane a cat from so crazy a family?"},
+    {"time": "6:50 PM", "message": "How did so sane a cat come from so crazy a family?"},
 
     {"time": "6:52 PM", "message": "I was going to go through your clothes first, because those felt like they'd be easy, but I'm going to go through your desk instead."},
 
@@ -382,7 +382,7 @@
 
     {"time": "3:53 PM", "message": "We're meeting at a coffee shop, don't worry."},
 
-    {"time": "5:23 PM", "message": "WHAT THE FUCK WHAT THE FUCK"},
+    {"time": "5:23 PM", "message": "WHAT THE FUCK WHAT THE FUCK", "retime": true},
 
     {"time": "5:24 PM", "message": "Your stepdad was nice enough, we talked about memories of you. He said he knew about your feelings toward him, and that he wished he'd done better by you."},
 
@@ -404,7 +404,7 @@
 
     {"time": "5:30 PM", "message": "I'm calling the cops to get her away from here"},
 
-    {"time": "5:58 PM", "message": "They took a report and said to call again if she shows up, that way they can talk with her, and worst case, then I can get a restraining order."},
+    {"time": "5:58 PM", "message": "They took a report and said to call again if she shows up, that way they can talk with her, and worst case, then I can get a restraining order.", "retime": true},
 
     {"time": "5:59 PM", "message": "She trashed our bookshelf and dug through our closets."},
 
@@ -480,7 +480,7 @@
 
     {"time": "1:02 AM", "message": "I'm reading it now"},
 
-    {"time": "9:20 AM", "message": "stayed home"},
+    {"time": "9:20 AM", "message": "stayed home", "retime": true},
 
     {"time": "9:21 AM", "message": "cant stop crying"},
 
@@ -488,7 +488,7 @@
 
     {"time": "9:21 AM", "message": "im so sorry lee"},
 
-    {"time": "4:11 PM", "message": "I could kill him"},
+    {"time": "4:11 PM", "message": "I could kill him", "retime": true},
 
     {"time": "4:11 PM", "message": "I WOULD fucking kill him right now"},
 
@@ -532,7 +532,7 @@
 
     {"time": "6:57 PM", "message": "sdf"},
 
-    {"time": "7:20 PM", "message": "sorry"},
+    {"time": "7:20 PM", "message": "sorry", "retime": true},
 
     {"dateChange": "Friday, April 25"},
 
@@ -572,7 +572,7 @@
 
     {"time": "11:08 AM", "message": "I'm starting to second guess this."},
 
-    {"time": "11:18 AM", "message": "Like, obviously I'm upset, and obviously you wanted me to know that your parents are awful."},
+    {"time": "11:18 AM", "message": "Like, obviously I'm upset, and obviously you wanted me to know that your parents are awful.", "retime": true},
 
     {"time": "11:18 AM", "message": "But I'm starting to second guess what I'll get out of this."},
 
@@ -584,7 +584,7 @@
 
     {"time": "11:20 AM", "message": "I just don't think that's totally right."},
 
-    {"time": "2:18 PM", "message": "I thought about it more, and I think I still need to share what you wrote."},
+    {"time": "2:18 PM", "message": "I thought about it more, and I think I still need to share what you wrote.", "retime": true},
 
     {"time": "2:19 PM", "message": "It'll hurt them, and it'll probably hurt me more than it already has."},
 
@@ -592,7 +592,7 @@
 
     {"time": "2:19 PM", "message": "...I'm going to call Dr Maura."},
 
-    {"time": "2:48 PM", "message": "I wasn't expecting her to get back to me, but she actually picked up her phone on the first ring."},
+    {"time": "2:48 PM", "message": "I wasn't expecting her to get back to me, but she actually picked up her phone on the first ring.", "retime": true},
 
     {"time": "2:48 PM", "message": "I don't know why that strikes me as weird."},
 
@@ -602,7 +602,7 @@
 
     {"time": "2:50 PM", "message": "She says she's worried about me and wants to talk more soon."},
 
-    {"time": "2:58 PM", "message": "I told her about this, too."},
+    {"time": "2:58 PM", "message": "I told her about this, too.", "retime": true},
 
     {"time": "2:58 PM", "message": "About sending you messages, even though you'll never respond. Just talking to you."},
 
@@ -634,15 +634,15 @@
 
     {"time": "4:05 PM", "message": "This is weird"},
 
-    {"time": "4:21 PM", "message": "Taking a break, this is still weird."},
+    {"time": "4:21 PM", "message": "Taking a break, this is still weird.", "retime": true},
 
-    {"time": "5:33 PM", "message": "WHAT THE FUCK, LEE"},
+    {"time": "5:33 PM", "message": "WHAT THE FUCK, LEE", "retime": true},
 
     {"time": "5:33 PM", "message": "THE POLICE JUST ARRESTED YOUR MOM"},
 
     {"time": "5:33 PM", "message": "What the FUCK"},
 
-    {"time": "5:43 PM", "message": "Gave the police my report."},
+    {"time": "5:43 PM", "message": "Gave the police my report.", "retime": true},
 
     {"time": "5:43 PM", "message": "What the fuck."},
 
@@ -664,11 +664,11 @@
 
     {"time": "5:49 PM", "message": "I hate coffee, but I got a mocha or whatever, because Lee, I've just been so tired."},
 
-    {"time": "5:50 PM", "message": "This isn't helping, I'm sorry."},
+    {"time": "5:50 PM", "message": "this isn't helping, i'm sorry."},
 
     {"time": "5:50 PM", "message": "i miss yuo"},
 
-    {"time": "7:32 PM", "message": "Sorry, I'll try again and get more to the point."},
+    {"time": "7:32 PM", "message": "Sorry, I'll try again and get more to the point.", "retime": true},
 
     {"time": "7:33 PM", "message": "So the more I thought about what I had planned, the less I really wanted to go through with it. So I tried to just sit there and talk with your parents about you and all the good time and stuff."},
 
@@ -706,7 +706,7 @@
 
     {"time": "7:37 PM", "message": "fuck"},
 
-    {"time": "8:01 PM", "message": "I'm supposed to keep it together to finish this."},
+    {"time": "8:01 PM", "message": "I'm supposed to keep it together to finish this.", "retime": true},
 
     {"time": "8:02 PM", "message": "How you always called me 'crazy face' but only over text because it sounded silly to say."},
 
@@ -778,7 +778,7 @@
 
     {"time": "12:10 AM", "message": "Because how awkward of a goodbye would that have been?"},
 
-    {"time": "1:21 PM", "message": "I met with Dr. Maura today, and we talked about the weekend a lot."},
+    {"time": "1:21 PM", "message": "I met with Dr. Maura today, and we talked about the weekend a lot.", "retime": true},
 
     {"time": "1:21 PM", "message": "She says that she thinks I did the right thing, and that this is a turning point in our relationship"},
 
@@ -792,7 +792,7 @@
 
     {"time": "1:24 PM", "message": "And I think she's right."},
 
-    {"time": "1:24 PM", "message": "I think I'd been holding you close to keep you safe from what I perceived as Junger."},
+    {"time": "1:24 PM", "message": "I think I'd been holding you close to keep you safe from what I perceived as danger."},
 
     {"time": "1:24 PM", "message": "Rightfully so!"},
 
@@ -808,7 +808,7 @@
 
     {"time": "1:25 PM", "message": "but she's right"},
 
-    {"time": "1:25 PM", "message": "I need to start working on myself, too."},
+    {"time": "1:35 PM", "message": "I need to start working on myself, too.", "retime": true},
 
     {"dateChange": "Wednesday, May 1"},
 
@@ -898,7 +898,7 @@
 
     {"time": "5:10 PM", "message": "And I'm trying."},
 
-    {"time": "8:22 PM", "message": "We were pretty spot on in terms of music tastes, you know that?"},
+    {"time": "8:22 PM", "message": "We were pretty spot on in terms of music tastes, you know that?", "retime": true},
 
     {"time": "8:22 PM", "message": "Going through your library."},
 
@@ -924,7 +924,7 @@
 
     {"time": "12:38 AM", "message": "i love you"},
 
-    {"time": "8:22 AM", "message": "Sad night last night."},
+    {"time": "8:22 AM", "message": "Sad night last night.", "retime": true},
 
     {"time": "8:23 AM", "message": "Taking Maura's words to heart."},
 
@@ -934,35 +934,39 @@
 
     {"time": "8:23 AM", "message": "Holding off until tomorrow, if I can."},
 
-    {"time": "11:01 PM", "message": "This needs to stop."},
+    {"time": "11:01 PM", "message": "This needs to stop.", "retime": true},
 
     {"time": "11:12 AM", "message": "I think it's time."},
 
     {"dateChange": "Friday, May 24"},
 
-    {"time": "7:20 PM", "message": "I miss you, Lee."},
+    {"time": "6:58 PM", "message": "I miss you, Lee."},
 
-    {"time": "7:20 PM", "message": "I always will, and I'll always love you."},
+    {"time": "6:58 PM", "message": "I always will, and I'll always love you."},
 
-    {"time": "7:20 PM", "message": "But you're gone."},
+    {"time": "6:58 PM", "message": "But you're gone."},
 
-    {"time": "7:21 PM", "message": "You're gone now, and I'm working to find a way to live with that."},
+    {"time": "6:59 PM", "message": "You're gone now, and I'm working to find a way to live with that."},
 
-    {"time": "7:21 PM", "message": "I've been slowly washing the apartment of your presence."},
+    {"time": "6:59 PM", "message": "I've been slowly washing the apartment of your presence."},
 
-    {"time": "7:21 PM", "message": "Not that you'll be gone entirely, of course. I have your picture in a few places."},
+    {"time": "7:03", "message": "Not that you'll be gone entirely, of course. I have your picture in a few places."},
 
-    {"time": "7:21 PM", "message": "But I got rid of all the stuff that was -yours-."},
+    {"time": "7:03", "message": "But I got rid of all the stuff that was -yours-."},
 
-    {"time": "7:21 PM", "message": "and washed the bedding several times."},
+    {"time": "7:03", "message": "and washed the bedding several times."},
 
-    {"time": "7:21 PM", "message": "To get rid of the smell of you."},
+    {"time": "7:04 PM", "message": "To get rid of the smell of you."},
 
-    {"time": "7:21 PM", "message": "I'm not grieving or mourning."},
+    {"time": "7:06 PM", "message": "Christ, this is hard."},
 
-    {"time": "7:21 PM", "message": "Not by a long shot."},
+    {"time": "7:07 PM", "message": "Good, in the long run, I hope, but hard."},
 
-    {"time": "7:21 PM", "message": "But I'm working on it. I'm working on finding a way to accept that you're gone."},
+    {"time": "7:18 PM", "message": "I'm not done grieving or mourning.", "retime": true},
+
+    {"time": "7:18 PM", "message": "Not by a long shot."},
+
+    {"time": "7:18 PM", "message": "But I'm working on it. I'm working on finding a way to accept that you're gone."},
 
     {"time": "7:21 PM", "message": "Not to forget you, but, tacky as it sounds, honor you."},
 
