@@ -56,6 +56,18 @@
       message = messages.shift();
     }
 
+    // If it's a retime, add the retime node.
+    if (message.retime) {
+      // Create a retime div.
+      const retimeNode = document.createElement('div');
+      retimeNode.classList.add('retime');
+      const retimeInner = document.createElement('span');
+      const retimeText = document.createTextNode(message.time);
+      retimeInner.appendChild(retimeText);
+      retimeNode.appendChild(retimeInner);
+      log.appendChild(retimeNode);
+    }
+
     if (message.file) {
       // Create the div for the message text.
       const msgTextNode = document.createElement('div');

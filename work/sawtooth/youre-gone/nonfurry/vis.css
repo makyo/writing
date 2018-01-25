@@ -1,16 +1,16 @@
-@import url('https://fonts.googleapis.com/css?family=Ubuntu:300');
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:300,400');
 
 * {
     margin: 0;
     padding: 0;
     color: #222;
-    font-family: "Ubuntu", sans-serif;
-    font-weight: 200;
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
 }
 
 #credits {
     z-index: 1000;
-    background-color: rgba(0, 0, 50, 0.5);
+    background-color: rgba(0, 0, 50, 0.8);
     position: absolute;
     top: 0;
     right: 0;
@@ -155,6 +155,13 @@
     height: calc(30pt - 4px);
 }
 
+.msg::after, .date::after, .retime::after {
+    content: "";
+    display: table;
+    visibility: hidden;
+    clear: both;
+}
+
 .date {
     width: calc(100% - 2rem);
     text-align: center;
@@ -163,14 +170,24 @@
     border-bottom: 1px solid #aaa;
     margin: 5px 1rem 1rem 1rem;
     float: right;
-    font-weight: 300;
+    font-weight: 400;
 }
 
-.date::after {
-    content: "";
-    display: table;
-    visibility: hidden;
-    clear: both;
+.retime {
+    width: 100%;
+    text-align: center;
+    font-size: 9pt;
+    margin: 5px;
+    float: left;
+}
+
+.retime span {
+    border: 1px solid transparent;
+    border-radius: 3px;
+    background-color: rgba(0, 0, 0, 0.1);
+    color: #666;
+    padding: 0 5px;
+    font-weight: 400;
 }
 
 .msg {
@@ -190,20 +207,13 @@
     border-top-right-radius: 0;
 }
 
-.date + .msg::before, .file + .msg::before {
+.date + .msg::before, .file + .msg::before, .retime + .msg::before {
     content: "Markus";
     display: block;
     font-size: 9pt;
     font-style: italic;
     color: rgba(0, 127, 0, 0.5);
     padding-bottom: 5px;
-}
-
-.msg::after {
-    content: "";
-    display: table;
-    visibility: hidden;
-    clear: both;
 }
 
 .file {
@@ -214,6 +224,7 @@
     border-bottom-left-radius: 0px;
     margin-left: 5px;
 }
+
 .date + .file::before {
     content: "Lee ♥";
     display: block;
