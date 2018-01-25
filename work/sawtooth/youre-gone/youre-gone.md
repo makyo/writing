@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 23376
-    characters_total: 29440
+    characters_real: 47150
+    characters_total: 59385
     file: ./work/sawtooth/youre-gone/youre-gone.md
-    paragraphs: 493
+    paragraphs: 994
     type: jekyll
-    words: 6049
+    words: 12211
 layout: draft
 title: You're Gone
 ---
@@ -142,7 +142,7 @@ h3 {
 
 *9:54 PM Markus>* ...
 
-*9:54 PM Markus>* sorry
+*9:56 PM Markus>* sorry
 
 ### Saturday, April 5
 
@@ -270,7 +270,7 @@ h3 {
 
 *2:31 PM Markus>* asnd your all over now
 
-*2:32 PM Markus>* and ?I? thought I was saying goodbye
+*2:32 PM Markus>* and i thought I was saying goodbye
 
 *2:32 PM Markus>* and your still here
 
@@ -358,9 +358,9 @@ h3 {
 
 *6:48 PM Markus>* You guys aren't famous
 
-*6:48 PM Markus>* *Forwarded message from Xiuying (Lee)* GARBAGE YOUR GARBAGE I CANT BELIEVE YOUD KEEP ME FROM MY DAUGHTER
+*6:48 PM Markus>* *Forwarded message from Xiuying (Lee Mom)* GARBAGE YOUR GARBAGE I CANT BELIEVE YOUD KEEP ME FROM MY DAUGHTER
 
-*6:48 PM Markus>* *Forwarded message from Xiuying (Lee)* You took our name and DRAGGED IT THROUGH MUD YOU TOOK LEANNE AND DRAGGED HER THROUGH MUD GIVE ME WHATS MINE
+*6:48 PM Markus>* *Forwarded message from Xiuying (Lee Mom)* You took our name and DRAGGED IT THROUGH MUD YOU TOOK LI AND DRAGGED HER THROUGH MUD GIVE ME WHATS MINE
 
 *6:49 PM Markus>* Though I guess I did drag you throuugh the mud.
 
@@ -466,9 +466,9 @@ h3 {
 
 *11:11 PM Markus>* Oh god.
 
-*11:11 PM Markus>* I keep getting stukc crying and
+*11:11 PM Markus>* I keep getting stcuk crying and
 
-*11:11 PM Markus>* its so heard to keep going sometimes
+*11:11 PM Markus>* its so hrad to keep going sometimes
 
 *11:11 PM Markus>* i want to die without yowue
 
@@ -967,6 +967,26 @@ h3 {
 *7:20 PM Markus>* But you're gone.
 
 *7:21 PM Markus>* You're gone now, and I'm working to find a way to live with that.
+
+*7:21 PM Markus>* I've been slowly washing the apartment of your presence.
+
+*7:21 PM Markus>* Not that you'll be gone entirely, of course. I have your picture in a few places.
+
+*7:21 PM Markus>* But I got rid of all the stuff that was -yours-.
+
+*7:21 PM Markus>* and washed the bedding several times.
+
+*7:21 PM Markus>* To get rid of the smell of you.
+
+*7:21 PM Markus>* I'm not grieving or mourning.
+
+*7:21 PM Markus>* Not by a long shot.
+
+*7:21 PM Markus>* But I'm working on it. I'm working on finding a way to accept that you're gone.
+
+*7:21 PM Markus>* Not to forget you, but, tacky as it sounds, honor you.
+
+*7:21 PM Markus>* I'm working on getting to that stage.
 
 *7:21 PM Markus>* So.
 
