@@ -15,4 +15,4 @@ Hard as that may be.
 
 *You're Gone* is a story as told through instant messages. It's playable in all modern browsers.
 
-There is on itch.io, which is a non-furry version.
+There is a version on itch.io, which is a non-furry version.
