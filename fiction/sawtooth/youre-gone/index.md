@@ -10,7 +10,7 @@ layout: post
 title: You're Gone
 ---
 
-You're Gone is an exploration in grief, told through instant messages to a dead loved one.
+*You're Gone* is an exploration in grief, told through instant messages to a dead loved one.
 
 All you need to do is send the messages.
 
