@@ -2,11 +2,11 @@
 counts:
     characters_real: 23917
     characters_total: 30125
-    file: ./work/sawtooth/youre-gone/youre-gone.md
+    file: ./fiction/sawtooth/youre-gone/script.md
     paragraphs: 505
     type: jekyll
     words: 6193
-layout: draft
+layout: post
 title: You're Gone
 ---
 
