@@ -1,11 +1,12 @@
 ---
 counts:
-    characters_real: 4947
-    characters_total: 6080
+    characters_real: 4960
+    characters_total: 6097
     file: ./fiction/sawtooth/vignettes/acts-of-intent.md
-    paragraphs: 34
+    paragraphs: 36
     type: jekyll
-    words: 1104
+    words: 1106
+date: 2017-12-16
 layout: post
 title: Acts of Intent
 ---
