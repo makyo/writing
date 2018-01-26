@@ -1,12 +1,12 @@
 ---
 comments: false
 counts:
-    characters_real: 1464
-    characters_total: 1833
+    characters_real: 1275
+    characters_total: 1577
     file: ./support.md
     paragraphs: 7
     type: jekyll
-    words: 348
+    words: 289
 layout: page
 title: Support
 ---
@@ -21,15 +21,9 @@ It's something I love doing regardless of compensation, but it's also something 
 
 I have a few mechanisms for support:
 
-<!-- * [**Patreon**](https://patreon.com/makyo) --- I have this set up as a per-creation support, rather than a monthly. That might change, but for now, it's super useful for me and really easy on patrons. We all have dry-spells, after all, and I'm no exception. I have a few support levels:
-    * $1 --- Behind the Scenes: get a patron-only perspective on my work with blog posts, polls, and early access.
-    * $5 --- Draft Insider: all the above, plus access to early drafts.
-    * $10 --- All Access: all the above, plus access to crazy things like notes, sketches, images, etc.
-    * $15 --- Guide Me: all the above, plus a say in what I write. Suggest stories, give me characters, edit my stuff for me!
-* [**Gratipay**](https://gratipay.com/makyo/) --- Gratipay works like a tip system, but it also allows users to pledge on a schedule. The benefit of this is that it's super lightweight, and also works well with GitHub. -->
-* ~~Patreon~~ --- removed for an underhanded cash grab that fucked over smaller content creators. And no, I'm not sorry about the language.
-* ~~Gratipay~~ --- went away. You will be missed o7
-* [**Liberapay**](https://liberapay.com/makyo/) --- Liberapay is a successor to Gratipay and works on a tip/recurring donation scheme.
+* [**Patreon**](https://patreon.com/makyo) --- Patreon is a site that allows a patronage model for funding creators. In this incarnation, I have a few tiers: $1 patrons get access to posts; $5 patrons get early content; and $10 patrons get drafts, previews, and so on. Any level of support is appreciated!
+* [**Liberapay**](https://liberapay.com/makyo/) --- Liberapay is a successor to Gratipay and works on a patronage/recurring donation scheme, but lacks the functionality of sharing creations that Patreon has.
 * [**Ko-fi**](https://ko-fi.com/drabmakyo) --- Ko-fi is another tipping site, and is nicely integrated with PayPal. It's also got a bit of a friendlier interface than Gratipay, one that folks are more used to.
+* [**itch.io**](https://makyo.itch.io) --- Some of my pieces such as interactive fiction and more structured works will wind up here.
 
 If you're interested in supporting my writing work (and development work, if that's your bag!), I will be eternally grateful!
