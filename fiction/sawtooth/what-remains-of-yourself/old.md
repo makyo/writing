@@ -28,61 +28,61 @@ Skirt? Check. Pleated, short, the barest hint of lace.  Black and polyester, but
 
 Top? Check. Just a navy blouse, though, nothing special about it.
 
-The last thing Alex needed was their bag: a leather and waxed canvas deal, halfway between a purse and a backpack Like a backpack with only one strap. Big enough to hold wallet, keys, phone, hat, gloves, change of socks, change of panties, a gaff in case they wanted to feel even more feminine, and a whole slew of other handy bits and bobs. It didn't really go with the rest of the outfit, but neither did it clash all that much. They didn't expect to be keeping it on them at all times, though, so that didn't matter too much.
+The last thing the cat needed was their bag: a leather and waxed canvas deal, halfway between a purse and a backpack Like a backpack with only one strap. Big enough to hold wallet, keys, phone, hat, gloves, change of socks, change of panties, and a whole slew of other handy bits and bobs. It didn't really go with the rest of the outfit, but neither did it clash all that much. They didn't expect to be keeping it on them at all times, though, so that didn't matter too much.
 
 Plenty good for the night.
 
-They made it down one whole flight of stairs from their apartment before the stairs became too much to do in boots. Walking in stompers wasn't as easy as they'd hoped.
+Making their way down the stairs from their apartment lasted a whole one flight before the stairs became too much to do in boots. Walking in stompers wasn't as easy as they'd hoped.
 
-Elevator to the lobby, then. And then out onto the street. *Cold, cold.* Alex shivered. *Cold.*
+Elevator to the lobby, then, and out onto the street. Cold, cold. Shiver, cold.
 
 They held their phone in their hand the entire way to the party. It was a walk of a few blocks, a ride-share across town (always nerve-wracking, but they weren't going to try for the busses and wouldn't be able to drive home), and a walk of a few more blocks. Thumbing their phone from map to messages to map to messages. They knew the route, but still. Map to messages.
 
-Made it, at least. No hassle from the driver, no one out on the streets they had to walk. The party, that red pin dropped on their map, nonetheless felt like a safe haven. *Friends here,* it announced, *Friends and fun and safety.*
+Made it, at least. No hassle from the driver, no one out on the streets they had to walk to speak of. The party, that red pin dropped on their map, nonetheless felt like a safe haven. *Friends here,* it announced, *Friends and fun and safety.*
 
-There was a comfortable rhythm to the party, one that was easy to fall into. Alex rotated among the loosely defined stations. The cuddle-pile on the beanbag, where they could only sit on the edge for the "no shoes" rule, too much trouble to take those clompers off (and put them back on again, later), but they did take a hit or two off a pipe someone offered. The kitchen, leaning back against the counter and chatting a little too loud with friends and friends of friends, drinking pricy beer. The living room, where they took control of the party's music for an hour or so.
+The party had a comfortable rhythm, one that was easy to fall into. They rotated among the loosely defined stations: the cuddle-pile on the beanbag, where they could only sit on the edge, too much trouble to take those clompers off and on again, a hit or two off a pipe; the kitchen, leaning back against the counter and chatting a little too loud with friends and friends of friends, drinking pricy beer; the living room, where they took control of the party's music for an hour or so.
 
-Comfortable rhythms from the stereo. Not too fast, not too slow, heavier on the bass than the treble. Music they liked dovetailing into more music they liked. That felt like their place, that's where they belonged.
+Comfortable rhythms from the stereo. Not too fast, not too slow, heavier on the bass than the treble. Music they like dovetailing into more music they like. That's their place, that's where they belong.
 
 A comfortable rhythm, but with a new note, a new bass-line that teased at the edges of their perception.
 
 A party like this, they expected to know maybe half of the people, and recognize most of the rest, but there was a newbie here.
 
-Well, maybe not a newbie. He moved with too much confidence to be totally new. Talked with too much ease with too many of their friends, knew his way around way too well.
+Well, maybe not a newbie. He moved with too much confidence to be totally new. Talked with too much ease with too many of her friends, knew his way around way too well.
 
 New to them, then.
 
-Tall. Doberman, probably? No concessions to the style, though. No cropped ears, at least, and no mean look. Fur dark enough brown to pass for black, from what they could see, and the rest was obscured by a simple outfit. Work-out shirt of some breathable material, a backpack he kept on, and cargo shorts.
+Tall. Doberman, probably? No concessions, though. No cropped ears, at least. No mean look. Fur dark enough brown to pass for black, what they could see. The rest was obscured by a simple outfit. Work-out shirt, some breathable material, a backpack he kept on, and cargo shorts.
 
-*Pretty cold out there for shorts, but maybe thats just me being a cat.*
+Pretty cold out there for shorts, but maybe that was just them being a cat.
 
-Intriguing, to say the least. Alex set the next song to playing and angled toward one of their friends, no harm in asking for an introduction, right? Get a name, see if he's cool.
+Intriguing, to say the least. They set the next song to playing and angled toward one of their friends, no harm in asking for an introduction, right? Get a name. See if he's cool.
 
 "Jeremy, is it?"
 
 "Hmm?" His voice was a little higher pitched than they'd imagined. Not squeaky, just a tenor. "Oh, hey cat. Yeah, or Jer. How's it going?"
 
-Alex put on their best grin, shrugging, "Goin' alright. Just puttering around. Haven't been to one of theses things in ages. How 'bout you? How're you? Not seen you around before."
+They put on their best grin, shrugging, "Goin' alright. Just puttering around. Haven't been to one of theses things in ages. How 'bout you? How're you? Not seen you around before."
 
-The dog settled back into the couch, Alex perching themselves on the arm-rest by him. Jeremy set his backpack at the his feet. "Yeah, doing good, doing good. Last one of these was my first, so I guess I'm still kinda new." He had a very toothy grin, very toothy. "Hey, you got a name, cat?"
+The dog settled back into the couch, the cat perching themselves on the arm-rest by him. Backpack at the dog's feet. "Yeah, doing good, doing good. Last one of these was my first, so I guess I'm still kinda new." Very toothy grin, very toothy. "Hey, you got a name, cat?"
 
-"Of course. Just Alex will do for now, though." They swished, proud and a little buzzed. "Sorry, probably should've led with that, hmm?"
+They laughed, "Of course. Just Alex will do for now, though." They swished, proud, continued, "Sorry, probably should've led with that, hmm?"
 
-Jer grinned, reaching up and giving their tail a little tug, dark brown paws on their black tail complementary enough. Got a mew out of them, too. "Yeah, probably," hee replied. "So uh...who invited you? Who do you know? Trying to figure out how we're connected."
+Jer grinned, reaching up and giving the cat's tail a little tug, dark brown paws on black tail complementary enough. Got a mew out of the cat. He replied, "Yeah, probably. So uh...who invited you? Who do you know? Trying to figure out how we're connected."
 
 "Me too," the cat laughed, shrugged. "Aaron and Jen, mostly, though I've been hanging with that crowd for a while."
 
-"Mm, yeah." Jeremy nodded, continued, "I came with one of Jen's friends, Amy. Josh, and that crew. Know them?"
+"Mm, yeah." Jeremy nodded, continued, "I came with one of Jen's friends, Amy. Josh. That crew. Know them?"
 
-"Oh, huh. Know of them. Not really who I hang out with, usually." Alex leaned back onto one paw, the other reaching up to ruffle the dog's ears. A brief twinge of embarrassment: *flirting already? Yeesh.* "Well, glad I got the chance to meet you. Don't see many floppy-eared dogs about. What did you get up to, last time?"
+"Oh, huh. Know of them. Not really who I hang out with, usually." Alex leaned back onto one paw, the other reaching up to ruffle the dog's ears. A brief twinge of embarrassment: flirting already? Yeesh. "Well, glad I got the chance to meet you. Don't see many floppy-eared dogs about. What did you get up to, last time?"
 
 Jer laughed and shrugged, "Guess not. Ma didn't want mine cropped, and it's not my bag anyway. Last time, last time, hmm. Lots of lounging, mostly. Grabbed one of the bedrooms to get closer to someone."
 
-"They let you do that?" Don't sound interested, don't sound interested.
+"Oh, huh. They let you do that?" Don't sound interested, don't sound interested.
 
 "Sure, if you ask." The dog paused, slipped some vape pen out of their pocket and drew, then added through billowing clouds, "Though keep quiet about that, it's not supposed to be a known thing."
 
-"Lips are sealed," Alex laughed and took a swig of beer pilfered from the kitchen crew. Don't sound interested, cat. *But a fling might be nice,* a small voice whined. *Don't sound interested.*
+"Lips are sealed," Alex laughed, took a swig of beer pilfered from the kitchen crew. Don't sound interested, cat. *But a fling might be nice,* a small voice whined. Don't sound interested.
 
 Man, what was it with this guy? Body type or something?
 
@@ -98,35 +98,35 @@ Alex sat up again, giving their paw a rest. "Huh? About what?"
 
 "Are you anxious now, then?"
 
-They gave a on-committal shrug. That ought to do. Just don't sound *too* interested.
+Non-committal shrug. That ought to do. Just don't sound too interested.
 
 "Hit off the vape, then?" The dog reached into his pocket, drew the pen back out. A pen? Maybe a different one.
 
-"Tell me what's in it, first." Relax? Around the dog? Hmm. Lowered inhibitions might be nice.
+"Tell me what's in it, first?" Relax? Around the dog? Lowered inhibitions might be nice.
 
 "Just something to help relax. Basically what they have at the beanbag."
 
-Alex nodded, held out a paw with a little give-it-here gesture. Jeremy dropped the pen in their hand. A light, cheap deal with a translucent 'tank', about half full.
+Alex nodded, held out a paw, giving a little give-it-here gesture. Jeremy dropped the pen in their hand. A light dealie with a translucent 'tank', about half full.
 
 They gave a draw. A short one. Started reasonably smooth, then a bite at the back of their throat. Hold it, bite's getting stronger, cough. Surprisingly odorless cloud of vapor.
 
-"Good?" Jeremy asked. "Should get you chill in a few minutes."
+"Good?" Jeremy asked. "Should get you chill in a few moments."
 
 Alex shrugged and nodded, the two motions starting a gentle buzz, an even gentler wave of pleasure. Ooh, that's nice. "Mmhm, very good. Thanks, man."
 
-Jeremy grinned and shifted himself a little to the side, closer to the bunny who'd plopped down beside him, to open up a narrow slot on the couch. He patted it. "Come sit, there's room. No need to perch up there."
+Jeremy grinned and shifted himself a little to the side, closer to the bunny beside him, to open up a narrow slot on the couch. He patted it. "Come sit, there's room. No need to perch up there."
 
-They hesitated a moment before shifting as well, slipping down the arm of the couch to fit neatly into the slot. Warm thigh against thigh, warm arm against arm, close enough to smell canine. Canine tinged with a slight fruity scent from the vape. Definitely a different vape.
+The cat hesitated a moment before shifting as well, slipping down the arm of the couch to fit neatly into the slot. Warm thigh against thigh, warm arm against arm, close enough to smell canine. Canine tinged with a slight fruity scent from the vape. Definitely a different vape.
 
 Arm against arm shifts. Jer slips his out of the way to drape along the couch back. Alex grins. Feels smooth, silky, wavy. Smooth cat. Giggle. "Trying to pull one of those subtle stretch-and-then-cuddle moves?"
 
 "Nah, more room this way." The doberman pauses, then slips the arm down further to drape over the cat's shoulder. Fingers tease at the hem of their sleeve. "But now that you mention it, that's a good idea."
 
-Alex laughs. It tinkles, wavers between masculine and feminine, chiming bells. Smoother, silkier, wavier. Tenses blurring, memory shrinking, self becoming translucent. Maybe sound a little interested. "No complaints here, not gonna turn down affection."
+Alex laughs. It tinkles, wavers between masculine and feminine, chiming bells. Smoother, silkier, wavier. Maybe sound a little interested. "No complaints here, not gonna turn down affection."
 
 Jeremy grins and nods. The grip tightens, cat pulled against dog. Warm, warm, so warm. Came to the party for socializing, got cuddles. No complaints indeed.
 
-Cat and dog sit like that for a few minutes, just listening to music, sinking into the couch. Warm and warmer, but not too warm. Cozy and smooth and wavy. Alex opens their mouth, and closes their eyes. Pants. *Revel in it, cat. Feel warm, taste the air, enjoy the company.*
+Cat and dog sit like that for a few minutes, just listening to music, sinking into the couch. Warm and warmer, but not too warm. Cozy and smooth and wavy. Alex opens their mouth, and closes their eyes. Pants. Revel in it, cat. Feel warm, taste the air, enjoy the company.
 
 A tap at their lip, something hard and plastic. They open their eyes again. The vape. The vape and, off to the side, Jeremy's grinning muzzle.
 
@@ -160,7 +160,7 @@ Start to lean back, vape follows.  "Nuh-uh, you're not done yet. One more. Getti
 
 "W-wobble. Melty." Words are difficult.
 
-Alex melts, melts against that dog, slouching, arm draping over his thigh, Elbow, near crotch, senses arousal. Smells arousal. Not just the dog's either. *Don't sound interested* seems to have gone out the window.
+Alex melts indeed, melts against that dog, slouching, arm draping over his thigh, Elbow, near crotch, senses arousal. Smells arousal. Not just the dog's either. *Don't sound interested* seems to have gone out the window.
 
 Dog slips the vape back in his pocket, reaches to another pocket just above it and pulls out a phone. Thumbs at it.
 
@@ -170,11 +170,11 @@ Buzz buzz. Jeremy checks his phone. Puts it away. "Pretty kitty," the growl is i
 
 Breathing turns ragged. Pretty kitty. She. Yeah, she, that's what she is. She's a pretty kitty. Girl cat, boy dog.
 
-The growl continues without words, and then, "Lets go snag one of those rooms, yeah? Got the 'okay' to play."
+The growl continues without words, and then, "Lets go snag one of those rooms, yeah?"
 
 Yeah, yeah. Don't just think it, say it out loud, girl, come on. "Mmm, yeah."
 
-Getting to the room clearly happens. At least, the next thing Alex notices is being in a bedroom. Memory's gone, only a memory. Room's a little messy, but cozy. Jer's got his backpack up on the bed.
+Getting to the room clearly happens. At least, the next thing Alex notices is being in a bedroom. A little messy, but cozy. Jer's got his backpack up on the bed.
 
 "Sit, puppy." Still a growl. Puppy?
 
@@ -186,7 +186,7 @@ The growl grows imperative, menacing. "Puppy. You're my puppygirl, now."
 
 Resentment? Fear? Shame and excitement? Kitty...puppy. Feelings clash. Obedience wins out.
 
-"P-puppy," they stammer. She stammers.
+"P-puppy," they stammer.
 
 Jeremy draws out a seemingly complex contraption of vinyl. Evolutes it with his paws. There's a snap.
 
@@ -196,11 +196,11 @@ Alex is panting. So hot. Too hot.
 
 Jer squats before them --- before her --- and, with both hands, slips the mask onto the cat's face. Feline muzzle sockets neatly into a pouch, ears are slicked back. Canine paws reach behind their head. A buckle, and then a snap. A vape being pressed through the mask to the muzzle beneath. A hit, a wave of ecstasy, intense.
 
-Erection strains at panties and leggings. Tenting, begging. Should've worn gaff.
+Erection strains at panties and leggings. Tenting, begging.
 
 "Good girl," growl and praise. "Such a pretty puppygirl. You're mine now, hmm? My pup."
 
-Pant, pant, pant, pant. The Alex that was "they" and the Alex that is "she" swirl in her head. Ditto cat and dog. Swirl and mingle. Words too hard, can't pull them up. Comes out as a faint mewl.
+Pant, pant, pant, pant. The Alex that was they and the Alex that is she swirl in her head. Ditto cat and dog. Swirl and mingle. Words too hard, can't pull them up. Comes out as a faint mewl.
 
 The doberman raps the top of the muzzle of the mask with his knuckles, "No, none of those noises. No cat, you're my puppy now."
 
@@ -212,7 +212,7 @@ Pant. Gasp and pant. Jer stands.
 
 "Take off your shirt, pup, don't overheat. One button at a time, one at a time. Each button that you undo makes you more my dog. My puppygirl."
 
-Words squirm around her head in a thick cloud, seem to coalesce into a thin, silver string. Contract, sink past fur and into her mind. Puppy, girl, puppygirl. Jer's puppygirl. Very high cat. Spectacularly high cat. Swimmingly high cat --- though not pot, not just pot --- and seemingly sober dog. Not cat, no. Pup. Good pup, good pup.
+Words squirm around her head in a cloud, seem to coalesce into a thin, silver string. Contract, sink past fur and into mind. Puppy, girl, puppygirl. Jer's puppygirl. Swimmingly high cat --- though not pot, not just pot --- and seemingly sober dog. Not cat, no. Pup. Good pup, good pup.
 
 She does as she's told, pant pant pant. She unbuttons slowly, one button at a time, pant pant pant pant. Exposes binder, exposes self. Cooler air, but not enough. Becomes more dog, pant pant pant pant pant. Thoughts flicker into her head and then out again before even being comprehended. No will, no volition, no reasoning, just dog, just dog.
 
@@ -222,11 +222,11 @@ The final button. All dog, all dog.
 
 All dog.
 
-"Good puppy, beautiful puppygirl." The growl is proud now, lordly, smug. "You're my dog. You're my pup. Is there any cat left?"
+"Good puppy, beautiful puppygirl." The growl is now proud, lordly, smug. "You're my dog. You're my pup. Is there any cat left?"
 
-Headshake, spinning, a gasp. She can tell she's leaked through her panties in arousal and is well on her way to leaking through the leggings.
+Headshake, spinning, a gasp. She can tell she's leaked through her panties and is well on her way to leaking through the leggings.
 
-Jer's shorts are tented out, too. He's worked up too. Her owner, the one who claimed her. Nose filled with, senses overwhelmed by arousal. Her arousal. His arousal. Need. Pant pant pant. She can smell him, smell them both. She can't not smell them both.
+Jer's shorts are tented out, too. He's leaking too. Her owner, the one who claimed her. Nose filled with, senses overwhelmed by arousal. Her arousal. His arousal. Need. Pant pant pant. She can smell him, smell them both. She can't not smell them both.
 
 "Good. That's 'cause you're my puppy girl. You'll do right by your owner, won't you?"
 
