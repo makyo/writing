@@ -22,4 +22,4 @@ Hard as that may be.
 
 *You're Gone* is a story as told through instant messages. It's playable in all modern browsers.
 
-**This version ties in with the Sawtooth Universe. It is readable on its own, but is gently furry. If you'd like a truly standalone version, there's [one on itch.io](https://makyo.itch.io/youre-gone), which is a non-furry version.**
+**This version ties in with the Sawtooth Universe. It is quite readable on its own, but is gently furry. If you'd like a truly standalone, non-furry version, there's [one on itch.io](https://makyo.itch.io/youre-gone) for free/donations.**
