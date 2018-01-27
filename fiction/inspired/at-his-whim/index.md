@@ -8,6 +8,7 @@ counts:
     words: 1942
 layout: post
 title: At His Whim
+date: 2018-01-22
 ---
 
 <div class="cw">sex; hypnosis; dubious consent</div>
