@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 1235
-    characters_total: 1496
+    characters_real: 1424
+    characters_total: 1731
     file: ./work/sawtooth/notes.md
-    paragraphs: 19
+    paragraphs: 21
     type: jekyll
-    words: 258
+    words: 304
 layout: page
 title: Sawtooth
 ---
@@ -49,8 +49,14 @@ Erin
 Joan
 :   Female ferret, married to Elise, helps run the party.
 
+Lee
+:   Deceased female cat, married to Markus, has very abusive family.
+
 Malina
 :   Female badger, married to Cyril, works at The Book and the Bean and does tarot readings.
+
+Markus
+:   Male coyote, married to Lee, gets in a fight with Lee's mom at The Book and the Bean.
 
 Matthew Lederer
 :   Male mink, works with Aaron and Aiden, winds up in a relationship with Erin.
@@ -70,3 +76,4 @@ Sélène
 * Dani works with Erin.
 * Avery from *The Fool* is Alex from *What Remains of Yourself*
 * Melina from *Run Ragged* is the badger from *The Fool*
+* Markus and Lee's mom/stepdad get in a fight in The Book and the Bean, Malina helps

@@ -1,12 +1,12 @@
 ---
 comments: false
 counts:
-    characters_real: 510
-    characters_total: 633
+    characters_real: 603
+    characters_total: 747
     file: ./poetry/index.md
     paragraphs: 3
     type: jekyll
-    words: 101
+    words: 119
 layout: page
 title: Poetry
 ---
@@ -20,6 +20,7 @@ Works of poetry are posted here in reverse chronological order. All of the poetr
 
 ---|---
 Ongoing    | [Unimportant verse about important people](important-people)
+2018-01-31 | [Beneath her coat was a whole identity](beneath-her-coat-was-a-whole-identity)
 2017-08-14 | [Every time I fall](every-time-i-fall)
 2017-06-03 | [Bruise Vision](bruise-vision)
 2017-02-20 | [Heligoland](heligoland)
