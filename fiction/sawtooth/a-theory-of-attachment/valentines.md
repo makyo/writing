@@ -1,47 +1,14 @@
 ---
 counts:
-    characters_real: 4008
-    characters_total: 4935
-    file: ./work/sawtooth/valentimes.md
-    paragraphs: 60
+    characters_real: 2654
+    characters_total: 3257
+    file: ./fiction/sawtooth/a-theory-of-attachment/valentines.md
+    paragraphs: 38
     type: jekyll
-    words: 924
+    words: 602
 layout: post
-title: Valentine's Day in Sawtooth
+title: Valentine's Day
 ---
-
-Lee,
-
-Roses are red,
-violets are blue;
-it's been almost two years
-and I still miss you.
-
-Roses are red,
-violets are blue;
-I'm almost ashamed to admit,
-I've started dating someone new.
-
-Roses are red,
-violets are blue;
-her name's Anna, and you'll be pleased to know
-she's nothing like you.
-
-Roses are red,
-violets are blue;
-Only the other night,
-we finally said "I love you".
-
-Roses are red,
-violets are blue;
-don't worry, it's completely different,
-it's completely new.
-
-Alright, miss prissy whiskers, I can't keep that up, sorry! I promised I'd only write you on on your birthday, but I just wanted to say that. I'm moving on, slowly, but I'm still here. I love you, I miss you.
-
-Crazy face
-
------
 
 Pad Thai was the order for the evening. Malina had learned early on to cook something simple on holidays, where the focus was company rather than amazing food or flare. It was too easy to mess up something and spend the rest of the night feeling bad.
 
@@ -118,29 +85,3 @@ Saul looked thoughtful, a touch concerned. The silence stretched.
 "Think it'll be worth it?" Malina asked, feeling her own anxieties show through in her choice of questions.
 
 Saul's expression softened, and he took Malina's paw in his own and gave a firm squeeze. "Definitely."
-
------
-
-Dani rarely thought of Amber.
-
-Initially, the idea had concerned her, that someone had affected her life so greatly had slipped so easily from her mind. She'd wanted to latch onto that weekend and try to internalize it, but some part of her either already had or wasn't ready to. Which one it was depended on the time of day.
-
-The ringtail had accepted the warmth Dani had offered, gratefully and gracefully, and then left without a sound, minimizing the impact her presence had had on the otter. That was the safe path, and, when Dani did think about it, she realized that it was Amber's way of staying safe; to expect anything more would be to impose her will on someone with plans for her own life.
-
-And so Dani rarely thought of Amber. She worked. The cold-spell lifted. She read and watched movies. She ate alone.
-
-And while she wasn't happy, neither did that fog of depression settle down on her after her guest had left. They'd both made it through the spell, each in their own way.
-
-And, once a day, almost without thinking of it, she'd tell herself a story in her head.
-
-<!-- -----
-
-Guilt changes one, but less so than I thought it would. I spent my time in community service and my five thousand dollars --- while I'd plead guilty to trashing the house and abandoning the car, Jarred had also automatically assumed it was because I'd caught him cheating on me and had admitted his own guilt.
-
-Not something I cared about, but I wasn't about to take the reduced sentence, such as it was.
-
-On the flip side, it got me back up to Adam's before too long, and gave me the freedom to use my name again, to start hunting for a real job. Tomorrow's my first day back at work. The guy who runs it out of the front half of his house is quirky enough that he laughed at my story and hired me on the spot.
-
-Whatever, I'll take it.
-
-Now I just need to continue figuring things out with Aurora, and maybe I'll eventually find a way to settle down, feel happy. -->
