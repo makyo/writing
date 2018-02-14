@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 462
-    characters_total: 583
+    characters_real: 537
+    characters_total: 671
     file: ./poetry/beneath-her-coat-was-a-whole-identity/index.md
-    paragraphs: 4
+    paragraphs: 5
     type: jekyll
-    words: 118
+    words: 130
 date: 2018-01-31
 layout: post
 title: Beneath her coat was a whole identity
@@ -32,3 +32,5 @@ And find a brand new way to piece herself together
 And build herself a brand new smile
 And brush out her coat once more.
 </div>
+
+*First-place winner of the [Typewriter Emergencies Poetry Contest](https://www.typewriteremergencies.com/single-post/2018/02/13/Beneath-her-coat-was-a-whole-identity---1st-Place-Winner).*
