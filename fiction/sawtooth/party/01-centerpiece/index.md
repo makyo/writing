@@ -2,14 +2,17 @@
 counts:
     characters_real: 18825
     characters_total: 23225
-    file: ./fiction/sawtooth/party/centerpiece/index.md
+    file: ./fiction/sawtooth/party/01-centerpiece/index.md
     paragraphs: 121
     type: jekyll
     words: 4370
 date: 2016-12-17
-layout: post
+layout: serial-post
+next_in_category:
+    title: 'Party #2 - Hostess'
+    url: /fiction/sawtooth/party/02-hostess
 rating: X
-title: Centerpiece
+title: 'Party #1 - Centerpiece'
 ---
 
 Print

@@ -168,4 +168,10 @@ All this muttering anxiety within him was enough incentive for him to give Erin 
 
 Thirsty and buzzing, planet-struck, spellbound, he took a brief detour through the kitchen for a sparkling water before wandering around the house, half aroused, searching for the ferret.
 
+-----
+
+"I only play sober," had been Joan's response. "Catch me next month, though!"
+
+It was thoroughly disappointing. She had been so sure, so ready with the response that Matthew had little reason to doubt her. There had been none of the anxiety in her voice that he might've expected had the problem been with him, rather than the 
+
 (, tries to go for joan but is rebuffed, left to fawn over erin, turning down others to hold her paws and whisper dirty things, ambiguous whether or not he gets a chance)

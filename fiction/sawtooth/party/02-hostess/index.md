@@ -1,3 +1,19 @@
+---
+counts:
+    characters_real: 17531
+    characters_total: 21604
+    file: ./fiction/sawtooth/party/02-hostess/index.md
+    paragraphs: 108
+    type: jekyll
+    words: 4035
+layout: serial-post
+previous_in_category:
+    title: 'Party #1 - Centerpiece'
+    url: /fiction/sawtooth/party/01-centerpiece
+title: 'Party #2 - Hostess'
+---
+
+
 Elise was the first into the living room when Aaron opened the door, exposing his wife, the Centerpiece to the rest of the party.
 
 In one sense, this was a rather muted presentation. Rather than an elaborate bondage setup, a feature of some of the previous play parties, Aaron and Erin had opted for something simple. Erin was blindfolded and bound, but only lightly: her wrists bound with cuffs, and her collar bound to those. That, and the blindfold and gag The rest of the mink was exposed, letting her sleek and soft brown fur stand as its own testament --- and, judging from the "In Fur" portion of the cum counter poster, an open target. Any further bondage gear remained in the tote next to the mattress, and she was sure that some of it would be added by the end of the night.
