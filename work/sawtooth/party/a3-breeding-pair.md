@@ -1,10 +1,12 @@
-Matthew Lederer had been prowling around the outer edges of the swinger and BDSM party circuit for a few months now. Although he still called himself a transplant, he'd been in the area for almost three years, and the excuse had started to wear thin. He was more than past due to get back to the explorations he'd left behind with the move.
+Matthew Lederer had been prowling around the outer edges of the swinger and BDSM party circuit, such as it was, for a few months now. Although he still called himself a transplant, he'd been in the area for almost three years, and the excuse had started to wear thin. He was more than past due to get back to the explorations he'd left behind with the move.
 
-The move had been planned --- long planned, even --- but all the same, it came as a shock to his system to be withdrawn from a community in which he was just starting to feel at home. An introduction to bondage, an introduction to power dynamics, an introduction into another couple's relationship all had come a scant year before the move. And then the job offer.
+The move had been planned --- long planned, even --- but all the same, it came as a shock to his system to be withdrawn from a community in which he was just starting to feel at home. An introduction to bondage, an introduction to power dynamics, an introduction into another couple's relationship all had come a scant year before the move.
+
+And then the job offer.
 
 The scene wasn't coming with him, the couple wasn't moving. With the triad broken and his boxes packed, all he had to do was to say goodbye to the life he'd built and the things he'd started to explore, and hope that he'd find more of the same soon.
 
-There had been some false starts, as there were with any venture. The first party he'd found had turned out to be a such a bust that he'd almost given up and gone back to a regular dating scene after that. Settling, as he now thought of it. "swinger party", to some, apparently meant getting *really high* and having *a lot of sex* while seemingly trying to be *as unsafe as possible*.
+There had been some false starts, as there were with any venture. The first party he'd found had turned out to be a such a bust that he'd almost given up and gone back to a more regular dating scene after that. 'Settling', as he now thought of it. "Swinger party", to some, apparently meant getting *really high* and having *a lot of sex* while seemingly trying to be *as unsafe as possible*.
 
 Not his bag.
 
@@ -20,7 +22,7 @@ Joan and Matthew had gotten to talking after the party --- a long party that was
 
 She'd asked him if he'd be interesting in coming to a similar party at her place before he'd even put two and two together, and he'd said yes.
 
-More luck than sense, but that's how it works for worn out fools at the end of BDSM parties.
+More luck than sense, but that's how it works for worn out fools at the end of kink parties.
 
 Joan had given him a feathery kiss to the whiskers at the end of the night and they'd promised to see each other a month and change down the line. Matthew had caught the bus home after that. Reeking of sex, head buzzy with pleasure and filled with endorphins from the pain (there had been *flogging*), he thought of that lithe ferret he'd had the chance to close out the evening with. She was quite out of his league, he was sure, but the kiss and the invitation had him hopeful.
 
@@ -50,7 +52,7 @@ She was still dressed much as she had been the first time they'd met, other than
 
 It was less the clothing, then, that drew him to her, but the scent of her own arousal: that which had him bristling from entry. It felt like a complement to him.
 
-*Mink,* it practically hollered. *Mink like you. Female mink.*
+*Mink,* it practically hollered. *Mink like you. Female. Mink.*
 
 It felt like something that ought to be *his*.
 
@@ -76,7 +78,7 @@ As the cat led off his wife, his toy, Matthew slouched, leaning against the wall
 
 Erin was pretty, no doubt about it. Certainly his type, and definitely his species. And she was bound, and about to be more so, which that was another point in her favor --- a subby mink such as her was one of those pie-in-the-sky sort of dreams, something he had never really expected to encounter.
 
-Too much, too much. This was all so much. Seeing a bound and primed mink girl like that was nice, he was nearly incapacitated.
+Too much, too much. This was all so much. Seeing a bound and primed mink girl like that was beyond ken, he was nearly incapacitated.
 
 His mind swimming, Matthew shrugged out of his shirt and stuffed it into his bag. It was something to think about. Something he’d almost certainly need to think about, with Erin being the centerpiece.
 
@@ -172,6 +174,12 @@ Thirsty and buzzing, planet-struck, spellbound, he took a brief detour through t
 
 "I only play sober," had been Joan's response. "Catch me next month, though!"
 
-It was thoroughly disappointing. She had been so sure, so ready with the response that Matthew had little reason to doubt her. There had been none of the anxiety in her voice that he might've expected had the problem been with him, rather than the 
+It was thoroughly disappointing. She had been so sure, so ready with the response that Matthew had little reason to doubt her. There had been none of the anxiety in her voice that he might've expected had the problem been with him, rather than the chemicals coursing through him.
+
+He repeated this to himself almost as a mantra as he shuffled back to the den. He felt listless, unanchored, and, in an airy sort of way, upset at himself for not thinking things through before.
+
+Always so difficult to disentangle genuine anxiety from the side effects of being high.
+
+
 
 (, tries to go for joan but is rebuffed, left to fawn over erin, turning down others to hold her paws and whisper dirty things, ambiguous whether or not he gets a chance)
