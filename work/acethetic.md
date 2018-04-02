@@ -83,6 +83,6 @@ This Ellie they were meeting tonight was one they hoped would be one of those wh
 
 "Do?" Jace straightened up and tried to dispel the subdermal itching that presaged the shift. It'd happen before long, nothing to do but wait for it.
 
-"Yeah, like...you've told me about work, but what to you do? What do you love doing"
+"Yeah, like...you've told me about work, but what to you do? What do you love doing?"
 
 ""
