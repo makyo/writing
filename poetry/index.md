@@ -20,6 +20,7 @@ Works of poetry are posted here in reverse chronological order. All of the poetr
 
 ---|---
 Ongoing    | [Unimportant verse about important people](important-people)
+2018-04-01 | [Somehow, she's me](somehow-shes-me)
 2018-01-31 | [Beneath her coat was a whole identity](beneath-her-coat-was-a-whole-identity)
 2017-08-14 | [Every time I fall](every-time-i-fall)
 2017-06-03 | [Bruise Vision](bruise-vision)
