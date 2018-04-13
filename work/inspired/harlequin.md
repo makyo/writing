@@ -27,4 +27,22 @@ The last step was easiest, at least. Just a ten minute bus ride from the station
 
 Home was where it was cool. Home was where he could change clothes and make a quick dinner. Home is where he could take off his gloves and sit at his deck without it being on-the-clock work. It was nice to take a moment to actually relax, no more bearing the weight of the hundreds of emotionless looks one gets while traveling through city.
 
-Nicky took a few minutes to clean his contacts, swabbing each of the implants with a sterile, alcohol-dipped swab, before settling in comfortably in front of his deck. There was always this meditative moment, he had discovered, before heading in, where one was confronted with the enormous complexity and expense of all of the gear required
+Nicky took a few minutes to clean his contacts, swabbing each of the implants with a sterile, alcohol-dipped swab, before settling in comfortably in front of his deck. There was always this meditative moment, he had discovered, before heading in, where one was confronted with the enormous complexity and expense of all of the gear required. The rig itself had been three months of saving, and the current set of implants nearly two years --- though thankfully those could be built up one part at a time.
+
+It was way more than one needed for a simple security job. Most of his time was spent at a keyboard --- real or virtual --- at a command line, typing, rather than delved in.
+
+Not that the getup was all that uncommon, even among his coworkers. His was even a few notches down the fanciness scale, since he was less into gaming than so many of his coworkers. He didn't need top of the line gizmos or the absolute latest in integration devices.
+
+He just needed it to be fast.
+
+*Dawlding,* Nicky chided himself. He shook his head in an attempt to clear the mood and set his hands down on the cradles, feeling the contacts on his fingers click against the matching set on the handrests, then set his head back against the headrest of his chair.
+
+-----
+
+Nicky blinked away the afterimages of his exocosmic room.
+
+His own personal space this side of the deck was simple, spartan. The walls were white and the floor wood, but now, in the dark, the white of the walls had settled into a cool, comfortable gray, and the floor lost detail in dimness.
+
+Throughout the room was suspended a constellation of his current work. Business-card sized slips of paper connected by thin strands of fillament that shone of their own accord. He prowled around the display, turning cards this way and that to peek at their titles and get a glimpse of their contents, before allowing them to snap back into place.
+
+Not finding what he was hunting for, Nicky dug through one of the decks set in the air next to the constellation, until he came up with a simple card with a string of forty letters and numbers embossed in its surface.

@@ -78,3 +78,11 @@ Jace shook their head, feeling the reverie cling to their thoughts like whisps o
 This Ellie they were meeting tonight was one they hoped would be one of those who were comfortable with both the ace and the were thing, and that all that would be left would be the actual did-the-date-work-ness of the night.
 
 -----
+
+"So, what do you do?"
+
+"Do?" Jace straightened up and tried to dispel the subdermal itching that presaged the shift. It'd happen before long, nothing to do but wait for it.
+
+"Yeah, like...you've told me about work, but what to you do? What do you love doing?"
+
+""
