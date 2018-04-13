@@ -172,7 +172,7 @@ No one is going to hire an accountant with no name. With no history, no verified
 
 Fuck.
 
-I can't get a job, I can't rent a place, I can't use any of my credit cards, I can't open another bank account. I can't even change my name, since that would mean engaging with my old identity, the one I'd tried to kill.
+I can't get a job, I can't rent a place, I can't open another bank account. I can't even change my name, since that would mean engaging with my old identity, the one I'd tried to kill.
 
 *Fuck.*
 
@@ -340,15 +340,83 @@ I've never seen her out of the shop, but I think about her every time I walk or 
 
 -----
 
+Keeping any of my stuff from my "past life", as I'd started to think of it, felt dangerous. I'd imagined I'd done such a good job of cleansing my life of who I used to be when I left, that each time I was confronted by something I'd brought along, it was jarring.
+
+Undergarments had been the first and most obvious instance. I hadn't thought to grab any new panties before leaving town. This was probably fine, I reasoned, because anything missing would have been noticed. Unfortunately, this left me with only one pair --- the ones I left in --- and I'd had to visit the "essentials" aisle of the lone supermarket early on to grab a pack of bland panties.
+
+What wound up getting me, though, was seeing that old pair every time I did laundry. One last reminder that I'm no longer who I was.
+
+I threw them out soon after.
+
+Every time I came across something of that old me, I'd go through a process of memory-fear-resolve: I'd remember, sometimes fondly, that old life, then I'd be struck by the fear of getting caught, and finally I'd wind up feeling some of that old resolve that had fueled me leaving in the first place. It reminded me of what I'd done, in a very tangible way, even if not necessarily why. The "why" had already begun to blur on the bus ride, and I'd never been able to make it gel again.
+
+It wasn't always negative, this process, but it was never positive. Other than a few incriminating items --- the jewelry, for instance --- I threw everything I found away almost as soon as I found it, often destroying it for the catharsis first. It was too much risk.
+
+Thus me, crouched on my haunches behind Starry Night, hyperventilating as I try to destroy my old driver's license.
+
+How this had escaped me before was something of a mystery. An actual legal document bearing my actual legal name, tucked within my old wallet in the back of my suitcase, was not something I should have missed.
+
+This bypassed memory and caromed straight into fear. Into terror. Into that agonizing sickness that settles into one's gut and closes off one's throat.
+
+I can't say what made me tuck the whole wallet into a pocket at the start of the day. It was an interesting artifact, perhaps, nothing identifiable, that I'd decided to keep on some perverse whim. The credit cards lay scattered by my abandoned car back in Sawtooth, after all, so I figured it must be safe. And yet...
+
+And yet.
+
+The license won't tear. That was my first instinct, but my pads had slip off the slick plastic too easily, and my clawtips scrabble ineffectually at its surface.
+
+I can bend it, at least, and I crease it this way and that in an attempt to fatigue the plastic enough that maybe I can snap it. ID cards, however, are designed to last, and despite repeated folds, I can't get enough of a grip to tear the card, much less snap it, though the ink along the crease fades and warps into whiteness.
+
+This isn't working.
+
+I stuff my wallet back into my pocket and dash over to the dumpster, flipping up the lid. I had intended to tear up the license and toss it in, but the thought of it slipping out of the dumpster or falling out of the trash truck feels inescapable. With all the people going through the café during the day, though, there has to be...
+
+I tear through two of the coffeeshop's thin garbage bags before I find what I'm looking for: a cheap plastic lighter, yellow and scuffed.
+
+The rasp of the wheel against the flint sends my whole paw to buzzing, the snap of the spark too loud for my frazzled nerves.
+
+I flick at the lighter a few more times. It was likely thrown away for a reason, so I just have to hope there's enough fluid in there. The flame finally catches, only barely peeking above the rim of the lighter. It'll have to do.
+
+With bated breath and shaky paws, I carefully bring my drivers license above the tiny flame, letting the diffuse glow settle beneath the photo of my face. The plastic browns, sags, then starts to char and bubble. By the time the scent of the smoke starts to make me cough, the image of my face and much the identifying details have melted away, the ink burnt off by the low flame of the lighter.
+
+Motion in the shadows cast against the dumpster catches my eye and I whirl around, Aurora startling back a half-step at my sudden movement. We stare, uncomprehending, at each other for a moment.
+
+"I, uh, hey," I croak.
+
+"Hey, um...you okay back here?"
+
+I look around, down to my mangled license and the shitty yellow lighter in my paw, back to Aurora, struggling to come up with an explanation. I eventually manage a half truth: "Destroying an expired credit card."
+
+The mundane everyday-ness of such an activity seems to click things into place for the coyote. She perks up and smiles, "I'd never thought of melting them before, I always just cut them into little pieces."
+
+The lighter is finally starting to cool down in my paw after it's extended use, which is good, given how much I start fiddling with it. "Couldn't find my scissors once I got out here, figured this would work."
+
+She nods, squints toward my paws, then back up to me. "You from Idaho?"
+
+I gape, folding the license as best I can within my hand.
+
+"Just looked like my old card, I mean."
+
+I do my best to keep my ears from flattening and tail bristling, only to catch myself panting. So much for acting natural. "I...yeah. Moved a while back."
+
+"Hey, no stress. I won't pry," Aurora laughs.
+
+I manage a smile, hoping it's convincingly embarrassed. "Sorry," I say, crumpling the lighter and warped card in my paw and tossing them back into the bag in the dumpster. "I guess it's just a weird thing to get caught doing."
+
+Head tilted, Aurora grins at me a moment longer, then shrugs. "I guess, yeah. See you inside?"
+
+I nod, struggling to calm my breathing as I watch her round the corner to the front of the shop.
+
+-----
+
 My brush-strokes are confident, each one is a smooth arc describing edges and boundaries, or perhaps reinforcing color.
 
 The panel had been given to me burgundy, and I'd chosen to leave it that way, painting within that dark red surface rather than covering it up. I painted in black, and I painted only shadows, not details, as though the scene were blown out towards white and the contrast turned to a hundred percent.
 
 It had started as an abstract gesture of a face, angular and canine, but had slowly headed toward something more concrete. Not realistic, but perhaps something from a comic. Hard-edged lines, but true to form with no liberties taken.
 
-Aurora as seen from the bar, cheek on fist, staring out of frame. The shape of her muzzle, the tilt of her ears, both familiar and new.
+Aurora as seen from the bar, cheek on fist, staring out of frame. The shape of her muzzle, the tilt of her ears, both familiar and new. None of that anxiety and confusion from that afternoon behind Starry Night.
 
-My brush-strokes are confident. Black and red, no need for another color.
+None the painting, none in me. My brush-strokes are confident. Black and red, no need for another color.
 
 "Season's winding down."
 
@@ -396,7 +464,7 @@ I don't answer.
 
 I don't *have* an answer.
 
-When I think about it, there's just nothing there. It's like trying to see the inside of my eyelids. Just nothing there. I tore down what I was without any thought of what would be left. There was nothing after that. It was more a form of suicide than I'd wanted to admit.
+When I think about it, there's just nothing there. It's like trying to see the inside of my eyelids. Just nothing there. I tore down what I was without any thought of what would be left. Even my license, that last proof of me-that-was, had been burned a week back. There was nothing after that. It was more a form of suicide than I'd wanted to admit.
 
 Finally, I shrug. "Just me, I guess."
 
@@ -412,13 +480,13 @@ My turn to laugh. "Just missing the get-up, I guess. Second-hand shirts and jean
 
 -----
 
-For the first few months I was here, I'd get a little twitch in my paw when someone mentioned something off the internet. A twitch in my paw and a little shift inside me at a sudden-yet-averted context-shift. *I could look that up,* I'd think. *I could answer their question, or laugh at their picture.*
+For the first few months I was here, I'd get a little twitch in my paw when someone mentioned something off the Internet. A twitch in my paw and a little shift inside me at a sudden-yet-averted context-shift. *I could look that up,* I'd think. *I could answer their question, or laugh at their picture.*
 
 For a while, I'd countered it with lies. An "oh yeah ha ha" here and a "yeah I saw that" there. The anxiety that I'd mess up and be called out got to be too much for me, though, and I switched from that to nervous silence.
 
 I replaced that twitch early on with the gesture of brushing back over my cheeks. At first, it was obvious why: when I got to town, my face was still freshly shaved, and for the first few weeks, the freezer-burnt marks of the brand were plain. Soon, though, it became more of a habit than a coping mechanism. I'd brush my pads over the fur and feel the edges of the shaving, and once they became imperceptible, I'd trace my claws through fur, trying to sense where the brown fur ended and the white, branded fur started.
 
-Anything --- *anything* --- to keep from touching the internet. It would be too easy for me to just log back on. The temptation to peer into a life that no longer existed was too great. My very existence here in this town depends on that life no longer existing.
+Anything --- *anything* --- to keep from touching the Internet. It would be too easy for me to just log back on. The temptation to peer into a life that no longer existed was too great. My very existence here in this town depends on that life no longer existing. I'd destroyed it, and destroyed all that tied me to its remains.
 
 And yet here I am, panicking in the bathroom at Starry night.
 
@@ -448,7 +516,7 @@ Stefan's brow furrows, and I watch as the wolf's tailtip taps arhythmically agai
 
 "Mm, yeah, I remember. What'd you see?"
 
-"I saw my--" My words catch in my throat. *I saw my husband. I saw my name.*  "I saw my hometown."
+"I saw my--" My words catch in my throat. *I saw my husband. I saw my name. I saw the picture from my ID.*  "I saw my hometown."
 
 The wolf grins and leans back on his paws. "Home, eh? You don't seem like the girl who'd want to go back."
 
@@ -502,7 +570,7 @@ My body hasn't figured out how to move, yet, but I can see a dark, angular shape
 
 "Let's get you upright, at least a little. See if you can stand" She helps lever me up until I'm leaning back against the bar. "Come on, legs out. You uh...you fell over. Lets at least get your legs in front of you."
 
-I can't figure out how to work my voice, so I just continue to moan and sob as the coyote helps get my skirt untangled and my limbs out from under me. She slips her paws up under my arms and starts   to lift.
+I can't figure out how to work my voice, so I just continue to moan and sob as the coyote helps get my skirt untangled and my limbs out from under me. She slips her paws up under my arms and starts to lift.
 
 "N-nnn," I manage and clutch at her arms --- far too tightly, if her posture is anything to go by. Too filled with terror, too struck by a sense of impending death to control myself.
 
@@ -536,7 +604,7 @@ If I open my mouth, I'll start crying, so I just nod.
 
 Aurora's car is very...*her.*
 
-I don't really know how to put it otherwise. It's sensible, as she is; it's filled with books and stacks of paper, as her bag is; it's not messy, but it's got a lot going on, like her.
+I don't really know how to put it otherwise. It's sensible, as she is; it's filled with books and stacks of paper, as her bag is; it's not messy, but it's got a lot going on beneath it's simple exterior, like her.
 
 Still sniffling, I wait as she moves a sheaf of papers held together with a binder clip from the passenger seat to the back. Then I swipe my tail and skirt out of the way and slouch into the seat, clumsily clicking the seatbelt in place with one paw, the other still holding the half-full cup of water.
 
@@ -622,7 +690,7 @@ Aurora seems comfortable taking the lead, using her paws and subtle shifts of he
 
 I'm wrong-footed by this and it takes a moment to parse. Once it clicks, though, I giggle. "Thanks." I feel stupid just leaving it at that, though, and add, "That was nice."
 
-"Mmhm." Still grinning, she leans into give me another quick kiss, then moves to kneel on the edge of the bed, tugging me by the paw. "Come on. Up."
+"Mmhm." Still grinning, she leans into give me another quick kiss, then moves to kneel on the edge of the bed, tugging me by the paw. "Come on. Scoot."
 
 I laugh and swipe at my face with the sleeve of my shirt --- I must look a mess after all of this. Still, I scoot further up onto the bed at the coyote's bidding. "Alright, alright. How come?"
 
@@ -722,7 +790,7 @@ I nod. There's still that hint of a name --- I can think it, but would have a ha
 
 Memories from nigh on twenty years ago.
 
-A high school fling. Two dates, a night together, and drifting apart. She had seemed so uncomfortable with herself. We'd...well, tonight had more than made up for that.
+A high school fling, back in Sawtooth. Two dates, a night together, and drifting apart. She had seemed so uncomfortable with herself. We'd...well, tonight had more than made up for that.
 
 "And you?"
 
