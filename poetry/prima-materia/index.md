@@ -124,7 +124,7 @@ But my time is passed and yours begun.
     Two children of the same eternal mother.”
 </div>
 
-### Conjugation
+### Coagulation
 
 <div class="verse">
 Step forth, Uncia, hale and whole,
