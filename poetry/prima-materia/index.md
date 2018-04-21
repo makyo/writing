@@ -152,7 +152,7 @@ Makyo Alopex sleeps now,
     A fetch to call at need.
 Non sum qualis eram,
     I am not who I was.
-Matthew, Ranna, Astarael, Alopex,
+Ranna, Astarael, Alopex,
     Majo, Younes, Happenstance.
 When viewed through the lens of Makyo,
     I am my own magnum opus.
