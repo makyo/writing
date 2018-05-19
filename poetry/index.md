@@ -1,12 +1,12 @@
 ---
 comments: false
 counts:
-    characters_real: 603
-    characters_total: 747
+    characters_real: 663
+    characters_total: 823
     file: ./poetry/index.md
     paragraphs: 3
     type: jekyll
-    words: 119
+    words: 129
 layout: page
 title: Poetry
 ---
@@ -20,6 +20,8 @@ Works of poetry are posted here in reverse chronological order. All of the poetr
 
 ---|---
 Ongoing    | [Unimportant verse about important people](important-people)
+Ongoing    | [Post-op images](post-op-images)
+2018-05-04 | [Prima materia](prima-materia)
 2018-04-01 | [Somehow, she's me](somehow-shes-me)
 2018-01-31 | [Beneath her coat was a whole identity](beneath-her-coat-was-a-whole-identity)
 2017-08-14 | [Every time I fall](every-time-i-fall)

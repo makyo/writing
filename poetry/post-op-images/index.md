@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 2522
-    characters_total: 3312
+    characters_real: 2517
+    characters_total: 3306
     file: ./poetry/post-op-images/index.md
     paragraphs: 25
     type: jekyll
-    words: 605
+    words: 604
 layout: post
 title: Post-op images
 ---
@@ -22,18 +22,18 @@ Thursday is for sleep.
 <hr />
 
 When I am asleep
-The world changes around me
-This time, I am changed.
+The world changes around me.
+In spring, I am changed.
 
 <hr />
 
 I'm no good at images, only words,
 and yet for days after surgery,
 as anesthesia and countless
-    milligrams, milliliters, millions
-of drugs leave my system,
-I'm too lousy with visions.
-each too lousy of meaning.
+    milligrams, milliliters, millions of
+drugs leave my system,
+I'm lousy with visions,
+each lousy with meaning.
 
 I lay in bed, unable to move,
 struggling to keep my eyes open;
@@ -68,18 +68,18 @@ by the very act of attempting to reproduce;
 I can only hint from the margins.
 
 That poetry can accomplish what prose cannot
-in more economy of motion
+in its economy of motion
 is attractive to me, here in recovery -
-    so tired, so tired, so tired -
-so maybe I can hope to express the dire import
+    so tired, so tired, so tired - so
+maybe I can hope to express the dire import
 of these visions dancing behind closed lids,
 or at least remind myself on rereading.
 
 Even now, a week out,
 I'm starting to lose touch with the visions,
 I can almost touch them if I squint,
-    lie real still, don't move now,
-but even then, a shadow of the substance...
+    lie real still, don't move now, but
+even then, a shadow of the substance...
 I'm starting to consign to memory
 that which was probably memory to begin with.
 
@@ -87,7 +87,7 @@ that which was probably memory to begin with.
 
 It is two hundred miles between what I expect and what I want.
 Two hundred long strides that seem impassible from one direction,
-    and from the other seems a day's short drive.
+    and from the other a day's short drive.
 
 It is nine and a half hours between question and answer.
 A half hour of jazz, nine hours of sleep, a scant second of perspective,
@@ -95,10 +95,10 @@ A half hour of jazz, nine hours of sleep, a scant second of perspective,
 
 It is eleven inches between who I was and who I am.
 Ten of those inches are pain, the eleventh is numb,
-    There's pleasure to be had in there, too.
+    There's pleasure to be had in there, I'm promised.
 
 It is twelve years between what I want and what I get:
-Ten years of remembering who I will become, two years dreaming,
+Ten years of remembering who I will become, two years running,
     Eight days dreaming.
 
 <hr />
@@ -141,7 +141,7 @@ What became of it?
 What have you changed?
     <em>Nothing</em>
 What changed you?
-    <em>Being accepted</em>
+    <em>I was accepted</em>
 What became of it?
     <em>I accepted myself</em>
 
