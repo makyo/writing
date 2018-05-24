@@ -41,7 +41,7 @@ I know that if I close them,
     I'll be lost, I'll be lost, I'll be
 mired in waking dreams,
 coherent visions with all the logic
-of the that paler side of consciousness.
+of that paler side of consciousness.
 
 Perhaps the veil here
 is still too thin and vague,
