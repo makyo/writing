@@ -10,7 +10,7 @@ Incense for the tail. Something spicy and herbal. Something homemade rather than
 
 "Stand," Baron murmured.
 
-Ian wobbled to his feet, knees popping. Baron returned his sheepish smile with a happy grin.
+Ian wobbled to his feet, knees popping. Baron met his sheepish smile with a happy grin.
 
 "Welcome, now, spirits of earth and water, fire and air. Welcome spirits to guide us, spirits to light the way ahead of us." Baron, having replaced the elements, now retrieved his small frame drum and, using the softer end of the mallet, began a slow rhythmic beat to keep up with his patter.
 
