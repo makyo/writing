@@ -294,3 +294,18 @@ and I set about with a will,
 ignoring querulous voices
 in favor of your calm laugh.
 </div>
+
+-----
+
+<div class="verse">
+Between our houses,
+there is a simple fence -
+not a chasm, not a wall.
+Chain-link, waist high,
+bedecked with sweet-pea
+and set about with violets.
+Something we can tend,
+something to feel good about,
+something between us
+other than nothing.
+</div>
