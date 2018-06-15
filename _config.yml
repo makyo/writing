@@ -6,3 +6,7 @@ description: Writing (on various topics) from Madison Scott-Clary
 future:      true
 markdown:    kramdown
 permalink:   pretty
+plugins:
+    - jekyll-redirect-from
+whitelist:
+    - jekyll-redirect-from

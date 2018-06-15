@@ -7,8 +7,7 @@ counts:
     type: jekyll
     words: 110
 layout: post
-redirect_from:
-- /poetry/haikus/
+redirect_from: /poetry/haikus/
 title: Collected Haiku
 ---
 
