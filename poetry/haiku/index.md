@@ -7,7 +7,7 @@ counts:
     type: jekyll
     words: 110
 layout: post
-title: Collected Haikus
+title: Collected Haiku
 ---
 
 <div class="verse">
