@@ -1,15 +1,15 @@
 ---
 counts:
     characters_real: 529
-    characters_total: 648
-    file: ./poetry/haikus/index.md
+    characters_total: 654
+    file: ./poetry/haiku/index.md
     paragraphs: 11
     type: jekyll
     words: 110
 layout: post
+redirect_from:
+- /poetry/haikus/
 title: Collected Haiku
-redirect-from:
-    - /poetry/haikus/
 ---
 
 <div class="verse">
