@@ -20,7 +20,8 @@ Works of poetry are posted here in reverse chronological order. All of the poetr
 
 ---|---
 Ongoing    | [Unimportant verse about important people](important-people)
-Ongoing    | [Post-op images](post-op-images)
+Ongoing    | [Collected haikus](haikus)
+2018-05-20 | [Post-op images](post-op-images)
 2018-05-04 | [Prima materia](prima-materia)
 2018-04-01 | [Somehow, she's me](somehow-shes-me)
 2018-01-31 | [Beneath her coat was a whole identity](beneath-her-coat-was-a-whole-identity)
