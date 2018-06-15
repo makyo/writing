@@ -8,6 +8,8 @@ counts:
     words: 110
 layout: post
 title: Collected Haiku
+redirect-from:
+    - /poetry/haikus/
 ---
 
 <div class="verse">
