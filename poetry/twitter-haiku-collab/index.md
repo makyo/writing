@@ -43,3 +43,11 @@ and come up with naught.
 Too early for fruit to droop,
 we must wait past midsummer.
 </div>
+
+### [Dwale](https://twitter.com/ThornAppleCider/status/1009137826250625029)
+
+<div class="verse">
+Blackbird headed south
+Down to the hawks and kudzu
+Six months 'til winter
+</div>
