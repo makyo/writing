@@ -32,3 +32,14 @@ Cicadas singing
 Four-hundred miles from home
 This western land not my own
 </div>
+
+### [Makyo](https://twitter.com/makyo_writes/status/1009131881021837312)
+
+<div class="verse">
+Fig leaves like fingers
+paw feebly through still hot air
+and come up with naught.
+
+Too early for fruit to droop,
+we must wait past midsummer.
+</div>

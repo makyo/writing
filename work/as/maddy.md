@@ -1,11 +1,4 @@
 ---
-counts:
-    characters_real: 3006
-    characters_total: 3725
-    file: ./work/as/maddy.md
-    paragraphs: 16
-    type: jekyll
-    words: 715
 layout: draft
 title: The magic of furry
 ---
@@ -34,7 +27,25 @@ So it was that, shortly after my surgery consult back in 2016, I got the idea to
 
 She was different from the 'usual' in a few ways. She's cis, for one, unlike the arctic fox, who transitioned along with me. She's shorter and a bit pudgier than I am. She's happier and struggles less with mental health. She's an ideal rather than a reality, and something to be played for fun.
 
-Or, well, she was. This 'alt' phase lasted a few months, I suppose, before I woke up one morning and realized I'd not interacted as an arctic fox in a few days.
+Or, well, she was. This 'alt' phase lasted a few months, I suppose, before I woke up one morning and realized I'd not interacted as an arctic fox in a few days. Slowly but surely, the snow leopard had started to overtake the fox.
+
+Becoming an arctic fox was something that just sort of happened to me. Back in 2005, I was pretty firmly camped out in red fox territory with a character named Ranna, and yet, in 2006, I shifted pretty quickly away from that character to Makyo Alopex.
+
+It took a bit of time before I figured out what the big life change was that went along with this. I finally settled on how, once my friends Ash, Shannon, and I moved to our own house, I finally felt on my own. When I was living in the dorms, I was simply 'away from home'. Now, though, paying rent, I was well and truly moved out. No empty nester, my mom greeted the news that I wasn't coming home for the summer with joy, telling me, "Good, now you can take the rest of your stuff."
+
+2005 and 2006 were the years I finally started to grow up, and so that was the end of Ranna. 2017 and 2018 have been the years I've started living pretty authentically as a woman - visibly trans, sure, but also visibly feminine. This upcoming surgery has been something of a final blow to Makyo Alopex as a character, or at least as a main.
+
+One of the downsides to the end of Ranna, is that it happened very suddenly, and not at all deliberately. Which, come to think of it, also applies to me moving out on my own and starting to grow up. It felt like an accident, slipping away from who I used to be.
+
+My goal is to avoid that with the change from arctic fox to snow leopard. This is, as with surgery, a process of death and rebirth. Makyo Alopex is dying, in many senses of the word, and being reborn in Makyo Uncia, called Maddy. I have intent here, more than I did when I left Ranna behind. I have the will, in Crowley's terms, and the ability to make it manifest.
+
+As with a lot of how I experience furry, this is a microcosm, rather than something unique. I am not the only one to be deliberate about changing my species, just as I'm not the only one to read way too much into the furry fandom.
+
+Furry, as a whole, is an exercise in self-actualization. It is taking the idea of "this is how I want to be seen" to places and extents not often tread.
+
+Through each aspect of ourselves, we choose how we want to interact. We choose a species,
+
+Just as I can dig into the intent behind changing a name, a fursona, an identity, I can look for the magic of self-actualization within furry as a whole. After all, furry is magic.
 
 (fox to cat, death and rebirth, alchemy)
 
