@@ -51,3 +51,14 @@ Blackbird headed south
 Down to the hawks and kudzu
 Six months 'til winter
 </div>
+
+### [CM Averin](https://twitter.com/averincm/status/1009307822738161664)
+
+<div class="verse">
+Redbud and dogwood
+feathers bursting from leaf-wait
+in the deep of here
+
+underneath cut mountaintops
+up and down flooded culverts
+</div>
