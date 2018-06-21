@@ -62,3 +62,22 @@ in the deep of here
 underneath cut mountaintops
 up and down flooded culverts
 </div>
+
+### [Tarith Averin](https://twitter.com/tarithaverin/status/1009877999217307653)
+
+<div class="verse">
+A light sighing sound,
+Wind slipping through leaf and wing,
+The heat's brief respite.
+</div>
+
+### [Rayah](https://twitter.com/Rayahbunny/status/1009879693372411907)
+
+<div class="verse">
+A storm is coming
+My ears perk at the crashing
+It is almost here
+
+The end of a season near
+Fresh rain pours from the heavens
+</div>
