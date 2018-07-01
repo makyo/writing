@@ -33,5 +33,29 @@ of different lands, and you turning inwards,
 exploring lines of thought you never put in words,
 at least not that you told me.
 
+And then one day, we once more went out walking
+and though it took a while, you got to talking.
+You told me of how  you sat, quiet and alone,
+waiting for the time you migth turn to stone
+and be completely still at last.
+
+You told me how as you sat, the room lengthened,
+curved around, turned on you - strengthened,
+it seemed, by your very presence -
+and amid all of that gathered pleasance,
+bit you in half.
+
+You told me how, as part of you died
+in that moment, the rest of you spied,
+it seemed, on this very ending.
+You told me you thought that this rending
+was the end of something big.
+
+I listened in silence. What could I say?
+The things you were telling me on the walk that day
+were strangely shaped and didn't make sense.
+Or if they did, they did so around corners: pretense,
+perhaps. Subtext, allusion, metaphor.
+
 
 </verse>
