@@ -1,12 +1,12 @@
 ---
 comments: false
 counts:
-    characters_real: 663
-    characters_total: 823
+    characters_real: 699
+    characters_total: 866
     file: ./poetry/index.md
     paragraphs: 3
     type: jekyll
-    words: 129
+    words: 134
 layout: page
 title: Poetry
 ---
@@ -21,6 +21,7 @@ Works of poetry are posted here in reverse chronological order. All of the poetr
 ---|---
 Ongoing    | [Unimportant verse about important people](important-people)
 Ongoing    | [Collected haiku](haiku)
+2018-07-01 | [Growth](growth)
 2018-05-20 | [Post-op images](post-op-images)
 2018-05-04 | [Prima materia](prima-materia)
 2018-04-01 | [Somehow, she's me](somehow-shes-me)

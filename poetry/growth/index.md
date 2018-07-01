@@ -1,6 +1,19 @@
 ---
+counts:
+    characters_real: 3807
+    characters_total: 4731
+    file: ./poetry/growth/index.md
+    paragraphs: 28
+    type: jekyll
+    words: 894
 layout: post
 ---
+
+![Growth](/assets/growth.jpg)
+
+<small>"Growth" by <a href="https://www.patreon.com/Cadmiumtea">Julian Norwood</a></small>
+
+-----
 
 <div class="verse">
 Used to be you and I daily would walk
@@ -52,8 +65,8 @@ waiting for the time you might turn to stone
 and be completely still at last.
 
 You told me how as you sat, the room lengthened,
-curved around, turned on you - strengthened,
-it seemed, by your very presence -
+curved around, turned on you --- strengthened,
+it seemed, by your very presence ---
 and amid all of that gathered pleasance,
 bit you in half.
 
@@ -72,7 +85,7 @@ perhaps, subtext, allusion, metaphor.
 You were right, though, I could hear it in your voice.
 There was finality, there, which spoke of a choice
 already made. Endings were writ on your face,
-your hands, and your steps - your very pace
+your hands, and your steps --- your very pace
 spoke of completion.
 
 I replied to that sense rather than your words.
@@ -152,4 +165,4 @@ through the fields out back of the house and talk.
 Now, it's just me, alone, quiet, thinking
 of you by the shore, forever drinking
 of sweet water.
-</verse>
+</div>
