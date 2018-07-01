@@ -7,6 +7,7 @@ counts:
     type: jekyll
     words: 894
 layout: post
+title: Growth
 ---
 
 ![Growth](/assets/growth.jpg)
