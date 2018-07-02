@@ -114,7 +114,7 @@ Spelling subtle incantations and charms
 to the chaos of growth.
 
 You bowed your head and from your crown
-sprouted a tender shoot, covered in fine down
+sprouted a tender shoot covered in fine down,
 soon followed by crenelated leaves and fine stems.
 The pace was fast, implacable, and leaves like gems
 soon arched skyward.
@@ -159,7 +159,7 @@ You, my friend, are still there.
 I walk the fields every day, passing where
 you changed into something new.
 I marvel at you, at how you grew
-into a different you.
+into something wholly different.
 
 Used to be you and I daily would walk
 through the fields out back of the house and talk.
