@@ -824,7 +824,7 @@ Sélène gave a dismissive wave of her paw. "Mom and older sister. Mom was unpre
 
 Malina gave the fox an appraising look. "You don't look much like a moon, dear."
 
-"I'd hope not." Selina grinned.
+"I'd hope not." Sélène grinned.
 
 The badger slipped her arm around Sélène, gently tugging the fox toward her. Sélène squirmed to get her tail out of the way and let herself be guided until she was leaning back against Malina, and Malina back against the arm of the couch.
 
