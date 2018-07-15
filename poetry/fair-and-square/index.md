@@ -23,7 +23,7 @@ With hands raw from coarse identity.
 I kneaded and pressed and squeezed,
 Savoring every curve,
 Skipping every tenth day,
-Unti it all felt right,
+Until it all felt right,
 Like the sweet smell of pine bark
     Rubbed between fingers
 Or the whisper of maple leaves
