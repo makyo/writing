@@ -1,7 +1,14 @@
 ---
+counts:
+    characters_real: 572
+    characters_total: 722
+    file: ./poetry/fair-and-square/index.md
+    paragraphs: 1
+    type: jekyll
+    words: 126
+date: 2018-07-08
 layout: post
 title: Fair and Square
-date: 2018-07-08
 ---
 
 <div class="verse">
