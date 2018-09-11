@@ -2,11 +2,11 @@
 counts:
     characters_real: 2732
     characters_total: 3382
-    file: ./work/sawtooth/fisher.md
+    file: ./fiction/sawtooth/vignettes/fisher.md
     paragraphs: 14
     type: jekyll
     words: 647
-layout: draft
+layout: page
 title: Fisher
 ---
 
