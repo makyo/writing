@@ -1,0 +1,17 @@
+---
+layout: post
+title: Numeno
+date: 2018-09-28
+---
+
+<div class="verse">
+Inter ĝuo kaj timo
+Estas loko de tro da signifo.
+Apud kompreno, ekster saĝo,
+Tamen ĝi tutampleksas.
+Mi kompareble malgrandas
+Kaj ĝi tro granda estas.
+Nekomprenebla
+Nekontestebla,
+Senmova kaj ĉiam ŝanĝiĝema.
+</div>
