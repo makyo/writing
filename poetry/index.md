@@ -21,6 +21,8 @@ Works of poetry are posted here in reverse chronological order. All of the poetr
 ---|---
 Ongoing    | [Unimportant verse about important people](important-people)
 Ongoing    | [Collected haiku](haiku)
+2018-10-07 | [Asertu](esperanto/asertu) *(eo)*
+2018-09-28 | [Numeno](esperanto/numeno) *(eo)*
 2018-07-08 | [Fair and square](fair-and-square)
 2018-07-01 | [Growth](growth)
 2018-05-20 | [Post-op images](post-op-images)

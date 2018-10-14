@@ -36,12 +36,13 @@ Plot 1:
     * Debarre's boyfriend
     * Cat
     * Got lost early on
-* Caitlin
+* Caitlin Fowler
     * lights
-* Sarai
+* Sarai Coen
     * stage manager
-* Carl Johansson
+* Bernhard Johansson
     * director
+
 
 Plot 2:
 * Dr. Carter Ramirez
@@ -102,6 +103,7 @@ Plot 2:
                 * Mic left on, sign that someone might be helping from the outside?
                 * finds mic by turning up house sound and making noise until ey gets feedback, stops by turning mic off
             2. List of Cicero's votes - shift in currency without a corresponding vote.
+        * Walks to town, clinic where ey had implants done was near to school.
     * RJ discovers secret
         * those in control steering net Direct Democracy Representative (All Thing) through software, fight between Western Federation and Russian Bloc.
         * easter eggs planted to steer votes
@@ -110,13 +112,14 @@ Plot 2:
     * Shadowy govt Representative brought to light through mooks
         * Sanders as government plant to foil CR
         * CR into hiding, dives in after RJ
-            * CR can't get Lost, would be too suspicious
+            * CR can't get Lost, would be too suspicious (they already fucked up disappearing RJ so shortly after Cicero)
         * Not the Russian Bloc, personal power within WF
     * RJ starting to lose emself by now
         * pulling back is a protocol, protocols can be ignored
         * Difficulty bringing em back
         * The theater does it, love of creation
-        * Make it back, bring with the secret
+    * Make it back, bring with the secret
+* Postscript - retrieving Priscilla
 
 ## Critique
 

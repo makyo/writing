@@ -2,9 +2,9 @@ The salt was gritty beneath Baron's pawpads. It was a good feeling. A dry sort o
 
 Salt for each of the paws. Just a dry rub against each of the pads, interpad fur dusted with coarse grains.
 
-Water for the muzzle, dabbed at each of the whiskerpads, tickling its way through the fur. Another dab ta chin and a fourth between the eyes. The water beaded for a moment atop his muzzle before soaking into the short fur there, cool.
+Water for the muzzle, dabbed at each of the whiskerpads, tickling its way through the fur. Another dab at chin and a fourth between the eyes. The water beaded for a moment atop his muzzle before soaking into the short fur there, cool.
 
-Fire for the claws. Just a feathery brush of flame right across the tips, warmth spilling across fingers and toe as the bright flame flickered fromt he disturbance, casting crazing shadows throughout the otherwise dim room. Just the candle and what light made it through the curtains, despite the bright day beyond.
+Fire for the claws. Just a feathery brush of flame right across the tips, warmth spilling across fingers and toe as the bright flame flickered from the disturbance, casting crazing shadows throughout the otherwise dim room. Just the candle and what light made it through the curtains, despite the bright day beyond.
 
 Incense for the tail. Something spicy and herbal. Something homemade rather than the cloying garbage that lined the shelves at hippie bookstores these days. Baron had made his own for years since the one consistent source for the incense he could stand had gone out of business. A waft of fragrant smoke through his brush to leave behind pleasant cleanliness.
 
