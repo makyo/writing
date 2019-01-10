@@ -1,11 +1,11 @@
 ---
 counts:
-    characters_real: 3348
-    characters_total: 4220
+    characters_real: 3805
+    characters_total: 4777
     file: ./work/getting-lost/outline.md
     paragraphs: 12
     type: jekyll
-    words: 697
+    words: 796
 layout: page
 title: Getting Lost
 ---
@@ -111,13 +111,14 @@ Plot 2:
 * Act 3
     * Shadowy govt Representative brought to light through mooks
         * Sanders as government plant to foil CR
-        * CR into hiding, dives in after RJ
+        * CR into hiding, dives in, tries to get to RJ physically, gets help of theater
             * CR can't get Lost, would be too suspicious (they already fucked up disappearing RJ so shortly after Cicero)
+            * Overhears doctor mooks talking about dreaming, hits on idea that equipment is acting as a mirror, even if it appears to just be passive (previous attempt to break user free from implants led to coma, so it had been discarded)
         * Not the Russian Bloc, personal power within WF
     * RJ starting to lose emself by now
         * pulling back is a protocol, protocols can be ignored
-        * Difficulty bringing em back
-        * The theater does it, love of creation
+        * CR tries to break the mirror effect of the implants by getting in with RJ by abusing test hardware used for pairing during training
+        * Leaves enough of an opening for em to pull back
     * Make it back, bring with the secret
 * Postscript - retrieving Priscilla
 
