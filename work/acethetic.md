@@ -73,7 +73,7 @@ It had irked them to no end, and they knew it wasn't the case --- they didn't th
 
 Maybe it was true. Maybe they were just born busted, just needed a quick fix.
 
-Jace shook their head, feeling the reverie cling to their thoughts like whisps of cobweb, dogging their vision even as they struggled to get changed out of dull work clothes and into their nicest shifting clothes. Loose black slacks with elastic that wasn't too worn out, and a 'button'-up shirt that was clasped shut with magnets behind the faux-buttons.
+Jace shook their head, feeling the reverie cling to their thoughts like wisps of cobweb, dogging their vision even as they struggled to get changed out of dull work clothes and into their nicest shifting clothes. Loose black slacks with elastic that wasn't too worn out, and a 'button'-up shirt that was clasped shut with magnets behind the faux-buttons.
 
 This Ellie they were meeting tonight was one they hoped would be one of those who were comfortable with both the ace and the were thing, and that all that would be left would be the actual did-the-date-work-ness of the night.
 

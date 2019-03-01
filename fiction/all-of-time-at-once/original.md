@@ -23,11 +23,11 @@ I blinked --- there was an interesting request. I looked closely at the man, who
 
 We set about getting him ready to go. Through polite chatter, I learned that he was just moving back to Boulder after a leave of absence and he learned that my name was Joseph. I mentioned earlier that people from Boulder tend to be friendly (and liberal, and new-age...), but the way Nick was opening up, he must've lived there quite a long time. I didn't exactly mind, but I wasn't quite yet on the same level as him.
 
-By the time we finished emptying my can of gas into his dusty truck, I'd agreed to let Nick pay me for the gass and the quarter tank's worth needed to fill my truck (mostly because I was broke), and, addicts that we both were, we agreed to stop by at a nearby coffee shop afterwards, since neither of us had anything to do afterwards.
+By the time we finished emptying my can of gas into his dusty truck, I'd agreed to let Nick pay me for the gas and the quarter tank's worth needed to fill my truck (mostly because I was broke), and, addicts that we both were, we agreed to stop by at a nearby coffee shop afterwards, since neither of us had anything to do afterwards.
 
 Our discussion moved onto current events over two mochas, mine with a shot of peppermint in it (trendy, but tasty). We'd tried talking about ourselves, to be friendly, but we mostly ended up just skirting interesting details and pretending to reveal our secrets. By silent agreement, we decided that neither of us knew each other well enough to continue on such a subject, so we moved onto something more neutral.
 
-"They say that, since he pled insanity, even though he pled guilty to rape, they're going to charge her with prostitution." Nick was saying. "It's like they're taking the 'asking for it' argument to a new extreme: having insane people rape you is your fault or something."
+"They say that, since he plead insanity, even though he plead guilty to rape, they're going to charge her with prostitution." Nick was saying. "It's like they're taking the 'asking for it' argument to a new extreme: having insane people rape you is your fault or something."
 
 "That's...stupid," I say slowly, feeling fairly stupid myself. "You'd think they'd have some common sense about these things." My mind was moving slow, like it does when you've not had any sleep the night before. I wasn't tired, I was just thinking with all the speed of a bottle of molasses. Of course, that didn't stop my elitist emotions from riling up against the stupidity of a nation.
 
@@ -41,7 +41,7 @@ Nick and I have been meeting about once or twice a week for a solid year now. No
 
 Another thing that hasn't changed is the slow feeling I get while around him. It's progressed a bit, perhaps, and it feels a bit like déjà vu now. I've been pondering seeing someone about it, but I'm not sure whom I would see. It's a physical feeling, but the cause, being around Nick, is so specific that it sounds psychological. Nicks says just to ignore it, and that he's felt the same thing about others, and that things turned out fine. He then proceeded to joke that it may be love.
 
-No, things haven't really changed for us, but the world around us has. Our recent conversations have spanned across topics from the news ranging from the sudden resurgence of a cappella pop music among college students to recent NASA disasters, from more absurd crimes to new follies of the res publica.
+No, things haven't really changed for us, but the world around us has. Our recent conversations have spanned across topics from the news ranging from the sudden resurgence of *a cappella* pop music among college students to recent NASA disasters, from more absurd crimes to new follies of the *res publica*.
 
 One current scandal was over the growth of interest in magic. The physicists said no, the metaphysicists said maybe, and the media happily embraced it while conservative groups around the world denounced it angrily before going on to practice their own brand of mysticism.
 
@@ -51,7 +51,7 @@ Unfortunately for the world, the Mentats weren't just a cult, and, however subtl
 
 On to the important thing, though: sushi. A once-every-few-months type of deal, Nick and I went to a nice, modern sushi restaurant. The chairs were uncomfortable, the place was noisy and poorly lit, but the sushi was excellent and, as an added bonus, there was a small, flowing stream of water running in a shallow-cut trench in the bar. No fish, though.
 
-"So, what do you think of this whole Mentat thing?" Nick asked. He had caught me right as I had neatly fit a pice of a tempura roll in my mouth. He was an expert at that.
+"So, what do you think of this whole Mentat thing?" Nick asked. He had caught me right as I had neatly fit a piece of a tempura roll in my mouth. He was an expert at that.
 
 I finished the tasty morsel and leaned back, trying to think of a tactful reply. "I think it was poorly done. I mean, that Clarke guy had the right idea, train a few in case something got him, but distributing the documents on the internet just made the governmentals more edgy. They don't like stuff done for free like that, they're capitalists. Besides, it would've been awful if they'd decided to do the oppression thing," ever ready to expound my opinion as truth, was I.
 
@@ -77,7 +77,7 @@ Anyway, I was studying for midterms and Nick was lounging on the patio when our 
 
 "Hello," said he. "You are Joseph Stringer." It wasn't a question as much as it was a statement of truth (an annoying habit of the more advanced Mentats), so he kept on talking. "Nicholas Jospeh Stroud is out on the porch. I wish to talk with you both."
 
-The man was frightening, so I nodded, swallowed dryly, and led him out to the porch where we took a seat next to Nick. Nick himself hardly acknowledged our presence, he just kept staring out from the porch over into the park next door. It was an eternity before anyone spoke: I was too confused to, and the Mentat was content to sit five years in that one spot if need be, andNick was clearly reflecting on something. Nevertheless, he was the first one to break the silence, "Hello, Doctor Clarke." I blinked and looked stolidly at the large, balding man. I had a headache. "I've been feeling worse. It's about time, isn't it?"
+The man was frightening, so I nodded, swallowed dryly, and led him out to the porch where we took a seat next to Nick. Nick himself hardly acknowledged our presence, he just kept staring out from the porch over into the park next door. It was an eternity before anyone spoke: I was too confused to, and the Mentat was content to sit five years in that one spot if need be, and Nick was clearly reflecting on something. Nevertheless, he was the first one to break the silence, "Hello, Doctor Clarke." I blinked and looked stolidly at the large, balding man. I had a headache. "I've been feeling worse. It's about time, isn't it?"
 
 Then, in the most emotion I think I've ever seen an advanced Mentat exude, Clarke sighed. "You know what will happen. I just wished to let you know how soon, so that you may prepare yourself." If Nick became an advance Mentat, I probably would go insane, having to live with him. "Do you mind if I leave from here." Another statement. He left. I suppose the brevity comes with the lack of emotion.
 
@@ -97,7 +97,7 @@ I felt my mind clearing slightly as I had this problem to think about. I sat up 
 
 "Not necessarily," said  Nick. "You'll see it clearly when they send you back, but I'll try to explain. Time wouldn't let anything bad come of it; if you go back in time, it's as I met you. You've changed because your time flowed forward at a different time as mine, and your experiences have changed you. That bull about the same atoms occupying the same space at the same time has the same possibility of happening as you finding the gaps between the atoms in a wall and walking right through it."
 
-I laughed as I pictured someone sliding back and forth alonga wall to find the gaps. I lay back down and stared up at the ceiling as the laughter faded. My perception of reality was falling apart. I closed my eyes and remembered the past two years. My brain had tricked me. It had seen the truth behind Nick from the beginning, but it refused to acknowledge that such a thing was true until it was confirmed. Now that it had been confirmed, I felt like I was merging with myself --- Nick --- who stretched out beside me. I thought of how I felt about him/me, and blurted out that I loved him/myself, even if he/I already knew.
+I laughed as I pictured someone sliding back and forth along a wall to find the gaps. I lay back down and stared up at the ceiling as the laughter faded. My perception of reality was falling apart. I closed my eyes and remembered the past two years. My brain had tricked me. It had seen the truth behind Nick from the beginning, but it refused to acknowledge that such a thing was true until it was confirmed. Now that it had been confirmed, I felt like I was merging with myself --- Nick --- who stretched out beside me. I thought of how I felt about him/me, and blurted out that I loved him/myself, even if he/I already knew.
 
 "I know." He laughed, which made me blush, and continued, "It's the ultimate in narcissism, isn't it? When the Mentats ran through their records in search of someone to send back, they were searching for someone who was just a bit naïve and had good self-esteem. If they hadn't done that, there would've been a good chance that, even though the two had met up, they might hate each others' guts."
 
@@ -115,6 +115,6 @@ Beinng sent is the most relaxing thing that you could ever have happened to you 
 
 All of time at once is a beautiful thing. Words can't describe it, because none of the five senses experience it. You can sense your own track, your own destiny through time, and everyone else's independently. You're spread out across all of eternity as you fall toward the infinitely small point of your destination in time.
 
-As he takes forever to instantaneously snap back into reality, hewill understand who Time is: Time is kind, but strict. Time will bend the rules to let him back in, but Time will give him the headaches. I still have mine. I suspect they will go away when Joseph does. I also suspect that Time will pretend Joseph never was, but that Time will let my memories of the past two years stay; it's not the process that matters, so much as the result.
+As he takes forever to instantaneously snap back into reality, he will understand who Time is: Time is kind, but strict. Time will bend the rules to let him back in, but Time will give him the headaches. I still have mine. I suspect they will go away when Joseph does. I also suspect that Time will pretend Joseph never was, but that Time will let my memories of the past two years stay; it's not the process that matters, so much as the result.
 
 As for what happens to Joseph after, you already know that. Me, I think I'll become a writer; the Mentats will take care of me for my 'service to humanity,' and I suspect Time will be kind enough to let me live quite a bit longer. I've always wanted to be a writer. I'll use a pseudonym, though. I'm rather fond of Nicholas.

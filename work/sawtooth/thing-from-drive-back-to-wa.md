@@ -25,13 +25,23 @@ Sawtooth High had a few computer classes, but none of them warranted the lab tha
 
 (first hints of bipolar)
 
+-----
+
 (Walking out to fields)
+
+-----
 
 (depressive episode in uni)
 
+-----
+
 (Sitting in the prarie, feeling emotions rush and surge)
 
+-----
+
 (manic episode after graduation)
+
+-----
 
 (emotions rush up to euphoria, all is still)
 
