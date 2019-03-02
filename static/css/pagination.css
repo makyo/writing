@@ -1,0 +1,35 @@
+ul.pagination {
+    list-style-type: none;
+    display: block;
+    margin: 1rem auto;
+}
+
+ul.pagination li {
+    display: inline-block;
+    border: 2px solid #000;
+    min-width: 2rem;
+    text-align: center;
+    margin-right: -10px;
+}
+
+ul.pagination li:last-of-type {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+ul.pagination li:first-of-type {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+ul.pagination .page-item.disabled a {
+    color: #666;
+    border: none;
+    cursor: text;
+}
+
+ul.pagination .page-item.active a {
+    text-decoration: none;
+    border: none;
+    cursor: text;
+}
