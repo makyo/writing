@@ -1,12 +1,4 @@
 ---
-counts:
-    characters_real: 272
-    characters_total: 339
-    file: ./work/sawtooth/index.md
-    paragraphs: 4
-    type: jekyll
-    words: 55
-layout: page
 title: Sawtooth
 ---
 

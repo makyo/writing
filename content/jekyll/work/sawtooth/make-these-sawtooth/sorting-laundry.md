@@ -7,7 +7,7 @@ counts:
     type: jekyll
     words: 216
 date: 2017-02-11
-layout: post
+type: post
 title: Sorting Laundry
 ---
 

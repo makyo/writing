@@ -34,16 +34,16 @@ defaultContentLanguage = "en"
     url = "/non-fiction/"
     weight = 3
   [[menu.nav]]
-    name = "Blog"
-    url = "/post/"
+    name = "Poetry"
+    url = "/poetry/"
     weight = 4
+  [[menu.nav]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 5
   [[menu.nav]]
     name = "Tags"
     url = "/tags/"
-    weight = 5
-  [[menu.nav]]
-    name = "About"
-    url = "/about/"
     weight = 6
   [[menu.nav]]
     name = "RSS"

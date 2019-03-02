@@ -7,7 +7,7 @@ counts:
     type: jekyll
     words: 426
 date: 2017-11-29
-layout: post
+type: post
 title: Where The Dust Comes from
 ---
 
