@@ -1,0 +1,45 @@
+{{ define "main" }}
+<style>
+@import url('https://fonts.googleapis.com/css?family=Gentium+Book+Basic');
+.post-content {
+    font-family: "Gentium Book Basic";
+}
+</style>
+  <main id="main">
+    <h1>
+      <svg class="bookmark-icon" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
+        <use xlink:href="#bookmark"></use>
+      </svg>
+      {{ .Title }}
+    </h1>
+    <div class="date">
+      {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2006" }}
+      <strong aria-hidden="true">Publish date: </strong>{{ .PublishDate.Format $dateFormat }}
+    </div>
+    <div class="tags">
+    {{ with .Params.tags }}
+        <strong aria-hidden="true">Tags: </strong>
+        <ul aria-label="tags">
+          {{ range . }}
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use xlink:href="#tag"></use>
+              </svg>
+              <a href="{{ "tags/" | absLangURL }}{{ . | urlize }}">{{ . }}</a>
+            </li>
+          {{ end }}
+        </ul>
+    {{ end }}
+    {{ with .Params.rating }}
+        <ul><li><strong>?</strong> Rated {{ . }} </li></ul>
+    {{ end }}
+    </div>
+
+    {{ if ne .Params.toc false }}
+      {{ partial "toc" . }}
+    {{ end }}
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+  </main>
+{{ end }}

@@ -1,0 +1,51 @@
+baseURL = "https://writing.drab-makyo.com"
+languageCode = "en-us"
+title = "So Many Words"
+theme = "cupper-hugo-theme"
+defaultContentLanguage = "en"
+
+[taxonomies]
+  tag = "tags"
+  rating = "ratings"
+
+[permalinks]
+  post = "/:filename/"
+
+[imaging]
+  quality = 99
+
+[params]
+  description = "Writing by Madison Scott-Clary"
+  footer = "Copyright &copy; Madison Scott-Clary, 2012-2019 under the CC BY-NC-SA (Attribution-NonCommercial-ShareAlike) license "
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat = "Jan 2, 2006"
+
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Fiction"
+    url = "/fiction/"
+    weight = 2
+  [[menu.nav]]
+    name = "Non-fiction"
+    url = "/non-fiction/"
+    weight = 3
+  [[menu.nav]]
+    name = "Blog"
+    url = "/post/"
+    weight = 4
+  [[menu.nav]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 5
+  [[menu.nav]]
+    name = "About"
+    url = "/about/"
+    weight = 6
+  [[menu.nav]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 7
