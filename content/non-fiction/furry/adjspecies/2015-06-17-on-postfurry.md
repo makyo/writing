@@ -12,7 +12,7 @@ tags:
 
 I'm not really sure how I wound up getting involved with the postfurry community.  I mean, I can point to the moment that I found furry itself and how what went from a curious interest built into something decidedly more (a passion? an obsession?), but the same isn't necessarily the case with postfurry.  If I start tracing the lines backwards, rather a lot of them converge on one critter in particular, Indi.
 
-[![Indi (art by Cinna)](http://www.adjectivespecies.com/wp-content/uploads/2015/06/1406786072.indicoyote_07-12-alt-300x267.png)](http://indi.latrani.net/)
+[![Indi (art by Cinna)](https://www.adjectivespecies.com/wp-content/uploads/2015/06/1406786072.indicoyote_07-12-alt-300x267.png)](http://indi.latrani.net/)
 
 >Indi (art by [Cinna](http://www.furaffinity.net/user/nowandlater/))
 
@@ -69,7 +69,7 @@ More specifically, I would estimate that a good seventy-five to eighty percent o
 
 This trend even has a name within the community, the Gender Cascade (though 'transpolsion' was also suggested).  In fact, this surrounds much of how Indi and I began talking in earnest.  As we both of us began to explore gender identity and expression, we began sharing with each other the steps we were taking, encouraging each other and showing each other how easy various things were.  Ve even helped me with portions of the Furry Poll, designing and implementing the gender coordinates widget there.
 
-[![Becoming Oneself (art by Mandi Tremblay)](http://www.adjectivespecies.com/wp-content/uploads/2015/06/mandi-trans-small-makyo-232x300.jpg)](http://www.adjectivespecies.com/wp-content/uploads/2015/06/mandi-trans-small-makyo.jpg)
+[![Becoming Oneself (art by Mandi Tremblay)](https://www.adjectivespecies.com/wp-content/uploads/2015/06/mandi-trans-small-makyo-232x300.jpg)](https://www.adjectivespecies.com/wp-content/uploads/2015/06/mandi-trans-small-makyo.jpg)
 
 > Becoming Oneself (art by [Mandi Tremblay](http://mittymandi.tumblr.com/))
 
@@ -81,7 +81,7 @@ This is hardly unique to postfurries, of course - I don't mean to claim such.  O
 
 As I mentioned before, there's another way to look at postfurry, focusing more on the aesthetic, and that is as an extension of furry.  This fits pretty well with several other trends that start with 'post-'.
 
-It's easy to see how postfurry could have started as gently mocking the furry fandom and its prevalent aesthetics.  As Flip mentioned in his [dissection of the modern furry aesthetic](http://www.adjectivespecies.com/2015/06/08/the-modern-furry-aesthetic-an-interview-with-flip/), much of the contemporary furry style has its roots in the styles that accompanied late golden-era science fiction and fantasy from the seventies, which was in turn influenced by the golden age itself.
+It's easy to see how postfurry could have started as gently mocking the furry fandom and its prevalent aesthetics.  As Flip mentioned in his [dissection of the modern furry aesthetic](https://www.adjectivespecies.com/2015/06/08/the-modern-furry-aesthetic-an-interview-with-flip/), much of the contemporary furry style has its roots in the styles that accompanied late golden-era science fiction and fantasy from the seventies, which was in turn influenced by the golden age itself.
 
 With this in mind, it's not hard to see the general progression of furry to postfurry following similar lines as the progression from golden-age science fiction to cyberpunk, only a few decades later.
 
@@ -89,7 +89,7 @@ From that progression come the relevant next steps of irony, and irony subverted
 
 This can also be seen as tongue-in-cheek subversions.  For instance, the postfurry aesthetic might be described as a response to the dominant furry aesthetic of the time.  While the dominant aesthetic might have been a posed pin-up of a fox ready for The Sex, the postfurry version would have the same fox in the same pose, but he's there because he's been hypnotized.  In this sense, postfurry can be seen as a sort of self-aware casting of furry, beginning as tongue-in-cheek mocking, moving through parody, into a turning into a legitimate deconstruction.
 
-[![Fucking Sparkledogs (by Lunostophiles)](http://www.adjectivespecies.com/wp-content/uploads/2015/06/6ba0743521822d51893222ea6f7f104fe7b905032340b3831acbc64a278bdd49-300x222.jpg)](http://www.adjectivespecies.com/wp-content/uploads/2015/06/6ba0743521822d51893222ea6f7f104fe7b905032340b3831acbc64a278bdd49.jpg)
+[![Fucking Sparkledogs (by Lunostophiles)](https://www.adjectivespecies.com/wp-content/uploads/2015/06/6ba0743521822d51893222ea6f7f104fe7b905032340b3831acbc64a278bdd49-300x222.jpg)](https://www.adjectivespecies.com/wp-content/uploads/2015/06/6ba0743521822d51893222ea6f7f104fe7b905032340b3831acbc64a278bdd49.jpg)
 
 > Fucking Sparkledogs, now in handy cross-stitch form factor (by Lunostophiles)
 
@@ -122,7 +122,7 @@ Even so, as the quip goes, furries are fans of each other.  This leads to a set 
 
 Finally, a lot of what this leads to - the payoff, for lack of a better term - is that postfurry has developed into an intentional community.  This has evolved over time, to be sure, from the interactions on Puzzlebox MUCK, to the construction of Transliminal, to the creation of the Postfurry Muck, the establishing of the Slack community, and so on.
 
-[![Almost two dozen postfurries live within the bounds of this map.](http://www.adjectivespecies.com/wp-content/uploads/2015/06/screen_shot_2015-06-14_at_6.16.07_pm-300x269.png)](http://www.adjectivespecies.com/wp-content/uploads/2015/06/screen_shot_2015-06-14_at_6.16.07_pm.png)
+[![Almost two dozen postfurries live within the bounds of this map.](https://www.adjectivespecies.com/wp-content/uploads/2015/06/screen_shot_2015-06-14_at_6.16.07_pm-300x269.png)](https://www.adjectivespecies.com/wp-content/uploads/2015/06/screen_shot_2015-06-14_at_6.16.07_pm.png)
 
 > Almost two dozen postfurries live within the bounds of this map, at about 7 miles on a side.
 
