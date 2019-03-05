@@ -1,7 +1,7 @@
 ---
 date: 2017-01-23
 type: post
-rating: PG
+ratings: G
 title: "Après un rêve"
 description: A young woman reluctantly goes through with the uploading procedure, risky though it is, to reconnect with her lover.
 tags:

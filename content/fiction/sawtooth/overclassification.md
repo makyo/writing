@@ -1,7 +1,7 @@
 ---
 date: 2017-09-04
 type: post
-rating: R
+ratings: R
 title: Overclassification
 description: A chronically neat otter's life is thrown into disarray when she takes a homeless ringtail in from the cold.
 tags:
@@ -9,8 +9,10 @@ tags:
 - Romance
 - Sexuality
 - Mental health
+- Mythology
 categories:
 - Short story
+- Erotica
 ---
 
 Print

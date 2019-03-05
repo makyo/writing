@@ -12,6 +12,7 @@ tags:
 - Sexuality
 categories:
 - Short story
+- Erotica
 title: What I Expected
 ---
 

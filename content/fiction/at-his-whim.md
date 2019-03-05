@@ -1,14 +1,15 @@
 ---
-counts:
-    characters_real: 7805
-    characters_total: 9789
-    file: ./fiction/inspired/at-his-whim.md
-    paragraphs: 89
-    type: jekyll
-    words: 1942
-layout: post
+type: post
 title: At His Whim
 date: 2018-01-22
+categories:
+- Short story
+- Erotica
+tags:
+- Hypnosis
+- Dubious consent
+- Furry
+ratings: X
 ---
 
 <div class="cw">sex; hypnosis; dubious consent</div>

@@ -1,7 +1,7 @@
 ---
 date: 2017-05-08
 type: post
-rating: G
+ratings: G
 title: The Fool
 description: A student and a motherly badger explore questions of identity through a tarot reading.
 tags:

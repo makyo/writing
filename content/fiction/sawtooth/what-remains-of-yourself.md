@@ -1,7 +1,7 @@
 ---
 date: 2017-01-30
 type: post
-rating: X
+ratings: X
 title: What Remains of Yourself
 description: A cat heads to a party. What's usually a safe and comfortable group of friends is slowly dominated by a dog. A dog with plans.
 tags:
@@ -12,6 +12,7 @@ tags:
 - Drugs
 categories:
 - Short story
+- Erotica
 ---
 
 {{% warning %}}

@@ -3,6 +3,7 @@ date: 2017-02-11
 type: post
 title: 'Flash: Sorting Laundry'
 description: You always have to sort your laundry.
+ratings: G
 tags:
 - Gender
 categories:

@@ -1,7 +1,7 @@
 ---
 date: 2015-10-17
 type: post
-rating: G
+ratings: G
 title: Milkshakes and Foxes (G)
 description: Two foxes share a milkshake, much to the chagrin of their server.
 tags:

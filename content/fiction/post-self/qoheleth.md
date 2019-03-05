@@ -1,7 +1,7 @@
 ---
 date: 2017-01-26
 type: post
-rating: PG
+ratings: G
 title: Qoheleth
 description: Qoheleth is the story behind and the goal of an Alternate Reality Game, or ARG, which took place in January, 2017, as part of Post-Self. As the readers worked through the ARG, more parts of the story were revealed, until all five were together.
 tags:

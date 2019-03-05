@@ -1,0 +1,37 @@
+---
+type: link
+link: http://www.collectorsweekly.com/articles/war-on-women-waged-in-postcards-memes-from-the-suffragist-era/
+title: Memes From the Suffragist Era
+date: 2012-11-23
+slug: memes-from-the-suffragist-era
+---
+
+I read this excellent article a while back when Kate Beaton posted it, and was tempted to write about it somewhere, but lacked the outlet.  I posted a quip on my main tumblr, but then felt bad for doing so, because that was mostly just a place to post cute little furry things and to follow others.  I mean, I dig the whole separation of concerns online; I think it really helps to have a place for each of the things that interests you.  However, now that means that I've got more than one tumblr blog, \[a\]\[s\], a wordpress elsewhere, a jekyll site, and so on and so on.
+
+Now that I have a place to blab about the whole thing, though, I think this is definitely something worth pulling apart and digging into a little deeper.  If nothing else, there's quite a few little quotes in the piece that are worth sharing.
+
+> "Do hormones drive women's votes?" That headline is not from a newspaper published in 1892 or 1922, but from CNN online in 2012. Posted just last week, the story survived all of seven hours, weathering ridicule from the blogosphere, before the news hub "determined that some elements of the story did not meet the editorial standards of CNN."
+
+This is a little nuts, to me.  I mean, I've been thinking so much recently about how quickly things have been advancing in the last two hundred years - the widely embraced conceptualization of sexual orientation and attraction, the idea that gender may be separate from sex.  And indeed, the suffrage movement in America fits neatly within that time frame: the Seneca Falls Convention formalized the demand for women's suffrage in 1848, and the 15th amendment enfranchising black men after the civil war, while it caused a split in the suffragist movement (some of whom did not wish to support it unless it also enfranchised women) added impetus to the movement.  It wasn't until 1920, however, that the 19th amendment was passed, giving women the right to vote in America.
+
+I don't think that this is too out of place with what I've learned about history recently, especially the history of gender and sex over the last two centuries.  While it seems reprehensible from here in 2012 that it took nearly 80 years for a concerted effort to expand liberties to succeed against propaganda campaigns and social sentiment surrounding sex in the west, it does fit in with the times, and the battle was against centuries of entrenched social norms in the west.
+
+However, here we are well into the third wave of feminism and still seeing headlines like this on CNN (CNN!  Seriously!).  This is a good deal of why this article startled me from the get-go.  I mean, I count myself lucky to be surrounded by people who I'd say are pretty with-it and together folks, and I honestly have kind of a hard time picturing a major news outlet publishing an article with a headline that sounds like it's straight out of the early 1900s, much less with the lead: "There's something that may raise the chances for both presidential candidates that's totally out of their control: women's ovulation cycles."
+
+Given that the article is about, and contains several examples of, suffragist postcards from the war of propaganda waged during those eighty years, it's easy to see echos of a lot of the sentiments going back and forth from that era echoed in CNN's article.  Really, though, despite the article tracing the history and portrayal of the women's suffrage movement, it does a pretty good job of exposing how wide the "gender gap" is even today.
+
+> "The phrase 'public woman' actually referred to prostitutes. The assumption was, if you were out in public as a woman, unescorted, you were a prostitute. The battle for suffrage wasn't just about the legal right to vote, but it was also about women's ability to be public figures, not confined to the home. It was more broadly about women's role in society."
+
+The root of the problem lay in the past and the social standards that it had set up:
+
+> Victorians firmly believed in the concept of "separate spheres," meaning men were more naturally suited for the public life of politics, law, higher education, and business, while women were meant for the private life, dealing with domestic matters like maintaining a home, raising children, and upholding religious piety.
+
+Even though it's now generally considered okay for a woman to walk unescorted without being deemed a prostitute, as was the case then, it's often still not considered safe for a woman to be alone in public, particularly at night, thus such things as the [Take Back The Night](http://www.takebackthenight.org/) campaign or even my alma mater's Safe-Walk program, where campus security would walk with you from, say, a late night study group at the library to your dorm or car, a service targeted almost exclusively toward female students.  (A friend got around this by borrowing a folding knife from one of her friends and holding it in her hand in her pocket if she had to walk across campus at night - a different sort of solution for a very singular person.)  It's just one of those instances where a particularly persistent idea has stuck with us as a society and only changed enough to fit the times, the idea has been recast from prostitution to an 'easy catch'.
+
+In the end, despite the grand-seeming changes that come with things like the 19th amendment, not to mention victories in the political arena for the LGBT crowd even in this last election, change is one of those things that happens over time, and sometimes very slowly.  We're still working with some of the very same ideas from the Victorian era or earlier cast in the light of the twenty first century.  Doxa is one of those things that's quick to enter into society, as is evidenced by the relatively recent history of heterosexuality, according to Hanne blank, but is particularly hard to chance once it's there.  
+
+I'm certainly guilty of this as well; after all, it's not as if being on the other side of one of these ideas makes you immune to it.  Wearing more feminine clothing, or even certain colors of clothing, not to mention painting nails and all that stuff, still has a titillating other-side-of-the-fence feel to it, a bit of transgression in every day activities helped out by gender roles that go way, way back.
+
+I'm sure I've gone on too long about all this; I still feel dreadfully behind whenever I write about something like this, no matter how much it interests me.  I should probably read more before I write so much.  One last quote, then, and a particularly poignant one, before I skip off to more reading:
+
+> "We operate with this zero-sum mentality, which is, if women gain rights, men lose them," Palczewski says. "You see the same sort of idea that if people of color or ethnic minorities make gains, whites therefore lose something. So if men only understand their identity in relationship to being bigger than women, then it's a trade-off. You see it in dozens of anti-suffrage postcards, showing men being hurt if women advance. Human beings seem to operate with this mentality where if you expand the rights of some, it diminishes the rights of others, instead of collectively expanding the rights of all of us as a people."

@@ -1,7 +1,8 @@
 ---
 date: 2017-11-29
-layout: post
+type: post
 title: Where The Dust Comes From
+ratings: G
 tags:
 - Family
 - Children

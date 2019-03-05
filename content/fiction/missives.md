@@ -3,6 +3,7 @@ type: post
 date: 2016-08-30
 description: Rife with poetry and flower language, letters between two friends show their budding relationship.
 pdf: missives.pdf
+ratings: G
 tags:
 - Furry
 - Romance

@@ -3,7 +3,8 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
     <ul class="patterns-list">
-    {{ range .Pages.ByPublishDate.Reverse }}{{ if .Params.date }}
+    {{ $paginator := .Paginate (where .Pages ".Params.date" "!=" nil) 10 }}
+    {{ range $paginator.Pages.ByPublishDate.Reverse }}
       <li>
         <h2>
           <a href="{{ .Permalink }}">
@@ -32,12 +33,14 @@
               {{ end }}
             </ul>
         {{ end }}
-        {{ with .Params.rating }}
-            <ul><li><strong aria-hidden="true">?</strong> Rated {{ . }} </li></ul>
+        {{ with .Params.ratings }}
+            <ul><li><strong aria-hidden="true">?</strong> <a href="/ratings/{{ lower . }}">Rated {{ . }}</a></li></ul>
         {{ end }}
         </div>
       </li>
-    {{ end }}{{ end }}
+    {{ end }}
     </ul>
+    <link rel="stylesheet" type="text/css" href="/css/pagination.css" />
+    {{ template "_internal/pagination.html" . }}
   </main>
 {{ end }}

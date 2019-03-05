@@ -1,7 +1,7 @@
 ---
 date: 2016-12-17
 type: post
-rating: X
+ratings: X
 weight: 1
 title: '#1 - Centerpiece'
 tags:
@@ -11,6 +11,7 @@ tags:
 - Kink
 categories:
 - Short story
+- Erotica
 ---
 
 Print

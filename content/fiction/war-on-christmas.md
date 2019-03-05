@@ -3,6 +3,7 @@ date: 2017-12-05
 type: post
 title: '#WarOnChristmas'
 description: A story told through tweets.
+ratings: R
 tags:
 - Humor
 - Christmas

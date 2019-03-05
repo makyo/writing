@@ -3,7 +3,7 @@ type: post
 title: Fisher
 description: A fisher walks and hunts for meaning.
 date: 2018-09-11
-rating: G
+ratings: G
 tags:
 - Furry
 - Death

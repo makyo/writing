@@ -1,7 +1,7 @@
 ---
 date: 2016-12-26
 type: post
-rating: PG
+ratings: G
 title: Assignment
 description: Ioan Balan is a historian and blogger assigned to research a flash-cult. Things go sideways, and he's left with more story than expected.
 tags:

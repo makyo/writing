@@ -13,6 +13,7 @@ tags:
 - Sexuality
 categories:
 - Short story
+- Erotica
 title: Again
 ---
 

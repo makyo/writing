@@ -3,7 +3,7 @@ type: post
 title: You're Gone
 description: A husband grieves the loss of his wife through instant messages.
 date: 2018-01-26
-rating: G
+ratings: G
 tags:
 - Furry
 - Death

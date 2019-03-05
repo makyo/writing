@@ -35,8 +35,8 @@
           {{ end }}
         </ul>
     {{ end }}
-    {{ with .Params.rating }}
-        <ul><li><strong>?</strong> Rated {{ . }} </li></ul>
+    {{ with .Params.ratings }}
+        <ul><li><strong aria-hidden="true">?</strong> <a href="/ratings/{{ lower . }}">Rated {{ . }}</a></li></ul>
     {{ end }}
     </div>
 

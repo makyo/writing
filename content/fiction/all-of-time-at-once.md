@@ -3,7 +3,7 @@ date: 2004-04-21
 type: post
 title: All of Time at Once
 description: A painfully old time-travel story from high-school.
-rating: G
+ratings: G
 tags:
 - Science Fiction
 - Time Travel

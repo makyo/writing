@@ -3,6 +3,7 @@ type: post
 title: '#2 - Hostess'
 weight: 2
 date: 2018-02-17
+ratings: R
 tags:
 - Furry
 - Romance
@@ -10,6 +11,7 @@ tags:
 - Kink
 categories:
 - Short story
+- Erotica
 ---
 
 

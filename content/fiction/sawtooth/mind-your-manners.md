@@ -3,7 +3,7 @@ description: '[one big awful Canadian joke]'
 img: flag.svg
 type: post
 date: 2017-11-29
-rating: G
+ratings: G
 tags:
 - Furry
 - Humor

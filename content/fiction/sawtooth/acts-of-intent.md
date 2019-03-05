@@ -3,12 +3,13 @@ date: 2017-12-16
 type: post
 description: A coyote burns meaning into the world around him.
 title: Acts of Intent
-rating: G
+ratings: G
 tags:
 - Furry
 - Magic
 categories:
 - Vignette
+- Erotica
 ---
 
 Online

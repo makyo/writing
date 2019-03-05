@@ -1,7 +1,7 @@
 ---
 date: 2005-07-15
 type: post
-rating: X
+ratings: X
 title: Milkshakes and Foxes (X)
 description: Two foxes share a milkshake, then an intimate moment (the original erotic work).
 tags:
@@ -10,6 +10,7 @@ tags:
 - Sexuality
 categories:
 - Short story
+- Erotica
 ---
 
 Two foxes walked into a bar.

@@ -1,7 +1,7 @@
 ---
 date: 2017-12-11
 type: post
-rating: R
+ratings: R
 title: A Theory of Attachment
 description: Living with obsessive-compulsive disorder is tough without a support network, so when Sélène's changes, stress runs high.
 tags:
@@ -11,6 +11,7 @@ tags:
 - Mental Health
 categories:
 - Short story
+- Erotica
 ---
 
 Print

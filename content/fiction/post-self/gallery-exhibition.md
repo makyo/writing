@@ -2,6 +2,7 @@
 date: 2017-01-03
 excerpt_separator: <!--more-->
 type: post
+ratings: G
 title: 'Gallery Exhibition: A Love Story'
 description: A twine game taking place within the Post-Self universe. Dear, Also, The Tree That Was Felled holds a gallery exhibition of its works as an instance artist.
 tags:
