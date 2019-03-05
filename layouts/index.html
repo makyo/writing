@@ -1,9 +1,12 @@
 {{ define "main" }}
   <main id="main">
     <h1>{{ .Title }}</h1>
+    {{ $paginator := .Paginate (where .Pages.ByPublishDate.Reverse ".Params.date" "!=" nil) 10 }}
+    {{ if eq $paginator.PageNumber 1 }}
     {{ .Content }}
+    {{ end }}
+    <h2>Recent posts</h2>
     <ul class="patterns-list">
-    {{ $paginator := .Paginate (where .Pages ".Params.date" "!=" nil) 10 }}
     {{ range $paginator.Pages.ByPublishDate.Reverse }}
       <li>
         <h2>

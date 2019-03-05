@@ -3,7 +3,7 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
     <ul class="patterns-list">
-    {{ $paginator := .Paginate (where .Pages ".Params.date" "!=" nil) 10 }}
+    {{ $paginator := .Paginate (where .Pages.ByPublishDate.Reverse ".Params.date" "!=" nil) 10 }}
     {{ range $paginator.Pages.ByPublishDate.Reverse }}
       <li>
         <h2>
