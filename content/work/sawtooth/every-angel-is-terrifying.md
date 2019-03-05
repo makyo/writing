@@ -1,5 +1,6 @@
 ---
 title: Every Angel is Terrifying
+type: post
 ---
 
 I take the bus to the edge of Sawtooth, basically as close as I can get to I-84 on local transit. Beyond here it's all industrial. All warehouses and junkyards and hulking, silent buildings painted grey or beige, or not painted at all. Machine shops, garages, or simply anonymous buildings with rows of doors and loading docks. Beyond here, there is no living. It's a liminal space.

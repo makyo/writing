@@ -47,6 +47,10 @@ defaultContentLanguage = "en"
     url = "/tags/"
     weight = 6
   [[menu.nav]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 7
+  [[menu.nav]]
     name = "RSS"
     url = "/index.xml"
-    weight = 7
+    weight = 8
