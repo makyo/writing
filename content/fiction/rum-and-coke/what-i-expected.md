@@ -1,16 +1,4 @@
 ---
-author: Madison Scott-Clary
-categories:
-- Rum and Coke
-- Short Story
-- Rated X
-counts:
-    characters_real: 40294
-    characters_total: 49562
-    file: _posts/2015-09-01-what-i-expected.md
-    paragraphs: 267
-    type: jekyll
-    words: 9153
 description: Meeting for the first time is stressful enough, but all the more so when things don't match up with what you expected.
 img: rum-and-coke.png
 type: post
@@ -22,6 +10,8 @@ tags:
 - Convention
 - Gender
 - Sexuality
+categories:
+- Short story
 title: What I Expected
 ---
 

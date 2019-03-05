@@ -1,11 +1,4 @@
 ---
-counts:
-    characters_real: 4960
-    characters_total: 6097
-    file: ./fiction/sawtooth/vignettes/acts-of-intent.md
-    paragraphs: 36
-    type: jekyll
-    words: 1106
 date: 2017-12-16
 type: post
 description: A coyote burns meaning into the world around him.
@@ -14,6 +7,8 @@ rating: G
 tags:
 - Furry
 - Magic
+categories:
+- Vignette
 ---
 
 Online

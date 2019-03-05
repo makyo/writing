@@ -15,10 +15,12 @@
       </svg>
       {{ .Title }}
     </h1>
+    {{ if .Params.date }}
     <div class="date">
       {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2006" }}
       <strong aria-hidden="true">Publish date: </strong>{{ .PublishDate.Format $dateFormat }}
     </div>
+    {{ end }}
     <div class="tags">
     {{ with .Params.tags }}
         <strong aria-hidden="true">Tags: </strong>

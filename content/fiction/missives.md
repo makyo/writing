@@ -1,15 +1,4 @@
 ---
-categories:
-- Short Story
-- Rated G
-- Epistolary
-counts:
-    characters_real: 11418
-    characters_total: 14383
-    file: _posts/2016-08-30-missives.md
-    paragraphs: 93
-    type: jekyll
-    words: 2800
 type: post
 date: 2016-08-30
 description: Rife with poetry and flower language, letters between two friends show their budding relationship.
@@ -19,6 +8,9 @@ tags:
 - Romance
 - Poetry
 - Flower language
+categories:
+- Short story
+- Epistolary
 title: Missives
 ---
 

@@ -1,11 +1,4 @@
 ---
-counts:
-    characters_real: 59460
-    characters_total: 72872
-    file: ./fiction/post-self/qoheleth/index.md
-    paragraphs: 522
-    type: jekyll
-    words: 13230
 date: 2017-01-26
 type: post
 rating: PG
@@ -16,6 +9,9 @@ tags:
 - Mystery
 - Uploading
 - Death
+categories:
+- Short story
+- ARG
 ---
 
 This is Qoheleth in its entirety. During the process of running Qoheleth, each chapter was reveiled as a step of a puzzle that readers had to solve. There is more to this than is exposed here, but is primarily of a technical nature. For information on that, please see [the repository](https://github.com/makyo/qoheleth).

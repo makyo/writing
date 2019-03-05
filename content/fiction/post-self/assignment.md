@@ -1,11 +1,4 @@
 ---
-counts:
-    characters_real: 6893
-    characters_total: 8447
-    file: ./fiction/post-self/assignment/index.md
-    paragraphs: 59
-    type: jekyll
-    words: 1516
 date: 2016-12-26
 type: post
 rating: PG
@@ -16,6 +9,8 @@ tags:
 - Uploading
 - Mystery
 - Cult
+categories:
+- Short story
 ---
 
 Print

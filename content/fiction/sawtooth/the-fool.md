@@ -1,11 +1,4 @@
 ---
-counts:
-    characters_real: 16414
-    characters_total: 20452
-    file: ./fiction/sawtooth/the-fool/index.md
-    paragraphs: 168
-    type: jekyll
-    words: 3988
 date: 2017-05-08
 type: post
 rating: G
@@ -15,6 +8,8 @@ tags:
 - Furry
 - Tarot
 - Gender
+categories:
+- Short story
 ---
 
 The badger looms over a small table, the short sleeve of her smock tugged down toward the table by a glass candy thermometer. A deck of colorful cards rest neatly stacked on its surface.

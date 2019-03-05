@@ -1,19 +1,10 @@
 ---
 categories:
 - Poem
-- Rated G
-counts:
-    characters_real: 316
-    characters_total: 398
-    file: _posts/2015-03-05-the-dogs-assure-me.md
-    paragraphs: 4
-    type: jekyll
-    words: 75
 date: 2015-03-06
 type: post
 tags:
 - Animals
-- Poetry
 title: The Dogs Assure Me
 ---
 

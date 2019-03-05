@@ -1,11 +1,4 @@
 ---
-counts:
-    characters_real: 11698
-    characters_total: 14434
-    file: ./fiction/sawtooth/what-remains-of-yourself/index.md
-    paragraphs: 111
-    type: jekyll
-    words: 2724
 date: 2017-01-30
 type: post
 rating: X
@@ -17,6 +10,8 @@ tags:
 - Kink
 - Dubious consent
 - Drugs
+categories:
+- Short story
 ---
 
 {{% warning %}}

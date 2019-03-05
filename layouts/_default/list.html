@@ -3,7 +3,7 @@
     <h1>{{ .Title }}</h1>
     {{ .Content }}
     <ul class="patterns-list">
-    {{ range .Pages.ByPublishDate.Reverse }}
+    {{ range .Pages.ByPublishDate.Reverse }}{{ if .Params.date }}
       <li>
         <h2>
           <a href="{{ .Permalink }}">
@@ -37,7 +37,7 @@
         {{ end }}
         </div>
       </li>
-    {{ end }}
+    {{ end }}{{ end }}
     </ul>
   </main>
 {{ end }}

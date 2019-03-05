@@ -1,20 +1,11 @@
 ---
 categories:
 - Poem
-- Rated G
-counts:
-    characters_real: 928
-    characters_total: 1220
-    file: _posts/2017-02-12-meaning-and-self.md
-    paragraphs: 7
-    type: jekyll
-    words: 226
 date: 2017-02-12
 type: post
 tags:
-- Poetry
 - Family
-title: Meaning &amp; Self
+title: Meaning & Self
 ---
 
 <div class="verse">

@@ -1,19 +1,15 @@
 ---
-counts:
-    characters_real: 13615
-    characters_total: 16858
-    file: ./fiction/all-of-time-at-once/original.md
-    paragraphs: 54
-    type: jekyll
-    words: 3214
 date: 2004-04-21
 type: post
 title: All of Time at Once
 description: A painfully old time-travel story from high-school.
+rating: G
 tags:
 - Science Fiction
 - Time Travel
 - Romance
+categories:
+- Short story
 ---
 
 "A driver after my own heart," I muttered to myself. I'd taken to talking to myself while driving to help keep the more drastic emotions to a minimum. I've been working on reducing the negative comments in favor of more positive ones --- make your drivers happy drivers! --- and with this utterance, I was praising a slightly battered Jeep that was driving at my usual, comfortable two miles above the speed limit: I was neither gaining on him, nor was I lagging behind, so I forgot about him and set about losing myself in the music. I have a love-hate relationship with Prokofiev.

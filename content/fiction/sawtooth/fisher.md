@@ -1,11 +1,4 @@
 ---
-counts:
-    characters_real: 2732
-    characters_total: 3382
-    file: ./fiction/sawtooth/vignettes/fisher.md
-    paragraphs: 14
-    type: jekyll
-    words: 647
 type: post
 title: Fisher
 description: A fisher walks and hunts for meaning.
@@ -14,6 +7,8 @@ rating: G
 tags:
 - Furry
 - Death
+categories:
+- Flash fiction
 ---
 
 Alv pinned his ears back against his head as he stomped down the length of the block. His boots were too much for the drizzle that the weather offered, but it was that or his threadbare sneakers, and some tiny part of his mind had done the calculation without the rest of him knowing, and he'd tugged the heavy things on for the walk.

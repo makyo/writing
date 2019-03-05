@@ -1,11 +1,4 @@
 ---
-counts:
-    characters_real: 7968
-    characters_total: 9729
-    file: ./fiction/post-self/apres-un-reve/index.md
-    paragraphs: 82
-    type: jekyll
-    words: 1735
 date: 2017-01-23
 type: post
 rating: PG
@@ -15,6 +8,8 @@ tags:
 - Death
 - Science fiction
 - Uploading
+categories:
+- Short story
 ---
 
 Online

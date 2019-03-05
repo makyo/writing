@@ -1,18 +1,8 @@
 ---
 category:
 - Poem
-- Rated G
-counts:
-    characters_real: 526
-    characters_total: 671
-    file: _posts/2016-11-14-when-i-fall-i-will-remain-whole.md
-    paragraphs: 5
-    type: jekyll
-    words: 118
 date: 2016-11-14
 type: post
-tags:
-- Poetry
 title: When I fall, I will remain whole
 ---
 

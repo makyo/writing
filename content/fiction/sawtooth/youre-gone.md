@@ -1,11 +1,4 @@
 ---
-counts:
-    characters_real: 265
-    characters_total: 329
-    file: ./fiction/sawtooth/youre-gone/index.md
-    paragraphs: 7
-    type: jekyll
-    words: 64
 type: post
 title: You're Gone
 description: A husband grieves the loss of his wife through instant messages.
@@ -14,6 +7,10 @@ rating: G
 tags:
 - Furry
 - Death
+categories:
+- Interactive
+- Epistolary
+- Short story
 ---
 
 *You're Gone* is an exploration in grief, told through instant messages to a dead loved one.

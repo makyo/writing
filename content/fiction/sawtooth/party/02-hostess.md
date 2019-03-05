@@ -1,11 +1,4 @@
 ---
-counts:
-    characters_real: 17531
-    characters_total: 21604
-    file: ./fiction/sawtooth/party/02-hostess/index.md
-    paragraphs: 108
-    type: jekyll
-    words: 4035
 type: post
 title: '#2 - Hostess'
 weight: 2
@@ -15,6 +8,8 @@ tags:
 - Romance
 - Sexuality
 - Kink
+categories:
+- Short story
 ---
 
 

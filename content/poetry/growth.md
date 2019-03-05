@@ -1,20 +1,10 @@
 ---
-author: Madison Scott-Clary
 categories:
 - Poem
-- Rated G
-counts:
-    characters_real: 3818
-    characters_total: 4742
-    file: _posts/2018-06-01-growth.md
-    paragraphs: 28
-    type: jekyll
-    words: 894
 img: growth-header.jpg
 type: post
 date: 2018-07-01
 tags:
-- Poetry
 - Gender
 - Transition
 - About furry

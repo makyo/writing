@@ -1,11 +1,4 @@
 ---
-counts:
-    characters_real: 18825
-    characters_total: 23225
-    file: ./fiction/sawtooth/party/01-centerpiece/index.md
-    paragraphs: 121
-    type: jekyll
-    words: 4370
 date: 2016-12-17
 type: post
 rating: X
@@ -16,6 +9,8 @@ tags:
 - Romance
 - Sexuality
 - Kink
+categories:
+- Short story
 ---
 
 Print

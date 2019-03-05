@@ -1,7 +1,6 @@
 ---
 category:
 - Poem
-- Rated G
 counts:
     characters_real: 537
     characters_total: 671
@@ -12,7 +11,6 @@ counts:
 type: post
 date: 2018-01-31
 tags:
-- Poetry
 - Furry
 title: Beneath her coat was a whole identity
 ---

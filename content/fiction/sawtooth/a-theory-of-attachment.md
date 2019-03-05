@@ -1,11 +1,4 @@
 ---
-counts:
-    characters_real: 69550
-    characters_total: 85772
-    file: ./fiction/sawtooth/a-theory-of-attachment/index.md
-    paragraphs: 609
-    type: jekyll
-    words: 16135
 date: 2017-12-11
 type: post
 rating: R
@@ -16,6 +9,8 @@ tags:
 - Romance
 - Sexuality
 - Mental Health
+categories:
+- Short story
 ---
 
 Print

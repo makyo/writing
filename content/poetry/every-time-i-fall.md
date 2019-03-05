@@ -1,18 +1,8 @@
 ---
 categories:
 - Poem
-- Rated G
-counts:
-    characters_real: 393
-    characters_total: 548
-    file: _posts/2017-08-14-every-time-i-fall.md
-    paragraphs: 5
-    type: jekyll
-    words: 100
 date: 2017-08-14
 type: post
-tags:
-- Poetry
 title: Every time I fall
 ---
 

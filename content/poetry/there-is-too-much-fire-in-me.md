@@ -1,19 +1,10 @@
 ---
 category:
 - Poem
-- Rated G
-counts:
-    characters_real: 431
-    characters_total: 556
-    file: _posts/2016-05-04-there-is-too-much-fire-in-me.md
-    paragraphs: 3
-    type: jekyll
-    words: 103
 type: post
 date: 2016-05-04
 tags:
 - Mental Health
-- Poetry
 title: There is too much fire in me
 ---
 

@@ -1,18 +1,9 @@
 ---
 categories:
 - Poem
-- Rated G
-counts:
-    characters_real: 572
-    characters_total: 722
-    file: _posts/2018-07-08-fair-and-square.md
-    paragraphs: 2
-    type: jekyll
-    words: 126
 date: 2018-07-08
 type: post
 tags:
-- Poetry
 - Gender
 - Transition
 title: Fair and Square

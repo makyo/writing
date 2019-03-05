@@ -1,18 +1,8 @@
 ---
 categories:
 - Poem
-- Rated G
-counts:
-    characters_real: 413
-    characters_total: 514
-    file: _posts/2017-02-20-heligoland.md
-    paragraphs: 6
-    type: jekyll
-    words: 97
 date: 2017-02-20
 type: post
-tags:
-- Poetry
 title: Heligoland
 ---
 

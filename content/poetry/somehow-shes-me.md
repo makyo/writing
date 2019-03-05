@@ -1,19 +1,10 @@
 ---
 category:
 - Poem
-- Rated G
-counts:
-    characters_real: 776
-    characters_total: 1119
-    file: _posts/2018-04-01-somehow-shes-me.md
-    paragraphs: 5
-    type: jekyll
-    words: 184
 type: post
 date: 2018-04-01
 tags:
 - Gender
-- Poetry
 title: Somehow, she's me
 ---
 

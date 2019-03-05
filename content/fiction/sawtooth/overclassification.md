@@ -1,11 +1,4 @@
 ---
-counts:
-    characters_real: 58339
-    characters_total: 72252
-    file: ./fiction/sawtooth/overclassification/index.md
-    paragraphs: 510
-    type: jekyll
-    words: 13798
 date: 2017-09-04
 type: post
 rating: R
@@ -16,6 +9,8 @@ tags:
 - Romance
 - Sexuality
 - Mental health
+categories:
+- Short story
 ---
 
 Print

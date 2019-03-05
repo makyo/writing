@@ -1,11 +1,4 @@
 ---
-counts:
-    characters_real: 8106
-    characters_total: 9962
-    file: ./fiction/sawtooth/milkshakes-and-foxes/x/index.md
-    paragraphs: 38
-    type: jekyll
-    words: 1806
 date: 2005-07-15
 type: post
 rating: X
@@ -15,6 +8,8 @@ tags:
 - Furry
 - Romance
 - Sexuality
+categories:
+- Short story
 ---
 
 Two foxes walked into a bar.

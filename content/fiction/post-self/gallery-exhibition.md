@@ -1,11 +1,4 @@
 ---
-counts:
-    characters_real: 641
-    characters_total: 781
-    file: ./fiction/post-self/gallery-exhibition/index.md
-    paragraphs: 7
-    type: jekyll
-    words: 141
 date: 2017-01-03
 excerpt_separator: <!--more-->
 type: post
@@ -15,6 +8,8 @@ tags:
 - Romance
 - Science fiction
 - Uploading
+categories:
+- Interactive
 ---
 
 Online

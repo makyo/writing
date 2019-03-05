@@ -1,16 +1,4 @@
 ---
-author: Madison Scott-Clary
-categories:
-- Rum and Coke
-- Short Story
-- Rated X
-counts:
-    characters_real: 28467
-    characters_total: 35243
-    file: _posts/2015-09-03-again.md
-    paragraphs: 203
-    type: jekyll
-    words: 6539
 description: Exes and transition make for a lot of change all at once.
 img: rum-and-coke.png
 type: post
@@ -23,6 +11,8 @@ tags:
 - Gender
 - Kink
 - Sexuality
+categories:
+- Short story
 title: Again
 ---
 

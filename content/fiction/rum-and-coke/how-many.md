@@ -1,16 +1,4 @@
 ---
-author: Madison Scott-Clary
-categories:
-- Rum and Coke
-- Short Story
-- Rated X
-counts:
-    characters_real: 37824
-    characters_total: 46662
-    file: _posts/2015-09-02-how-many.md
-    paragraphs: 243
-    type: jekyll
-    words: 8779
 description: 'Navigating poly is an ongoing process demarcated. Chief among them: first meetings.'
 img: rum-and-coke.png
 type: post
@@ -23,6 +11,8 @@ tags:
 - Mental health
 - Anxiety
 - Sexuality
+categories:
+- Short story
 title: How Many?
 ---
 

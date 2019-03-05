@@ -22,15 +22,79 @@ At fifteen, I had been a gawky and anxious dog. Too anxious. Too gawky. I took t
 
 Sawtooth High had a few computer classes, but none of them warranted the lab that the school had. Twenty relatively high-end machines --- at least, higher end than would ever be needed for the two typing classes, the Pascal class,or the HTML class offered by the school --- and my favorite, two linux machines tucked away in a corner. Babylon and Enterprise.
 
-(LDRs)
+I spent hours on those damn machines. Sometimes, it would be me, holed up in the lab itself, sitting in front of an aged CRT monitor, claws clacking on the keys as I taught myself one programming language or another, worked on homework, or just plain goofed off online. Sometimes, it was me me surreptitiously tabbing back and forth between what I was supposed to be working on in Pascal class and a terminal window opened to Babylon (Enterprise being the machine that ran the school's website, we were discouraged from actually using it much). Sometimes it was me sneaking out of bed once I was sure my mom had gone to sleep and, muffling the modem with my pillow, logging on remotely.
 
-(first hints of bipolar)
+Most often, at those times, it was me logging into some text adventure or another. Where flashy video games had never caught my attention, I'd gotten hopelessly addicted to dungeon crawling with a small party over a MUD. Where instant messengers had failed to grab me, I would spend hours chatting on MUCKs.
+
+The limitations of text only fascinated me, and though I never wrote with any seriousness other than a well-worn blog, more journal than literature, I learned to weave my tales and use my words in front of a crowd.
+
+And it was there where I found love. There where I found love and lust and romance and flings. I dated. I TSed (we were, of course, too cool to use so vulgar a word as 'cyber'). I set up relationships for characters in our games, and I set up relationships that transcended that, two hearts touching through only those white words on a black screen.
+
+Merlin and Marusin, The_Prof and rranger386, people I would dream about and likely never meet. We were all young. We were in love with each other in our own little worlds, serially and in parallel.
+
+And while sometimes I would think about who they were beyond the screen, it was rarely for long. I was in love with Merlin the fighter who hated magic. I was in love with The_Prof the studen who desperately wanted to be a professor when he grew up, and didn't care about the subject.
+
+Sometimes I would think about who they were when we TSed, would wonder what it would be like to have their paw instead of my own around my erection, but never for long. It was easier, it was safer to not bother with it.
+
+But our relationships were as real as any collocated flings. More so, we told ourselves, for the purity of essence that came with no flesh to get in the way.
+
+I'm sure we all hungered for touch.
+
+-----
+
+It was toward the tail end of high school that I began to get plagued with depression and mood swings.
+
+I was a healthy collie. All the romance of a noble lineage had gone to my parents' heads, and there was simply no reason one of my standing should ever feel bad. Sure, the family had come on hard times financially, and Idaho had been an inexpensive refuge for us. Flyover state or no, we could keep our large house and happy lives. How could any dog be sad?
+
+And yet I was. I was in spades. I would swing down for a few months, life slowly losing its color, until I'd feel nothing except an ache behind my sternum, eating only mechanically, and only when reminded.
+
+Then it would pass. It would be dinner and I'd realize that I was *really* actually enjoying the curried chicken. I'd realize that it had been days since I'd thought about falling asleep and not waking up. I'd have energy. I'd have a bit too much energy.
+
+Mom would shrug and mumble something about boys. "Men in this family, always so moody. You'll grow out of it."
+
+I mostly kept it to myself. When I did share it with friends online, it was to commiserate the "Parents, eh? What do they know?" style that never goes out of fashion among teenagers.
+
+Still, as awful as it was, I learned the rhythm of it. I'd spend a month feeling terrible, three months feeling pretty good, and then a month feeling great.
+
+Not just great, better than great.
+
+I'd spend all of my allowance in a week. I'd write page after page of backstory for my role-playing characters. I'd scribble ideas as fast as they came to me and still not be fast enough. I still have a folder of those ideas. They're illegible, unnerving.
+
+And then, over the course of a week at most, I'd be back underwater once more.
+
+Depression is a strange thing.
+
+I tried at several points to capture some sense of it in words, but nothing ever quite fit. Whenever I did, I found myself using a lot of ellipses, just to fill in, textually, my fumbling for words with enough meaning. I came up with stuff like, "I dunno. My brain just isn't all me. Like... It's something else. It's there and exerts influence on me life, but it spends an inordinate about of time trying to destroy me."
+
+Or poetry. I tried to throw that at depression, too, but it just came out sounding stilted and weird. I'd wind up talking about fire a lot. Fire and birds, for some reason.
+
+Which was nonsense, really, but each in such a way that seemed to cover at least one small corner of depression.
+
+Depression is big. It's vast and terrible and empty. Completely empty, and there you are, in the middle of it, feeling bad.
+
+There's just no sense to it. No sense in trying to describe nothing. A "nothing" which is also nonsensical.
+
+And yet I keep trying.
+
+All these words...
 
 -----
 
 > Every angel is terrifying.
 
-(Walking out to fields, thinking about Rilke)
+The words start a whisper, a half-heard echo. They are a niggling thought, a loose tooth, a thread to be worried loose from a hem.
+
+And before long, they're resounding within my head. They pound and boom in time with my steps, and I start murmuring them beneath my breath. "Every angel is terrifying. Every angel is terrifying."
+
+As with all linguistic satiation, I can't tell when it is that they stop holding any meaning. It's as though I let my attention slip, and the next time the phrase rolls through my mouth, they're awkward shapes tumbling from my tongue, buzzing in my nose, brushing past my whiskers. Poetry reduced to its bare building blocks becomes as clumsy as any other guttural utterance, though they may stack better than most.
+
+"Ein jeder Engel ist schrecklich," I try, hoping the original German might somehow waken something other than dread within me. It doesn't. And then I bark out a laugh, realizing maybe it's doing exactly what it was meant to.
+
+The single laugh does not echo. It dies among the weeds and crumbly blacktop of the county road.
+
+I keep walking. I keep murmuring my mantra. Keep muttering long after the words have lost meaning. Long after all that's left is a bottomless, emotionless nothing. Long after all thoughts have left my head, except for the realization that I desperately, desperately want to die. Realize it for the million, billion, trillionth time.
+
+I keep walking.
 
 -----
 
@@ -118,7 +182,7 @@ Before I knew what I was doing, I was already well into my reply third reply, an
 >
 > You page, "Shouldn't complain, I'm in a good spot. It's just hard when it all feels so pointless and empty. Sometimes I get desperately sad and everything hurts or whatever, but this is just like having my heart and brain replaced with cottonballs. It's like thinking with fluff." to Peter_P.
 
-I realized, by the time I manage to lift my paws from the keys and cup my blunt muzzle, that I've started crying, the fur on my cheeks damp with tears. I wished I could delete messages. Erase them from the screen, from the server, from Peter's mind, if he'd already read them. I wished I could take it back and just be empty in my room, at my poster-covered walls, rather than empty on the internet at distant friends.
+I realized, by the time I manage to lift my paws from the keys and cup them around my blunt muzzle, that I've started crying, the fur on my cheeks damp with tears. I wished I could delete messages. Erase them from the screen, from the server, from Peter's mind, if he'd already read them. I wished I could take it back and just be empty in my room, at my poster-covered walls, rather than empty on the internet at distant friends.
 
 Greeted with silence, I tucked my muzzle down and covered the rest of my face with my hands and held my breath, willing time to stop, reverse its own flow, and drop me back at work.
 
@@ -132,22 +196,97 @@ For another minute, perhaps, I stared at the screen, unable to comprehend what w
 
 "Ah, fuck it," I said aloud, typed `mjoin peter_p`, and whacked the enter key.
 
+> Peter_P hugs!
+>
+> Peter_P says, "Tell me what's up?"
+>
+> Piree hugs and sighs. "I dunno. Depressed, I guess. That time of the month."
+>
+> Peter_P says, "I know you're poking fun, but it does seem cyclical."
+>
+> Piree says, "'it'?"
+>
+> Peter_P says, "Depression, yeah."
+>
+> Peter_P says, "In you, I mean. You seem to go through these cycles of really energetic, sorta balanced, and really depressed."
+>
+> Piree says, "Yeah..."
+>
+> Piree says, "That noticeable?"
+>
+> Peter_P sticks his tongue out. "Don't take it the wrong way. It's not like super blatant or anything, just something I've noticed about you."
+>
+> Piree says, "heh"
+>
+> Piree says, "You pay that much attention to me, then?"
+
+I grunted and spent another moment wishing I could take back what I'd just sent.
+
+> Peter_P says, "I guess :P"
+>
+> Piree says, "Sorry, that came out snippy. I didn't mean it."
+>
+> Peter_P shrugs. "I guess I do, though. I like you. I worry about you."
+>
+> Piree hugs. "Thanks. That means a lot."
+
+When I next looked at the clock, it was nearing two in the morning. I'd spent nearly five hours talking with Peter. I thanked him profusely for staying up so late with me --- "No problem, I don't have work tomorrow" --- and signed off for the night.
+
+I went to bed...not exactly happy, but comforted. As I started nodding off, I realized that I'd disconnected in Peter's room, my character had fallen asleep there. A smile tugged at my lips. It felt right.
+
 -----
 
-(Sitting in the prarie, feeling emotions rush and surge)
+> Who, if I cried out, would hear me among the ranks of angels?
+
+With the sun at my back, I trudge east. The din of the freeway once more softening through waterfall and back into the sound of distant winds.
+
+I feel those winds blow through me. Not just blow through my fur --- the air itself was still --- but through me, through my core. I feel hollow, empty. I feel like one of the pipes in a pipe organ I got to tour some years back. I feel the wind blow through me, and I feel myself excited, humming. Hollow, but humming. Cold, but buzzing.
+
+I realize my breath is coming hoarsely now. My steps are heavy and my feet hurt and I'm breathing hard. I've been stomping without realizing it.
+
+I slow my pace and focus on walking like a normal dog. No sense in getting worn out early. I want to get away from town. I want to walk far enough away that the town of too many memories. Of so many visits with Peter, of jobs left behind, of feelings too strong to bear.
+
+I walk east under some other authority's direction. I am not in control of my body anymore. I am not in control of my thoughts.
+
+I have no thoughts. Emotions swell, rage, and die within, ceaselessly and directionlessly.
+
+I have no thoughts. I ride the swell of emotions from one to the next, surfing along, feeling that I, too, will rage and die.
+
+I have no thoughts.
+
+I keep walking.
 
 -----
 
 (manic episode in grad school; learning the rhythm of bipolar. Switched from CS to English, on to MFA)
 
+A scant five months after I started my degree, I crashed hard and tried to commit suicide, and after that, I just buried myself in it --- in the degree and in life. I found ways to get write more, if that was possible, just to try and fill that big, quiet nothingness.
+
+I splashed around in great heaps of words, scrabbling at every pebble of a story I could find beneath the surface.
+
+I prowled through the tangled thicket of FA and Weasyl, hunting for artists to highlight.
+
+And I took way too many metaphors way, way too far.
+
+And you know what? It worked.
+
+At least, after a fashion. I started to feel fulfillment. I started *filling* my weekends with writing. I got in trouble with JM for writing an article on a tablet in a plane just so that I could get it up on a Wednesday. I started to gain energy just from the act of *spending* energy on something I loved wholeheartedly.
+
+I was also tackling depression in more tangible ways, of course. I started on meds and dug into the task of finding something to help make that nothingness more livable. Meds, after all, don't just sweep it away, and they certainly didn't make me any less myself, but they did help me perceive where I was. They were a fine set of glasses for helping me see which things I was burning myself up over were real, and which were just phantoms in that empty space.
+
 -----
 
-(rewrite this:)
-Shivering in the March evening's chill, I come to a tee in the road. Staring up at the unbroken rolling plains beyond town, I linger. The sun sets, the moon rises. Stars fade into view, and still I stare at the low scrub.
+Shivering in the March evening's chill, I come to a tee in the road. Staring out at the unbroken rolling plains beyond town, I linger. The sun sets, the moon rises. Stars fade into view, and still I stare at the low scrub.
 
 The first true thought that enters my mind is of how small I am, mentally trying to see how many of myself stacked head to toe and packed in together it would take to equal one of those low hills, not to mention just one of the mountains of the Sawtooth range. And how little all my problems must mean to that many people.
 
 (manic swing earlier in the winter causing implosion of life: quit, broke up with peter in deliberately mean way. musing over mania as a faster form of depression)
+
+All these words, all this burning bright in an attempt to light of vast, crenelated spaces of nothing. Perhaps its an attempt to light up a space around me.
+
+All that I love feels poisoned to me, tainted by the fact that I burned so hard in an attempt to light up all this nothing a little better. I feel forced to like these things because I'm trammeled by this indescribably empty space with them.
+
+No, that's not true. I tore Peter up and threw him away because he wasn't in there with me in the midst of that nothing. I was a coward: afraid to be alone, but more afraid to ask for help, so I removed my choice in the matter.
 
 The sound of a car door shutting brings me out of my reverie, if reverie it is, and I blink at my surroundings. I'm standing at the side of the road with the barbed wire of the fence clenched in my fists, a small, cheap two-door parked about twenty feet away. It's a small wonder I hadn't heard it before, nor even noticed the headlights. There's a dull pain in my hands. A far away pain. A someone-else pain.
 
@@ -163,13 +302,11 @@ Both of us get out of the car, and the mountain lion gives me a hug before I go 
 
 It isn't a guy hug, isn't that chaste, dry form of affection I've never been able to understand, though it's far from any embrace I'd shared with Peter. There's more support, more emotion, more understanding in that hug than in any of the many words spoken to me over the past week, and I have to try my hardest to make it back inside before bursting into tears once more, watching the blurred shape of the car pull slowly away.
 
-I fumble the snub-nosed revolver from the waistband of my pants, swing open the loading gate, and, one by one, tip the rounds into my paw. Acting on autopilot, I lock the gun into its case once more, and tip the cartridges out of my paw and into the trash can.
-
-I think, in that moment, that I owe that student of mine more than anything. They, of all people, explain that snatch of Rilke to me. Explain eloquently, and without words.
-
-> Who, though I screamed, would hear me among the ranks of angels?  
-> And even supposing one of them took me suddenly to his breast,  
-> I would perish within his overpowering being.  
-> For the beautiful is right at the margin of terrifying, which we can only just endure.  
-> And we marvel at it so because it holds back in serene disdain and does not destroy us.  
+> Who, if I cried out, would hear me among the ranks of angels?  
+> And even supposing one of them took me suddenly to their breast,  
+> I would perish within their overpowering being,  
+> For the beautiful is right at the margin of terrifying, which we can only just endure,  
+> And we marvel at it, because it holds back in serene disdain and does not destroy us.  
 > Every angel is terrifying.
+
+I fumble the snub-nosed revolver from the waistband of my pants, swing open the loading gate, and, one by one, tip the rounds into my paw. Acting on autopilot, I lock the gun into its case once more, and tip the cartridges out of my paw and into the trash can.

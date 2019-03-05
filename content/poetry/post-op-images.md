@@ -1,18 +1,9 @@
 ---
 category:
 - Poem
-- Rated G
-counts:
-    characters_real: 2514
-    characters_total: 3302
-    file: _posts/2018-05-20-post-op-images.md
-    paragraphs: 25
-    type: jekyll
-    words: 603
 type: post
 date: 2018-05-20
 tags:
-- Poetry
 - Gender
 - Surgery
 - Transition

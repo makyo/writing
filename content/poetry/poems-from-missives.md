@@ -1,18 +1,9 @@
 ---
 categories:
 - Poem
-- Rated G
-counts:
-    characters_real: 1832
-    characters_total: 2431
-    file: _posts/2017-02-12-poems-from-missives.md
-    paragraphs: 15
-    type: jekyll
-    words: 440
 type: post
 date: 2017-02-12
 tags:
-- Poetry
 - Romanticism
 - Flower language
 title: Completed poems from "Missives"
