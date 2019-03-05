@@ -12,11 +12,6 @@ categories:
 - Erotica
 ---
 
-Online
-:   [SoFurry](https://www.sofurry.com/view/1275793)
-
------
-
 > *Lines and curves, lines and curves. Beginning now.*
 
 Seven o'clock, and the 13th Street crowd was headed to dinner, or focusing on a postprandial stroll.

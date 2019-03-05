@@ -14,14 +14,6 @@ categories:
 - Erotica
 ---
 
-Print
-:   [PDF](centerpiece.pdf)
-
-Online
-:   [SoFurry](https://www.sofurry.com/view/1108471)
-
------
-
 "Hey E," Aaron mumbled, the cat nudging the turn signal lever up to make his way toward the right lane.
 
 "Mmm?" Erin peeked up from her book to see how far they'd made it into their journey. Still about twenty minutes. She lowered her gaze once again.

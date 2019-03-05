@@ -19,12 +19,6 @@ categories:
 sex; drugs; dubious consent
 {{% /warning %}}
 
-Print
-:   [PDF](what-remains-of-yourself.pdf)
-
-Online
-:   [SoFurry](https://www.sofurry.com/view/1134567)
-
 Boots? Check. Knee-high stompers with buckles from ankle to top. Dark enough brown to pass for black. Cradled the paws oh-so-nicely.
 
 Leggings? Check. Clingy and stretchy, form-fitting. Dark enough red to pass for brown. Showed off those big, no-nonsense calves and thighs.

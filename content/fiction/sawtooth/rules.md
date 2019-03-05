@@ -1,12 +1,4 @@
 ---
-counts:
-    characters_real: 553
-    characters_total: 665
-    file: ./fiction/sawtooth/rules.md
-    paragraphs: 3
-    type: jekyll
-    words: 111
-url: /fiction/sawtooth/rules/
 title: Rules of Sawtooth
 ---
 

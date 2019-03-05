@@ -12,7 +12,9 @@ tags:
 ratings: X
 ---
 
-<div class="cw">sex; hypnosis; dubious consent</div>
+{{< warning >}}
+Sex; hypnosis; dubious consent
+{{< /warning >}}
 
 Oh god.
 

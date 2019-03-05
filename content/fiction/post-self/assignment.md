@@ -13,14 +13,6 @@ categories:
 - Short story
 ---
 
-Print
-:   [PDF](assignment.pdf)
-
-Online
-:   [Post-Self](http://post-self.io/entry/assignment/)
-
------
-
 The feeling of an instance merging state back with the tracker would never NOT make Ioan Balan#tracker uneasy. It wasn't the differences in experiences, those could be anticipated, so much as the tiny changes in identity that resulted. Having to internalize a slightly different version of yourself was too close to experiencing a doppelg&auml;nger. Or perhaps hanging with a sib, fresh home from a semester abroad.
 
 Ioan#tracker had never been abroad, had no siblings. Just new memories.

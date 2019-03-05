@@ -16,9 +16,6 @@ categories:
 
 This is Qoheleth in its entirety. During the process of running Qoheleth, each chapter was reveiled as a step of a puzzle that readers had to solve. There is more to this than is exposed here, but is primarily of a technical nature. For information on that, please see [the repository](https://github.com/makyo/qoheleth).
 
-Online
-:   [Post-Self](http://post-self.io/entry/qoheleth)
-
 -----
 
 ## 1 (Torah)

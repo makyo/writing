@@ -22,6 +22,12 @@
     </div>
     {{ end }}
     <div class="tags">
+        <ul>
+            <li><strong aria-hidden="true">Wordcount: </strong>{{ .Page.WordCount }}</li>
+            <li><strong aria-hidden="true">Reading time: </strong>{{ .Page.ReadingTime }} minutes</li>
+        </ul>
+    </div>
+    <div class="tags">
     {{ with .Params.tags }}
         <strong aria-hidden="true">Tags: </strong>
         <ul aria-label="tags">

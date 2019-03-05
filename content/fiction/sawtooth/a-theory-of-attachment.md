@@ -14,14 +14,6 @@ categories:
 - Erotica
 ---
 
-Print
-:   [PDF](a-theory-of-attachment.pdf)
-
-Online
-:   [SoFurry](https://www.sofurry.com/view/1235693)
-
------
-
 A cool, pale blue lightness sitting just behind her sternum, Sélène made what she promised herself would be a quick pass through the kitchen
 
 She brushed her fingers along the edges of cabinet doors. Each one was opened and inspected, leaving her standing on tiptoes to peer in those above the counters. Nothing but cups and glasses, plates and bowls, cutting boards and pots and pans and trays and dishes. All clean and neatly stacked.
