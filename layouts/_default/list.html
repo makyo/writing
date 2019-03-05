@@ -1,0 +1,46 @@
+{{ define "main" }}
+  <main id="main">
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    <ul class="patterns-list">
+    {{ $paginator := .Paginate (where .Pages.ByPublishDate.Reverse ".Params.date" "!=" nil) 10 }}
+    {{ range $paginator.Pages.ByPublishDate.Reverse }}
+      <li>
+        <h2>
+          <a href="{{ .Permalink }}">
+            <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
+              <use xlink:href="#bookmark"></use>
+            </svg>
+            {{ .Title }}
+          </a>
+        </h2>
+        {{ .Description }}
+        <div class="date" style="font-size: 75%">
+          {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2006" }}
+          <strong aria-hidden="true">Publish date: </strong>{{ .PublishDate.Format $dateFormat }}
+        </div>
+        <div class="tags" style="font-size: 75%">
+        {{ with .Params.tags }}
+            <strong aria-hidden="true">Tags: </strong>
+            <ul aria-label="tags">
+              {{ range . }}
+                <li style="border: none; margin-top: 0px; padding-top: 0px;">
+                  <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                    <use xlink:href="#tag"></use>
+                  </svg>
+                  <a href="{{ "tags/" | absLangURL }}{{ . | urlize }}">{{ . }}</a>
+                </li>
+              {{ end }}
+            </ul>
+        {{ end }}
+        {{ with .Params.ratings }}
+            <ul><li><strong aria-hidden="true">?</strong> <a href="/ratings/{{ lower . }}">Rated {{ . }}</a></li></ul>
+        {{ end }}
+        </div>
+      </li>
+    {{ end }}
+    </ul>
+    <link rel="stylesheet" type="text/css" href="/css/pagination.css" />
+    {{ template "_internal/pagination.html" . }}
+  </main>
+{{ end }}
