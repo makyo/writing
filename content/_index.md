@@ -8,6 +8,7 @@ title: More Than A Few Words
     width: 40%;
     vertical-align: top;
     margin: 0 1rem 1rem 0;
+    max-height: none;
 }
 @media only screen and (max-width: 900px) {
     .portrait {
