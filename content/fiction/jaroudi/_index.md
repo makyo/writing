@@ -22,7 +22,7 @@ title: Jaroudi
           <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
             <use xlink:href="#bookmark"></use>
           </svg>
-          <em>Volume II - Among the Polit</em>
+          <em>Volume II - Among the Polit</em> (todo)
         </a>
       </h3>
       In which our party attempts to use dwarven politics among the minotaurs.
@@ -33,7 +33,7 @@ title: Jaroudi
           <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
             <use xlink:href="#bookmark"></use>
           </svg>
-          <em>Volume III - Against the Polit</em>
+          <em>Volume III - Against the Polit</em> (todo)
         </a>
       </h3>
       In which our party gives up and tries to destroy the politics of the minotaurs.
