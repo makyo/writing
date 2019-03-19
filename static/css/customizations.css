@@ -1,3 +1,23 @@
+/* enforce dark mode */
+body {
+    background-color: #222;
+    color: #eee;
+}
+img[src*=".svg"] {
+    filter: invert(100%);
+}
+.logo img {
+    filter: none;
+    border: 2px solid #fff;
+}
+.pattern [aria-current] {
+    background-color: #eee;
+    color: #222;
+    clip-path: polygon(0% 0%, 90% 0%, 100% 50%, 90% 100%, 0% 100%, 10% 50%);
+    padding-left: 1.5rem;
+}
+
+/* pagination */
 ul.pagination {
     list-style-type: none;
     display: block;
@@ -6,7 +26,8 @@ ul.pagination {
 
 ul.pagination li {
     display: inline-block;
-    border: 2px solid #000;
+    border: 2px solid currentColor;
+    padding: 2px;
     min-width: 2rem;
     text-align: center;
     margin-right: -10px;
