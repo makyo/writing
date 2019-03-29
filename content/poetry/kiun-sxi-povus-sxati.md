@@ -1,4 +1,5 @@
 ---
+type: post
 title: Kiun ŝi povas ŝati?
 date: 2019-03-27
 categories:
