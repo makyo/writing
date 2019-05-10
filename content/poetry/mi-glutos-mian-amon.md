@@ -12,8 +12,8 @@ Mi glutos mian amon por vi.
 Mi glutos mian amon.
 Mi glutos mian amon por vi
 Kaj frandos la ekflamadon de magnezio,
-Guos la oferbuĉadon,
-Gojos la aŭtolizadon
+Ĝuos la oferbuĉadon,
+Ĝojos la aŭtolizadon
 De sekretaj ĉeloj.
 Mi glutos mian amon por vi.
 Mi glutos mian amon.
