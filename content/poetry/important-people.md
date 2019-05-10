@@ -303,3 +303,17 @@ something to feel good about,
 something between us
 other than nothing.
 </div>
+
+-----
+
+<div class="verse">
+I will swallow my love for you.
+I will swallow my love.
+I will swallow my love for you
+And relish the magnesium flare,
+Rejoice in immolation,
+Cherish the autolysis
+Of secret cells.
+I will swallow my love for you.
+I will swallow my love.
+</div>
