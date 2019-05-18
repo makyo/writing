@@ -27,7 +27,7 @@ His wife, gone now these five years, had been fond of calling him a restless sou
 
 *Just*. *Only*.
 
-That's all he was. There was nothing to him except restlessness. After Anna's death, he'd slowly become less and less of a person, until all that was left was the urge to move, the terror over being confined to one place for any length of time.
+That's all he was. There was nothing to him except restlessness. After Naomi's death, he'd slowly become less and less of a person, until all that was left was the urge to move, the terror over being confined to one place for any length of time.
 
 His tail starting to sag, the fisher could feel all the calm he'd accumulated through the walk start to ebb, the tide of anxiety creeping in from the edges, from his fur inwards. One last trip around the block, he figured, was all he could manage before resting again.
 

@@ -3,6 +3,8 @@ title: Every Angel is Terrifying
 type: post
 ---
 
+<!--A-->
+
 I take the bus to the edge of Sawtooth, basically as close as I can get to I-84 on local transit. Beyond here it's all industrial. All warehouses and junkyards and hulking, silent buildings painted grey or beige, or not painted at all. Machine shops, garages, or simply anonymous buildings with rows of doors and loading docks. Beyond here, there is no living. It's a liminal space.
 
 That's okay. I just need out of this town. This stupid fucking town. This brown and flat and sad town. This restless town. This home to ennui and melancholy. This scrub of buildings and people and emotions spilled in the middle of an apathetic landscape like hay from an overturned truck.
@@ -19,9 +21,11 @@ I keep walking.
 
 -----
 
+<!--B-->
+
 At fifteen, I had been a gawky and anxious dog. Too anxious. Too gawky. I took to slinking around school from class to class in silence, letting my overful backpack propel me down the halls, walking close to the walls. Any time not spent in the desk furthest from the door daydreaming was spent in front of one of the computers in the lab.
 
-Sawtooth High had a few computer classes, but none of them warranted the lab that the school had. Twenty relatively high-end machines --- at least, higher end than would ever be needed for the two typing classes, the Pascal class,or the HTML class offered by the school --- and my favorite, two linux machines tucked away in a corner. Babylon and Enterprise.
+Sawtooth High had a few computer classes, but none of them warranted the lab that the school had. Twenty relatively high-end machines --- at least, higher end than would ever be needed for the two typing classes, the Pascal class, or the HTML class offered by the school --- and my favorite, two linux machines tucked away in a corner. Babylon and Enterprise.
 
 I spent hours on those damn machines. Sometimes, it would be me, holed up in the lab itself, sitting in front of an aged CRT monitor, claws clacking on the keys as I taught myself one programming language or another, worked on homework, or just plain goofed off online. Sometimes, it was me me surreptitiously tabbing back and forth between what I was supposed to be working on in Pascal class and a terminal window opened to Babylon (Enterprise being the machine that ran the school's website, we were discouraged from actually using it much). Sometimes it was me sneaking out of bed once I was sure my mom had gone to sleep and, muffling the modem with my pillow, logging on remotely.
 
@@ -33,15 +37,13 @@ And it was there where I found love. There where I found love and lust and roman
 
 Merlin and Marusin, The_Prof and rranger386, people I would dream about and likely never meet. We were all young. We were in love with each other in our own little worlds, serially and in parallel.
 
-And while sometimes I would think about who they were beyond the screen, it was rarely for long. I was in love with Merlin the fighter who hated magic. I was in love with The_Prof the studen who desperately wanted to be a professor when he grew up, and didn't care about the subject.
+And while sometimes I would think about who they were beyond the screen, it was rarely for long. I was in love with Merlin the fighter who hated magic. I was in love with The_Prof the student who desperately wanted to be a professor when he grew up, and didn't care about the subject.
 
 Sometimes I would think about who they were when we TSed, would wonder what it would be like to have their paw instead of my own around my erection, but never for long. It was easier, it was safer to not bother with it.
 
 But our relationships were as real as any collocated flings. More so, we told ourselves, for the purity of essence that came with no flesh to get in the way.
 
 I'm sure we all hungered for touch.
-
------
 
 It was toward the tail end of high school that I began to get plagued with depression and mood swings.
 
@@ -81,6 +83,8 @@ All these words...
 
 -----
 
+<!--A-->
+
 > Every angel is terrifying.
 
 The words start a whisper, a half-heard echo. They are a niggling thought, a loose tooth, a thread to be worried loose from a hem.
@@ -98,6 +102,8 @@ I keep walking. I keep murmuring my mantra. Keep muttering long after the words 
 I keep walking.
 
 -----
+
+<!--C-->
 
 "LTS, this is Derek, how can I help you?"
 
@@ -127,13 +133,13 @@ I rushed to pick up the battery pack and hold the shorting wires apart so that I
 
 I shouldn't have thrown the phone, to be honest. It was just as childish and petulant as the employee I was talking to.
 
-But that day hadn't been a good day for me. It felt like school and work were conspiring against me to make my life as hard as possible. Majoring in computer science had sounded so fun when I'd picked it, but the more I learned about computers, the more I learned to loathe them. The more I loathed computers, the more I loathed school, the worse my grades, the angrier the calls home, the less I spoke, the more I hid.
+But that day hadn't been a good day for me. It felt like school and work were conspiring against me to make my life as hard as possible. Majoring in computer science had sounded so fun when I'd picked it, but the more I learned about computers, the more I learned to loathe them. The more I loathed computers, the more I loathed a key part of my identity. The more I loathed computers, the more I loathed school, the worse my grades, the angrier the calls home, the less I spoke, the more I hid.
 
 The last thing I needed was an employee throwing a temper tantrum and blaming me for her non-issues blown way out of proportion.
 
 We knew it was a non-issue, too. Her software had indeed been included on the list we were given with her name beside it, so we had checked her drive over the network and found that the last access times for the editing software had been only a few hours after their creation dates, more than a year ago. Always on his quest to trim down the size of the disk images, boss had gone on a bit of a spree --- or the opposite of a spree, rather --- pointedly not including software that people didn't use on the Liaisons image.
 
-A minute and a half later found me sitting in my chair trying to fix the portable handset I'd just thrown across the lab with little success. The employee came peeking in through the door to LTS. I held up the phone toward her and mumbled something about having a little bit of trouble with the handset, simple mechanical repair, sorry for the dropped call. My boss stepped out of his office between us, getting up to see what the noise was.
+A minute and a half later found me sitting in my chair trying to fix the portable handset I'd just thrown across the lab with little success. The employee, a fisher, came peeking in through the door to LTS. I held up the phone toward her and mumbled something about having a little bit of trouble with the handset, simple mechanical repair, sorry for the dropped call. My boss stepped out of his office between us, getting up to see what the noise was.
 
 "Matt," she whined to him. "When you gave me the new computer, I was told that I would have all of my old programs on it and there not there!" She still sounds a hairsbreadth away from tears, and my boss's eyes go wide at the sound, his muscles tensing as he backs away from this new threat. I note with a small amount of satisfaction that the coyote's own tail tucks as reflexively as mine.
 
@@ -153,17 +159,17 @@ When I got back into the lab, my boss handed me a small stack of install disks a
 
 "What's her computer again?" I asked resignedly. Fair's fair.
 
-"nwaite"
+"N-W-A-I-T-E"
 
 "Nora? Nancy? I forgot her name. Guess I blocked it from my mind. Should probably email her an apology."
 
 He gave an abbreviated wag, always a sign of trouble. "'I moan' backwards."
 
-I groaned, rolled my eyes at the strained humor, and set to work installing Ms. Waite's software.
+I groaned, rolled my eyes at the strained humor, and set to work installing Mrs. Waite's software.
 
 That night, I dully made myself a grilled cheese sandwich, poured a finger of precious, ill-gotten gin over stale ice, and holed up in front of my computer, wrapped in a blanket with tail draped limply from the back of my chair.
 
-For an hour, perhaps, I scrolled through blogs and forums. I read on my friends' brighter lives. I read threads I didn't care about. After a certain point, I didn't even read. I scrolled mechanically, and when I hit the bottom of the page, I'd click the 'next page' button.
+For an hour, perhaps, I scrolled through blogs and forums. I read up on my friends' brighter lives. I read threads I didn't care about. After a certain point, I didn't even read. I scrolled mechanically, and when I hit the bottom of the page, I'd click the 'next page' button.
 
 Or perhaps I read, I don't know. Perhaps the pattern-matching part of my brain that recognized letters and words and sentences kept on doing its job. Perhaps words and meaning did flow through my mind, but none of it found any foothold. None of it stuck.
 
@@ -181,7 +187,7 @@ Before I knew what I was doing, I was already well into my reply third reply, an
 >
 > You page, "Or my life is okay, I dunno." to Peter_P.
 >
-> You page, "Shouldn't complain, I'm in a good spot. It's just hard when it all feels so pointless and empty. Sometimes I get desperately sad and everything hurts or whatever, but this is just like having my heart and brain replaced with cottonballs. It's like thinking with fluff." to Peter_P.
+> You page, "Shouldn't complain, I'm in a good spot. It's just hard when it all feels so pointless and empty. Sometimes I get desperately sad and everything hurts or whatever, but this is just like having my heart and brain replaced with cottonballs. It's like thinking through gauze." to Peter_P.
 
 I realized, by the time I manage to lift my paws from the keys and cup them around my blunt muzzle, that I've started crying, the fur on my cheeks damp with tears. I wished I could delete messages. Erase them from the screen, from the server, from Peter's mind, if he'd already read them. I wished I could take it back and just be empty in my room, at my poster-covered walls, rather than empty on the internet at distant friends.
 
@@ -237,6 +243,8 @@ I went to bed...not exactly happy, but comforted. As I started nodding off, I re
 
 -----
 
+<!--A-->
+
 > Who, if I cried out, would hear me among the ranks of angels?
 
 With the sun at my back, I trudge east. The din of the freeway once more softening through waterfall and back into the sound of distant winds.
@@ -249,9 +257,11 @@ I slow my pace and focus on walking like a normal dog. No sense in getting worn 
 
 I walk east under some other authority's direction. I am not in control of my body anymore. I am not in control of my thoughts.
 
-I have no thoughts. Emotions swell, rage, and die within, ceaselessly and directionlessly.
+I have no thoughts.
 
-I have no thoughts. I ride the swell of emotions from one to the next, surfing along, feeling that I, too, will rage and die.
+I have no thoughts. Emotions well up, rage, and die within, ceaselessly and directionlessly.
+
+I have no thoughts. I ride my emotions from one swell to the next, surfing along, feeling that I, too, will rage and die.
 
 I have no thoughts.
 
@@ -259,41 +269,71 @@ I keep walking.
 
 -----
 
+<!--B'-->
+
 (manic episode in grad school; learning the rhythm of bipolar. Switched from CS to English, on to MFA)
 
-A scant five months after I started my degree, I crashed hard and tried to commit suicide, and after that, I just buried myself in it --- in the degree and in life. I found ways to get write more, if that was possible, just to try and fill that big, quiet nothingness.
+Much of my undergrad was borne out of depression. School was just a thing I did during the days, but my time spent in front of a keyboard was a part of myself. Each story, each post, each role-play session was a piece of myself. Each was a tiny rock to throw at this vasty nothingness. Justifying the things I liked, delineating the craziness of lives real and manufactured, gushing about worlds fantastic...they were all ways for me to pound my fists against nothing at all.
 
-I splashed around in great heaps of words, scrabbling at every pebble of a story I could find beneath the surface.
+A scant two months into my second year at university, I crashed hard and tried to commit suicide, a private affair I never told anyone about, and after that, I just buried myself in it --- in my computer and in the life lived there, the life I was soon sharing with Peter.
 
-I prowled through the tangled thicket of FA and Weasyl, hunting for artists to highlight.
-
-And I took way too many metaphors way, way too far.
+I found ways to get write more, if that was possible, just to try and fill that big, quiet nothingness. I splashed around in great heaps of words, scrabbling at every pebble of a story I could find beneath the surface. I prowled through the tangled thicket of fiction and nonfiction, hunting for ideas to highlight. I took way too many metaphors way, way too far.
 
 And you know what? It worked.
 
-At least, after a fashion. I started to feel fulfillment. I started *filling* my weekends with writing. I got in trouble with JM for writing an article on a tablet in a plane just so that I could get it up on a Wednesday. I started to gain energy just from the act of *spending* energy on something I loved wholeheartedly.
+At least, after a fashion. I started to feel fulfillment. I started *filling* my weekends with writing. I got in trouble with Peter for idling out repeatedly during conversations, words flowing into the editor instead of between the two of us. I started to gain energy just from the act of *spending* energy on something I loved wholeheartedly.
 
-I was also tackling depression in more tangible ways, of course. I started on meds and dug into the task of finding something to help make that nothingness more livable. Meds, after all, don't just sweep it away, and they certainly didn't make me any less myself, but they did help me perceive where I was. They were a fine set of glasses for helping me see which things I was burning myself up over were real, and which were just phantoms in that empty space.
+In a flash of insight --- or perhaps mania --- I scheduled an appointment with someone in the arts department. Changing degrees and the course of my life was, it turns out, as simple as signing a sheet of paper and waiting a week for confirmation. The next semester, I would be able to start signing up for classes to work toward a degree in creative writing. It would likely extend my undergrad by a year, but thankfully, I'd gotten plenty of the core curriculum classes out of the way already.
+
+One of the downsides of working on insight is, by the very definition, a lack of foresight. Telling my parents resulted in them immediately pulling financial support for my tuition.
+
+"I'm not going to help buy you a useless future," dad told me. "I can't stop you from throwing away your life; you're a fucking adult. That won't be on me, though."
+
+It was only through a stroke of luck that the current semester plus my living situation for the remainder of the semester plus summer was already paid for. That check had already been deposited.
+
+The thing that sealed the deal for me was that I still enjoyed my time at school even when the next downswing struck later that semester. I'd quickly realized that decisions made when I felt good weren't always the right ones. If they still felt right when I was depressed, though, I could at least be sure that they'd be more likely to stick.
+
+Such had not been the case with comp sci, it seemed.
+
+
+
+<!--(start getting into self harm, alcohol)-->
+
+<!--(probably don't want meds stuff if it the point is that Derek never gets treated) I was also tackling depression in more tangible ways, of course. I started on meds and dug into the task of finding something to help make that nothingness more livable. Meds, after all, don't just sweep it away, and they certainly didn't make me any less myself, but they did help me perceive where I was. They were a fine set of glasses for helping me see which things I was burning myself up over were real, and which were just phantoms in that empty space.-->
 
 -----
 
+<!--C'-->
+
+<!--Something with peter-->
+
+-----
+
+<!--A-->
+
 Shivering in the March evening's chill, I come to a tee in the road. Staring out at the unbroken rolling plains beyond town, I linger. The sun sets, the moon rises. Stars fade into view, and still I stare at the low scrub.
 
-The first true thought that enters my mind is of how small I am, mentally trying to see how many of myself stacked head to toe and packed in together it would take to equal one of those low hills, not to mention just one of the mountains of the Sawtooth range. And how little all my problems must mean to that many people.
+The first true thought that enters my mind is of how small I am. I mentally try to estimate how many of myself stacked head to toe and packed in together it would take to equal just one of those low hills, not to mention just one of the mountains of the Sawtooth range behind me. And how little all my problems must mean to that many people.
 
-(manic swing earlier in the winter causing implosion of life: quit, broke up with peter in deliberately mean way. musing over mania as a faster form of depression)
-
-All these words, all this burning bright in an attempt to light of vast, crenelated spaces of nothing. Perhaps its an attempt to light up a space around me.
+All these words, all this burning bright in an attempt to light up vast, crenelated spaces of nothing. Perhaps its an attempt to light up a space around me.
 
 All that I love feels poisoned to me, tainted by the fact that I burned so hard in an attempt to light up all this nothing a little better. I feel forced to like these things because I'm trammeled by this indescribably empty space with them.
 
-No, that's not true. I tore Peter up and threw him away because he wasn't in there with me in the midst of that nothing. I was a coward: afraid to be alone, but more afraid to ask for help, so I removed my choice in the matter.
+No, that's not true. I quit because I wanted I tore Peter up and threw him away because he wasn't in there with me in the midst of that nothing. I was a coward: afraid to be alone, but more afraid to ask for help, so I removed my choice in the matter.
+
+-----
+
+<!--D-->
+
+<!--(hypomanic swing earlier in the winter causing implosion of life: quit, broke up with peter in deliberately mean way when suggested that he gets help. musing over hypomania as a faster form of depression)-->
+
+-----
 
 The sound of a car door shutting brings me out of my reverie, if reverie it is, and I blink at my surroundings. I'm standing at the side of the road with the barbed wire of the fence clenched in my fists, a small, cheap two-door parked about twenty feet away. It's a small wonder I hadn't heard it before, nor even noticed the headlights. There's a dull pain in my hands. A far away pain. A someone-else pain.
 
-Once the driver walking towards me resolves from a blurry black cutout against their headlights to the features of one of my students --- a solidly built mountain lion --- I relax my grip on the fence. Without saying a word, the puma leads me over to the passenger door of the car and makes me sit in the seat. They tear strips from a towel in the back seat to wrap my bleeding paws.
+Once the driver walking towards me resolves from a blurry black cutout against their headlights to the features of one of my students --- a solidly built mountain lion --- I relax my grip on the fence. Without saying a word, the puma leads me over to the passenger door of the car and makes me sit in the seat. They tear strips from a towel in the back seat to wrap my bleeding pads.
 
-My hands. My hands covered in lacerations and punctures from the barbed wire. They are not my hands. They are someone else's. They are somewhere else.
+My paws. My paws covered in lacerations and punctures from the barbed wire. They are not my paws. They are someone else's. They are somewhere else.
 
 With my student's help, I use one of the strips to wipe the tears and snot from my face. The mountain lion shuts the door, pads back around the car, and turns the car around on the narrow county road.
 

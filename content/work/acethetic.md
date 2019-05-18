@@ -57,7 +57,7 @@ Just get stuff wrapped up and run home to change. *Rent a movie,* indeed.
 
 The way they looked at it, Jace had three things working in concert to make life difficult: they were ace, they were a werewolf, and they were single and didn't want to be. If any one of those three things were to disappear, their life would become simple. Trivial. Easy-peasy, lemon squeezy.
 
-The three of them together were three halves of a person trying to become one whole. Were the asexual bit gone, they'd plop right down in the center of the dating pool and immediately be partnered. Were the were bit untrue, they could live a comfortable life seeking out an ace partner without the undue pressure put on them by the whole "turns into a wolf-person once a month" thing.
+The three of them together were three halves of a person trying to become one whole. Were the asexual bit gone, they'd plop right down in the center of the dating pool and immediately be partnered. Were the werewolf bit untrue, they could live a comfortable life seeking out an ace partner without the undue pressure put on them by the whole "turns into a wolf-person once a month" thing.
 
 And boy could they bypass a lot of they would just be okay being single.
 
@@ -65,13 +65,13 @@ But no, this was the hand they were dealt: sex was a panicky mess, the mere thou
 
 So they kept trying.
 
-Dating while an ace were was a bit of an adventure. They'd initially left the whole not-into-sex bit off their profile, but that had led to a lot of okay first dates followed by really bad second dates. For them to list themselves as were --- something they weren't willing to compromise on --- and then *not* be available first night was...well, everyone got the jitters once in a while, right? But two dates without sex rarely led to a third.
+Dating as an ace were was a bit of an adventure. They'd initially left the whole not-into-sex bit off their profile, but that had led to a lot of okay first dates followed by really bad second dates. For them to list themselves as were --- something they weren't willing to compromise on --- and then *not* be available first night was...well, everyone got the jitters once in a while, right? But two dates without sex rarely led to a third.
 
-Once they'd listed asexuality on their bio, their hits had dropped by half, and of those they did wind up meeting up with, about half had seemed to want to do so in order to fix Jace by getting them in bed. The reasons ran the gamut from the painfully self-centered "well, who *wouldn't* want to fuck me?" to the endearingly awkward "you just haven't found the right one yet, dear".
+Once they'd listed asexuality on their bio, their hits had dropped by half, and of those they did wind up meeting up with, about half had seemed to want to do so in order to somehow fix Jace by getting them in bed. The reasons ran the gamut from the painfully self-centered "well, who *wouldn't* want to fuck me?" to the endearingly awkward "you just haven't found the right one yet, dear".
 
-It had irked them to no end, and they knew it wasn't the case --- they didn't think so, at least --- but they'd eventually just added "(for medical reasons)" after "asexual" on their page. This after they'd not stopped an aggressive touch soon enough, and their date gotten upset for them not responding how they had imagined a werewolf ought to. Jace supposed the lack of unbridled lust was a point against them, and a third date never materialized.
+It had irked them to no end, and while they knew it wasn't the case --- they didn't think so, at least --- but they'd eventually just added "(for medical reasons)" after "asexual" on their page. This after they'd not stopped an aggressive touch soon enough, and their date gotten upset for them not responding how they had imagined a werewolf ought to. Jace supposed the lack of unbridled lust was a point against them, and a third date never materialized.
 
-Maybe it was true. Maybe they were just born busted, just needed a quick fix.
+Maybe it was true. Maybe they were just born busted, just needed repair.
 
 Jace shook their head, feeling the reverie cling to their thoughts like wisps of cobweb, dogging their vision even as they struggled to get changed out of dull work clothes and into their nicest shifting clothes. Loose black slacks with elastic that wasn't too worn out, and a 'button'-up shirt that was clasped shut with magnets behind the faux-buttons.
 

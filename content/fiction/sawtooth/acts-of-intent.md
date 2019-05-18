@@ -71,7 +71,7 @@ Smooth movements. Smooth and sure. He took the can, focused on the frigid patch,
 
 > *Then he would bike and hunt for the cold he knew peppered the town.*
 
-The sigil was one unbroken line. One line that contained all those arcs and curves and straightaways and angles and corners. All sprayed dead scenter in the midst of that patch layering intent over what meaning was already there.
+The sigil was one unbroken line. One line that contained all those arcs and curves and straightaways and angles and corners. All sprayed dead center in the midst of that patch layering intent over what meaning was already there.
 
 Quickly, before he even capped the can, he fished his lighter out of his pocket and gave the wheel a rasp just at the final endpoint of the line.
 
