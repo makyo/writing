@@ -5,7 +5,7 @@ type: post
 
 <!--A-->
 
-I take the bus to the edge of Sawtooth, basically as close as I can get to I-84 on local transit. Beyond here it's all industrial. All warehouses and junkyards and hulking, silent buildings painted grey or beige, or not painted at all. Machine shops, garages, or simply anonymous buildings with rows of doors and loading docks. Beyond here, there is no living. It's a liminal space.
+I take the bus to the edge of Sawtooth, basically as close as I can get to I-15 on local transit. Beyond here it's all industrial. All warehouses and junkyards and hulking, silent buildings painted grey or beige, or not painted at all. Machine shops, garages, or simply anonymous buildings with rows of doors and loading docks. Beyond here, there is no living. It's a liminal space.
 
 That's okay. I just need out of this town. This stupid fucking town. This brown and flat and sad town. This restless town. This home to ennui and melancholy. This scrub of buildings and people and emotions spilled in the middle of an apathetic landscape like hay from an overturned truck.
 
@@ -295,17 +295,31 @@ The thing that sealed the deal for me was that I still enjoyed my time at school
 
 Such had not been the case with comp sci, it seemed.
 
+Depression was not solved by increasing quality of life. Its tenor changed, to be sure, but the dependable five month cycle continued throughout the years, souring summers and leaving me bedridden with "the flu" or "a cold" for days at a time.
 
+I'd spend the days under the covers with the second-hand laptop I got from the library surplus and, depending on the weather, either a glass of gin and ice or a hot cocoa spiked with peppermint schnapps, alternating between writing and programming, masturbating to old TS logs, and crying.
 
-<!--(start getting into self harm, alcohol)-->
+I would roleplay as my best, purest characters. Or perhaps, with Peter, I would roleplay as my better self. Someone happier than I was. Healthier, more responsive, more engaging.
 
-<!--(probably don't want meds stuff if it the point is that Derek never gets treated) I was also tackling depression in more tangible ways, of course. I started on meds and dug into the task of finding something to help make that nothingness more livable. Meds, after all, don't just sweep it away, and they certainly didn't make me any less myself, but they did help me perceive where I was. They were a fine set of glasses for helping me see which things I was burning myself up over were real, and which were just phantoms in that empty space.-->
+I would go to bed feeling guilty for wearing such a mask, consoling myself in the fact that without it, I might wind up without him.
+
+I marveled the enormity of this empty space in which I inhabited. I marveled at the film-like quality to my life. I marveled at the diegesis of objects, sounds, tastes, smells.
+
+I inhabited a spotlight shone on a flat grey ground.
+
+I began relying on alcohol to feather the edge of it, making the boundary between myself and that emptiness softer, less painfully sharp. I used the pain of plucked fur or hot knifetip against skin to send up magnesium flares, enough to briefly light up the world around me and offer a sense of clarity, however superficial. The mundanity of wound care would ground me for a week, two.
+
+None of that made me any less of myself. They didn't sweep away Derek. It simply became a part of me while I wasn't watching. The pain, the gin, the days holed up in bed  were a fine set of glasses for helping me see which things I was burning myself over were real, and which were just phantoms in that dreamscape.
+
+And then, with the clockwork predictability, it would lift. With a sharp coolness in my nostrils, I'd rise before the sun and walk the neighborhood, find my way to The Book and The Bean, and see eyes other than my own.
+
+With faintness of foresight or perhaps practiced ease, I slipped from my undergraduate program to an MFA program in Moscow, in the far west of the state.
 
 -----
 
 <!--C'-->
 
-<!--Something with peter-->
+<!--visit with peter-->
 
 -----
 
@@ -325,7 +339,7 @@ No, that's not true. I quit because I wanted I tore Peter up and threw him away 
 
 <!--D-->
 
-<!--(hypomanic swing earlier in the winter causing implosion of life: quit, broke up with peter in deliberately mean way when suggested that he gets help. musing over hypomania as a faster form of depression)-->
+<!--(hypomanic swing earlier in the winter causing implosion of life: quit, broke up with peter in deliberately mean way when suggested that he gets inpatient help. musing over hypomania as a faster form of depression)-->
 
 -----
 

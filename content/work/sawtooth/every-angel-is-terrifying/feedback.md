@@ -17,7 +17,6 @@ Enn says, "And with how rushed doctors are becoming, a proper diagnosis (or even
     less likely."
 Alvin says, "Well, it's better than it was. They used to not treat it at all. And people would kill themselves."
 Mewse wakes up.
-Alvin says, "Or people would fear the stigma of it and refuse to go see a doctor. And kill themselves."
 Alvin says, "Or people would fear the stigma of it and refuse to go see a doctor. And kill themselves."               
 Springbeast has been ridiculed for his issue, too
 Enn says, "I wonder if a lot of the drug-addiction problem is a result of this."
