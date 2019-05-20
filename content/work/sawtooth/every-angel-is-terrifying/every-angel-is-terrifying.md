@@ -145,7 +145,7 @@ A minute and a half later found me sitting in my chair trying to fix the portabl
 
 "I think there was a misunderstanding," he said carefully. "Everything will be alright, if you just give us a second, we'll--"
 
-I'm already wincing away from the conversation at his very familiar words by the time she stamped her foot. Her tail was already bottlebrushed out, and I could tell she was only a moment away from hissing. I took that as my cue and quietly ducked out around her to sneak out of the library.
+I'm already wincing away from the conversation at his very familiar words by the time she stamped her foot. Her tail was already bottle-brushed out, and I could tell she was only a moment away from hissing. I took that as my cue and quietly ducked out around her to sneak out of the library.
 
 I walked around the building. I took the counter-clockwise route, knowing I risked being seen from LTS' view of the parking lot, but trusting my boss to have things in hand. An unseasonably warm winter was heading toward a cold snap. I could smell it in the air, as though all of the moisture had been packed away for the weekend. Shortcutting through a grassy alley between the library and the psychology building, I crunched through dead leaves with paws buried deep in my pockets.
 
@@ -187,7 +187,7 @@ Before I knew what I was doing, I was already well into my reply third reply, an
 >
 > You page, "Or my life is okay, I dunno." to Peter_P.
 >
-> You page, "Shouldn't complain, I'm in a good spot. It's just hard when it all feels so pointless and empty. Sometimes I get desperately sad and everything hurts or whatever, but this is just like having my heart and brain replaced with cottonballs. It's like thinking through gauze." to Peter_P.
+> You page, "Shouldn't complain, I'm in a good spot. It's just hard when it all feels so pointless and empty. Sometimes I get desperately sad and everything hurts or whatever, but this is just like having my heart and brain replaced with cotton balls. It's like thinking through gauze." to Peter_P.
 
 I realized, by the time I manage to lift my paws from the keys and cup them around my blunt muzzle, that I've started crying, the fur on my cheeks damp with tears. I wished I could delete messages. Erase them from the screen, from the server, from Peter's mind, if he'd already read them. I wished I could take it back and just be empty in my room, at my poster-covered walls, rather than empty on the internet at distant friends.
 
@@ -297,29 +297,104 @@ Such had not been the case with comp sci, it seemed.
 
 Depression was not solved by increasing quality of life. Its tenor changed, to be sure, but the dependable five month cycle continued throughout the years, souring summers and leaving me bedridden with "the flu" or "a cold" for days at a time.
 
-I'd spend the days under the covers with the second-hand laptop I got from the library surplus and, depending on the weather, either a glass of gin and ice or a hot cocoa spiked with peppermint schnapps, alternating between writing and programming, masturbating to old TS logs, and crying.
+I would spend the days under the covers with the second-hand laptop I got from the library surplus and, depending on the weather, either a glass of gin and ice or a hot cocoa spiked with peppermint schnapps, alternating between writing and programming, masturbating to old TS logs, and crying.
 
-I would roleplay as my best, purest characters. Or perhaps, with Peter, I would roleplay as my better self. Someone happier than I was. Healthier, more responsive, more engaging.
+I would role play as my best, purest characters. Or perhaps, with Peter, I would role play as my better self. Someone happier than I was. Healthier, more responsive, more engaging.
 
 I would go to bed feeling guilty for wearing such a mask, consoling myself in the fact that without it, I might wind up without him.
 
-I marveled the enormity of this empty space in which I inhabited. I marveled at the film-like quality to my life. I marveled at the diegesis of objects, sounds, tastes, smells.
+I would marvel the enormity of this empty space in which I inhabited.
+
+I would marvel at the film-like quality to my life.
+
+I would marvel at the diegesis of objects, sounds, tastes, smells.
 
 I inhabited a spotlight shone on a flat grey ground.
 
-I began relying on alcohol to feather the edge of it, making the boundary between myself and that emptiness softer, less painfully sharp. I used the pain of plucked fur or hot knifetip against skin to send up magnesium flares, enough to briefly light up the world around me and offer a sense of clarity, however superficial. The mundanity of wound care would ground me for a week, two.
+I began relying on alcohol to feather the edge of it, making the boundary between myself and that emptiness softer, less cruelly sharp.
+
+I used the pain of plucked fur or hot knife-tip against skin to send up magnesium flares, enough to briefly light up the world around me and offer a sense of clarity, however superficial. The mundane, every-day-ness of wound care would ground me for a week, two.
 
 None of that made me any less of myself. They didn't sweep away Derek. It simply became a part of me while I wasn't watching. The pain, the gin, the days holed up in bed  were a fine set of glasses for helping me see which things I was burning myself over were real, and which were just phantoms in that dreamscape.
 
-And then, with the clockwork predictability, it would lift. With a sharp coolness in my nostrils, I'd rise before the sun and walk the neighborhood, find my way to The Book and The Bean, and see eyes other than my own.
+And then, with the clockwork predictability, it would lift. With a sharp coolness burning my nostrils, I'd rise before the sun and walk the neighborhood, find my way to The Book and The Bean, and see eyes other than my own.
 
-With faintness of foresight or perhaps practiced ease, I slipped from my undergraduate program to an MFA program in Moscow, in the far west of the state.
+With a faintness of foresight or perhaps practiced ease, I slipped from my undergraduate program to an MFA program in Moscow, in the far west of the state.
 
 -----
 
 <!--C'-->
 
 <!--visit with peter-->
+"Oh god, it's so much easier to fly into Boise than Moscow or Sawtooth," Peter grunted, luggage clatter to the floor as we hauled it from the carousel.
+
+I laughed. "The city does come with its benefits, yeah. Pretty good food, and it's big enough to get you to visit more."
+
+"Yeah, I turn into a pumpkin if I get out of the five boroughs at all."
+
+"Well, it's not that big, and not nearly as tall, thankfully."
+
+Peter smiled apologetically, tall ears canting back. "Sorry. Can't help my apartment's so high up."
+
+Telescoping the handle out of one of the shepherd's two suitcases, I guided him away from the crowd and over to the rental car stations. "You're fine, love, promise. You turn into a pumpkin when you get out of the city, and I feel like any building higher than three stories is bound to come tumbling down."
+
+"I know. Different strokes, I guess. I feel so exposed out here. It's all so flat, I feel like the tallest thing around."
+
+"And I feel like a speck in New York." I laugh again. "Despite growing up next to the mountains, too."
+
+The rental car was a concession to life in the midwest. It was all well and good to take public transit in a place like New York City, or even cabs, but even though public transit wasn't exactly terrible in Boise, it was much harder to get from the airport to my apartment here on public transit than it was out east.
+
+Besides, it would allow us the opportunity to hunt down good restaurants or hunt for good hiking east of the city.
+
+We spent the drive back catching up. We talked plenty, both over text and phone, but for some reason, those first few hours after touchdown always felt like a period of reacquainting.
+
+I told him of life in grad school, of the way that it always felt like stumbling when I started teaching in the fall, before I'd fall back into the rhythm of it, no matter how many fall semesters I taught. He told me about his design work in the city, and though I'd heard plenty about it before, it was suddenly more engaging, if only for the fact that I could see his wild gestures when describing it out of the corner of my eye as I drove us home.
+
+By the halfway point, we'd repurposed the center console as platform to bear our clasped paws, and by the final mile, our paws had each wound up on the other's thigh.
+
+The bags didn't even make it to the bedroom. Neither did most of our clothes, for that matter. They left a trail of evidence for some keen-eyed detective from the entryway to my bed, where the heady scent of sex hung thick in the air: a final clue for why two dogs were sprawled, panting, fur matted with semen and lube.
+
+An hour's lazy conversation, a shared shower, and a glass of wine on the patio led us to the conclusion that it was far, far too nice out to bother with eating indoors, and so we walked to the convenience store and struck out for the park.
+
+"It's a different kind of height."
+
+"Mm?"
+
+"The mountains," Peter said.
+
+We'd settled down on a pair of folding camp chairs in a small park and were sharing an inexpensive can of wine --- though perhaps 'inexpensive' isn't a necessary prefix to 'can of wine', but they looked like sodas from a distance, so they worked well for picnics. Before us rose a slow slope, the neatly manicured grass of the park ending abruptly at the base of a dun-colored hill.
+
+"That's hardly a mountain," I laughed. "Though I guess you saw the ones in Sawtooth."
+
+He nodded. "Yeah."
+
+"What do you mean, different kind of height, though?"
+
+Peter took a long sip from the can, and we sat in silence, waiting for the last of the sun to slip off the tip of Camel's Back. Once it had settled into the evening with the rest of us, he continued. "It's so haphazard. All the buildings in the city, they're all so regular, even when they're tall. I can stand by the base and look straight up and know --- *know* --- that I will see sky. I don't feel that way with mountains."
+
+"I suppose I felt the opposite," I said after a pause. "I always felt like they were looming over me, like their whole weight would topple down on top of me if the wind blew wrong."
+
+The other dog laughed. "I guess we're the same, then, for different reasons. I always felt like the mountains were going to come down on me. They sit there to the...well, to the east, here, but back in Sawtooth to the west, and they just--" he waved his paw vaguely at the hill before us. "--they just stand there. Wild and untamed. There's no order. You don't know what they're going to do. Not like in cities, where the buildings are...are manifestations of order. Order imposed on physical reality."
+
+"You, my darling, are drunk," I said, and we both laughed again. "But I think I understand. You feel like there's nothing to stop the mountains from coming crashing down on you, because there's nothing to stop them from doing so."
+
+"Mm."
+
+"And I feel like there's nothing to stop the buildings from coming down on me because I know how bad we are at ordering our lives; how could we possibly be any better at ordering nature?"
+
+Peter passed the can of wine to me to finish, waited for me to transfer it to my other paw, and then took my closer one in his. We sat, paw in paw, until evening settled into twilight.
+
+That night, as we lay curled together, I wondered aloud for the millionth time what kept Peter with me. He drew so much strength from order, and I was such a train wreck.
+
+"Sometimes I feel like you're the mountains. There's nothing to stop you from falling, because there's so little order in your life. Doesn't mean I don't love you."
+
+I hesitated in the slow strokes of my fingers through his fur, frowning up into the darkness.
+
+"I'm sorry, Piree," he mumbled, falling back to that comfortable name of years ago, a username turned pet name. "That maybe came out wrong. Maybe I'm still a bit drunk."
+
+"No, you're probably right." I sighed, turning until I could tuck my muzzle beneath his. "I *would* have a hard time trusting order. I don't have any proof that it actually exists."
+
+We slept.
 
 -----
 
@@ -333,13 +408,13 @@ All these words, all this burning bright in an attempt to light up vast, crenela
 
 All that I love feels poisoned to me, tainted by the fact that I burned so hard in an attempt to light up all this nothing a little better. I feel forced to like these things because I'm trammeled by this indescribably empty space with them.
 
-No, that's not true. I quit because I wanted I tore Peter up and threw him away because he wasn't in there with me in the midst of that nothing. I was a coward: afraid to be alone, but more afraid to ask for help, so I removed my choice in the matter.
+No, that's not true. I tore Peter up and threw him away because he wasn't in there with me in the midst of that nothing. I was a coward: afraid to be alone, but more afraid to ask for help, so I removed my choice in the matter.
 
 -----
 
 <!--D-->
 
-<!--(hypomanic swing earlier in the winter causing implosion of life: quit, broke up with peter in deliberately mean way when suggested that he gets inpatient help. musing over hypomania as a faster form of depression)-->
+<!--(hypomanic swing earlier in the winter causing implosion of life: DUI, broke up with peter in deliberately mean way when suggested that he gets inpatient help. musing over hypomania as a faster form of depression)-->
 
 -----
 
