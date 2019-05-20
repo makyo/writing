@@ -3,6 +3,9 @@ title: Every Angel is Terrifying
 type: post
 ---
 
+<style>
+pre { white-space: pre-wrap; }
+</style>
 <!--A-->
 
 I take the bus to the edge of Sawtooth, basically as close as I can get to I-15 on local transit. Beyond here it's all industrial. All warehouses and junkyards and hulking, silent buildings painted grey or beige, or not painted at all. Machine shops, garages, or simply anonymous buildings with rows of doors and loading docks. Beyond here, there is no living. It's a liminal space.
@@ -177,17 +180,16 @@ It was a flashing icon in system tray that caught my attention, and I sheepishly
 
 There, tinted cyan, was a message amid the general stream of chatter in the room, was a private message. With a force of will, I crunched my mind back into gear, and read to understand.
 
-> Peter_P pages, "Hey, you okay?" to you.
+    Peter_P pages, "Hey, you okay?" to you.
 
 Before I knew what I was doing, I was already well into my reply third reply, and by then, I had too much momentum to stop.
 
-> You page, "Yeah. I mean, I guess I'm depressed. Work is probably the highlight of my day if only because I have to be there and doing my job. Even with classes, I can just zone out in the back and feel bad almost in private. I come home and avoid my roommates and idle on here." to Peter_P.
->
-> You page, "I'm okay, though." to Peter_P.
->
-> You page, "Or my life is okay, I dunno." to Peter_P.
->
-> You page, "Shouldn't complain, I'm in a good spot. It's just hard when it all feels so pointless and empty. Sometimes I get desperately sad and everything hurts or whatever, but this is just like having my heart and brain replaced with cotton balls. It's like thinking through gauze." to Peter_P.
+
+    You page, "Yeah. I mean, I guess I'm depressed. Work is probably the highlight of my day if only because I have to be there and doing my job. Even with classes, I can just zone out in the back and feel bad almost in private. I come home and avoid my roommates and idle on here." to Peter_P.
+    You page, "I'm okay, though." to Peter_P.
+    You page, "Or my life is okay, I dunno." to Peter_P.
+    You page, "Shouldn't complain, I'm in a good spot. It's just hard when it all feels so pointless and empty. Sometimes I get desperately sad and everything hurts or whatever, but this is just like having my heart and brain replaced with cotton balls. It's like thinking through gauze." to Peter_P.
+
 
 I realized, by the time I manage to lift my paws from the keys and cup them around my blunt muzzle, that I've started crying, the fur on my cheeks damp with tears. I wished I could delete messages. Erase them from the screen, from the server, from Peter's mind, if he'd already read them. I wished I could take it back and just be empty in my room, at my poster-covered walls, rather than empty on the internet at distant friends.
 
@@ -195,47 +197,33 @@ Greeted with silence, I tucked my muzzle down and covered the rest of my face wi
 
 When I looked up again, I'm greeted not with a reply from Peter, nor even simple silence, but a few lines on the screen.
 
-> Peter_P teleports away.
-> MEETME: Peter_P would like you to join them at their current location.
-> MEETME: type "mjoin Peter_P" to join them.
+    Peter_P teleports away.
+    MEETME: Peter_P would like you to join them at their current location.
+    MEETME: type "mjoin Peter_P" to join them.
 
 For another minute, perhaps, I stared at the screen, unable to comprehend what would lead him to want to talk about this further, in some quieter room.
 
 "Ah, fuck it," I said aloud, typed `mjoin peter_p`, and whacked the enter key.
 
-> Peter_P hugs!
->
-> Peter_P says, "Tell me what's up?"
->
-> Piree hugs and sighs. "I dunno. Depressed, I guess. That time of the month."
->
-> Peter_P says, "I know you're poking fun, but it does seem cyclical."
->
-> Piree says, "'it'?"
->
-> Peter_P says, "Depression, yeah."
->
-> Peter_P says, "In you, I mean. You seem to go through these cycles of really energetic, sorta balanced, and really depressed."
->
-> Piree says, "Yeah..."
->
-> Piree says, "That noticeable?"
->
-> Peter_P sticks his tongue out. "Don't take it the wrong way. It's not like super blatant or anything, just something I've noticed about you."
->
-> Piree says, "heh"
->
-> Piree says, "You pay that much attention to me, then?"
+    Peter_P hugs!
+    Peter_P says, "Tell me what's up?"
+    Piree hugs and sighs. "I dunno. Depressed, I guess. That time of the month."
+    Peter_P says, "I know you're poking fun, but it does seem cyclical."
+    Piree says, "'it'?"
+    Peter_P says, "Depression, yeah."
+    Peter_P says, "In you, I mean. You seem to go through these cycles of really energetic, sorta balanced, and really depressed."
+    Piree says, "Yeah..."
+    Piree says, "That noticeable?"
+    Peter_P sticks his tongue out. "Don't take it the wrong way. It's not like super blatant or anything, just something I've noticed about you."
+    Piree says, "heh"
+    Piree says, "You pay that much attention to me, then?"
 
 I grunted and spent another moment wishing I could take back what I'd just sent.
 
-> Peter_P says, "I guess :P"
->
-> Piree says, "Sorry, that came out snippy. I didn't mean it."
->
-> Peter_P shrugs. "I guess I do, though. I like you. I worry about you."
->
-> Piree hugs. "Thanks. That means a lot."
+    Peter_P says, "I guess :P"
+    Piree says, "Sorry, that came out snippy. I didn't mean it."
+    Peter_P shrugs. "I guess I do, though. I like you. I worry about you."
+    Piree hugs. "Thanks. That means a lot."
 
 When I next looked at the clock, it was nearing two in the morning. I'd spent nearly five hours talking with Peter. I thanked him profusely for staying up so late with me --- "No problem, I don't have work tomorrow" --- and signed off for the night.
 
@@ -364,11 +352,11 @@ An hour's lazy conversation, a shared shower, and a glass of wine on the patio l
 
 We'd settled down on a pair of folding camp chairs in a small park and were sharing an inexpensive can of wine --- though perhaps 'inexpensive' isn't a necessary prefix to 'can of wine', but they looked like sodas from a distance, so they worked well for picnics. Before us rose a slow slope, the neatly manicured grass of the park ending abruptly at the base of a dun-colored hill.
 
-"That's hardly a mountain," I laughed. "Though I guess you saw the ones in Sawtooth."
+"That's hardly a mountain," I laughed.
 
-He nodded. "Yeah."
+"Yeah, but, like...in Sawtooth. Those were real mountains."
 
-"What do you mean, different kind of height, though?"
+"Fair. What do you mean, different kind of height, though?"
 
 Peter took a long sip from the can, and we sat in silence, waiting for the last of the sun to slip off the tip of Camel's Back. Once it had settled into the evening with the rest of us, he continued. "It's so haphazard. All the buildings in the city, they're all so regular, even when they're tall. I can stand by the base and look straight up and know --- *know* --- that I will see sky. I don't feel that way with mountains."
 
