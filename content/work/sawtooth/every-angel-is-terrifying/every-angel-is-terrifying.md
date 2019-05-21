@@ -18,7 +18,7 @@ I walk past the buildings until the parking lots are replaced with fields and, e
 
 I walk until the sound of the interstate grows from the sound of wind to the sound of a waterfall, and from there to the sound of wheels on pavement.
 
-I walk along the county road, across the bridge over the freeway.
+I walk along the county road, across the bridge over the freeway. Halfway across, I fumble my phone from my pocket and let it tumble over the railing to the concrete below.
 
 I keep walking.
 
@@ -259,8 +259,6 @@ I keep walking.
 
 <!--B'-->
 
-(manic episode in grad school; learning the rhythm of bipolar. Switched from CS to English, on to MFA)
-
 Much of my undergrad was borne out of depression. School was just a thing I did during the days, but my time spent in front of a keyboard was a part of myself. Each story, each post, each role-play session was a piece of myself. Each was a tiny rock to throw at this vasty nothingness. Justifying the things I liked, delineating the craziness of lives real and manufactured, gushing about worlds fantastic...they were all ways for me to pound my fists against nothing at all.
 
 A scant two months into my second year at university, I crashed hard and tried to commit suicide, a private affair I never told anyone about, and after that, I just buried myself in it --- in my computer and in the life lived there, the life I was soon sharing with Peter.
@@ -313,7 +311,6 @@ With a faintness of foresight or perhaps practiced ease, I slipped from my under
 
 <!--C'-->
 
-<!--visit with peter-->
 "Oh god, it's so much easier to fly into Boise than Moscow or Sawtooth," Peter grunted, luggage clatter to the floor as we hauled it from the carousel.
 
 I laughed. "The city does come with its benefits, yeah. Pretty good food, and it's big enough to get you to visit more."
@@ -392,23 +389,53 @@ Shivering in the March evening's chill, I come to a tee in the road. Staring out
 
 The first true thought that enters my mind is of how small I am. I mentally try to estimate how many of myself stacked head to toe and packed in together it would take to equal just one of those low hills, not to mention just one of the mountains of the Sawtooth range behind me. And how little all my problems must mean to that many people.
 
-All these words, all this burning bright in an attempt to light up vast, crenelated spaces of nothing. Perhaps its an attempt to light up a space around me.
-
 All that I love feels poisoned to me, tainted by the fact that I burned so hard in an attempt to light up all this nothing a little better. I feel forced to like these things because I'm trammeled by this indescribably empty space with them.
 
 No, that's not true. I tore Peter up and threw him away because he wasn't in there with me in the midst of that nothing. I was a coward: afraid to be alone, but more afraid to ask for help, so I removed my choice in the matter.
+
+All these words, all this burning bright in an attempt to light up vast, crenelated spaces of nothing...perhaps its just a hunt for a reason to incinerate myself.
 
 -----
 
 <!--D-->
 
-<!--(hypomanic swing earlier in the winter causing implosion of life: DUI, broke up with peter in deliberately mean way when suggested that he gets inpatient help. musing over hypomania as a faster form of depression)-->
+These upswings, if that's what they are, have long since ceased to actually feel good. It's just depression at the speed of sound. Depression, but if you stop moving, you die.
+
+And now that's where I am. That's *who* I am. That's all that's left. In the last week, all of that sludge of depression sloughed off and I was left jewel-hard and burning from within. All of that nothing had transmuted into hatred, utter revulsion for myself and everything good in my life.
+
+I am not myself.
+
+Burned too long, and all that's left is a charred scaffold of a personality.
+
+I am not myself.
+
+In the middle of class earlier today, I simply gave in. I must have stopped talking for a long moment, as a hesitant "Doctor MacIver...?" came from the middle of the room. As a response, I stood up and walked silently from the room.
+
+No, not I. I was not the one doing these things, anymore. Derek MacIver was. I watched numbly as he paced out the door.
+
+He didn't stop in the hallway.
+
+He didn't stop at the door outside, nor at the quad.
+
+He didn't stop until I made it home.
+
+He didn't stop at his door. Not until he made it to the computer did he stop, and only then to lean over the keyboard words spilling directly onto the screen with no thought to back them up.
+
+    You mail, "I honestly feel sorry for you. The only thing more pathetic than myself is anyone who would love me." to Peter_P.
+
+After countless nightmares wherein I would somehow find the one single thing I could say to hurt someone --- no, not hurt, crush; completely and utterly destroy --- any revulsion of actually doing so was lost amid the flames of boundless loathing for this Derek, this hollow shell of a collie.
+
+Then it was just a matter of him grabbing a few things and hopping on the bus.
+
+I have no thoughts.
+
+I have no thoughts.
 
 -----
 
 The sound of a car door shutting brings me out of my reverie, if reverie it is, and I blink at my surroundings. I'm standing at the side of the road with the barbed wire of the fence clenched in my fists, a small, cheap two-door parked about twenty feet away. It's a small wonder I hadn't heard it before, nor even noticed the headlights. There's a dull pain in my hands. A far away pain. A someone-else pain.
 
-Once the driver walking towards me resolves from a blurry black cutout against their headlights to the features of one of my students --- a solidly built mountain lion --- I relax my grip on the fence. Without saying a word, the puma leads me over to the passenger door of the car and makes me sit in the seat. They tear strips from a towel in the back seat to wrap my bleeding pads.
+Once the driver walking towards me resolves from a blurry black cutout against their headlights to the features of one of my students --- a solidly built mountain lion, the one who had called after me in class --- I relax my grip on the fence. Without saying a word, the puma leads me over to the passenger door of the car and makes me sit in the seat. They tear strips from a towel in the back seat to wrap my bleeding pads.
 
 My paws. My paws covered in lacerations and punctures from the barbed wire. They are not my paws. They are someone else's. They are somewhere else.
 
@@ -427,4 +454,4 @@ It isn't a guy hug, isn't that chaste, dry form of affection I've never been abl
 > And we marvel at it, because it holds back in serene disdain and does not destroy us.  
 > Every angel is terrifying.
 
-I fumble the snub-nosed revolver from the waistband of my pants, swing open the loading gate, and, one by one, tip the rounds into my paw. Acting on autopilot, I lock the gun into its case once more, and tip the cartridges out of my paw and into the trash can.
+I fumble the snub-nosed revolver from the waistband of my pants, swing open the loading gate, and, one by one, tip the rounds into my paw. Acting on autopilot, I lock the gun into its case once more, and tip the cartridges out of my paw and into the trash.
