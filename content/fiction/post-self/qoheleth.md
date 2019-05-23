@@ -458,6 +458,10 @@ IOAN: Why don't you fork to work on both at the same time?
 
 ## 3 (Ketuvim)
 
+<img src="/fiction/post-self/dear.jpg" style="width: 100%; max-height: 100%" />
+
+<small>"Dear, Also, The Three That Was Felled" by <a href="https://www.irisjay.com/Cadmiumtea">Iris Jay</a></small>
+
 Ioan sat back and rubbed at eir eyes. Time had gone all funny with all this research.
 
 As with many of eir previous projects, ey tended to fall into a state of free-running sleep patterns and distractedness. Ey would work for a few hours and suddenly get quite tired, nap for what felt like fifteen minutes and wake up three hours later. Then ey'd work for twenty hours straight, neglecting to eat.
