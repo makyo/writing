@@ -1,0 +1,358 @@
+\documentclass[10pt]{memoir}
+
+%%% Resets
+% memoir defines footruleskip, we want fancyhdr's
+\let\footruleskip\undefined
+\DisemulatePackage{setspace}
+
+%%% Packages
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{lastpage}
+\usepackage{parcolumns}
+\usepackage{setspace}
+\usepackage{verse}
+
+%%% Font
+\usepackage{fontspec}
+\setmainfont{Gentium Book Basic}
+\newfontfamily\pfdfamily{Playfair Display}
+\newfontface\pfdfont{Playfair Display}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+\usepackage[none]{hyphenat}
+\renewcommand{\chapterheadstart}{}
+\renewcommand{\printchaptername}{}
+\renewcommand{\chapternamenum}{\pfdfamily\Huge{\itshape\thechapter}}
+\renewcommand{\printchapternum}{}
+\renewcommand{\printchaptertitle}[1]{\pfdfamily\huge\itshape #1}
+\setlength{\leftmargini}{0em}
+\setlength{\vleftmargin}{0em}
+
+%%% Headers/Footers
+\pagestyle{fancyplain}{
+  \fancyhf{}
+  \fancyheadoffset[r]{.01in}
+  \fancyhf[FRO,FLE]{\thepage}
+  \fancyhf[HLE]{\pfdfamily{\itshape\thetitle}}
+  \fancyhf[HRO]{\pfdfamily{\theauthor}}
+}
+
+%%% Spacing
+\usepackage[
+  % letterpaper,
+  paperwidth=5.5in,
+  paperheight=8.5in,
+  % layoutvoffset=1.25in,
+  % layouthoffset=1.5in,
+  layoutwidth=5.5in,
+  layoutheight=8.5in,
+  vmargin=0.5in,
+  outer=0.5in,
+  inner=0.75in,
+  includeheadfoot,
+  showcrop,
+  twoside
+]{geometry}
+
+\sloppy
+
+%%% Commands
+\newcommand\secdiv{
+  \begin{center}
+    \S
+  \end{center}
+}
+
+%%% Title
+\title{Selected verse}
+\author{Madison Scott-Clary}
+\date{}
+
+\begin{document}
+  \frontmatter
+  \pagestyle{empty}
+  \null
+  \vfill
+
+  \hfill\textit{Selected Verse}
+
+  \vfill
+  \cleardoublepage
+  \null
+  \vfill
+  \begin{raggedleft}
+    {\Huge Selected Verse}
+
+    {\Large 2015--2020}
+
+    \vspace{0.4in}
+
+    {\Large Madison Scott-Clary}
+
+    \vfill
+
+    {\pfdfamily\itshape
+    Arctic fox's den\\
+    adorned with flowers and snow\\
+    garden in winter}
+
+  \end{raggedleft}
+  \newpage
+  \null
+  \vfill
+
+  {\small
+  \noindent All poems \copyright\ Madison Scott-Clary the year of their publications. Licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+  \vspace{0.25in}
+
+  \noindent Current publication \today.
+  }
+
+  \vfill
+  \newpage
+  \tableofcontents*
+  \thispagestyle{empty}
+
+  \mainmatter
+
+  \onehalfspacing
+
+  \pagestyle{fancyplain}
+
+  \chapter{Poems from \textit{Missives}}
+
+  I wrote a silly short story a while back. It was meant to be a joke; a pseudo-victorian epistolary romance. It didn't really go anywhere, even though I submitted it to at least one publication. That's fine, though. I got a kick out of it, and the person who inspired it did too.
+
+  The end result was silly, but did include some poetry snippets. I didn't really think anything of them for a while, but one of them, the last here, kept coming back to me. on a whim, I completed all of the snippets into poems in their own right. They're presented in the order in which they appeared in \textit{Missives} itself.
+  \thispagestyle{empty}
+  \newpage
+
+  %%%
+
+  \section{Though the flow'r may bloom ere long}
+
+  \hfill\textit{February, 2017}
+
+  \input{content/though-the-flowr-may-bloom-ere-long.tex}
+  \newpage
+
+  %%%%%
+
+  \section{Delay, then, the morn}
+
+  \hfill\textit{February, 2017}
+
+  \input{content/delay-then-the-morn.tex}
+  \newpage
+
+  %%%%%
+
+  \section{Thy gift}
+
+  \hfill\textit{February, 2017}
+
+  \input{content/thy-gift.tex}
+  \newpage
+
+  %%%%%
+
+  \section{You find me at a disadvantage}
+
+  \hfill\textit{February, 2017}
+
+  \input{content/you-find-me-at-a-disadvantage.tex}
+  \newpage
+
+  %%%%%
+
+  \section{A rose, single, now blooming}
+
+  \hfill\textit{February, 2017}
+  \null
+  \input{content/a-rose-single-now-blooming.tex}
+
+  %%%%%%%%%%
+
+  \chapter{Unimportant verse about important people}
+
+  Love poems, of a sort.
+
+  \vfill
+
+  \hfill Ones I never sent.
+  \thispagestyle{empty}
+  \newpage
+
+  %%%
+
+  \input{content/important-people.tex}
+
+  %%%%%%%%%%
+
+  \chapter{Collected haiku}
+  \thispagestyle{empty}
+  \newpage
+
+  %%%
+
+  \input{content/haiku.tex}
+
+  %%%%%%%%%%
+
+  \chapter{Mental Health}
+
+  Poems on mental health.
+
+  \vfill
+
+  \noindent Maybe I'll write a better intro at some point when I'm feeling better.
+
+  \vfill
+
+  \hfill I dunno.
+  \thispagestyle{empty}
+  \newpage
+
+  %%%
+
+  \section{There is too much fire in me}
+
+  \hfill\textit{June, 2016}
+
+  \input{content/there-is-too-much-fire-in-me.tex}
+  \newpage
+
+  %%%%%
+
+  \section{Heligoland}
+
+  \hfill\textit{February, 2017}
+
+  \input{content/heligoland.tex}
+
+  \textit{Thanks to P.R.}
+  \newpage
+
+  %%%%%
+
+  \section{Bruise Vision}
+
+  \hfill\textit{June, 2017}
+
+  \input{content/bruise-vision.tex}
+  \newpage
+
+  %%%%%
+
+  \section{Beneath her coat was a whole identity}
+
+  \hfill\textit{January, 2018}
+
+  \input{content/beneath-her-coat-was-a-whole-identity.tex}
+
+  \textit{First-place winner of the Typewriter Emergencies Poetry contest.}
+  \newpage
+
+  %%%%%
+
+  \section{Rush}
+
+  \hfill\textit{June, 2019}
+
+  \input{content/rush}
+  \newpage
+
+  %%%%%%%%%%
+
+  \chapter{Gender}
+
+  If you ever see me not take a chance to write about gender, call a doctor.
+
+  \newpage
+
+  \section{Somehow, she's me}
+
+  \hfill\textit{April, 2018}
+
+  \input{content/somehow-shes-me.tex}
+  \newpage
+
+  %%%%%
+
+  \section{Fair and square}
+
+  \hfill\textit{July, 2018}
+
+  \input{content/fair-and-square.tex}
+  \newpage
+
+  %%%%%
+
+  \section{Post-op images}
+
+  \hfill\textit{May, 2018}
+  \newpage
+
+  \input{content/post-op-images.tex}
+  \newpage
+
+  %%%%%%%%%%
+
+  \chapter{Miscellany}
+
+  Poems without a category.
+  \thispagestyle{empty}
+  \newpage
+
+  %%%
+
+  \section{The dogs assure me}
+
+  \hfill\textit{March, 2015}
+
+  \input{content/the-dogs-assure-me.tex}
+
+  \textit{Published in \underline{Civilized Beasts, 2016 Edition}.}
+  \cleartoverso
+
+  %%%%%
+
+  \section{Growth}
+
+  \hfill\textit{July, 2018}
+
+  \input{content/growth.tex}
+  \newpage
+
+  %%%%%
+
+  \section{When I fall, I will remain whole}
+
+  \hfill\textit{November, 2016}
+
+  \input{content/when-i-fall-i-will-remain-whole.tex}
+  \cleartoverso
+
+  %%%%%
+
+  \section{Meaning \& Self}
+
+  \hfill\textit{February, 2017}
+
+  \input{content/meaning-and-self.tex}
+  \newpage
+
+  \section{Every time I fall}
+
+  \hfill\textit{August, 2017}
+
+  \input{content/every-time-i-fall.tex}
+  \newpage
+\end{document}

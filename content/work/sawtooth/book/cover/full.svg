@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12680"
+   height="9000"
+   viewBox="0 0 12680 9000"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="full.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.16"
+     inkscape:cx="2970.4819"
+     inkscape:cy="4308.5387"
+     inkscape:document-units="mm"
+     inkscape:current-layer="flag"
+     showgrid="false"
+     units="px"
+     scale-x="1e-05"
+     inkscape:window-width="1916"
+     inkscape:window-height="1037"
+     inkscape:window-x="0"
+     inkscape:window-y="41"
+     inkscape:window-maximized="0"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="spine"
+     inkscape:label="Spine"
+     inkscape:groupmode="layer">
+    <rect
+       style="opacity:1;fill:#00006b;fill-opacity:0.44705882;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect844"
+       width="680"
+       height="9000"
+       x="6000"
+       y="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:'Spectral SC';-inkscape-font-specification:'Spectral SC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="6294.6367"
+       y="645.27759"
+       id="text826"><tspan
+         sodipodi:role="line"
+         id="tspan824"
+         x="645.27759"
+         y="6294.6367"
+         style="font-size:468px;writing-mode:tb-rl">Restless Town</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;line-height:1.25;font-family:'Spectral SC';-inkscape-font-specification:'Spectral SC';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="6310.7339"
+       y="4970.9321"
+       id="text830"><tspan
+         sodipodi:role="line"
+         id="tspan828"
+         x="4970.9321"
+         y="6310.7339"
+         style="font-size:294.66665649px;writing-mode:tb-rl">Madison Scott-Clary</tspan></text>
+  </g>
+  <g
+     inkscape:label="Flag"
+     inkscape:groupmode="layer"
+     id="flag">
+    <g
+       id="g838"
+       transform="matrix(11.5,0,0,11.5,250,4725)"
+       style="opacity:0.76489028">
+      <path
+         style="fill:#0000ff"
+         inkscape:connector-curvature="0"
+         id="path824"
+         d="m 0,0 v 175 l 100,-50 v 50 l 100,-50 v 50 l 100,-50 v 50 l 100,-50 v 50 L 500,125 V 175 0 Z" />
+      <path
+         style="fill:#008000"
+         inkscape:connector-curvature="0"
+         id="path826"
+         d="m 0,175 100,-50 v 50 l 100,-50 v 50 l 100,-50 v 50 l 100,-50 v 50 l 100,-50 v 50 175 H 0 Z" />
+      <path
+         style="fill:#ffff00"
+         inkscape:connector-curvature="0"
+         id="path828"
+         d="m 0,150 100,-50 v 50 l 100,-50 v 50 l 100,-50 v 50 l 100,-50 v 50 l 100,-50 v 50 L 400,200 V 150 L 300,200 V 150 L 200,200 V 150 L 100,200 V 150 L 0,200 Z" />
+    </g>
+  </g>
+  <g
+     inkscape:label="Guides"
+     inkscape:groupmode="layer"
+     id="guides">
+    <line
+       x1="6340"
+       y1="0"
+       x2="6340"
+       y2="9000"
+       style="stroke:#000000;stroke-width:1px"
+       id="line818" />
+    <rect
+       x="250"
+       y="250"
+       width="12180"
+       height="8500"
+       style="fill:none;stroke:#000000;stroke-width:1px"
+       id="rect824" />
+  </g>
+</svg>
