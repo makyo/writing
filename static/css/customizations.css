@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Gentium+Book+Basic|Ubuntu+Mono|Zilla+Slab:600&display=swap');
+
 /* enforce dark mode */
 body {
     background-color: #222;
@@ -53,4 +55,21 @@ ul.pagination .page-item.active a {
     text-decoration: none;
     border: none;
     cursor: text;
+}
+
+/* additional fonts */
+h1, h2, h3, h4,
+#patterns-list {
+    font-family: 'Zilla Slab', serif;
+    font-weight: 600;
+}
+main {
+    font-family: "Gentium Book Basic", serif;
+    letter-spacing: 0.5px;
+}
+.verse {
+    white-space: pre-wrap;
+}
+code {
+    font-family: 'Ubuntu Mono', Consolas, Monaco, 'Andale Mono', monospace;
 }
