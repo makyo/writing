@@ -47,7 +47,7 @@ git push origin master
 
 Then I add a crontab line to run that daily (or however frequently I need to update the project):
 
-```
+```cron
 # m h  dom mon dow   command
   0 5  *   *   *     /home/makyo/sparkleup/projects/logs
 ```

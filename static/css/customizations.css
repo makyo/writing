@@ -69,6 +69,12 @@ main {
 .verse {
     white-space: pre-wrap;
 }
-code {
+pre, code {
+    white-space: pre-wrap;
     font-family: 'Ubuntu Mono', Consolas, Monaco, 'Andale Mono', monospace;
+    font-size: 12pt !important;
+    line-height: 1.5 !important;
+}
+pre[class*="language-"] {
+    white-space: pre;
 }
