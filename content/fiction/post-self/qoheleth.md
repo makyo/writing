@@ -278,13 +278,9 @@ Transcript of Node: [[bea0cf302fcd00863f0c67a91b1a75c0e4ba4863]](http://35.165.1
 
 ```
 DEAR, ALSO, THE TREE THAT WAS FELLED: We - er, some other Odists, down-tree from me - have come up with some hints about the message.
-
 IOAN BALAN: Oh? Anything good?
-
 DEAR: I suppose it depends on your definition of good.
-
 IOAN: Oh great. Excited already. Well, lay it on me.
-
 DEAR: So, one of us did a pretty exhaustive search of some records and found some old archive server running somewhere.
 ```
 
@@ -292,15 +288,10 @@ DEAR: So, one of us did a pretty exhaustive search of some records and found som
 
 ```
 IOAN: Wait, start at the top. What were they searching?
-
 DEAR: They were searching for the block of encrypted text - not what was in it; they cracked that a long time ago, but I think this hunt is still valid and have some reputation to burn, so...anyway - they searched for the encrypted text itself, and they came across an archive server.
-
 IOAN: Old node boxes? Man, even I feel crusty using one of those, and I'm a historian.
-
 DEAR: You're only a little crusty *laughter*. They found the archive server though, and there's a bunch of stuff on it. New, old, the whole thing. There's stuff from ages ago, and stuff from a few hours ago.
-
 IOAN: You're kidding, right?
-
 DEAR: I know, it's ridiculous.
 ```
 
@@ -308,9 +299,7 @@ DEAR: I know, it's ridiculous.
 
 ```
 IOAN: Never met anyone who could actually get one working well enough to add new nodes. So the encrypted text was in a node on the server?
-
 DEAR: Yeah. It's still there. Just sent the URI.
-
 IOAN: I...well, I'll have to take it at your word that it's the same as the one you found earlier, I'm not going character by character.
 ```
 
@@ -318,9 +307,7 @@ IOAN: I...well, I'll have to take it at your word that it's the same as the one 
 
 ```
 DEAR: Of course, Ioan. Promise it's the same. Needless to say, we found a crusty old server with the block on it, and there's other public nodes on there as well. I'm guessing a bunch of private ones, too.
-
 IOAN: Anything good in those?
-
 DEAR: Nothing...penetrable. It's all fairly opaque. To me, at least.
 ```
 
@@ -334,9 +321,7 @@ IOAN: Thus us meeting here?
 
 ```
 IOAN: Want me to have a look, then? Tech stuff is going to go right over my head, you know that.
-
 DEAR: It's not all tech, promise. I just want you to give it a read and see what you pick up from it, you know? Put your amanuensis hat on and just spend some time experiencing.
-
 IOAN: You think highly of me. No complaints, but why can't someone from your own clade fill this role?
 ```
 
@@ -350,7 +335,6 @@ DEAR: We...differ. The Odists, I mean. But we also want someone out-clade for th
 
 ```
 IOAN: Do the others not like that I've been brought on?
-
 DEAR: Of the ones who know, most are fine with it.
 ```
 
@@ -358,7 +342,6 @@ DEAR: Of the ones who know, most are fine with it.
 
 ```
 IOAN: The ones who know?
-
 DEAR: We're a little split on how to tackle this in the first place. Different camps, different strategies, infighting. Ioan, you have to understand that, when a clade gets old, it starts to get a little batty.
 ```
 
@@ -372,7 +355,6 @@ DEAR: Some clades try to get around this by keeping a certain core group of inst
 
 ```
 DEAR: We don't. First of all, we started way too early on for that to be a thing. We trusted that change would keep us sane, that as instances diverged, especially with mutation algos in place, they'd change enough to keep us from falling apart.
-
 IOAN: And that didn't work?
 ```
 
@@ -380,9 +362,7 @@ IOAN: And that didn't work?
 
 ```
 DEAR: It kind of worked. I'll put it that way. I feel pretty well rounded, and I'm sure those across the clade from me do too, but...it's complicated. It's like having a super close sib that was raised by a different family, in a different sim.
-
 IOAN: More different than you'd expect, then?
-
 DEAR: 'Expect'...fits strangely for this. The problem is that they're still us, we're still them. Clades are like families in a lot of ways, but you have to realize that they're still one individual. We're more different than one individual should be. Does that make sense?
 ```
 
@@ -390,11 +370,8 @@ DEAR: 'Expect'...fits strangely for this. The problem is that they're still us, 
 
 ```
 IOAN: I guess so. So some of your clade would prefer I not be a part of this?
-
 DEAR: They feel that investigating the matter of The Name being said is too close to investigating The Name itself.
-
 IOAN: I don't know how I would respond to that.
-
 DEAR: That's my field. Don't worry about it.
 ```
 
@@ -402,17 +379,11 @@ DEAR: That's my field. Don't worry about it.
 
 ```
 IOAN: Sorry, hope I'm not overstepping at all.
-
 DEAR: Don't worry about it. It's all good, I promise. It's just that we're really good at arguing, so I've been dealing with that a lot, the last few days. I'm a bit on edge. Let's get back to the archive server, yeah?
-
 IOAN: Sure thing, Dear. Where did you say your cocladists had found it?
-
 DEAR: Just in a search. Don't know quite the details about how, assuming just a text search of perisystem stuff, I guess? Not too sure on the terminology, I bought into being an artist pretty hard.
-
 IOAN: *laughter* No worries there, fox. I'm trying to keep up with you is all. I was just wondering if they found anything else.
-
 DEAR: You mean like other nodes on the server?
-
 IOAN: I'll poke around at those, look for ties and such. I was more wondering if they'd found anything in their search that didn't meet the relevancy threshold for them. Stuff like things linking back to the server, or anyone talking about this *pause* Hebel Qoheleth.
 ```
 
@@ -420,21 +391,13 @@ IOAN: I'll poke around at those, look for ties and such. I was more wondering if
 
 ```
 DEAR: Hadn't really thought to ask. Don't suppose they did, though. Do you think it'd be worth having them search around more? Lowering the, uh, relevancy threshold? *laughter*
-
 IOAN: Yeah, I think so. Though now that I've got it too, I can do some of my own digging. Kinda want to see who likes The Bible so much as to name themselves that.
-
 DEAR: The Bible?
-
 IOAN: Yeah, Qoheleth is the...uh, the teacher, or gatherer, or a bit of both, really. That's what the book usually translated as Ecclesiastes is named after. Not sure about Hebel. What's kemmer, by the way? The passphrase?
-
 DEAR: How did you...nevermind. Kemmer is something from a book. One of our favorites. It's complicated and out of scope, but it relates to fluidity of gender. Very big, in our clade. I've opted out.
-
 IOAN: So I noticed. It makes sense, though. I'll make a note to look it up.
-
 DEAR: Glad someone's thinking about this stuff. Sounding more like a-
-
 IOAN: Private investigator?
-
 DEAR: *laughter* I was going to say historian, sounding more like a historian every time we talk. But you never know, maybe you'd make a good PI.
 ```
 
@@ -442,13 +405,9 @@ DEAR: *laughter* I was going to say historian, sounding more like a historian ev
 
 ```
 IOAN: I can't tell whether or not I should be flattered.
-
 DEAR: It's a good thing. Just keep digging, and we will too. I'll be about, too. Got a few more things to wrap up to finish the current gallery business, but after that, I'm just going to work on this - with you if you don't mind - and try and figure out what's even happening in the clade. Keep in touch, yeah? Ping me whenever?
-
 IOAN: Will do. *pause* Wait, you're an instance artist, right?
-
 DEAR: Yeah, why do you ask?
-
 IOAN: Why don't you fork to work on both at the same time?
 ```
 
