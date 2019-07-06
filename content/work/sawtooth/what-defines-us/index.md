@@ -211,6 +211,6 @@ Anyway, thank you, mom. I know I got snippy, but you're right, and have helped m
 
 So, if you think you can make it out for Christmas, I think that'd do us all good
 
-LYFA
+Love you for always.
 
 D
