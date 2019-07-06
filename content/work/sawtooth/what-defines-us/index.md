@@ -39,7 +39,7 @@ Mom,
 
 Sorry, I guess my last email was pretty skimpy on the details. Sorry, don't really want to call about this, since things are tense around here, and I don't want to sneak off just to use the phone.
 
-Yeah, the work thing got bad, then got a whole lot worse. I knew Leila was unhappy with it and all, but I don't think I realized how unhappy. I mean, I'm not happy with it, either, but obviously it's the life I live and have lived. I grew up with it, too, so it's in my blood. It's stressful, it's hard, but I guess I kinda like it She wasn't happy hearing that.
+Yeah, the work thing got bad, then got a whole lot worse. I knew Leila was unhappy with it and all, but I don't think I realized how unhappy. I mean, I'm not happy with it, either, but obviously it's the life I live and have lived. I grew up with it, too, so it's in my blood. It's stressful, it's hard, but I guess I kinda like it. She wasn't happy hearing that.
 
 Well anyway, dozens of arguments later, it comes out that she got fed up enough to start sneaking out and seeing others. Maybe if she'd been open about it or whatever, I would've been more able to work with it, but I think it just goes to show that neither of us are happy and neither of us can trust each other.
 
@@ -63,7 +63,7 @@ You both knew that there would be a lot of compromise going into this relationsh
 
 As for what to do, just be honest. Painfully so, if need be. That said, you should be careful about Jeremy and Eileen. If you want to talk about all this and work on the divorce thing, *don't do it on your own.* Do so with Leila. The last thing you want is for L to think you're using them against her. I know you wouldn't, but still. Both of you talk with them together.
 
-And don't be afraid to talk about the problems you and L are having. They're smart cats, they'll be able to understand, and may have good advice for you, too! Treat them like adults, and they won't treat you (either of you!!) like mysterious unapproachable aliens throwing their lives into chaos.
+And don't be afraid to talk with them about the problems you and L are having. They're smart cats, they'll be able to understand, and may have good advice for you, too! Treat them like adults, and they won't treat you (either of you!!) like mysterious unapproachable aliens throwing their lives into chaos.
 
 I know it's a pain, but call me if you need?
 
@@ -77,7 +77,7 @@ Mom,
 
 Sorry for the delay. Things are up and down over here. We did as you said and have been talking things through with the kids, to mixed results. I can tell they're uncomfortable and unhappy about it all, but I feel like they're getting it, and having their say. And I feel more connected with them about it.
 
-The downside is that it's splitting L and I's thoughts on the matter in a weird way. When we talk about things in front of the kids, it feels like we're saying one thing, but when we talk in private, it's something different. We both act so civil around them because we have to, that it's made our arguments in private more painful. We keep our civility, sort of, but in tone only. The things we say toward each other, but they're biting and mean. Just quietly so. Things were sort of a maybe until we started doing this. Now it's feeling more like a definite.
+The downside is that it's splitting L and I's thoughts on the matter in a weird way. When we talk about things in front of the kids, it feels like we're saying one thing, but when we talk in private, it's something different. We both act so civil around them because we have to, but thats made our arguments in private more painful. We keep our civility, sort of, but in tone only. We're saying the same things toward each other as before, but they're still biting and mean, just quietly so. Things were sort of a maybe until we started doing this. Now it's feeling more like a definite.
 
 It hurts so much, mom. I love Leila, and I love the kids. If this is the direction we're going in, I guess that's what needs to happen. It's awful, and we're all going to suffer. Jeremy and Eileen especially. But none of this work stuff is going to look good to a judge. The thought of losing them has me not eating, not sleeping.
 
@@ -87,7 +87,7 @@ LYFA
 
 -----
 
-I know, honey. I don't want to sound like a broken record, but I know it's not easy stuff. When things have broken down this completely, there is no outcome of this that is going to feel fair, but you love your children. It's plain to me, and I hope it's plain to Leila and any judge in the matter. You won't have them taken away from you. Just make sure you stay in their lives. Make sure you do what you can to help them *want* to stay in yours, too. (Not saying buy their affection, just show your love and appreciate (visibly) the love they show you.)
+I know, honey. I don't want to sound like a broken record, but I know it's not easy stuff. When things have broken down this completely, there is no outcome of this that is going to feel fair. Still, you love your children. It's plain to me, and I hope it's plain to Leila and any judge in the matter. You won't have them taken away from you. Just make sure you stay in their lives. Make sure you do what you can to help them *want* to stay in yours, too. (Not saying buy their affection, just show your love and appreciate (visibly) the love they show you.)
 
 LYF
 
@@ -123,7 +123,7 @@ LYF
 
 That's just the thing, mom. You keep pushing me to him, but there's nothing there. Not saying your advice is bad, it's certainly good. It's advice I wish you could give dad. The guy hit me, though. I was never good enough for him. He was an abusive jerk and you know it. Why would I want to go and show him *any* positive attention?
 
-Seriously, I've tried to handle this divorce shit and my relationship, hell, my fucking life the *opposite* of how you handled things. You both provided me with so many bad examples of how things could go. And yet here I am, reliving the fucking past.
+Seriously, I've tried to handle this divorce shit and my relationship (hell, my fucking life) the *opposite* of how you handled things. You both provided me with so many bad examples of how things could go. And yet here I am, reliving the fucking past.
 
 *Sent from MobileMail.*
 
@@ -157,7 +157,9 @@ And as long as I live
 
 My baby you'll be!
 
-The problem with being a parent (and you'll understand this more and more as Jeremy and Eileen grow up) is that your children are both the better versions of yourself and also doomed to repeat so many of the mistakes you did. You took a lot away from how things were when you grew up. Like you said, you took away the things that went wrong and want to do the opposite. You have my blessing on that! You make me endlessly proud when you do so.
+The problem with being a parent (and you'll understand this more and more as Jeremy and Eileen grow up) is that your children are both the better versions of yourself and also doomed to repeat so many of the mistakes you did. That's what it means to be a parent. That's what defines us.
+
+You took a lot away from how things were when you grew up. Like you said, you took away the things that went wrong and want to do the opposite. You have my blessing on that! You make me endlessly proud when you do so.
 
 But you also took away my work ethic. That's a good chunk of why Justin and I didn't last. Not the main reason, of course, but still, it was there. And now it's playing havoc in your life.
 
@@ -173,7 +175,7 @@ I don't really know what to say. I didn't realize that was a problem you and dad
 
 When you two were splitting, all I knew was that you were gone all day and some nights, but that dad was getting worse and worse. He'd get so. angry. and I'd just have to deal with it. He'd pull my tail if I started walking too fast. He'd pull my ear if I started walking too slow. He'd shake me by my scruff if I did anything wrong.
 
-I know he got way better after, but even if he tried to do better, is still trying to do better, it's hard to internalize that. It's hard not to want to NOT be him. I hope you'll understand that's why I don't trust going to visit him, even if he moved here to Sawtooth.
+I know he got way better after, but it's hard to internalize that. It's hard not to want to NOT be him. I hope you'll understand that's why I don't trust going to visit him, even if he moved here to Sawtooth.
 
 LYFA
 
@@ -193,7 +195,9 @@ LYFA
 
 -----
 
-Well, sure, and he got as good as he gave, don't worry. Once things shook out, though, that all stopped, and we even went back to being friends, though we haven't been talking much since he moved. Every time I suggested you go see him, I told him to get in touch with you. If you want me to stop, though, I will.
+Well, sure, but he got as good as he gave, don't worry. Once things shook out, though, that all stopped, and we even went back to being friends, though we haven't been talking much since he moved. Every time I suggested you go see him, I told him to get in touch with you. I don't know if he ever contacted you.
+
+If you want me to stop, though, I will.
 
 Love you forever.
 
@@ -205,7 +209,7 @@ I don't actually know anymore if I want you to stop. Maybe you're right, or mayb
 
 Things are still up and down, but have been a bit more up recently. I still think things are going to end in a divorce, but talking with the kids forcing us to be more civil has helped a lot, and we've started talking about an equitable split.
 
-Jer and Eileen have started talking to us a bit more, too. They don't like the way things have gone obviously, but when we talk more about why things are happening and the more practical side, they've given us some pretty good ideas as for how things work. I'm...not surprised, I guess, given our family, but Jer seems to be wary of me. I'll watch my temper, I guess, if I'm going to keep with my promise of doing better. I don't want him to grow up like me.
+Jer and Eileen have started talking to us a bit more, too. They don't like the way things have gone obviously, but when we talk more about why things are happening and the more practical side, they've given us some pretty good ideas as for how things could work. I'm...not surprised, I guess, given our family, but Jer seems to be wary of me. I'll watch my temper, I guess, if I'm going to keep with my promise of doing better. I don't want him to grow up like me.
 
 Anyway, thank you, mom. I know I got snippy, but you're right, and have helped more than you realize.
 
