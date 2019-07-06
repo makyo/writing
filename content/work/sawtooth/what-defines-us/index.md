@@ -181,7 +181,7 @@ LYFA
 
 Darren,
 
-Justin was a mess during all of that. He did a lot of that to me, too. As I said, uch as it stings on sort of a personal level, I'm 100% okay with you doing better than me.
+Justin was a mess during all of that. He did a lot of that to me, too. As I said, much as it stings on sort of a personal level, I'm 100% okay with you doing better than me.
 
 LYF
 
