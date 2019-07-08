@@ -1,0 +1,61 @@
+\documentclass[11pt,draft]{memoir}
+
+\def\watermarkloaded{0}
+
+\input{includes/variables}
+\input{includes/draft}
+\input{includes/frame}
+\input{includes/packages}
+\input{includes/pagelayout}
+\input{includes/geometry}
+\input{includes/toc}
+\input{includes/font}
+\input{includes/secdiv}
+\input{includes/title}
+\input{includes/hyphenation}
+
+\begin{document}
+  \frontmatter
+
+  \input{includes/pretitle}
+
+  \pagestyle{plain}
+
+  \doublespacing
+
+  \maketitle
+  \thispagestyle{empty}
+
+  \newpage
+
+  \input{includes/copyright}
+
+  \tableofcontents*
+  \newpage
+  \null
+  \cleardoublepage
+
+  \onehalfspacing
+
+  \input{content/preface}
+
+  \mainmatter
+
+  \pagestyle{ourbook}
+  \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+  \nouppercaseheads
+  \input{content/what-i-expected}
+  \cleartoverso
+  \input{content/how-many}
+  \cleartoverso
+  \input{content/again}
+  % \input{content/1}
+  % \clearpage
+  % \input{content/2}
+  % \clearpage
+  % \input{content/3}
+
+  \backmatter
+  \input{content/afterword}
+
+\end{document}
