@@ -1,7 +1,7 @@
 ---
 ---
 
-Series of emails between son (Darren) and mom, Darren trying to figure out the best way to work with divorce for his children's sake. Climax is Darren getting snippy about how he's trying to do the opposite as his parents in his case, upset that he's repeating history by getting divorce in the first place, with mom admitting her worries about how she handled her own divorce and how it affected Darren, saying she wish she'd split up earlier in his life.
+Series of emails between son (Darren) and mom, Darren trying to figure out the best way to work with divorce for his children's sake. Climax is Darren getting snippy about how he's trying to do the opposite as his parents in his case, upset that he's repeating history by getting divorce in the first place, with mom admitting her worries about how she handled her own divorce and how it affected Darren, removing him from his father's life, saying she wish she'd split up earlier in his life.
 
 Things to incorporate:
 
