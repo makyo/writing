@@ -3,6 +3,12 @@ type: post
 title: Disappearance
 description: A weasel attempts to escape from her life in Sawtooth to Oregon, but finds her old life still tied to home.
 date: 2017-07-24
+categories:
+- Short story
+tags:
+- Gender
+- Erotica
+- Furry
 ---
 
 "This is going to sting."
