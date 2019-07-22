@@ -25,7 +25,7 @@ I walk along the county road, across the bridge over the freeway. Halfway across
 
 I keep walking.
 
------
+------------------------------------------------------------------------
 
 At fifteen, I had been an anxious and gawky dog. Too anxious. Too gawky. I took to slinking around school from class to class in silence, letting my overful backpack propel me down the halls, walking close to the walls. Any time not spent in the desk furthest from the door daydreaming was spent in front of one of the computers in the lab.
 
@@ -49,7 +49,7 @@ But our relationships were as real as any collocated flings. More so, we told ou
 
 I’m sure we all hungered for touch.
 
------
+------------------------------------------------------------------------
 
 I’m regaining my *I*. My *me*. My *self*.
 
@@ -59,7 +59,7 @@ I’m regaining my I, and I don’t like what I see.
 
 I keep walking.
 
------
+------------------------------------------------------------------------
 
 It was toward the tail end of high school that I began to get plagued with depression and mood swings.
 
@@ -101,7 +101,7 @@ And yet I keep trying.
 
 All these words…
 
------
+------------------------------------------------------------------------
 
 > *Every angel is terrifying.*
 
@@ -119,7 +119,7 @@ I keep walking. I keep murmuring my mantra. Keep muttering long after the words 
 
 I keep walking.
 
------
+------------------------------------------------------------------------
 
 “LTS, this is Derek, how can I help you?”
 
@@ -127,19 +127,19 @@ It was one of those staid lines, the standard greeting that everyone gets when t
 
 I’d worked at the campus library for a year and a half at that point, and eighty percent of the problems we take care of were reported through a form on the library’s intranet. Even so, I’d gotten that line down pat. The line and the tone. I lowered my voice a few steps, spoke quietly and soothingly, sounding attentive. The people who called rather than using the request form were usually doing so for a reason: they wanted service right then, their problem was urgent, and usually affected more than just themselves. Most issues with customer-facing stuff—the public computers, desktops or laptops—were reported through a phone call.
 
-“I…I can’t find the photo editing program, and I can’t find the page layout program, and I can’t find email, and…and gosh darn it, you guys promised all of this would be on my new computer\!” the frustrated voice whined from the receiver. I felt my ears cringe back and the fur at the back of my neck rise.
+“I…I can’t find the photo editing program, and I can’t find the page layout program, and I can’t find email, and…and gosh darn it, you guys promised all of this would be on my new computer!” the frustrated voice whined from the receiver. I felt my ears cringe back and the fur at the back of my neck rise.
 
 “Alright, ma’am, slow up a sec, everything’s going to be alright, now–”
 
-“No, everything is not going to be alright\! I was told I’d have all the software that was on my old machine back again, and it’s not, otherwise why would you guys ask for it?”
+“No, everything is not going to be alright! I was told I’d have all the software that was on my old machine back again, and it’s not, otherwise why would you guys ask for it?”
 
 “Ma’am, please slow down, I think there’s been a misunderstanding,” I said. “When we upgraded your computer, you were upgraded to the new email suite, so your desktop shortcut is probably broken. I can fix that and install the other software items you need here in just a sec. Can you compile a list of all the old software you had on your computer?”
 
-She was near tears by then. “I don’t understand why you guys even asked me what software I wanted on the new computer if you’re not going to install any of it\!”
+She was near tears by then. “I don’t understand why you guys even asked me what software I wanted on the new computer if you’re not going to install any of it!”
 
 “That’s where the misunderstanding was,” I replied hastily, tail tucking out of instinct. “We were asking for a list of software to be installed on *everyone’s* computer in Liaisons, not just your station. We install the same operating system image on everyone’s computer in that area.”
 
-“Well, this is absurd. I need email back, and I need photo editing and page layout…ing\!” She sounded so much like a petulant child, I dropped the phone.
+“Well, this is absurd. I need email back, and I need photo editing and page layout…ing!” She sounded so much like a petulant child, I dropped the phone.
 
 No, tell a lie. I threw the phone. The portable handset skittered across the carpet and knocked against the far wall, battery cover snapping open and the battery pack tumbling free, smoking.
 
@@ -157,7 +157,7 @@ We knew it was a non-issue, too. Her software had indeed been included on the li
 
 A minute and a half later found me sitting in my chair trying to fix the portable handset I’d just thrown across the lab with little success. The employee, a fisher, came peeking in through the door to LTS. I held up the phone toward her and mumbled something about having a little bit of trouble with the handset, simple mechanical repair, sorry for the dropped call. My boss peeked out of his office, glancing between us to see what the noise was.
 
-“Matt,” she whined to him. “When you gave me the new computer, I was told that I would have all of my old programs on it and they’re not there\!” She sounded a hairsbreadth away from tears, and my boss’s eyes went wide at the tinge of hysteria, his muscles tensing as he backed away from this new threat. I noted with a small amount of satisfaction that the coyote’s own tail tucks as reflexively as mine.
+“Matt,” she whined to him. “When you gave me the new computer, I was told that I would have all of my old programs on it and they’re not there!” She sounded a hairsbreadth away from tears, and my boss’s eyes went wide at the tinge of hysteria, his muscles tensing as he backed away from this new threat. I noted with a small amount of satisfaction that the coyote’s own tail tucks as reflexively as mine.
 
 “I think there was a misunderstanding,” he said carefully. “Everything will be alright, if you just give us a second, we’ll–”
 
@@ -183,7 +183,7 @@ When I got back into the lab, my boss handed me a small stack of install disks a
 
 “Nora? Nancy? I forget her name. Guess I blocked it from my mind. Should probably email her an apology.”
 
-He gave an abbreviated wag, always a sign of trouble. “ ‘I moan’ backwards.”
+He gave an abbreviated wag, always a sign of trouble. “‘I moan’ backwards.”
 
 I groaned, rolled my eyes at the strained humor, and set to work installing Mrs. Waite’s software.
 
@@ -197,14 +197,14 @@ It was a flashing icon in system tray that caught my attention, and I sheepishly
 
 There, tinted cyan amid the general stream of chatter in the room, was a private message. With a force of will, I crunched my mind back into gear, and read to understand.
 
-> <span> Peter\_P pages, "Hey, you okay?" to you.</span>
+    Peter\_P pages, “Hey, you okay?” to you.
 
 Before I knew what I was doing, I was already well into my reply third reply, and by then, I had too much momentum to stop.
 
-> <span> You page, "Yeah. I mean, I guess I’m depressed. Work is probably the highlight of my day if only because I have to be there and doing my job. Even with classes, I can just zone out in the back and feel bad almost in private. I come home and avoid my roommates and idle on here." to Peter\_P.  
-> You page-pose, "Piree sighs, "I’m okay, though."" to Peter\_P.  
-> You page, "Or my life is okay, I dunno." to Peter\_P.  
-> You page, "Shouldn’t complain, I’m in a good spot. It’s just hard when it all feels so pointless and empty. Sometimes I get so desperately sad and everything hurts or whatever, but this is just like having my heart and brain replaced with cotton balls. It’s like thinking through gauze." to Peter\_P.</span>
+    You page, “Yeah. I mean, I guess I’m depressed. Work is probably the highlight of my day if only because I have to be there and doing my job. Even with classes, I can just zone out in the back and feel bad almost in private. I come home and avoid my roommates and idle on here.” to Peter\_P.
+    You page-pose, “Piree sighs, ”I’m okay, though.“” to Peter\_P.
+    You page, “Or my life is okay, I dunno.” to Peter\_P.
+    You page, “Shouldn’t complain, I’m in a good spot. It’s just hard when it all feels so pointless and empty. Sometimes I get so desperately sad and everything hurts or whatever, but this is just like having my heart and brain replaced with cotton balls. It’s like thinking through gauze.” to Peter\_P.
 
 I realized, by the time I manage to lift my paws from the keys and cup them around my blunt muzzle, that I’ve started crying, the fur on my cheeks damp with tears. I wished I could delete messages. Erase them from the screen, from the server, from Peter’s mind, if he’d already read them. I wished I could take it back and just be empty in my room, at my poster-covered walls, rather than empty on the internet at distant friends.
 
@@ -212,44 +212,46 @@ Greeted with silence, I tucked my muzzle down and covered the rest of my face wi
 
 When I looked up again, I was greeted not with a reply from Peter, nor even simple silence, but a few lines on the screen.
 
-> <span> Peter\_P teleports away.  
-> MEETME: Peter\_P would like you to join them at their current location.  
-> MEETME: type "mjoin Peter\_P" to join them.</span>
+    Peter\_P teleports away.
+    MEETME: Peter\_P would like you to join them at their current location.
+    MEETME: type “mjoin Peter\_P” to join them.
 
 For another minute, I stared at the screen, unable to comprehend what would lead him to want to talk about this further, in some quieter room.
 
 “Ah, fuck it,” I said aloud, typed <span>mjoin peter\_p</span>, and whacked the enter key.
 
-> <span> Peter\_P hugs\!  
-> Peter\_P says, "Tell me what’s up?"  
-> Piree hugs and sighs. "I dunno. Depressed, I guess. That time of the month."  
-> Peter\_P says, "Yeah..."  
-> Peter\_P says, "I know you’re poking fun, but it does seem cyclical."  
-> You say, "’it’?"  
-> Peter\_P says, "Depression, yeah."  
-> Peter\_P says, "In you, I mean. You seem to go through these cycles of really energetic and really depressed."  
-> You say, "Yeah..."  
-> You say, "That noticeable?"  
-> Peter\_P sticks his tongue out. "Don’t take it the wrong way. It’s not like super blatant or anything, just something I’ve noticed about you."  
-> You say, "heh"  
-> You say, "You pay that much attention to me, then?"</span>
+    Peter\_P hugs!
+    Peter\_P says, “Tell me what’s up?”
+    Piree hugs and sighs. “I dunno. Depressed, I guess. That time of the month.”
+    Peter\_P says, “Yeah...”
+    Peter\_P says, “I know you’re poking fun, but it does seem cyclical.”
+    You say, “’it’?”
+    Peter\_P says, “Depression, yeah.”
+    Peter\_P says, “In you, I mean. You seem to go through these cycles of really energetic and really depressed.”
+    You say, “Yeah...”
+    You say, “That noticeable?”
+    Peter\_P sticks his tongue out. “Don’t take it the wrong way. It’s not like super blatant or anything, just something I’ve noticed about you.”
+    You say, “heh”
+    You say, “You pay that much attention to me, then?”
 
 I grunted and spent another moment wishing I could take back what I’d just sent.
 
-> <span> Peter\_P says, "I guess :P"  
-> You say, "Sorry, that came out snippy. I didn’t mean it."  
-> Peter\_P shrugs. "I guess I do, though. I like you. I worry about you."  
-> Piree hugs. "Thanks. That means a lot."</span>
+    Peter\_P says, “I guess :P”
+    You say, “Sorry, that came out snippy. I didn’t mean it.”
+    Peter\_P shrugs. “I guess I do, though. I like you. I worry about you.”
+    Piree hugs. “Thanks. That means a lot.”
 
-When I next looked at the clock, it was nearing two in the morning. I’d spent nearly five hours talking with Peter. I thanked him profusely for staying up so late with me—<span>"No problem, I don’t have work tomorrow"</span>—and signed off for the night.
+When I next looked at the clock, it was nearing two in the morning. I’d spent nearly five hours talking with Peter. I thanked him profusely for staying up so late with me—<span>“No problem, I don’t have work tomorrow”</span>—and signed off for the night.
 
 I went to bed…not exactly happy, but comforted. As I started nodding off, I realized that I’d disconnected in Peter’s room, my character had fallen asleep there. A smile tugged at my lips. It felt right.
 
------
+------------------------------------------------------------------------
 
-> *Who, if I cried out, would hear me among the ranks of angels?*
+> *The beautiful is right at the margin of the terrifying.*
 
-With the sun at my back, I trudge east. The din of the freeway once more softening through waterfall and back into the sound of distant winds.
+And it *is* beautiful.
+
+With the sun at my back, I trudge east. The din of the freeway long ago softened through waterfall and back into the sound of distant winds.
 
 I feel those winds blow through me. Not just blow through my fur—the air itself was still—but through me, through my core. I feel hollow, empty. I feel like one of the pipes in an organ I got to tour some years back. I feel the wind blow through me, and I feel myself excited, humming. Hollow, but humming. Cold, but buzzing.
 
@@ -269,7 +271,7 @@ I have no thoughts.
 
 I keep walking.
 
------
+------------------------------------------------------------------------
 
 Much of my undergrad was borne out of depression. School was just a thing I did during the days, but my time spent in front of a keyboard was a part of myself. Each story, each post, each role-play session was a piece of myself. Each was a tiny rock to throw at this vasty nothingness. Justifying the things I liked, delineating the craziness of lives real and manufactured, gushing about worlds fantastic…they were all ways for me to pound my fists against nothing at all.
 
@@ -319,7 +321,7 @@ And then, with clockwork predictability, it would lift. With a sharp coolness bu
 
 With only a modicum of foresight or perhaps practiced nonchalance, I slipped from my undergraduate program to an MFA program in Moscow, Idaho, off in the far west of the state.
 
------
+------------------------------------------------------------------------
 
 Memories, fragments, wordless things crowd me, wraiths tugging at my clothing and fur. I am caught up in these non-thoughts, these non-memories and non-words, buoyed up, borne aloft, buffeted.
 
@@ -327,7 +329,7 @@ My steps falter. I stumble and weave. I fall once, twice. Tired. Exhausted. Spen
 
 Derek is gone. The collie is gone. There is only the *I*, the *me*, the barest speck of *self*.
 
------
+------------------------------------------------------------------------
 
 “Oh god, it’s so much easier to fly into Boise than Moscow or Sawtooth,” Peter grunted, luggage clattering to the floor as we hauled it from the carousel.
 
@@ -397,7 +399,7 @@ I hesitated in the slow strokes of my fingers through his fur, frowning up into 
 
 We slept.
 
------
+------------------------------------------------------------------------
 
 Shivering in the March evening’s chill, I come to a tee in the road. Staring out at the unbroken rolling plains beyond town, I linger. The sun sets, the moon rises. Stars fade into view, and still I stare at the low scrub.
 
@@ -409,7 +411,7 @@ No, tell a lie. I did this. I tore Peter up and threw him away because he wasn�
 
 All these words, all this burning bright in an attempt to light up vast, crenelated spaces of nothing…perhaps it’s just a hunt for a reason to incinerate myself.
 
------
+------------------------------------------------------------------------
 
 These upswings, if that’s what they are, have long since ceased to actually feel good. It’s just depression at the speed of sound. Depression, but if you stop moving, you die.
 
@@ -433,7 +435,7 @@ He didn’t stop until he made it home.
 
 He didn’t stop at his door. Not until he made it to the computer did he stop, and only then to lean over the keyboard words spilling directly onto the screen with no thought to back them up.
 
-> `You mail, "I honestly feel sorry for you. The only thing more pathetic than myself is anyone who would love me." to Peter_P.`
+    You mail, “I honestly feel sorry for you. The only thing more pathetic than myself is anyone who would love me.” to Peter\_P.
 
 After countless nightmares wherein I would somehow find the one single thing I could say to hurt someone—no, not hurt, crush; completely and utterly destroy—any revulsion of actually doing so was lost amid the flames of boundless loathing for this Derek, this hollow shell of a collie.
 
@@ -445,7 +447,7 @@ I had no thoughts.
 
 I had no *I*.
 
------
+------------------------------------------------------------------------
 
 The sound of a car door shutting brings me out of my reverie, if reverie it is, and I blink at my surroundings. I’m standing at the side of the road with the barbed wire of the fence clenched in my fists, a small, cheap two-door parked about twenty feet away. It’s a small wonder I hadn’t heard it before, nor even noticed the headlights casting my shadow before me. There’s a dull pain in my hands. A far away pain. A someone-else pain.
 
@@ -466,7 +468,7 @@ It isn’t a guy hug, isn’t that chaste, dry form of affection I’ve never be
 > *Who, if I cried out, would hear me among the ranks of angels?  
 > And even supposing one of them took me suddenly to their breast,  
 > I would perish within their overpowering being,  
-> For the beautiful is right at the margin of terrifying, which we can only just endure,  
+> For the beautiful is right at the margin of the terrifying, which we can only just endure,  
 > And we marvel at it, because it holds back in serene disdain and does not destroy us.  
 > Every angel is terrifying.*
 
