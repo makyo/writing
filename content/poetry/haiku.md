@@ -50,4 +50,11 @@ summer's exploring.
 What will autumn bring?
 Maturity? Strength? Wisdom?
 Dry heat and cool nights?
+
+And I walk until
+all I can hear is the wind
+among the fir trees.
+
+Summer breezes bear away
+all the choices of years past.
 </div>

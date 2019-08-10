@@ -1,0 +1,88 @@
+Intro
+	"Music is a transfer of information and emotions across a distance, occuring over time, and taking place between minds."
+	roles
+		source?
+		composer
+		conductor
+		ensemble
+		medium (live/recorded)
+		audience
+		sink?
+	signal flow
+		music as concept moves analogous to signal flow
+		source? -> composer -> conductor -> ensemble -> medium -> audience -> sink?
+	Purpose and meaning of music
+Sound and music
+	sound
+		vibrations
+		hearing
+	music
+		construction
+			vertical
+			horizontal
+		organization
+			meaning and melody
+			form
+Creation
+	Source?
+		Logical - following theoretical guidelines to produce an entertaining/aesthetically pleasing/interesting/whatever piece
+			Form
+			Process
+		Creative - using some nebulous concept to somehow generate music
+			Music as medium - always there, just modulated by composer into written notation - mystical
+			Inspiration from another source - programatic or idealistic
+		Combination
+			Most likely
+			Creativity is the source of the piece, logic is its execution
+	programmatic music vs absolute music
+		programmatic
+			is it useful to have someone else know the program?
+				programs applied post facto as a disservice to the music, listeners can't think of anything else?
+		absolute
+			process music
+		debates as to the use of critics, theoricians, and analysts after the fact
+	Working as a composer
+		Notation as friend
+			How much to write in score vs. how much to trust performers' musicality
+			clarity vs. neatness
+		Intellectual property, argh
+			Licensing
+			Royalties
+		The composer's role in music after publishing - is what is written The Law?
+		Audiences
+			Lectures/Q&A/talks: what they want to hear vs. what you want to say
+			Catering to the audiences vs. writing for self.
+Learning
+	Conductor
+		The Benevolent Dictator
+		selecting repertoire
+	Ensemble
+	Solo/small ensemble w/o conductor
+Performing
+	What is a performance?
+		to performer
+		to conductor
+		to composer
+		to audience
+	Garnering appreciation
+		The importance of venue
+		The lowest common denominator and today's repertoire
+		Holding the audience to high expectations (to create appreciation)
+	Uh-oh
+		Performance problems
+		Audience problems
+	Now what?
+		Moving on
+		Perfecting
+Listening
+	Listening vs. hearing
+	Levels of listening/appreciation
+	How to listen
+		What to listen for
+		Gaining a new perspective
+		Appreciating music you don't like
+	Musical preference
+	Music in society
+	Functions and uses of music
+Conclusion
+	Activism - not necessary to read if you hate such or if having the word 'children' bandied about makes you shudder.

@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99c (Web2C 7.5.5)
+The top-level auxiliary file: tarot_experiment.aux
+A level-1 auxiliary file: data8-13-08.aux
+A level-1 auxiliary file: data8-14-08.aux
+A level-1 auxiliary file: data8-17-08.aux
+A level-1 auxiliary file: data8-18-08.aux
+The style file: apalike.bst
+Database file #1: biblio.bib
+You've used 3 entries,
+            1935 wiz_defined-function locations,
+            491 strings with 4057 characters,
+and the built_in function-call counts, 871 in all, are:
+= -- 82
+> -- 38
+< -- 2
++ -- 12
+- -- 12
+* -- 63
+:= -- 170
+add.period$ -- 7
+call.type$ -- 3
+change.case$ -- 20
+chr.to.int$ -- 3
+cite$ -- 3
+duplicate$ -- 34
+empty$ -- 54
+format.name$ -- 17
+if$ -- 160
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 2
+newline$ -- 16
+num.names$ -- 9
+pop$ -- 20
+preamble$ -- 1
+purify$ -- 21
+quote$ -- 0
+skip$ -- 28
+stack$ -- 0
+substring$ -- 36
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 16
+warning$ -- 0
+while$ -- 6
+width$ -- 0
+write$ -- 34
