@@ -1,14 +1,6 @@
 ---
-type: by-weight
+type: serial
 ---
-
-What if I took the concept of the ally from *Pharmako* and applied it to a magical-realistic memoir? Like. It doesn't need to be totally true, and maybe some stuff gets pretty floaty, and maybe some stuff winds up as poetry, and maybe some of it is *House of Leaves*-y with scans of manic notes or bits of manifesto project, but it's generally just about me.
-
-That might be neat
-
-> Who are you kidding?
-
-Myself, I guess.
 
 <!--
 * Religion (reiki 2004-02-22)
@@ -35,5 +27,5 @@ salvia https://www.erowid.org/experiences/exp.php?ID=34401
 278 portentous
 291 more
 298 buzz off ally?
-320 back 
+320 back
 -->
