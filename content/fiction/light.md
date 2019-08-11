@@ -1,7 +1,7 @@
 ---
 type: post
 title: Light
-date: 2008-04-09
+date: 2004-06-12
 categories:
 - Short story
 - Erotica
