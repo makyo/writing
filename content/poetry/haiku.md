@@ -50,11 +50,23 @@ summer's exploring.
 What will autumn bring?
 Maturity? Strength? Wisdom?
 Dry heat and cool nights?
+</div>
 
+------
+
+<div class="verse">
 And I walk until
 all I can hear is the wind
 among the fir trees.
 
 Summer breezes bear away
 all the choices of years past.
+</div>
+
+-----
+
+<div class="verse">
+Drink deep of death-thoughts
+as the day dies with a yawn &mdash;
+the year starts to fade.
 </div>
