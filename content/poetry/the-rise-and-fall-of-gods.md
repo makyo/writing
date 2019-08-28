@@ -1,7 +1,15 @@
 ---
+type: post
 date: 2003-01-11
 title: The Rise and Fall of Gods - a fragment
 description: A bit of *very* old poetry from high school. I had grand plans to make it into an epic but, alas, I was only 16 :P
+categories:
+- Poem
+- Epic
+- Fragment
+tags:
+- Magic
+- Language
 ---
 
 <div class="verse">

@@ -1,14 +1,20 @@
 ---
+type: post
 date: 2003-05-01
 title: Tu pater et mater
 description: In high school Latin class, we were provided with the opportunity to clean coins from ancient Rome. This program was put forth by ACE, Ancient Coins for Education. As part of this program, an essay contest was put on regarding inscriptions, as inscriptions were studied along with the coins. My teacher at the time, Ms. Gibert, had me participate. The idea was to write an essay in 1st or 3rd person from the point of view of the person whom the inscription was for, by, or a passerby reading the inscription. Here's the result.
+categories:
+- Short story
+tags:
+- Death
+- Latin
+- History
+ratings: G
 ---
 
 > Tu pater et mater lacrimis retinete dolorem, nam fato raptam non potes eripere.
 >
 > *You, father, and mother, hold back your sorrow with tears, for you’re not able to take back what fate has snatched away.*
-
-
 
 The withered old man held the punt steady against the shore as the young boy clambered aboard. The boy was only nine or ten at most, short, with brown hair, and obviously not a slave. Slaves usually didn’t make it onto this ferry.
 
