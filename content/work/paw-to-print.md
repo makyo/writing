@@ -1,3 +1,6 @@
+---
+---
+
 # Tracking an anthology: the steps from start to finish
 
 Running an anthology is no small undertaking. In 2017, I began working on the *Arcana* anthology with Thurston Howl Publications. Nine months later, I had a book with a bunch of stories that I'd helped put together. That nine months, though, was a lot of work, and sometimes a lot of waiting around. Let's talk a little about that process.
