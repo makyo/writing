@@ -1,7 +1,7 @@
 {{ define "main" }}
   <main id="main">
     <h1>{{ .Title }}</h1>
-    {{ $paginator := .Paginate (where .Pages.ByPublishDate.Reverse ".Params.date" "!=" nil) 10 }}
+    {{ $paginator := .Paginate (where .Site.Pages.ByPublishDate.Reverse ".Params.date" "!=" nil) 10 }}
     {{ if eq $paginator.PageNumber 1 }}
     {{ .Content }}
     {{ end }}
@@ -10,7 +10,7 @@
     {{ range $paginator.Pages.ByPublishDate.Reverse }}
       <li>
         <h2>
-          <a href="{{ .Permalink }}">
+          <a href="{{ .URL }}">
             <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
               <use xlink:href="#bookmark"></use>
             </svg>
