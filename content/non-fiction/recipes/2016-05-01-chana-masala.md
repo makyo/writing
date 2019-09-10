@@ -7,7 +7,7 @@ slug: chana-masala
 
 ![Chana Masala and raita](/assets/recipes/chana-masala.jpg)
 
-Every now and then, I go thorugh a vegetarian kick, though I don't think the household will let me make it permanent.  Even so, it's nice to have a protein filled veggie dish to remind everyone that they're delicious!  I knew this as chick-pea curry, at first, but it's a little more complex than that.
+Every now and then, I go through a vegetarian kick, though I don't think the household will let me make it permanent.  Even so, it's nice to have a protein filled veggie dish to remind everyone that they're delicious!  I knew this as chick-pea curry, at first, but it's a little more complex than that.
 
 ### Ingredients
 
@@ -45,13 +45,13 @@ Every now and then, I go thorugh a vegetarian kick, though I don't think the hou
 * Cilantro to taste
 * Splash of lemon juice
 
-1. Blend all of the ingredience in a food processor.
+1. Blend all of the ingredients in a food processor.
 2. Refrigerate until ready to use.
 
 Garnish chana masala with fresh cilantro and serve in bowls with a starch, such as naan, roti, or basmati rice.  To cool the heat, you can serve it with raita.  It goes particularly well with a pink gin, I can attest!
 
 ### Ghee
 
-Ghee is a form of clarified butter which can be used as a cooking oil.  Cube one pound of unsalted butter and heat in a sauce pan over medium heat.  The butter will melt, then foam, then bubble.  After about fifteen minutes, the butter will stop appear to stop bubbling, and will start to foam lightly again, though the bubbles won't sticka round.  The ghee is done cooking, but needs to be strained to remove the casein and milk solids.  Pour the ghee through a fine mesh strainer lined with a few layers of cheesecloth or a few paper towels.  The ghee will keep for a month.
+Ghee is a form of clarified butter which can be used as a cooking oil.  Cube one pound of unsalted butter and heat in a sauce pan over medium heat.  The butter will melt, then foam, then bubble.  After about fifteen minutes, the butter will stop appear to stop bubbling, and will start to foam lightly again, though the bubbles won't sticks round.  The ghee is done cooking, but needs to be strained to remove the casein and milk solids.  Pour the ghee through a fine mesh strainer lined with a few layers of cheesecloth or a few paper towels.  The ghee will keep for a month.
 
 You can throw away the milk solids, or, if you don't mind the slightly sour taste, you can mix them with equal parts flour and honey, adding flour as needed, to produce a sort of milk fudge.  I like it, others not as much.
