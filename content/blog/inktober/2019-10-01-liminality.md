@@ -1,6 +1,6 @@
 ---
 date: 2019-10-01
-title: "Inktober 2019 #1 - Poem and snippet for Lorxus"
+title: "Inktober 2019 #1 - Poem and snippet courtesy of Lorxus"
 ---
 
 [![inks](/blog/inktober/2019-10-01.jpg)](/blog/inktober/2019-10-01.jpg)
