@@ -4,7 +4,9 @@ title: Restless Town advance reader request
 
 ## Looking for readers!
 
-Hi there! I'm looking for some advance readers for a short story collection that is coming out soon. The deadline is unfortunately a little slim: I'd like to have the cover pulled together by the *10th of November* so that I can get the book approved and listed by the 15th --- about as late as I can manage to keep it within awards season. There are complicated reasons why I'm behind on my timeline for this, many of which are my fault, so I apologize in advance for that!
+Hi there! I'm looking for some advance readers for a short story collection that is coming out soon. I'm specifically looking for quotes on the back cover, if you enjoyed it! They can be anonymous, of course.
+
+The deadline is unfortunately a little slim: I'd like to have the cover pulled together by the *10th of November* so that I can get the book approved and listed by the 15th --- about as late as I can manage to keep it within awards season. There are complicated reasons why I'm behind on my timeline for this, many of which are my fault, so I apologize in advance for that!
 
 Length: about **66755 words**; about **290 pages**
 
