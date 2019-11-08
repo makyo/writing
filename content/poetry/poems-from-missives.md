@@ -108,3 +108,4 @@ Must yearn forever for that grace.
     To watch that growth, to explore stem's turn,
         day by day would destroy, weakening one by the hour,
         A rose, single, now blooming, forever holds all pow'r.
+</div>

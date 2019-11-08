@@ -5,4 +5,6 @@ A collection of ten furry short stories set in and around the town of Sawtooth, 
 
 -----
 
+"A glimpse at the inner turmoil cause by the modern world through a collection of unique characters exploring internal conflicts such as mental health, complex emotions, or the need for physical connection."
+
 "Restless Town is an anthology about rebuilding. At its heart is grief, anxiety, and loss, and their intertwining with a life in transition. It’s a living heart, wrought into words."

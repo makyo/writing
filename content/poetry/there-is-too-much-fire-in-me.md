@@ -9,7 +9,8 @@ title: There is too much fire in me
 ---
 
 <div class="verse">
-There is too much fire in me to be described by the soldering iron's tip.
+There is too much fire in me
+to be described by the soldering iron's tip.
 
 If I were to draw that across my flesh,
    it would all spill out at once.

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77275cd0-1e02-4637-a123-95fc9ee8e74c</dc:identifier>
+        <dc:title>Restless Town</dc:title>
+        <dc:creator opf:file-as="Scott-Clary, Madison" opf:role="aut">Madison Scott-Clary</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.45.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-15T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;blockquote&gt;I just need out of this town. This stupid fucking town. This brown and flat and sad town. This restless town. This home to ennui and melancholy. This scrub of buildings and people and emotions spilled in the middle of an apathetic landscape like hay from an overturned truck.&lt;/blockquote&gt;
+&lt;p&gt;A collection of ten furry short stories set in and around the town of Sawtooth, Idaho.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;The Fool&lt;/strong&gt; - A student and a motherly badger explore questions of identity through a tarot reading.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Disappearance&lt;/strong&gt; - A weasel attempts to escape from her life in Sawtooth to Oregon, but finds her old life still tied to home.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fisher&lt;/strong&gt; - A fisher walks and hunts for meaning.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Centerpiece&lt;/strong&gt; - A couple heads to a BDSM play party 
+where the wife will be the Centerpiece for the whole party to enjoy. 
+With fertility already on the mind, will another mink showing up throw a
+ wrench in things?&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;You’re Gone&lt;/strong&gt; - A husband grieves the loss of his wife through instant messages.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Overclassification&lt;/strong&gt; - A chronically neat otter’s life is thrown into disarray when she takes a homeless ringtail in from the cold.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Acts of Intent&lt;/strong&gt; - A coyote burns meaning into the world around him.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Every Angel is Terrifying&lt;/strong&gt; - Derek MacIver struggles to hold his life together through the ups and downs of bipolar disorder.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;What Defines Us&lt;/strong&gt; - Darren and his mother struggle with the rammifications of the past repeating itself.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A Theory of Attachment&lt;/strong&gt; - Living with obsessive-compulsive disorder is tough without a support network, so when Sélène’s changes, stress runs high.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Madison Scott-Clary</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Madison Scott-Clary&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-11-15T15:27:09+00:00" name="calibre:timestamp"/>
+        <meta content="Restless Town" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_multiple2&quot;: {}, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_editable&quot;: true, &quot;is_csp&quot;: false, &quot;datatype&quot;: &quot;composite&quot;, &quot;column&quot;: &quot;value&quot;, &quot;colnum&quot;: 1, &quot;name&quot;: &quot;Formats&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;table&quot;: &quot;custom_column_1&quot;, &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;display&quot;: {&quot;make_category&quot;: false, &quot;composite_sort&quot;: &quot;text&quot;, &quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;description&quot;: &quot;&quot;, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0}, &quot;rec_index&quot;: 22, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_multiple&quot;: null}"/>
+    </metadata>
+    <guide>
+        <reference href="Restless Town - Madison Scott-Clary.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

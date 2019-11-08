@@ -15,6 +15,12 @@ categories:
 title: Missives
 ---
 
+<style>
+blockquote {
+    white-space: pre-wrap;
+}
+</style>
+
 Sir,
 
 If it please you, I write concerning our last meeting one week and six days ago at Mister G-'s manor, wherein we spent a happy hour discussing the finer points of his garden.  You requested that I write back upon returning home and I find myself with unanswered questions.<!--more-->
@@ -39,9 +45,9 @@ I was surprised and delighted to be greeted with your letter today, for I had fe
 
 I find your observations astute and in line with my estimation of you as a person.  Knowing that, I say:
 
-> Tho' the flow'r may bloom ere long  
-> and night recede unto the dawn,  
-> so yet may love's embrace grow fond  
+> Tho' the flow'r may bloom ere long
+> and night recede unto the dawn,
+> so yet may love's embrace grow fond
 > and yet be spoilt upon the wan.
 
 For, as I'm sure you well know, too much water on the gardenia flower causes the soft white of the blossom to turn brown and discolor.  Even such a perfection of God's creation as the flower be spoiled by too much of what is good for it!
@@ -104,11 +110,11 @@ However, I must admit myself flattered, all the same, that a pious and gentle cr
 
 It is only fair that I tease out your answer by providing something in return:
 
-> Though ev'ry climax approach a denouement  
-> And ev'ry dawn a night,  
-> Ev'ry moment worth sharing  
-> May be worth stealing.  
-> Were it with you,  
+> Though ev'ry climax approach a denouement
+> And ev'ry dawn a night,
+> Ev'ry moment worth sharing
+> May be worth stealing.
+> Were it with you,
 > Delay, then, the morn.
 
 In you, I saw that last cold breath of night before the morning, the promise of something spectacular.  I catch myself wondering if it was something that is integral and permanent for you -- will you always provide a glimpse of a bright day to come, or will you forever hover on the edge of darkness?
@@ -141,9 +147,9 @@ I find it singularly amazing that a book so quiet as this may lay itself open wi
 
 As with the dawn, however, you approach slowly, carefully at first, and then with a surprising suddenness you breach the darkness and begin casting shadows.  There is no hiding from a dawn such as this.
 
-> Tho' the heart may quicken --  
-> Tho' the tongue may lap --  
-> I shall sup no greater meal  
+> Tho' the heart may quicken --
+> Tho' the tongue may lap --
+> I shall sup no greater meal
 > Than thy gift entrancing
 
 You know as well as I that touch is not casual, but calculated.  And that word, lonesome after so many had been spilled in that garden, was naught to be ignored.  I say this not out of boast, though I know that I did well in making my intentions clear, but out of the fact that I, too, am left without a paw in mine.  Desire is a tumultuous thing, and many an hour of sleep was lost to the remembered closeness.  Ah, would that there had been more...
@@ -177,9 +183,9 @@ To a fox whose beauty is surpassed by none,
 
 You have done such an eloquent job of thanking me for the evening together that I, for once, find myself nearly at a loss for words.  The food was indeed wonderful, but paled in comparison to the delightful company.  I found you and your father both well read, and keen with words.  The walk within your own garden, around your splendid grounds, was not a thing that I will soon forget.
 
-> You find me at a disadvantage --  
-> Panting and aswish --  
-> Would that distance be traversed as easily  
+> You find me at a disadvantage --
+> Panting and aswish --
+> Would that distance be traversed as easily
 > As hearts t'wards yearning hearts
 
 I must address that kiss.  I confess myself a shyer person than I perhaps present, and I found myself self-flagellating within my mind after the act, worried that I had perhaps misread, that I might have overstepped my bounds.  To know that we could both blush so much...ah, well that is what will stick most firmly in my memory.  To know that one such as yourself may dream of kisses to come, that is what will sustain me for the future.
@@ -218,7 +224,6 @@ I will expect no reply in return, but let my poor words stand in place of any fu
 >     and withers, however slowly, by the hour
 >         until 'tis faded to nothing and dust,
 >         though some scent remain forever amidst the must.
-> {: class="verse" }
 
 I take well the meaning of your letter and the final gift of flowers within.
 
