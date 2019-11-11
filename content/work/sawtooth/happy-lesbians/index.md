@@ -56,9 +56,74 @@ The lynx nodded.
 
 (A week goes by of job hunting, Katrin suggests Winter try contracting, Winter decides on gig economy)
 
+Gone were the days of sitting up at the kitchen table, circling help-wanted ads in the newspaper. Hell, gone were the days of the newspaper, it felt like.
+
+Instead, Winter grew addicted to job posting boards, both local to her town and some that ran on a wider scale. Once she got her résumé all fixed up, she started flooding local stores with it, starting with all of the local grocers --- as Stevenson's had been --- and then broadening her search to related retail outlets.
+
+And then unrelated.
+
+Then non-retail positions.
+
+She would work in shifts, spending an hour prowling through postings, then spending five minutes making sure her files were in order, then another two hours applying. The act of uploading a résumé to a site that promised to read all it could from it, then required her to fill in all that information again in form fields became rote, numbing.
+
+There were a few calls back, but more often than not, the response was silence. It was starting to feel futile. It was starting to feel like hollering into the void. She would click submit on yet another application, and it would just...go away. It would go nowhere.
+
+She had set herself a week to exhaust all of the usual application channels. On the third or fourth day, she started driving around to stores and dropping off paper copies of her applications as well.
+
+It was on one of those outings towards the end of her timeboxed week that she first noticed the ride share sticker in someone's window.
+
 -----
 
 (Honeymoon phase with driving and odd jobs)
+"Winter? For Malina?"
+
+"Yep, that's me," the lynx replied cheerfully.
+
+"Great!" The badger hauled a few sacks of groceries into the back seat and slid in after them. "Thanks so much for the ride. Car's in the shop and all."
+
+"Oh, no worries." Winter waited for Malina to get herself buckled in before tapping at the GetThere app on her phone to set the satnav to navigate to the badger's destination. "Hopefully nothing expensive?"
+
+Malina laughed. "Shouldn't be. One of those warranty things. A part recall or something. I'm out a car for a day or two, but at least I don't have to pay for it."
+
+"No loaner, then? Do they even still do that?"
+
+"I'm not sure, honestly. They might. But either way, I'm within walking distance from work, so I figured it wouldn't be that big of a deal." With a wry smile, she added, "I just wasn't counting on having to do a grocery run for work. Starts getting cold out, and we start mowing through milk."
+
+Winter slid the car back into traffic --- mercifully light today --- and started down the road back toward 13th. "Fair enough. Where do you work, that you go through milk so fast?"
+
+"A coffee shop. The Book and the Bean, on the plaza. There's a few shops within walking distance that sell dairy, but none of them sell the more exotic milks, so I have to head further out. Easy enough to walk there, but I'm not hauling all of this back."
+
+"Oh, yeah! I know the one. My wife's restaurant is just down the block." She grinned. "I doubt those bags are light, though, yeah."
+
+Malina laughed and shook her head. "Not at all."
+
+There were a few moments of silence as Winter negotiated a left turn and the badger in the back seat thumbed through her phone.
+
+"How about you?" came a distracted voice from the back. "Is this your full-time thing? Driving?"
+
+Winter shook her head. "Not exactly. I just started not too long ago doing this and random gigs on Simpletask. Wasn't really my first choice, but it's turning out to be way more fun than I thought it would be."
+
+"Oh yeah? What about it do you like? Setting your own hours?"
+
+"I try to work pretty standard hours, though for me that means working morning rush hour driving, doing some tasks, driving during lunch, more tasks, and then evening rush hour." Winter thought for a moment, then continued, "No, I think the thing I like about it is that it gets me a lot of the best things I liked about retail without the standing all day or dragging boxes around."
+
+In the rear-view mirror, Malina nodded. "Yeah, that makes sense. Just the meeting people sort of thing?"
+
+"Mmhm. Meeting people, being helpful. People are generally kinder here than they are in stores, too. Most folks are grateful for the rides, and those that aren't having a good day are usually pretty quiet. I don't get many people hollering at me."
+
+Malina laughed. "Oh, I know that one. I used to work in finance, but got sick of it. I figured moving to where I saw people instead of numbers would be easier on the soul. I was mostly right."
+
+"Mostly?"
+
+"Yeah. A lot of people are grateful for coffee, but like you said, those who aren't tend to holler."
+
+Winter took her turn to laugh. "Yep, that's the type. I guess that's what I mean, though. I got good at the sort of happy retail mask that one puts on around them, but I haven't needed it here."
+
+As expected, the drive was a short one. Once they made it to the loading zone at the end of the 13th Street Plaza, Winter helped Malina unload the bags of milk and other sundries from the back of her car.
+
+"Thanks again, Winter," the badger said, loading herself up once again. "Stop in any time."
+
+The lynx nodded and waved before hopping back in her car and turning off the hazard lights.
 
 -----
 
