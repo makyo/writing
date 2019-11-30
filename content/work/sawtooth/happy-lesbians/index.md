@@ -32,13 +32,13 @@ She sat, and she watched.
 
 Katrin and Winter stood still heads bowed, both searching through their thoughts.
 
-Winter couldn't guess at her wife's thoughts. The fox was always so inscrutable. Winter would sometimes watch her face while the vixen worked, the blank mask of pure white, punctuated with only the pitch-black nose, those darkest-brown eyes, and try to decide if the inscrutable part was the white fur or some sort of Scandanavian magic.
+Winter couldn't guess at her wife's thoughts. The fox was always so inscrutable. Winter would sometimes watch her face while the vixen worked, the blank mask of pure white, punctuated with only the pitch-black nose, those darkest-brown eyes, and try to decide if the inscrutable part was the white fur or some sort of Scandinavian magic.
 
 Today, she couldn't tell. Katrin's matte-white fur reflected light so well that there were no shadows to reflect her emotions. And yet, there was still something foreign to those features. The almond-shaped eyes, the blunt muzzle, the ears almost hidden in thick fur.
 
 Perhaps another Swede would be able to read that face, to say what Katrin was feeling, but not Winter. Not right now.
 
-"And they didn't give any recourse?" The the fox looked up to Winter. "Just *come pick up your last paycheck and drop off your shirts*?"
+"And they didn't give any recourse?" The fox looked up to Winter. "Just *come pick up your last paycheck and drop off your shirts*?"
 
 The lynx nodded. "Just that. Mr Stevenson just said he couldn't keep both managers on board, and, well, Kayla's his daughter."
 

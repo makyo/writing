@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">77275cd0-1e02-4637-a123-95fc9ee8e74c</dc:identifier>
         <dc:title>Restless Town</dc:title>
         <dc:creator opf:file-as="Scott-Clary, Madison" opf:role="aut">Madison Scott-Clary</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.45.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.3.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-11-15T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;&lt;blockquote&gt;I just need out of this town. This stupid fucking town. This brown and flat and sad town. This restless town. This home to ennui and melancholy. This scrub of buildings and people and emotions spilled in the middle of an apathetic landscape like hay from an overturned truck.&lt;/blockquote&gt;
 &lt;p&gt;A collection of ten furry short stories set in and around the town of Sawtooth, Idaho.&lt;/p&gt;
@@ -29,7 +29,7 @@ With fertility already on the mind, will another mink showing up throw a
         <meta content="{&quot;Madison Scott-Clary&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="2019-11-15T15:27:09+00:00" name="calibre:timestamp"/>
         <meta content="Restless Town" name="calibre:title_sort"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;is_multiple2&quot;: {}, &quot;#extra#&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;is_editable&quot;: true, &quot;is_csp&quot;: false, &quot;datatype&quot;: &quot;composite&quot;, &quot;column&quot;: &quot;value&quot;, &quot;colnum&quot;: 1, &quot;name&quot;: &quot;Formats&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;table&quot;: &quot;custom_column_1&quot;, &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;display&quot;: {&quot;make_category&quot;: false, &quot;composite_sort&quot;: &quot;text&quot;, &quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;description&quot;: &quot;&quot;, &quot;contains_html&quot;: false, &quot;use_decorations&quot;: 0}, &quot;rec_index&quot;: 22, &quot;is_custom&quot;: true, &quot;is_category&quot;: false, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_multiple&quot;: null}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;column&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;colnum&quot;: 1, &quot;is_custom&quot;: true, &quot;rec_index&quot;: 22, &quot;#extra#&quot;: null, &quot;is_editable&quot;: true, &quot;is_multiple&quot;: null, &quot;label&quot;: &quot;formats&quot;, &quot;datatype&quot;: &quot;composite&quot;, &quot;display&quot;: {&quot;description&quot;: &quot;&quot;, &quot;contains_html&quot;: false, &quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;composite_sort&quot;: &quot;text&quot;, &quot;use_decorations&quot;: 0, &quot;make_category&quot;: false}, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;kind&quot;: &quot;field&quot;, &quot;is_multiple2&quot;: {}, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;name&quot;: &quot;Formats&quot;}"/>
     </metadata>
     <guide>
         <reference href="Restless Town - Madison Scott-Clary.jpg" title="Cover" type="cover"/>
