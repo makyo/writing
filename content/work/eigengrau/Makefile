@@ -21,8 +21,7 @@ toc: plain ## full book with ToC re-rendering in case of page changes
 	xelatex book.tex
 
 .PHONY: ebook
-ebook: ## render ePub file from LaTeX
-	pandoc Ebook.tex -o ../ebooks/book.epub -t epub3 --wrap=none
+ebook: reset engage-letter toc reset ## make PDF file for ebook
 
 .PHONY: frame
 engage-frame: ## turn on frame marking
