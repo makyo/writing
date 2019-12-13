@@ -1,0 +1,19 @@
+%%% Section divider
+% don't forget to \noindent the line after!
+\renewcommand\rule[2]{$\star$}
+\newcommand\secdiv{
+  \begin{center}
+    \rule{}{}
+  \end{center}
+}
+
+\newcommand\Post[2]{
+\makeatletter
+    \chapter{#1}
+    \markboth{#1}{}
+
+    \begin{flushright}
+        \emph{#2}
+    \end{flushright}
+\makeatother
+}
