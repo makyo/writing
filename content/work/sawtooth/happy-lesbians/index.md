@@ -127,11 +127,39 @@ The lynx nodded and waved before hopping back in her car and turning off the haz
 
 -----
 
-(Problems start to crop up with gigs)
+While the biggest benefit to this new form of employment was the free-form nature of it, that very benefit worked against it. It was up to Winter to schedule her day around the best times for driving, and the best times for working on projects on Simpletask.
+
+However, when Sawtoothians needed rides was unsteady. Sure, there were times when rides were more likely: rush hour, some time over lunch, Thursday, Friday, and Saturday nights. She started keeping track of sporting events, concerts, and conferences.
+
+Some days, Winter would be flooded with rides, and the lynx would dart all over town, picking up passengers of all stripes and driving them to some concert venue or the UI-Sawtooth campus stadium.
+
+And some days, she would be stuck on her laptop at The Book and the Bean --- Malina having convinced her to become a regular --- waiting for either a ride to crop up or a task she was qualified for. Warm days were usually slow, as folks would be more willing to walk or bike. Some days, she'd make seventy percent of the income for the week, and some days, she wouldn't make a thing.
+
+And then there were the customers.
+
+Her experience of folks being grateful for rides held true, as did her experience of folks having a bad day generally simply being quiet. Those types were both easy enough to deal with, if not outright enjoyable. Over time, though, she began to see a wider variety.
+
+Around Thanksgiving, she started making trips too and from the airport and bus station, and families getting off longer trips were rarely happy. She got snapped at more than once by upset fathers trying to wrangle children, and on one occasion, played therapist along with a coyote to a frightened weasel having a panic attack, in town to visit her family and have some complicated-sounding interaction with her ex-husband.
+
+The worst of all were the drunk folks. When she first started driving folks home from bars, it felt good. She was doing a sort of service by keeping tipsy bar-hoppers or plastered sports fans off the road. The first time someone vomited in the back seat, however, her opinion of the task began to sour. It may be nice to keep drunks from driving, but cleaning vomit out of the foot-wells --- thankfully, the dog had managed to miss the seat --- was hardly a pleasant task.
+
+Football games became a source of dread. She wasn't even safe before they began, as she'd haul thoroughly pregamed fans from parties to stadium, groups of students hollering painfully loud, nigh unintelligible, whether from drink or simple in-jokey camaraderie.
+
+The tasks from Simpletask, while a break from the enforced social interaction that was an integral part of driving, were riddled with their own problems. People generally expected that someone driving for GetThere knew what they were doing enough to leave them alone.
+
+Not so with someone performing data entry from scanned documents or making brochures for events. She discovered a particular brand of cruelty that seemed unique to the role of small business owners, which they held in reserve for menial labor.
+
+The lynx lost track of how many times she was called an idiot.
+
+Still, she had to pay the bills, didn't she?
 
 -----
 
-(An argument)
+(An argument over something big that happened while driving. Maybe someone said something gross to Winter?)
+Winter don't know how long she sat in the car, forehead resting against the steering wheel, before there was a soft knock at the driver's side window.
+
+"Love?" Katrin's voice was muffled from outside the car.
+
 
 -----
 
