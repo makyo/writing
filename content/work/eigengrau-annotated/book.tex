@@ -1,0 +1,69 @@
+\documentclass[11pt,oneside]{memoir}
+
+\def\watermarkloaded{0}
+
+\input{includes/variables}
+\input{includes/draft}
+\input{includes/frame}
+\input{includes/packages}
+\input{includes/pagelayout}
+\input{includes/geometry}
+\input{includes/toc}
+\input{includes/font}
+\input{includes/title}
+\input{includes/secdiv}
+\input{includes/hyphenation}
+
+\begin{document}
+  \frontmatter
+
+  \input{includes/pretitle}
+
+  \pagestyle{plain}
+
+  \doublespacing
+
+  \maketitle
+  \thispagestyle{empty}
+
+  \newpage
+
+  \input{includes/copyright}
+
+  \tableofcontents*
+  \newpage
+  \input{content/foreword}
+  \cleartoverso
+
+  \onehalfspacing
+
+    \mainmatter
+    \pagestyle{fancyplain}
+
+    \input{content/_misc}
+
+    %%%%%%%%%%
+
+    \input{content/_uvaip}
+
+    %%%%%%%%%%
+
+    \input{content/_missives}
+    \cleartoverso
+
+    %%%%%%%%%%
+
+    \input{content/_mental-health}
+
+    %%%%%%%%%%
+
+    \input{content/_gender}
+    \cleartoverso
+
+    %%%%%%%%%%
+
+    \input{content/_haiku}
+
+  \backmatter
+
+\end{document}
