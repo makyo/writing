@@ -1,7 +1,7 @@
 {{ define "main" }}
   <main id="main">
     <h1>{{ .Title }}</h1>
-    {{ $paginator := .Paginate (where .Site.Pages.ByPublishDate.Reverse ".Params.date" "!=" nil) 10 }}
+    {{ $paginator := .Paginate (where (where .Site.Pages.ByPublishDate.Reverse ".Params.date" "!=" nil) ".Params.nolist" "=" nil) 10 }}
     {{ if eq $paginator.PageNumber 1 }}
     {{ .Content }}
     {{ end }}

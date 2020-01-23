@@ -1,0 +1,50 @@
+\documentclass[11pt]{memoir}
+
+\def\watermarkloaded{0}
+
+\input{includes/variables}
+\input{includes/draft}
+\input{includes/frame}
+\input{includes/packages}
+\input{includes/pagelayout}
+\input{includes/geometry}
+\input{includes/toc}
+\input{includes/font}
+\input{includes/title}
+\input{includes/secdiv}
+\input{includes/hyphenation}
+
+\begin{document}
+  \frontmatter
+
+  \input{includes/pretitle}
+
+  \pagestyle{plain}
+
+  \doublespacing
+
+  \maketitle
+  \thispagestyle{empty}
+
+  \newpage
+
+  \input{includes/copyright}
+
+  \tableofcontents*
+  \newpage
+  \null
+  \cleardoublepage
+
+  \singlespacing
+
+  % \input{content/preface}
+
+  \mainmatter
+
+  \pagestyle{ourbook}
+  \input{content/overflowing-with-words.tex}
+
+  \backmatter
+  % \input{content/afterword}
+
+\end{document}
