@@ -136,7 +136,7 @@ More, they did not know how they were able to read the book. The language, when 
 
 At the turning of the final page, there sounded a distant blast of horns, a low, sustained note from the direction they had come.
 
-"Belek," came the voice, now more than simply echo. "Do you hear that, Belek? The horns to announce the death of a monk."
+"Belek," came the voice, now more than simply echo. "Do you hear that, Belek? The horns to announce the death of a monk. What better way to forget me than through death?"
 
 The cat could manage no more than a groan. The meaning of the text was clear.
 
