@@ -247,3 +247,89 @@ all these stories are really good and pulling on all sorts of different emotions
 # FBR
 
 https://furrybookreview.wixsite.com/blog/single-post/2020/02/15/Restless-Town-by-Madison-Scott-Clary
+
+Restless Town is a collection of stories written by Madison Scott-Clary. Published in various anthologies and places, they all cover different themes, ideas, and lives of different people. A quick warning before we get onto the full review: many of the stories contain moments of sexuality among other themes that may be difficult for certain readers. All of these are mentioned in the book itself before you start reading which is a wonderful touch. For this review, I’ll give a short content warning before the mini-review of each story for the readers here. With this in mind, let’s get started!
+
+"The Fool"
+
+There are a lot of ways to potentially learn some deep truths around oneself. One of the more mystical options could be through tarot cards. The protagonist of this story walks in to get a reading, or, to be more accurate, is led through reading the cards and what they might mean. A lot of meaning can be drawn from the art on the cards, and the protagonist walks out not only with a better understanding of themselves but also a person who can listen and help them on their way.
+
+"Disappearance" - CW: Sex, Body Modification
+
+What would life be like if you left everything you knew behind? Your name, your clothes, your car, everyone you ever knew, gone where you could never return? This story takes a look at what that might be like and the motivations someone might have to want to do so.
+
+Sometimes after you read a full book you need time before starting the next to take in the enormity of what you just read. This short story packs in more of a punch than some novels I've read prior. If you bought this collection for this story alone, you'd have your money's worth. Absolutely phenomenal to read!
+
+"Fisher"
+
+This story is short and to the point so we'll do the same for this part of the review. A walk a day keeps anxiety at bay, or so this fisher thinks. A good examination of emotions surrounding grieving and anxiety.
+
+"Centerpiece" - CW: Sex, Bondage
+
+From a purely analytical standpoint, this story is a marvelous examination of kink communities. It describes setting a scene, includes lots of consent checks, and is an excellent look at what sub-space is like.
+
+From the standpoint of wanting a saucy story to read? By the end, you'll be left shivering, wanting to see the whole scene play out only to be left with a tease. This is a perfect example of what adult writing should look like.
+
+"You're Gone" - CW: Death, Abuse, Medical
+
+This examination of grief and letting someone go who has passed away is powerful. It puts the reader into this position powerfully by being written as if it's through text messages. It makes it feel so real and immersed to the point where empathy becomes easier.
+
+Be prepared to cry when reading this one. I know I did.
+
+"Overclassification" - CW: Sex
+
+An otter learns what life is like for those that don’t color inside the neat tidy lines they often covet. Sometimes all it takes is one person, one meaningful interaction, to change the way you view life. I thoroughly enjoyed the story and won’t say anymore to keep the surprises fresh. Make sure to read it!
+
+"Acts of Intent"
+
+I’m unsure if it was the unique writing style that cut the story up into flashbacks and current time in almost every other paragraph, but I had a harder time following this story. It seemed interesting, about an artist trying to bring a pyro art piece to life, but I couldn’t entirely figure out what was being drawn or the exact reason why.
+
+This was the weakest story for me in the anthology, but to be fair all of the other stories were quite incredible, so it had tough competition.
+
+"Every Angel Is Terrifying" - CW: Sex
+
+This story follows a collie struggling to understand life and himself all the while battling against bipolar disorder. Like most of the stories in this anthology, the writing draws you in, giving glasses to witness what that life must be like through a lens of empathy. A powerful and emotional read with a hopeful ending.
+
+"What Defines Us"
+
+This story is told through a series of emails as a son talks to his mother about issues facing his relationship with his wife. They both don't want a repeat of the past, how divorce ended up being with him as a young boy. As a Mom myself, reading this struck a cord, especially when they talked about how children react during divorces. A worthwhile read for sure!
+
+"A Theory Of Attachment" - CW: Sex
+
+This story looks at navigating a complicated relationship structure like polyamory while dealing with obsessive compulsive disorder. The intersectionality of mental health and polyamory isn’t something I’ve seen properly explored in a story before. Not to mention seeing such a frank and honest look at what the beginnings of a poly relationship can look like. It was refreshing reading something so different and approached so well.
+
+I expect that I will be carrying these stories in my heart and mind for quite some time. While not as heavy on anthropomorphic themes as some books I’ve read, the characters that drive these stories forward are all vibrant and fantastic. Restless Town gets a recommendation from me for anyone that wants to deeply examine emotions and understand the world from a different perspective. These stories have so much to offer, I look forward to reading more works from Madison Scott-Clary in the future!
+
+### Apollo
+
+Apollo Hale 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇪🇺, [26.02.20 13:01]
+[Respondo al Madison Scott-Clary]
+I forgot to say: I finished reading your book. Just, heck.
+
+Madison Scott-Clary, [26.02.20 13:04]
+Hexham?
+
+Madison Scott-Clary, [26.02.20 13:04]
+Uh
+
+Madison Scott-Clary, [26.02.20 13:04]
+Heck?
+
+Madison Scott-Clary, [26.02.20 13:04]
+Wtf is Hexham?
+
+Apollo Hale 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇪🇺, [26.02.20 13:04]
+You’re really good at writing pieces that draw emotion
+
+Syka Bee, [26.02.20 13:04]
+it's when you cook the pork with magic
+
+Madison Scott-Clary, [26.02.20 13:05]
+[Respondo al Apollo Hale 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇪🇺]
+Gosh! Gosh, thank you /)uwu(\
+
+Apollo Hale 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇪🇺, [26.02.20 13:05]
+There were a lot of times where I’d just notice I was crying as I was reading along, but at the same time there were some pieces which left me really uplifted
+
+Apollo Hale 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇪🇺, [26.02.20 13:05]
+just a huge range of feels ^^;
