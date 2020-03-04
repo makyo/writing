@@ -12,6 +12,8 @@ Belek takes odd jobs here and there in order to support themself, but the concep
 
 The origin of their warlock nature springs from this. They were hired to help move the khiidiin nomyn san, the monastery library, from its old building to the newly constructed one. Part way through the process, on seeing the fineness of the books, they requested that they "simply be paid in knowledge, as this is a fine endeavor." Upon further discussion, it came out that they were interested in taking a book, "as I must move on to travel to my next job." They picked out a book, and the librarian monk was more than happy to let it go. This was the first part of the deal; the second was completed and the deal sealed when they finished reading the book, after which everything changed for them. The monk, it turned out, had completed his part of the bargain and wanted to forget all eldrich things, and the best way to do so was to lose the book.
 
+The presence between the pages.
+
 ### Story
 
 "Every five years we must take down every scroll, stack by stack, and replace the rugs beneath them. We must also unroll the scroll and make note of its condition," the monk rasped. "The latter will not be your responsibility, young one, but we are happy to provide you with a cot in the dormitory, and you will be welcome at the refectory during your stay here. Can you eat our food?"
@@ -116,7 +118,7 @@ The monk only moaned in response. After a moment's silence, he toppled to the fl
 
 Belek skittered from the library and down the long hall towards where the other old monks were packing up their pens and scrolls.
 
-"The old monk!" They shouted. "He has fallen in the library!"
+"The old monk!" they shouted. "He has fallen in the library!"
 
 The other monks dropped their materials and lept to their feet, hollering. One of them dashed up to the cat and opened his mouth to speak before noticing the book clutched in their paws. His look of worry turned into one of dawning horror, then of sadness. "I see you two reached a deal."
 
@@ -130,7 +132,7 @@ The monk shook his head and pressed the book forcefully back into the cat's paws
 
 Belek stumbled numbly to the refectory and picked up the small bag of coins left atop their cap and cloak. The whole monastery seemed to be rushing to the library, and suddenly the advice to leave seemed extraordinarily prudent. They ran to the dormitory to shoulder their pack, and were on the road away from the monastery before the sun began its long, slow decent toward evening.
 
-They bivouacked in the lee of a patch of scrub and it was by the rude light of a small, dry fire that they read the book. They did not rightly why they decided to remove the book from their pack and opened the cover. Perhaps it was another whispered 'Belek', and perhaps it was something more akin to a compulsion.
+They bivouacked in the lee of a patch of scrub and it was by the rude light of a small, dry fire that they read the book. They did not rightly know why they decided to remove the book from their pack and opened the cover. Perhaps it was another whispered 'Belek', and perhaps it was something more akin to a compulsion.
 
 More, they did not know how they were able to read the book. The language, when they focused their eyes, was not one that they could read, but were they to let their eyes drift just out of focus, the meaning came to them. It came in waves, in gusts, in inexorable currents. It washed over Belek and left their stomach rolling and their eyes watering.
 
@@ -144,4 +146,4 @@ The cat could manage no more than a groan. The meaning of the text was clear.
 
 "I'm...I am a drifter," they muttered. "I walk the steppes for work. What could I possibly hope to offer, lord?"
 
-"The deal has been made," the voice from out of the book purred. "And now you will go North."
+"The deal has been made," the presence between the pages purred. "And now you will go North."
