@@ -1,8 +1,16 @@
 ---
 date: 2020-03-04
+type: post
 title: The Presence Between the Pages
 description: |
     Belek Oorzhak: reluctant warlock.
+tags:
+- Furry
+- Fantasy
+- Horror
+- D&D
+categories:
+- Short story
 ---
 
 "Every five years we must take down every scroll, stack by stack, and replace the rugs beneath them. We must also unroll the scroll and make note of its condition," the monk rasped. "The latter will not be your responsibility, young one, but we are happy to provide you with a cot in the dormitory, and you will be welcome at the refectory during your stay here. Can you eat our food?"
