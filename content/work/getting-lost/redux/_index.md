@@ -7,7 +7,7 @@ title: Getting Lost Redux
 * [X] RJ 001 --- Rehearsal night
 * [X] RJ 002 --- Crown Pub with Sasha
 * [X] RJ 003 --- going to sleep
-* [ ] Carter 001 --- Carter learns of RJ
+* [X] Carter 001 --- Carter learns of RJ
 * [ ] RJ 004 --- Dress rehearsal, RJ gets lost
 * [ ] Carter 002 --- Sanders vs Carter, Carter's space
 * [ ] RJ 005 --- Investigating auditorium
