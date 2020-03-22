@@ -23,7 +23,15 @@
 
   \doublespacing
 
-  \maketitle
+  \begin{flushright}
+    \null
+    \vfill
+    {\Huge\DisplayFont Post.Self}
+
+    \vfill
+
+    {\Large\DisplayFont Madi{\kern-1.2pt}s{\kern-0.5pt}on Scott-Clar{\kern-0.4pt}y}
+  \end{flushright}
   \thispagestyle{empty}
 
   \newpage
@@ -37,16 +45,28 @@
 
   \onehalfspacing
 
-  \input{content/preface}
+  % \input{content/preface}
 
   \mainmatter
 
   \pagestyle{ourbook}
-  \input{content/01-chapter-one}
+  % \input{content/01-chapter-one}
+  % \clearpage
+  % \input{content/02-chapter-two}
+  \input{content/apres-un-reve}
   \clearpage
-  \input{content/02-chapter-two}
+  \input{content/assignment}
+  \clearpage
+  \input{content/gallery-exhibition-plain}
+  \clearpage
+  \input{content/jonas-clade-digest}
+  \clearpage
+  \input{content/qoheleth}
 
   \backmatter
+
+  \input{content/appendix}
+  
   \input{content/afterword}
 
 \end{document}
