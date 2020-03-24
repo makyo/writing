@@ -96,6 +96,7 @@ Plot 2:
             2. Getting in contact with the troupe by going to theater
             3. Gets put in touch with Sasha by Johansson
             4. Sneakily talking to Sasha.
+            5. Notices that there was an uptick in DDR activity in many cases, makes a card to that effect, data starts shifting to lower the correlation.
     * RJ explores
         * tasks/puzzles that lead him closer or further from meaning, pervading sense that ey can figure things out
             1. explore hs, find it all there to the last detail
