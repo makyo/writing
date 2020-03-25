@@ -1,7 +1,6 @@
 Gallery Exhibition
 ==================
 
-\markboth{Gallery Exhibition}{}
 A night on the town. A bar for an aperitif. A light dinner at a modern
 restaurant, one of those places with default sensoria settings that turn
 up the taste inputs and turn down the visual inputs, so that you eat
