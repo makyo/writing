@@ -21,7 +21,7 @@ Plot 1:
     * Sound
     * Born in US, moved to UK for the theaters after studying sound design
 * Priscilla/Prisca - cat
-* Sasha
+* Sasha (Michel Hadje)
     * Friend online from hs, gets in touch with Caitlin later on
     * skunk
 * Michel Hadje
@@ -87,7 +87,7 @@ Plot 2:
         * Dear and Qoheleth have similar thoughts on memories/forgetting
         * Qoheleth assassinated
 * Epilogue
-    * We learn that the Name is RJ and that Debarre is Michel Hadje
+    * We learn that the Name is RJ and that Sasha is Michel Hadje
 * Stories
     * Apres un reve
     * Gallery Exhibition
