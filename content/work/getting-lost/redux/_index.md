@@ -7,12 +7,12 @@ title: Getting Lost Redux
 * [X] RJ 001 --- Rehearsal night
 * [X] RJ 002 --- Crown Pub with Sasha
 * [X] RJ 003 --- going to sleep
-* [X] Carter 001 --- Carter learns of RJ --- interleave?
-* [X] RJ 004 --- Dress rehearsal, RJ gets lost --- interleave?
+* [X] Carter 001 --- Carter learns of RJ --- interleave? (yes)
+* [X] RJ 004 --- Dress rehearsal, RJ gets lost --- interleave? (yes)
 * [X] Carter 002 --- Sanders vs Carter, Carter's space
 * [X] RJ 005 --- Investigating auditorium
 * [X] Carter 003 --- Neutrois patient, spoiled by tabloid
-* [ ] RJ 006 --- Finding microphone, making notes
+* [X] RJ 006 --- Finding microphone, making notes
 * [ ] Carter 004 --- Planning to visit Johansson
 * [ ] RJ 007 --- Sleeping in the auditorium
 * [ ] Carter 005 --- Pub with Johansson
