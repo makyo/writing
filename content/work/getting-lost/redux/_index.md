@@ -22,7 +22,8 @@ title: Getting Lost Redux
 * [ ] Sasha 001 --- Sasha meets with Caitlin
 * [ ] RJ 010 --- No water, no coffee, dreamlike books
 * [ ] Carter 007 --- Carter gets smacked down, has to let folks go, contacts Sasha
-* [ ] Sasha 002 --- things are moving quickly
 * [ ] RJ 011 --- RJ visits implant clinic, travel skips
+* [ ] Sasha 002 --- things are moving quickly
+* [ ] RJ 012 --- RJ at the clinic, discovering ey don't need ACLs in a lucid dream.
 
 Will order new parts later
