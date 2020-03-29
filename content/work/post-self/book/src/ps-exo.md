@@ -95,6 +95,12 @@ Plot 2:
 * Afterword
     * Appendix
 
+## Todo
+
+* If Sasha is Michel and Dear is Michel, then Sasha should have thoughts on being an artist. Perhaps held back by need to survive, thus teaching?
+* Also, perhaps Sasha swore off relationships after RJ died, thus Dear being shaky on relationships.
+* Dear promises to discuss Umwelten with Ioan at the end
+
 ## Order
 
 Check when edited
@@ -103,19 +109,19 @@ Check when edited
 1. Torah
     * [X] RJ 001 --- Rehearsal night
     * [X] RJ 002 --- Crown Pub with Sasha
-    * [ ] Ioan 001 --- First message from Dear
+    * [X] Ioan 001 --- First message from Dear
     * [X] RJ 003 --- going to sleep
     * [X] Carter 001-a --- Carter learns of RJ
-    * [ ] Ioan 002 --- Ioan meets Dear
+    * [X] Ioan 002 --- Ioan meets Dear
     * [X] RJ 004-a --- Dress rehearsal
     * [X] Carter 001-b --- gets a hunch on the train
-    * [ ] Ioan 003 --- AES message, the puzzle begins
+    * [X] Ioan 003 --- AES message, the puzzle begins
     * [X] RJ 004-b --- RJ gets lost
 2. Nevi'im
     * [X] Carter 002 --- Sanders vs Carter, Carter's space
-    * [ ] Qoheleth 001 --- Spying on Dear and Ioan
+    * [ ] *Need more Ioan here-ish - gotta get the keyword for the message somehow. Maybe just do the rest of the original path?*
     * [X] RJ 005-a --- Investigating auditorium
-    * [ ] *Need more Ioan here-ish*
+    * [ ] Qoheleth 001 --- Spying on Dear and Ioan
     * [X] RJ 005-b --- There's a mic
     * [X] Carter 003 --- Neutrois patient, spoiled by tabloid
     * [ ] Qoheleth 002 --- Qoheleth's signifier
@@ -150,6 +156,6 @@ Check when edited
 4. Havel Havalim
     * [ ] Carter TODO --- Working on upload tech
     * [ ] RJ TODO --- Ode in letter/suicide note to Sasha
-    * [ ] Ioan 011 --- Ioan merges, begins to write, (TODO: sends Dear a sensorium message on a whim asking if ey might send a long-lived fork to stay with em to write)
+    * [ ] Ioan 011 --- Ioan merges, begins to write, (TODO: sends Dear a sensorium message on a whim asking if ey might send a long-lived fork to stay with em to write. Codrin Balan, perhaps? From Romanian codru, 'woods'. Maybe asks Dear how this works.)
     * [ ] Sasha TODO --- Sasha at/after funeral, learn she's Michel Hadje
     * [ ] Qian Guowei TODO --- Gets next assignment

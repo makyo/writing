@@ -44,8 +44,8 @@ reset: ## reset frame marking, draft watermark, and letter paper
 
 .PHONY: content
 content: ## build the markdown content into LaTeX
-	for in in src/content/*.md; do \
-		out=`echo $$in | sed -e 's/\.md/.tex/' | sed -e 's/.*\///'`; \
+	for in in src/*/*.md; do \
+		out=`echo $$in | sed -e 's/\.md/.tex/' | sed -e 's/src\//content\//'`; \
 		echo "$$in => $$out"; \
-		pandoc -f markdown -t latex -o content/$$out $$in --wrap=none --top-level-division=chapter; \
+		pandoc -f markdown -t latex -o $$out $$in --wrap=none --top-level-division=chapter; \
 	done
