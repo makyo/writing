@@ -105,10 +105,11 @@ Plot 2:
                 * finds mic by turning up house sound and making noise until ey gets feedback, stops by turning mic off
             2. List of Cicero's votes - shift in currency without a corresponding vote.
         * Walks to town, clinic where ey had implants done was near to school.
+        * Discovers the world works different than a sim because eir entire consciousness is involved, rather than just a sim which is an interface. Don't have to have a system that spends processing power on blades of grass or whatever, just let the brain dream it.
     * RJ discovers secret
         * those in control steering net Direct Democracy Representative (All Thing) through software, fight between Western Federation and Russian Bloc.
         * easter eggs planted to steer votes
-        * On the 'net nothing disappears completely, so powers that be started disappearing people
+        * On the 'net nothing disappears completely - after all, this was all in eir exo - so powers that be started disappearing people
 * Act 3
     * Shadowy govt Representative brought to light through mooks
         * Sanders as government plant to foil CR

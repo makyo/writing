@@ -26,11 +26,13 @@
   \begin{flushright}
     \null
     \vfill
-    {\Huge\DisplayFont Post.Self}
+    {\Huge\DisplayFont Post$\cdot$Self}
+
+    {\Large\DisplayFont \emph{Qoheleth} and other stories}
 
     \vfill
 
-    {\Large\DisplayFont Madi{\kern-1.2pt}s{\kern-0.5pt}on Scott-Clar{\kern-0.4pt}y}
+    {\Large\DisplayFont Madison Scott-Clary}
   \end{flushright}
   \thispagestyle{empty}
 
@@ -58,41 +60,48 @@
   \mainmatter
 
   \pagestyle{ourbook}
-  % \input{content/01-chapter-one}
-  % \clearpage
-  % \input{content/02-chapter-two}
-  \part{Torah}
-  \markboth{Torah}{}
+
+  \cleardoublepage
+  \addcontentsline{toc}{part}{Qoheleth}
+  \part*{Qoheleth}
+  \chapter{Torah}
+  \markboth{Qoheleth — Torah}{}
   \input{content/exo/part-1}
 
-  \part{Interlude — Assignment}
-  \markboth{Interlude — Assignment}{}
-  \input{content/assignment}
-
-  \part{Ketuvim}
-  \markboth{Ketuvim}{}
+  \chapter{Ketuvim}
+  \markboth{Qoheleth — Ketuvim}{}
   \input{content/exo/part-2}
 
-  \part{Interlude — Gallery Exhibition}
-  \markboth{Interlude — Gallery Exhibition}{}
-  \input{content/gallery-exhibition-plain}
-
-  \part{Nevi'im}
-  \markboth{Nevi'im}{}
+  \chapter{Nevi'im}
+  \markboth{Qoheleth — Nevi'im}{}
   \input{content/exo/part-3}
 
-  \part{Interlude — Après un rêve}
-  \markboth{Interlude — Après un rêve}{}
+  \chapter{Havel Havalim}
+  \markboth{Qoheleth — Havel Havalim}{}
+  \input{content/exo/part-4}
+
+  \cleardoublepage
+  \addcontentsline{toc}{part}{Assignment}
+  \part*{Assignment}
+  \markboth{Assignment}{}
+  \input{content/assignment}
+
+  \cleardoublepage
+  \addcontentsline{toc}{part}{Après un rêve}
+  \part*{Après un rêve}
+  \markboth{Après un rêve}{}
   \input{content/apres-un-reve}
 
-  \part{Havel Havalim}
-  \input{content/exo/part-4}
-  % \clearpage
-  % \input{content/qoheleth}
-  % \clearpage
-  % \input{content/jonas-clade-digest}
+  \cleardoublepage
+  \addcontentsline{toc}{part}{Gallery Exhibition}
+  \part*{Gallery Exhibition}
+  \markboth{Gallery Exhibition}{}
+  \input{content/gallery-exhibition-plain}
 
   \backmatter
+
+  \part{Afterword}
+  \markboth{Afterword}{}
 
   \input{content/appendix}
 

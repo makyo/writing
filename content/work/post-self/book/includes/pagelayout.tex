@@ -15,7 +15,10 @@
   \renewcommand{\chapternamenum}{}
   \renewcommand{\printchapternum}{}
   \renewcommand{\printchaptertitle}[1]{%
-  \DisplayFont\huge ##1}
+  \TitleFont\huge ##1}
+  \renewcommand{\partnamefont}{\DisplayFont\huge}
+  \renewcommand{\partnumfont}{\DisplayFont\huge}
+  \renewcommand{\parttitlefont}{\DisplayFont\Huge}
   \setlength{\parskip}{0pt}
 }
 
@@ -26,7 +29,7 @@
   \renewcommand{\footrulewidth}{0pt}
   \fancyhf[FRO,FLE]{\TitleFont{\thepage}}
   \renewcommand{\printchaptertitle}[1]{%
-  \DisplayFont\huge ##1}
+  \TitleFont\huge ##1}
 }
 
 % single space after periods
