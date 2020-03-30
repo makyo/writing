@@ -119,19 +119,22 @@ Check when edited
     * [X] RJ 004-b --- RJ gets lost
 2. Nevi'im
     * [X] Carter 002 --- Sanders vs Carter, Carter's space
-    * [ ] *Need more Ioan here-ish - gotta get the keyword for the message somehow. Maybe just do the rest of the original path?*
     * [X] RJ 005-a --- Investigating auditorium
-    * [ ] Qoheleth 001 --- Spying on Dear and Ioan
+    * [ ] *TODO Ioan - gotta get the keyword for the message somehow. Maybe just do the rest of the original path?*
     * [X] RJ 005-b --- There's a mic
+    * [ ] *TODO Ioan*
     * [X] Carter 003 --- Neutrois patient, spoiled by tabloid
-    * [ ] Qoheleth 002 --- Qoheleth's signifier
     * [X] RJ 006 --- Finding microphone, making notes
+    * [ ] *TODO Ioan*
     * [ ] Carter 004 --- Planning to visit Johansson
     * [ ] RJ 007 --- Sleeping in the auditorium
     * [ ] Carter 005 --- Pub with Johansson
+    * [ ] *TODO Ioan*
     * [ ] RJ 008 --- clothing from school
+    * [ ] Qoheleth 001 --- Spying on Dear and Ioan
     * [ ] RJ 009 --- Home is unlocked
     * [ ] Carter 006 --- Carter dreams of shadows, splits the team
+    * [ ] Qoheleth 002 --- Qoheleth's signifier
     * [ ] RJ 010 --- No water, no coffee, dreamlike books
     * [ ] Sasha 001 --- Sasha meets with Caitlin
     * [ ] Ioan 004 --- Ioan working, Dear's in a good mood
@@ -141,11 +144,20 @@ Check when edited
     * [ ] RJ 012 --- RJ at the clinic, discovering ey don't need ACLs in a lucid dream.
     * [ ] Ioan 006 --- Back at home with Dear, Qoheleth messages (split)
     * [ ] Sasha 002 --- things are moving quickly
-    * [ ] RJ 013 --- struggling with numbness, trying to learn to manipulate the dream, memories.
-    * [ ] Carter 008 --- Carter calls out, Prakash warns, threatened by mooks
-    * [ ] TODO
-        * Need more Ioan/Qoheleth story before gathering of Odists, perhaps a flashback to/story from Dear about forming the clade?
+    * [ ] *In progress* RJ 013 --- struggling with numbness, trying to learn to manipulate the dream, memories.
+    * [ ] *In progress* Carter 008 --- At work, viewing everyone with suspicion, DDR votes changing
+    * [ ] *In progress* Carter 009 --- Carter calls out, Prakash warns, threatened by mooks
+    * [ ] *TODO*
+        * Ioan/Qoheleth: story before gathering of Odists, perhaps a flashback to/story from Dear about forming the clade?
+        * RJ: Going a bit nuts, language creeping in from the shadows, deducing what happened to Cicero, emself
+        * Sasha: gets lost while working with Carter and Debarre. As seen from the inside gives Carter hint to use mirror rig
+        * Carter: decides to go after RJ, helped by Caitlin, emails Avery and Prakash
 3. Ketuvim
+    * *TODO*
+        * RJ: going crazy, bending world to eir whim.
+        * Carter: makes it to RJ, gets mirror rig in place, gets attacked, Caitlin fights mooks while Carter dives in.
+        * RJ: Surprised to see Carter there, resists leaving as the sudden aspect of something not being in control is a shock
+        * Sasha: endless field of dandelions, then suddenly Debarre, pulled back, brought up to speed on what Carter learned about how to rescue lost and the conspiracy
     * [ ] Ioan 007 --- Mustering the Odists
     * [ ] Qoheleth 004 --- Qoheleth is patient
     * [ ] Ioan 008 --- Ready to head out
@@ -154,8 +166,8 @@ Check when edited
     * [ ] Qoheleth 006 --- Assassinated
     * [ ] Ioan 010 --- Wrapping up with Dear, Serene, Praiseworthy
 4. Havel Havalim
-    * [ ] Carter TODO --- Working on upload tech
-    * [ ] RJ TODO --- Ode in letter/suicide note to Sasha
+    * [ ] *TODO* Carter --- retrospective: Sanders in jail, Prakash back to RB working on upload tech, Carter praised for saving the lost and exposing plot
+    * [ ] *TODO* RJ --- Ode in letter/suicide note to Sasha
     * [ ] Ioan 011 --- Ioan merges, begins to write, (TODO: sends Dear a sensorium message on a whim asking if ey might send a long-lived fork to stay with em to write. Codrin Balan, perhaps? From Romanian codru, 'woods'. Maybe asks Dear how this works.)
-    * [ ] Sasha TODO --- Sasha at/after funeral, learn she's Michel Hadje
-    * [ ] Qian Guowei TODO --- Gets next assignment
+    * [ ] *TODO* Sasha --- Sasha at/after funeral, learn she's Michel Hadje
+    * [ ] *TODO* Qian Guowei --- Gets next assignment
