@@ -112,17 +112,16 @@ Check when edited
     * [X] Ioan 001 --- First message from Dear
     * [X] RJ 003 --- going to sleep
     * [X] Carter 001-a --- Carter learns of RJ
-    * [X] Ioan 002 --- Ioan meets Dear
     * [X] RJ 004-a --- Dress rehearsal
     * [X] Carter 001-b --- gets a hunch on the train
-    * [X] Ioan 003 --- AES message, the puzzle begins
+    * [X] Ioan 002 --- Ioan meets Dear
     * [X] RJ 004-b --- RJ gets lost
 2. Nevi'im
     * [X] Carter 002 --- Sanders vs Carter, Carter's space
     * [X] RJ 005-a --- Investigating auditorium
-    * [ ] *TODO Ioan - gotta get the keyword for the message somehow. Maybe just do the rest of the original path?*
+    * [X] Ioan 003 --- AES message, the puzzle begins
     * [X] RJ 005-b --- There's a mic
-    * [ ] *TODO Ioan*
+    * [ ] *TODO Ioan - gotta get the keyword for the message somehow. Maybe just do the rest of the original path?*
     * [X] Carter 003 --- Neutrois patient, spoiled by tabloid
     * [X] RJ 006 --- Finding microphone, making notes
     * [ ] *TODO Ioan*
@@ -133,6 +132,7 @@ Check when edited
     * [ ] RJ 008 --- clothing from school
     * [ ] Qoheleth 001 --- Spying on Dear and Ioan
     * [ ] RJ 009 --- Home is unlocked
+    * [ ] *TODO Ioan*
     * [ ] Carter 006 --- Carter dreams of shadows, splits the team
     * [ ] Qoheleth 002 --- Qoheleth's signifier
     * [ ] RJ 010 --- No water, no coffee, dreamlike books
