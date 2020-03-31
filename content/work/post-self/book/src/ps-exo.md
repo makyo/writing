@@ -97,6 +97,7 @@ Plot 2:
 
 ## Todo
 
+* RJ would have listed Sasha as a contact along with parents. She should know (even if not at first) that ey was lost
 * If Sasha is Michel and Dear is Michel, then Sasha should have thoughts on being an artist. Perhaps held back by need to survive, thus teaching?
 * Also, perhaps Sasha swore off relationships after RJ died, thus Dear being shaky on relationships.
 * Dear promises to discuss Umwelten with Ioan at the end
@@ -121,26 +122,26 @@ Check when edited
     * [X] RJ 005-a --- Investigating auditorium
     * [X] Ioan 003-a --- AES message, the puzzle begins
     * [X] RJ 005-b --- There's a mic
-    * [ ] Ioan 003-b --- Ioan decrypts the message, sends Dear a letter
+    * [X] Ioan 003-b --- Ioan decrypts the message, sends Dear a letter
     * [X] Carter 003 --- Neutrois patient, spoiled by tabloid
     * [X] RJ 006 --- Finding microphone, making notes
-    * [ ] *TODO Ioan - Frustration at another encryption method, discussing diff between exocortex and archive*
-    * [ ] Carter 004 --- Planning to visit Johansson
+    * [X] Qoheleth 001-a --- Spying on Dear and Ioan
+    * [X] Carter 004 --- Planning to visit Johansson
     * [ ] RJ 007 --- Sleeping in the auditorium
+    * [X] Qoheleth 001-b --- archive
     * [ ] Carter 005 --- Pub with Johansson
-    * [ ] *TODO Ioan - Moves in with Dear, who is upset that no one else seems to be taking this quite so seriously*
     * [ ] RJ 008 --- clothing from school
-    * [ ] Qoheleth 001 --- Spying on Dear and Ioan
+    * [ ] *TODO Ioan - Frustration at another encryption method, discussing diff between exocortex and archive. Moves in with Dear, who is upset that no one else seems to be taking this quite so seriously*
     * [ ] RJ 009 --- Home is unlocked
-    * [ ] *TODO Ioan - trying to figure out archive with Dear*
     * [ ] Carter 006 --- Carter dreams of shadows, splits the team
-    * [ ] Qoheleth 002 --- Qoheleth's signifier
-    * [ ] RJ 010 --- No water, no coffee, dreamlike books
-    * [ ] Sasha 001 --- Sasha meets with Caitlin
     * [ ] Ioan 004 --- Ioan working, Dear's in a good mood
+    * [ ] RJ 010 --- No water, no coffee, dreamlike books
+    * [ ] *TODO Ioan - trying to figure out archive with Dear, gets in, finds pgpkey*
+    * [ ] Sasha 001 --- Sasha meets with Caitlin
+    * [ ] Ioan 005 --- Talking with Dear, learning of Qoheleth being an Odist
     * [ ] RJ 011 --- RJ visits implant clinic, travel skips
     * [ ] Carter 007 --- Carter gets smacked down, has to let folks go, contacts Sasha
-    * [ ] Ioan 005 --- Talking with Dear, learning of Qoheleth being an Odist
+    * [ ] Qoheleth 002 --- Qoheleth's signifier
     * [ ] RJ 012 --- RJ at the clinic, discovering ey don't need ACLs in a lucid dream.
     * [ ] Ioan 006 --- Back at home with Dear, Qoheleth messages (split)
     * [ ] Sasha 002 --- things are moving quickly
