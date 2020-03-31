@@ -119,20 +119,20 @@ Check when edited
 2. Nevi'im
     * [X] Carter 002 --- Sanders vs Carter, Carter's space
     * [X] RJ 005-a --- Investigating auditorium
-    * [X] Ioan 003 --- AES message, the puzzle begins
+    * [X] Ioan 003-a --- AES message, the puzzle begins
     * [X] RJ 005-b --- There's a mic
-    * [ ] *TODO Ioan - gotta get the keyword for the message somehow. Maybe just do the rest of the original path?*
+    * [ ] Ioan 003-b --- Ioan decrypts the message, sends Dear a letter
     * [X] Carter 003 --- Neutrois patient, spoiled by tabloid
     * [X] RJ 006 --- Finding microphone, making notes
-    * [ ] *TODO Ioan*
+    * [ ] *TODO Ioan - Frustration at another encryption method, discussing diff between exocortex and archive*
     * [ ] Carter 004 --- Planning to visit Johansson
     * [ ] RJ 007 --- Sleeping in the auditorium
     * [ ] Carter 005 --- Pub with Johansson
-    * [ ] *TODO Ioan*
+    * [ ] *TODO Ioan - Moves in with Dear, who is upset that no one else seems to be taking this quite so seriously*
     * [ ] RJ 008 --- clothing from school
     * [ ] Qoheleth 001 --- Spying on Dear and Ioan
     * [ ] RJ 009 --- Home is unlocked
-    * [ ] *TODO Ioan*
+    * [ ] *TODO Ioan - trying to figure out archive with Dear*
     * [ ] Carter 006 --- Carter dreams of shadows, splits the team
     * [ ] Qoheleth 002 --- Qoheleth's signifier
     * [ ] RJ 010 --- No water, no coffee, dreamlike books
