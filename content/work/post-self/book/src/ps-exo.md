@@ -127,16 +127,16 @@ Check when edited
     * [X] RJ 006 --- Finding microphone, making notes
     * [X] Qoheleth 001-a --- Spying on Dear and Ioan
     * [X] Carter 004 --- Planning to visit Johansson
-    * [ ] RJ 007 --- Sleeping in the auditorium
+    * [X] RJ 007 --- Sleeping in the auditorium
     * [X] Qoheleth 001-b --- archive
     * [ ] Carter 005 --- Pub with Johansson
     * [ ] RJ 008 --- clothing from school
-    * [ ] *TODO Ioan - Frustration at another encryption method, discussing diff between exocortex and archive. Moves in with Dear, who is upset that no one else seems to be taking this quite so seriously*
+    * [ ] *TODO Ioan - trying to figure out archive with Dear, gets in, finds pgpkey. Frustration at another encryption method, discussing diff between exocortex and archive.*
     * [ ] RJ 009 --- Home is unlocked
     * [ ] Carter 006 --- Carter dreams of shadows, splits the team
     * [ ] Ioan 004 --- Ioan working, Dear's in a good mood
     * [ ] RJ 010 --- No water, no coffee, dreamlike books
-    * [ ] *TODO Ioan - trying to figure out archive with Dear, gets in, finds pgpkey*
+    * [ ] *TODO Ioan - Moves in with Dear, who is upset that no one else seems to be taking this quite so seriously*
     * [ ] Sasha 001 --- Sasha meets with Caitlin
     * [ ] Ioan 005 --- Talking with Dear, learning of Qoheleth being an Odist
     * [ ] RJ 011 --- RJ visits implant clinic, travel skips
@@ -145,7 +145,7 @@ Check when edited
     * [ ] RJ 012 --- RJ at the clinic, discovering ey don't need ACLs in a lucid dream.
     * [ ] Ioan 006 --- Back at home with Dear, Qoheleth messages (split)
     * [ ] Sasha 002 --- things are moving quickly
-    * [ ] *In progress* RJ 013 --- struggling with numbness, trying to learn to manipulate the dream, memories.
+    * [ ] RJ 013 --- struggling with numbness, trying to learn to manipulate the dream, memories.
     * [ ] *In progress* Carter 008 --- At work, viewing everyone with suspicion, DDR votes changing
     * [ ] *In progress* Carter 009 --- Carter calls out, Prakash warns, threatened by mooks
     * [ ] *TODO*
@@ -169,6 +169,6 @@ Check when edited
 4. Havel Havalim
     * [ ] *TODO* Carter --- retrospective: Sanders in jail, Prakash back to RB working on upload tech, Carter praised for saving the lost and exposing plot
     * [ ] *TODO* RJ --- Ode in letter/suicide note to Sasha
-    * [ ] Ioan 011 --- Ioan merges, begins to write, (TODO: sends Dear a sensorium message on a whim asking if ey might send a long-lived fork to stay with em to write. Codrin Balan, perhaps? From Romanian codru, 'woods'. Maybe asks Dear how this works.)
+    * [ ] Ioan 011 --- Ioan merges, begins to write, (*TODO* sends Dear a sensorium message on a whim asking if ey might send a long-lived fork to stay with em to write. Codrin Balan, perhaps? From Romanian codru, 'woods'. Maybe asks Dear how this works.)
     * [ ] *TODO* Sasha --- Sasha at/after funeral, learn she's Michel Hadje
     * [ ] *TODO* Qian Guowei --- Gets next assignment
