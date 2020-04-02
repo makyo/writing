@@ -129,9 +129,9 @@ Check when edited
     * [X] Carter 004 --- Planning to visit Johansson
     * [X] RJ 007 --- Sleeping in the auditorium
     * [X] Qoheleth 001-b --- archive
-    * [ ] Carter 005 --- Pub with Johansson
+    * [X] Carter 005 --- Pub with Johansson
     * [ ] RJ 008 --- clothing from school
-    * [ ] *TODO Ioan - trying to figure out archive with Dear, gets in, finds pgpkey. Frustration at another encryption method, discussing diff between exocortex and archive.*
+    * [ ] Ioan 003-c - trying to figure out archive with Dear, gets in, finds pgpkey. Frustration at another encryption method, discussing diff between exocortex and archive.
     * [ ] RJ 009 --- Home is unlocked
     * [ ] Carter 006 --- Carter dreams of shadows, splits the team
     * [ ] Ioan 004 --- Ioan working, Dear's in a good mood
