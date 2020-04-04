@@ -101,12 +101,13 @@ Plot 2:
 * If Sasha is Michel and Dear is Michel, then Sasha should have thoughts on being an artist. Perhaps held back by need to survive, thus teaching?
 * Also, perhaps Sasha swore off relationships after RJ died, thus Dear being shaky on relationships.
 * Dear promises to discuss Umwelten with Ioan at the end
+* Furries at risk due to relative affluence/online nature
 
 ## Order
 
 Check when edited
 
-0. Epigraph --- "...and God will call the past to account." -- Ecclesiastes 3:15
+0. Epigraph --- Ecclesiastes 3:15
 1. Torah
     * [X] RJ 001 --- Rehearsal night
     * [X] RJ 002 --- Crown Pub with Sasha
@@ -130,13 +131,13 @@ Check when edited
     * [X] RJ 007 --- Sleeping in the auditorium
     * [X] Qoheleth 001-b --- archive
     * [X] Carter 005 --- Pub with Johansson
-    * [ ] RJ 008 --- clothing from school
+    * [X] RJ 008 --- clothing from school
     * [ ] Ioan 003-c - trying to figure out archive with Dear, gets in, finds pgpkey. Frustration at another encryption method, discussing diff between exocortex and archive.
-    * [ ] RJ 009 --- Home is unlocked
+    * [X] RJ 009 --- Home is unlocked
     * [ ] Carter 006 --- Carter dreams of shadows, splits the team
-    * [ ] Ioan 004 --- Ioan working, Dear's in a good mood
-    * [ ] RJ 010 --- No water, no coffee, dreamlike books
     * [ ] *TODO Ioan - Moves in with Dear, who is upset that no one else seems to be taking this quite so seriously*
+    * [ ] RJ 010 --- No water, no coffee, dreamlike books
+    * [ ] Ioan 004 --- Ioan working, Dear's in a good mood
     * [ ] Sasha 001 --- Sasha meets with Caitlin
     * [ ] Ioan 005 --- Talking with Dear, learning of Qoheleth being an Odist
     * [ ] RJ 011 --- RJ visits implant clinic, travel skips
