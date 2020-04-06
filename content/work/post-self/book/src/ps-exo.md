@@ -97,11 +97,13 @@ Plot 2:
 
 ## Todo
 
-* RJ would have listed Sasha as a contact along with parents. She should know (even if not at first) that ey was lost
-* If Sasha is Michel and Dear is Michel, then Sasha should have thoughts on being an artist. Perhaps held back by need to survive, thus teaching?
-* Also, perhaps Sasha swore off relationships after RJ died, thus Dear being shaky on relationships.
-* Dear promises to discuss Umwelten with Ioan at the end
-* Furries at risk due to relative affluence/online nature
+* [ ] RJ would have listed Sasha as a contact along with parents. She should know (even if not at first) that ey was lost
+* [X] If Sasha is Michel and Dear is Michel, then Sasha should have thoughts on being an artist. Perhaps held back by need to survive, thus teaching?
+* [ ] Also, perhaps Sasha swore off relationships after RJ died, thus Dear being shaky on relationships.
+* [ ] Dear promises to discuss Umwelten with Ioan at the end
+* [ ] Furries at risk due to relative affluence/online nature
+* [ ] Most of the Ode clade is human because Sasha didn't hone species as much, not as much identity built up in skunks, and thus little of her image bound to anything other than her human form. A few skunks, plus Dear and Serene
+* [ ] Reconsider Torah/Nevi'im/Ketuvim naming. Doesn't really fit. Either change/remove, or add in more kabbalah to fit.
 
 ## Order
 
@@ -135,7 +137,7 @@ Check when edited
     * [ ] Ioan 003-c - trying to figure out archive with Dear, gets in, finds pgpkey. Frustration at another encryption method, discussing diff between exocortex and archive.
     * [X] RJ 009 --- Home is unlocked
     * [X] Carter 006 --- Carter dreams of shadows
-    * [ ] *TODO Ioan - Moves in with Dear, who is upset that no one else seems to be taking this quite so seriously*
+    * [ ] Ioan 003-d --- Moves in with Dear, who is upset that no one else seems to be taking this quite so seriously
     * [ ] RJ 010 --- No water, no coffee, dreamlike books
     * [ ] Ioan 004 --- Ioan working, Dear's in a good mood
     * [ ] Sasha 001 --- Sasha meets with Caitlin
