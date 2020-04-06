@@ -134,7 +134,7 @@ Check when edited
     * [X] RJ 008 --- clothing from school
     * [ ] Ioan 003-c - trying to figure out archive with Dear, gets in, finds pgpkey. Frustration at another encryption method, discussing diff between exocortex and archive.
     * [X] RJ 009 --- Home is unlocked
-    * [ ] Carter 006 --- Carter dreams of shadows, splits the team
+    * [X] Carter 006 --- Carter dreams of shadows
     * [ ] *TODO Ioan - Moves in with Dear, who is upset that no one else seems to be taking this quite so seriously*
     * [ ] RJ 010 --- No water, no coffee, dreamlike books
     * [ ] Ioan 004 --- Ioan working, Dear's in a good mood
