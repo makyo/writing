@@ -47,5 +47,5 @@ content: ## build the markdown content into LaTeX
 	for in in src/*/*.md; do \
 		out=`echo $$in | sed -e 's/\.md/.tex/' | sed -e 's/src\//content\//'`; \
 		echo "$$in => $$out"; \
-		pandoc -f markdown -t latex -o $$out $$in --wrap=none --top-level-division=chapter; \
+		pandoc -f markdown -t latex $$in --wrap=none --top-level-division=chapter | sed -e 's/\\chapter/\\chapter*/' | sed -e 's/---/—/g' > $$out; \
 	done
