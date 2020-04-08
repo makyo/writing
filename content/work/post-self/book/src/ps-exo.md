@@ -140,7 +140,7 @@ Check when edited
     * [ ] Ioan 003-d --- Moves in with Dear, who is upset that no one else seems to be taking this quite so seriously
     * [X] RJ 010 --- No water, no coffee, dreamlike books
     * [X] Ioan 004 --- Ioan working, Dear's in a good mood
-    * [ ] Sasha 001 --- Sasha meets with Caitlin
+    * [X] Sasha 001 --- Sasha meets with Caitlin
     * [X] Ioan 005 --- Talking with Dear, learning of Qoheleth being an Odist
     * [ ] RJ 011 --- RJ visits implant clinic, travel skips
     * [ ] Carter 007 --- Carter gets smacked down, has to let folks go, contacts Sasha
