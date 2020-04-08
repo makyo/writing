@@ -149,7 +149,7 @@ Check when edited
     * [ ] Ioan 006 --- Back at home with Dear, Qoheleth messages (split)
     * [ ] Sasha 002 --- things are moving quickly
     * [ ] RJ 013 --- struggling with numbness, trying to learn to manipulate the dream, memories.
-    * [ ] *In progress* Carter 008 --- At work, viewing everyone with suspicion, DDR votes changing
+    * [ ] Carter 008 --- At work, viewing everyone with suspicion, DDR votes changing
     * [ ] *In progress* Carter 009 --- Carter calls out, Prakash warns, threatened by mooks
     * [ ] *TODO*
         * Ioan/Qoheleth: story before gathering of Odists, perhaps a flashback to/story from Dear about forming the clade?
