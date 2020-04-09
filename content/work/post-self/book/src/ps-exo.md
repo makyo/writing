@@ -170,7 +170,7 @@ Check when edited
     * [ ] Qoheleth 006 --- Assassinated
     * [ ] Ioan 010 --- Wrapping up with Dear, Serene, Praiseworthy
 4. Havel Havalim
-    * [ ] *TODO* Carter --- retrospective: Sanders in jail, Prakash back to RB working on upload tech, Carter praised for saving the lost and exposing plot
+    * [ ] *TODO* Carter --- retrospective: Sanders in jail, Prakash back to RB working on upload tech using info about exo mirroring, Carter praised for saving the lost and exposing plot
     * [ ] *TODO* RJ --- Ode in letter/suicide note to Sasha
     * [ ] Ioan 011 --- Ioan merges, begins to write, (*TODO* sends Dear a sensorium message on a whim asking if ey might send a long-lived fork to stay with em to write. Codrin Balan, perhaps? From Romanian codru, 'woods'. Maybe asks Dear how this works.)
     * [ ] *TODO* Sasha --- Sasha at/after funeral, learn she's Michel Hadje
