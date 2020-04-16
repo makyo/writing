@@ -44,6 +44,7 @@ reset: ## reset frame marking, draft watermark, and letter paper
 
 .PHONY: content
 content: ## build the markdown content into LaTeX
+	fish fromzk.fish
 	for in in src/*/*.md; do \
 		out=`echo $$in | sed -e 's/\.md/.tex/' | sed -e 's/src\//content\//'`; \
 		echo "$$in => $$out"; \
