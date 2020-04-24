@@ -22,7 +22,7 @@ toc: plain ## full book with ToC re-rendering in case of page changes
 
 .PHONY: ebook
 ebook: ## render ePub file from LaTeX
-	pandoc Ebook.tex -o ../ebooks/book.epub -t epub3 --wrap=none
+	pandoc book.tex -o ebooks/book.epub -t epub3 --wrap=none
 
 .PHONY: frame
 engage-frame: ## turn on frame marking
@@ -44,6 +44,9 @@ reset: ## reset frame marking, draft watermark, and letter paper
 
 .PHONY: content
 content: ## build the markdown content into LaTeX
+	@echo "Are you sure you want to do this now?"
+	@echo "Remove the 'false' below to procede"
+	false
 	fish fromzk.fish
 	for in in src/*/*.md; do \
 		out=`echo $$in | sed -e 's/\.md/.tex/' | sed -e 's/src\//content\//'`; \
