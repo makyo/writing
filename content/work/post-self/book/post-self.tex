@@ -1,0 +1,95 @@
+\documentclass[11pt]{memoir}
+
+\def\watermarkloaded{0}
+
+\input{includes/variables}
+\input{includes/draft}
+\input{includes/frame}
+\input{includes/packages}
+\input{includes/pagelayout}
+\input{includes/geometry}
+\input{includes/toc}
+\input{includes/font}
+\input{includes/title}
+\input{includes/secdiv}
+\input{includes/hyphenation}
+
+\begin{document}
+  \frontmatter
+
+\thispagestyle{empty}
+\null
+\vfill
+\begin{flushright}
+  \DisplayFont Post$\cdot$Self
+\end{flushright}
+\vfill
+\cleardoublepage
+
+  \pagestyle{plain}
+
+  \doublespacing
+
+  \begin{flushright}
+    \null
+    \vfill
+    {\Huge\DisplayFont Post$\cdot$Self}
+
+    \vfill
+
+    {\Large\DisplayFont Madison Scott-Clary}
+  \end{flushright}
+  \thispagestyle{empty}
+
+  \newpage
+
+  \input{includes/copyright}
+
+  \tableofcontents*
+  \newpage
+  \null
+  \cleardoublepage
+
+  \onehalfspacing
+
+  % \input{content/preface}
+
+  \mainmatter
+
+  \pagestyle{ourbook}
+
+  \cleartoverso
+  \part*{Assignment}
+  \markboth{Assignment}{}
+  \addcontentsline{toc}{part}{Assignment}
+  \input{content/assignment}
+
+  \cleartoverso
+  \part*{Après un rêve}
+  \markboth{Après un rêve}{}
+  \addcontentsline{toc}{part}{Après un rêve}
+  \input{content/apres-un-reve}
+
+  \cleartoverso
+  \part*{Gallery Exhibition}
+  \markboth{Gallery Exhibition}{}
+  \addcontentsline{toc}{part}{Gallery Exhibition}
+  \input{content/gallery-exhibition-plain}
+
+  \cleartoverso
+  \part*{Jonas Clade Digest}
+  \markboth{Jonas Clade Digest}{}
+  \addcontentsline{toc}{part}{Jonas Clade Digest}
+  \input{content/jonas-clade-digest}
+
+  \backmatter
+
+  %\part{Afterword}
+  \markboth{}{}
+
+  \input{content/appendix}
+
+  %\cleartoverso
+  \input{content/afterword}
+
+\end{document}

@@ -12,6 +12,11 @@ proof: engage-letter engage-frame engage-draft toc reset ## full proof document 
 .PHONY: draft
 draft: engage-draft toc reset ## draft document of thebook with watermark
 
+.PHONY: fate
+fate: engage-draft
+	xelatex fate.tex
+	xelatex fate.tex
+
 .PHONY: plain
 plain: ## full document of the book with no proofing marks
 	xelatex book.tex
@@ -46,7 +51,7 @@ reset: ## reset frame marking, draft watermark, and letter paper
 content: ## build the markdown content into LaTeX
 	@echo "Are you sure you want to do this now?"
 	@echo "Remove the 'false' below to procede"
-	false
+	#false
 	fish fromzk.fish
 	for in in src/*/*.md; do \
 		out=`echo $$in | sed -e 's/\.md/.tex/' | sed -e 's/src\//content\//'`; \
