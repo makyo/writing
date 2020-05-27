@@ -7,13 +7,13 @@
         <dc:creator opf:file-as="Scott-Clary, Madison" opf:role="aut">Madison Scott-Clary</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
-        <dc:language>epo</dc:language>
+        <dc:language>eng</dc:language>
         <meta content="{&quot;Madison Scott-Clary&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
         <meta content="Post-Self" name="calibre:series"/>
         <meta content="1" name="calibre:series_index"/>
         <meta content="2020-04-23T22:30:48+00:00" name="calibre:timestamp"/>
         <meta content="Qoheleth" name="calibre:title_sort"/>
-        <meta name="calibre:user_metadata:#formats" content="{&quot;colnum&quot;: 1, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;kind&quot;: &quot;field&quot;, &quot;#extra#&quot;: null, &quot;link_column&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_category&quot;: false, &quot;is_multiple2&quot;: {}, &quot;#value#&quot;: &quot;EPUB&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;display&quot;: {&quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;description&quot;: &quot;&quot;, &quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;contains_html&quot;: false}, &quot;datatype&quot;: &quot;composite&quot;, &quot;name&quot;: &quot;Formats&quot;, &quot;is_multiple&quot;: null, &quot;column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;is_custom&quot;: true}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;colnum&quot;: 1, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;kind&quot;: &quot;field&quot;, &quot;#extra#&quot;: null, &quot;link_column&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_category&quot;: false, &quot;is_multiple2&quot;: {}, &quot;#value#&quot;: &quot;AZW3, EPUB&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;rec_index&quot;: 22, &quot;display&quot;: {&quot;use_decorations&quot;: 0, &quot;composite_sort&quot;: &quot;text&quot;, &quot;make_category&quot;: false, &quot;description&quot;: &quot;&quot;, &quot;composite_template&quot;: &quot;{:'re(approximate_formats(), ',', ', ')'}&quot;, &quot;contains_html&quot;: false}, &quot;datatype&quot;: &quot;composite&quot;, &quot;name&quot;: &quot;Formats&quot;, &quot;is_multiple&quot;: null, &quot;column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;is_custom&quot;: true}"/>
     </metadata>
     <guide>
         <reference href="Qoheleth - Madison Scott-Clary.jpg" title="Cover" type="cover"/>
