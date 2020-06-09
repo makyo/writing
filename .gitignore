@@ -7,6 +7,8 @@ _site/*
 .DS_Store
 .~*
 *.sw[po]
+__pycache__
+*.py[oc]
 .bundle
 /public
 /resources
