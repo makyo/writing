@@ -23,7 +23,10 @@ def begin():
     includeheadfoot,
     twoside
 ]{geometry}
+\usepackage{fontspec}
+\setmainfont{Gentium Basic}
 \begin{document}
+\pagestyle{empty}
     '''.strip())
 
 def end():
