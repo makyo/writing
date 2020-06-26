@@ -1,0 +1,75 @@
+%\documentclass[11pt,draft]{memoir} % Draft mode
+\documentclass[11pt,onesided]{memoir}
+
+\def\watermarkloaded{0}
+
+\input{includes/variables}
+\input{includes/draft}
+\input{includes/frame}
+\input{includes/packages}
+\input{includes/pagelayout-digital}
+\input{includes/geometry-digital}
+\input{includes/toc}
+\input{includes/font}
+\input{includes/secdiv}
+\input{includes/title}
+\input{includes/hyphenation}
+
+\begin{document}
+\thispagestyle{empty}
+  \includepdf[offset=-3in 0]{cover/front.pdf}
+  \includepdf{cover/back.pdf}
+  \frontmatter
+
+  \input{includes/pretitle}
+
+  \pagestyle{plain}
+
+  \doublespacing
+
+  \maketitle
+  \thispagestyle{empty}
+
+  \newpage
+
+  \input{includes/copyright-digital}
+
+  \tableofcontents*
+  \newpage
+  \null
+  \cleardoublepage
+
+  \onehalfspacing
+
+  \input{content/preface}
+
+  \mainmatter
+
+  \pagestyle{ourbook}
+  \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+  \nouppercaseheads
+  \input{content/the-fool}
+  \cleartoverso
+  \input{content/disappearance}
+  \cleartoverso
+  \input{content/fisher}
+  \cleartoverso
+  \input{content/centerpiece}
+  \cleartoverso
+  \input{content/youre-gone}
+  \cleartoverso
+  \input{content/overclassification}
+  \cleartoverso
+  \input{content/acts-of-intent}
+  \cleartoverso
+  \input{content/every-angel-is-terrifying}
+  \cleartoverso
+  %\input{content/what-remains-of-yourself}
+  \input{content/what-defines-us}
+  \cleartoverso
+  \input{content/a-theory-of-attachment}
+
+  \backmatter
+  \input{content/afterword}
+
+\end{document}
