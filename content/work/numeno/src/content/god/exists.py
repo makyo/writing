@@ -89,12 +89,6 @@ def i_had_a_stance():
             perhaps(' '.join(sentiment[0:increasingly + 1]), 5 - increasingly, insecurity=0.5)
         for increasingly in range(0, len(sentiment))]
 
-def dril():
-    sentiment = 'i will face god and walk backwards into hell'.split()
-    lines = [
-            perhaps(' '.join(sentiment[0:increasingly + 1]), 9 - increasingly, insecurity=0.07)
-        for increasingly in range(0, len(sentiment))]
-
 def dril_anim():
     cells = [
         cell('IF THE ZOO BANS ME', sides=3, iter=20),
