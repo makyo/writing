@@ -89,18 +89,20 @@ def i_had_a_stance():
             perhaps(' '.join(sentiment[0:increasingly + 1]), 5 - increasingly, insecurity=0.5)
         for increasingly in range(0, len(sentiment))]
 
-def dril_anim():
+def exists():
     cells = [
-        cell('IF THE ZOO BANS ME', sides=3, iter=20),
-        cell('FOR HOLLERING AT THE ANIMALS', sides=3, iter=20, max=50, delay=20),
-        cell('I', sides=3, iter=10, delay=60),
-        cell('I WILL', sides=4, iter=10, delay=70),
-        cell('I WILL FACE', sides=4, iter=10, delay=80),
-        cell('I WILL FACE GOD', sides=5, iter=15, delay=90, jitter=0.03),
-        cell('AND WALK', sides=6, iter=10, delay=105, jitter=0.04),
-        cell('AND WALK BACKWARDS', sides=7, iter=15, delay=115, jitter=0.04),
-        cell('AND WALK BACKWARDS INTO', sides=8, iter=10, delay=130, jitter=0.05),
-        cell('AND WALK BACKWARDS INTO HELL', sides=9, iter=30, delay=140, jitter=0.05)]
+        # cell('IF THE ZOO BANS ME', sides=3, iter=20),
+        # cell('FOR HOLLERING AT THE ANIMALS', sides=3, iter=20, max=50, delay=20),
+        # cell('I', sides=3, iter=10, delay=60),
+        # cell('I WILL', sides=4, iter=10, delay=70),
+        # cell('I WILL FACE', sides=4, iter=10, delay=80),
+        # cell('I WILL FACE GOD', sides=5, iter=15, delay=90, jitter=0.03),
+        # cell('AND WALK', sides=6, iter=10, delay=105, jitter=0.04),
+        # cell('AND WALK BACKWARDS', sides=7, iter=15, delay=115, jitter=0.04),
+        # cell('AND WALK BACKWARDS INTO', sides=8, iter=10, delay=130, jitter=0.05),
+        # cell('AND WALK BACKWARDS INTO HELL', sides=9, iter=30, delay=140, jitter=0.05)]
+        cell('god is not a part of me', sides=7, iter=1, max=1),
+        cell('god is between me and my heart', sides=7, iter=1, max=1, jitter=0.01)]
     while True:
         res = False
         for c in cells:
