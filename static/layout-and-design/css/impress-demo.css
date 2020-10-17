@@ -147,7 +147,7 @@ table {
 .breathe {
     animation-duration: 2s;
     animation-name: breathe;
-    animation-iteration-count: 5;
+    animation-iteration-count: infinite;
     animation-direction: alternate;
 }
 @keyframes breathe {
