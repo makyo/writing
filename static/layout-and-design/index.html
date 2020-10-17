@@ -1,0 +1,423 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>Layout and Design: reducing barriers between story and reader</title>
+    
+    <meta name="description" content="A short, tool-agnostic presentation on book layout and design." />
+    <meta name="author" content="Madison Scott-Clary" />
+
+    <link href="//fonts.googleapis.com/css?family=Merriweather+Sans|Gentium+Book+Basic" rel="stylesheet" />
+
+    <!-- display fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@700&family=Luckiest+Guy&family=Orbitron&display=swap" rel="stylesheet">
+
+    <link href="css/impress-demo.css" rel="stylesheet" />
+    <link href="css/impress-common.css" rel="stylesheet" />
+    
+    <link rel="shortcut icon" href="favicon.png" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+</head>
+
+<body class="impress-not-supported">
+
+<div class="fallback-message">
+    <p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+    <p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+</div>
+
+<!--
+    
+    Now that's the core element used by impress.js.
+    
+    That's the wrapper for your presentation steps. In this element all the impress.js magic happens.
+    It doesn't have to be a `<div>`. Only `id` is important here as that's how the script find it.
+    
+    Often you don't need to use any attributes here, but for educational purposes I have used all of them below.
+
+    To change the duration of the transition between slides use `data-transition-duration="2000"` giving it
+    a number of ms. It defaults to 1000 (1s).
+    
+    When authoring impress.js presentations, you should target some screen size, which you can define here.
+    The default is 1024 x 768. You should write your CSS as if this is the screen size used for the
+    presentation. When you present your presentation on a screen (or browser window) of different size,
+    impress.js will automatically scale the presentation to fit the screen. The minimum and maximum limits
+    to this scaling can also be defined here.
+    
+    NOTE: I intend to change the defaults to target HD screens in 2021. So you may want to make a habit
+    of explicitly defining these attributes for now, to avoid any disruption when the defaults change.
+    
+    You can also control the perspective with `data-perspective="500"` giving it a number of pixels.
+    It defaults to 1000. You can set it to 0 if you don't want any 3D effects.
+    If you are willing to change this value make sure you understand how CSS perspective works:
+    https://developer.mozilla.org/en/CSS/perspective
+    
+    Plugins:
+    
+    We set the default time for autoplay plugin to 7 seconds. Autoplay will automatically advance
+    to next slide after a timeout expires.
+-->
+<div id="impress">
+
+    <div class="step" data-x="-2000" data-y="0" data-scale="3">
+        <h1>Layout and design</h1>
+        <h2>Reducing barriers between story and reader</h2>
+        <h3>Madison Scott-Clary</h3>
+    </div>
+    
+    <div class="step" data-x="2000">
+        <h1>Goals</h1>
+        <ul>
+            <li class="substep">Just some foundations</li>
+            <li class="substep">Tool-agnostic</li>
+            <li class="substep">Get you thinking</li>
+        </ul>
+        <div class="notes">
+            <ul>
+                <li>Just some foundations to get you going, give you the language</li>
+                <li>(step) Tool-agnostic, not going to teach you any specifics because boy howdy is that a lot</li>
+                <li>(step) Get you thinking about why this is important</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step" data-rel-x="1000">
+        <h1>Why?</h1>
+        <p class="substep">Reading is work</p>
+        <div class="notes">
+            <ul>
+                <li>Great that you wrote your story, nice that you seem to have an audience, now you need to help them get your story.</li>
+                <li>In most cases, you want your audience to get your story as easily as possible, that means reducing the barriers between them and the story.
+                <li>(step) Reading is work, in that it takes effort. The more effort the reading takes, the less attention the reader is paying to the story</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step">
+        <h1>For example...</h1>
+        <div class="notes">
+            <ul>
+                <li>For example, let's talk the oft-maligned widows and orphans</li>
+                <li>Widows are last lines of paragraphs at the top of the page, orphans are first lines of paragraphs alone at the bottom of a page</li>
+                <li>Good reason for this: when your eyes zoom to the top of the next page, it takes effort to hold current topic in mind. More so when you change pages</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step" data-rel-x="0" data-rel-z="-1000" data-rotate-x="-90">
+        <table>
+            <tr class="pages">
+                <td>
+                    <p class="widow">Rises, crescendos. Hearing and speaker damage equally likely if left unchecked.</p>
+                    <p class="orphan">The squeal of feedback in an audio system is an emergent behavior, and even those who have not heard it before know immediately that something is wrong as soon as the hum starts. That quiet hum in the background, building</p>
+                </td>
+                <td>
+                    <p class="widow"><span class="bad">exponentially.</span></p>
+                    <p>Similar, in an upside-down sort of way, to the echo that AwDae had caused making the table squeak beneath eir weight. Sound was picked up by the microphone, transmitted through the sound board, then out into the room. Amplified, though, through the speakers.</p>
+
+                    <p><span class="bad">If the microphone started to pick up</span></p>
+                </td>
+            </tr>
+            <tr class="page-break substep">
+                <td colspan="2">&mdash; page break &mdash;</td>
+            <tr class="pages substep">
+                <td>
+                    <p class="widow">sound from the speakers — and sound was sound, the mic cared not where it came from — that sound would loop through the board once more.</p>
+                    <p><em>etc</em></p>
+                    <p class="orphan">One could always just angle the speakers exclusively toward the audience,</p>
+                </td>
+                <td>
+                    <p class="widow"><span class="bad">rather than the stage.</span> Bodies were notoriously bad reflectors of sound. Part of what made the stage so acoustically dead, that.</p>
+                </td>
+            </tr>
+        </table>
+        <div class="notes">
+            <ul>
+                <li>This is an example of a bad widow and a bad orphan</li>
+                <li>The bad widow is a single word at the top of the second page, jarring for the next line</li>
+                <li>(step) The bad orphan is right before the page-break, leaving the reader in suspense as the rush to turn the page (step)</li>
+                <li>While not technically a widow/orphan, this is what I mean about page-breaks on phrases: <em>rather than the stage</em> is orphaned; would be worse in actual widow/orphan context.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step" data-rel-y="0" data-rotate-x="-90">
+        <table>
+            <tr class="pages">
+                <td>
+                    <p class="orphan">There were twenty boxes set on a table in front of the snakehead. Twenty receivers for twenty wireless mics. Twenty cables neatly velcroed together into a bundle, contracting from the receivers and arcing catenary toward the dull grey plug-box. They were reduced to a four-by-five grid, arching up above the snakehead before plunging into it, XLR</p>
+                </td>
+                <td>
+                    <p class="widow">heads buried in XLR nests.</p>
+                    <p>All of the boxes on the table were dull. Mute LEDs simple bumps on their surface. Dark. All but one: the first. The one with a piece of masking tape on its face, scrawled with a ‘1’. That box had a single red light on the front, indicating that it was powered on, and a single green light, indicating that the corresponding mic was transmitting.</p>
+                </td>
+            </tr>
+            <tr class="page-break substep">
+                <td colspan="2">&mdash; page break &mdash;</td>
+            <tr class="pages substep">
+                <td>
+                    <p>If it had been a wired mic, the search would have been over as soon as it began: the cable would’ve been plugged into the snakehead, and by following it until ey reached its end, there would be the mic.</p>
+                    <p>There would be the mic, and ey would</p>
+                </td>
+                <td>
+                    <p class="widow">still be stuck in a nightmare. No, in some parody of a nightmare. All dressed up for the high school pops festival and, here, see? The auditorium is completely empty.</p>
+                </td>
+            </tr>
+        </table>
+        <div class="notes">
+            <ul>
+                <li>Sometimes widows/orphans are unavoidable. The stars align and there's just no good way to fix it</li>
+                <li>Don't panic, but do try to minimize</li>
+                <li>Don't break on punctuation, the mind reads phrases and the widow/orphan will become its own sentence, effectively separating a subordinate clause.</li>
+                <li>The widow here may have been unavoidable but the reader flows smoothly over to it expecting the clause to complete</li>
+                <li>The orphan may have been unavoidable, but still takes up most of the line.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step" data-rotate-x="-90">
+        <table>
+            <tr class="pages">
+                <td>
+                    <p>Riddles. Triply weird.</p>
+                    <p>AwDae felt stupid. Insulted. Trapped for life and still solving riddles.</p>
+                    <p>Hopelessness dimmed eir vision.</p>
+                    <p>Ey shook eir head, ears laid flat.</p>
+                    <p>“At least it’s something.” Ey filled out the rest of the paragraph to prove a</p>
+                </td>
+                <td><p class="widow"><span class="bad">point.</span></p></td>
+            </tr>
+            <tr class="page-break substep">
+                <td colspan="2">&mdash; page break &mdash;</td>
+            <tr class="pages substep">
+                <td>&nbsp;</td>
+                <td>
+                    <h2>Chapter 3.8</h2>
+                    <p><em>etc.</em></p>
+                </td>
+            </tr>
+        </table>
+        <div class="notes">
+            <ul>
+                <li>(step) (step) No. Just...no.</li>
+                <li>Chapter and section breaks should be treated with care! Widows/orphans around section breaks are extra harsh, and breaking a section at a page break introduces challenges if you don't have a visible section divider.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step" data-rel-z="3000" data-rel-x="1000">
+        <h1>Maddy's #1 rule</h1>
+        <p>Give your text room to <span class="breathe">breathe</span>.</p>
+        <ul class="substep">
+            <li><strong>Margins</strong> &mdash; space around the block of text on the page</li>
+            <li><strong>Leading</strong> &mdash; space between lines of text</li>
+            <li><strong>Kerning</strong> &mdash; space between characters in a line</li>
+        </ul>
+        <div class="notes">
+            <ul>
+                <li>My rule: give text room to breathe</li>
+                <li>A bit of terminology as we go through the rest.</li>
+                <li><strong>Margins</strong> &mdash; space around the block of text on the page</li>
+                <li><strong>Leading</strong> &mdash; space between lines of text</li>
+                <li><strong>Kerning</strong> &mdash; space between characters in a line</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step" data-rel-z="0" data-rel-x="1000" data-rel-y="1000" data-rotate-z="90">
+        <h1>Margins</h1>
+        <ul>
+            <li class="substep">Space around the text</li>
+            <li class="substep">Controls where you hold the page</li>
+            <li class="substep">Top, bottom, outer: &ge;&frac12; inch</li>
+            <li class="substep">Top and bottom includes headers/footers</li>
+            <li class="substep">Inner: &ge;&frac34; inch (depending on page count)</li>
+        </ul>
+        <div class="notes">
+            <ul>
+                <li>(step) Space around text</li>
+                <li>(step) Controls where you hold the page</li>
+                <li>(step) Top/bottom/outer at least half inch</li>
+                <li>(step) Includes header/footer</li>
+                <li>(step) Inner at least 3/4 inch, depending on pages. There are calculators</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step" data-rel-z="-1000" data-rel-y="0" data-rel-x="0" data-rotate-z="90" data-rotate-y="-90">
+        <img src="mdwa-frames.png" />
+        <div class="notes">
+            <ul>
+                <li>Here you can see margins shown with frames</li>
+                <li>Top/bottom include text</li>
+                <li>Inner includes room for valley of binding</li>
+                <li>Outer gives enough room for a thumb</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step" data-rotate-z="90" data-rotate-y="-90">
+        <img src="qoheleth-frames.png" />
+        <div class="notes">
+            <ul>
+                <li>Longer book, slightly wider inner margins to accommodate thickness of binding</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step" data-rel-z="2000" data-rel-y="1000" data-rotate-z="90">
+        <h1>Leading</h1>
+        <ul>
+            <li class="substep">1.2&ndash;1.5</li>
+        </ul>
+        <div class="notes">
+            <ul>
+                <li>Leading is the space between lines.</li>
+                <li>Refers to practice of inserting thin shims of lead between lines of type to space them</li>
+                <li>(step) Anywhere from 1.2 to 1.5. I prefer wider because it makes for a brisker-feeling read, but industry standard is around 1.2</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step" data-rel-z="-1000" data-rel-y="0" data-rel-x="0" data-rotate-z="90" data-rotate-y="-90">
+        <table>
+            <tr class="pages">
+                <td>
+                    <h2>Leading: 1.2</h2>
+                </td>
+                <td style="line-height: 1.2">
+                    <p>There were twenty boxes set on a table in front of the snakehead. Twenty receivers for twenty wireless mics. Twenty cables neatly velcroed together into a bundle, contracting from the receivers and arcing catenary toward the dull grey plug-box. They were reduced to a four-by-five grid, arching up above the snakehead before plunging into it, XLR heads buried in XLR nests</p>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <div class="step" data-rotate-z="90" data-rotate-y="-90">
+        <table>
+            <tr class="pages">
+                <td>
+                    <h2>Leading: 1.5</h2>
+                </td>
+                <td>
+                    <p style="line-height: 1.5">There were twenty boxes set on a table in front of the snakehead. Twenty receivers for twenty wireless mics. Twenty cables neatly velcroed together into a bundle, contracting from the receivers and arcing catenary toward the dull grey plug-box. They were reduced to a four-by-five grid, arching up above the snakehead before plunging into it, XLR heads buried in XLR nests</p>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="step" data-rel-z="2000" data-rel-y="1000" data-rotate-z="90">
+        <h1>Kerning</h1>
+        <ul>
+            <li class="substep">Don't.</li>
+        </ul>
+        <div class="notes">
+            <ul>
+                <li>Kerning is the space between letters on the page</li>
+                <li>If you think you need to worry about it (step) don't. You don't. I promise. Modern fonts and layout programs will do a better job than you can hope to in 99.9% of cases</li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="step" data-rel-z="0" data-rotate-z="90">
+        <h1>Consider rhythm</h1>
+        <ul>
+            <li class="substep">Horizontal rhythm &mdash; How fast/steadily should one move through the book?</li>
+            <li class="substep">Vertical rhythm &mdash; how should the pages be laid out top to bottom?</li>
+        </ul>
+        <div class="notes">
+            <ul>
+                <li>think of it like a rhythm</li>
+                <li>(step) Your horizontal rhythm is how fast or steadily one should make their way through the book. Do you want a half-title page? Do you want chapter titles on their own pages? etc</li>
+                <li>(step) Your veritcal rhytjm is how the pages should be laid out top to bottom. How much space do you give your header? What's your leading? How much room do you give chapter titles</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step" data-rel-x="-1000" data-rotate-z="180">
+        <h1>Font choice</h1>
+        <div class="notes">
+            <ul>
+                <li>Speaking of, lets talk fonts.</li>
+                <li>Font-family/typeface is usually what we mean, but use 'font' for simplicity</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step" data-rel-y="0" data-rotate-z="180">
+        <h1>Body text</h1>
+        <ul>
+            <li class="substep">Always serif; serifs guide the eye</li>
+            <li class="substep">Not the place to get adventurous</li>
+            <li class="substep">Times New Roman, Garamond, Gentium</li>
+            <li class="substep">11pt is a good size most of the time.</li>
+        </ul>
+        <div class="notes">
+            <ul>
+                <li>Body text is what the reader spends most of their time reading</li>
+                <li>(step) Always a serif font face. Serifs guide the eye along text and aid in comprehension</li>
+                <li>(step) Not the place to get adventurous. Keep it simple and straight forward (reducing barriers, remember?)</li>
+                <li>(step) The usual suspects are Times New roman, Garamond, and Gentium (my favorite)</li>
+                <li>11pt is a good size for most trade paperbacks (5.5x8.5)</li>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="step" data-rotate-z="180">
+        <h1>Headers/footers</h1>
+        <ul>
+            <li class="substep">Can be the same as body, but possible to have some variation</li>
+            <li class="substep">Don't be distracting</li>
+        </ul>
+        <div class="notes">
+            <ul>
+                <li>Headers and footers - usually aligned outer - title on verso (left), author on recto (right)</li>
+                <li>Can be the same as body, but some variation is okay (e.g: a similar serif, or a sans typeface with similar weight)</li>
+                <li>Basically, just don't be distracting. Can use a border on the headers to box in the text and keep the reader in the zone</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step" data-rotate-z="180">
+        <h1>Titles</h1>
+        <ul>
+            <li class="substep">Book, part, or chapter</li>
+            <li class="substep">Now's your chance to be expressive</li>
+            <li class="substep">Fit your genre <ul>
+                    <li style="font-family: 'Orbitron', sans-serif">Sci-fi (Orbitron)</li>
+                    <li style="font-family: 'Luckiest Guy', sans-serif">Light-hearted (Luckiest Guy)</li>
+                    <li style="font-family: 'Inknut Antiqua', serif">Fantasy (Inknut Antiqua)</li>
+                    <li>Google Fonts (fonts.google.com) is your friend, but check licensing</li>
+            </ul></li>
+            <li class="substep">If you need to kern, this is when it'll happen</li>
+        </ul>
+        <div class="notes">
+            <ul>
+                <li>(step) Titles are those for the book as a whole (half-title page, title page), parts (if the book has them), and chapters.</li>
+                <li>(step) Now's your chance to be expressive.</li>
+                <li>(step) Fit your genre (examples) Google fonts is your friend</li>
+                <li>(step) If you need to worry about kerning, here is the most likely place</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="step" data-rel-y="-1000" data-rel-x="1000">
+        <h1>So...</h1>
+        <ul>
+            <li class="substep">Let your text breathe</li>
+            <li class="substep">It's all about reducing barriers</li>
+        </ul>
+    </div>
+
+    <div id="overview" class="step"  data-x="3000" data-y="3000" data-scale="8">
+        <h1>Thanks!</h1>
+        <p>Time for Q&amp;A</p>
+    </div>
+</div>
+
+<div id="impress-toolbar"></div>
+<script src="js/impress.js"></script>
+<script>impress().init();</script>
+</body>
+</html>
