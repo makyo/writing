@@ -127,6 +127,45 @@ In this, Ýng is a liar, but it is a kind lie, a lie of omission, for when Lyut 
 
 -----
 
+Lyut prays and works for the rest of the day, for today is the day that he makes incense for the town below.
+
+This week is the week of fasting and next week is the week of rejoicing, and so this week he must prepare for them three times the normal amount of incense, as this is the week they subsist on smoke until they cannot tell, Zita promises him, the white thread from the black after the sun sets and the cool night comes. This is the week they live on prayer and next is the week they live on celebration, when they bake small cakes in the heat of their fires, in the heat of their ovens, and five of which Zita will leave for him.
+
+Zita may or may not be her name, or perhaps only her title. He does not know, because beyond a few kind words, she will only pray with him and pick up the incense from the edge of the clearing before his cave and leave in its place the alms that the village provides, of flatbreads and berries, of the ingredients for the incense which they grow or perhaps purchase from other villages, who may purchase in turn from villages going south, going south and east.
+
+So today he retrieves his board once more from his cave and on it stacks all of the ingredients for the incense of the week of fasting that will feed the village and the two amphorae that will hold it. He sings wordless hymns to himself as he works with measured care cut the sweetgrass, to shave the calamus root, to count the cardamom pods. He sings to Ýng as he pounds and grinds batch after batch of incense until his hands are humming, until his pads are singing along with him.
+
+And then he takes his board back into the cave and returns with the stack of ingredients for the incense of the week of feasting, with the base notes of cassia and vanilla, the middle notes of ginger and turmuric, and the top note of star anise, the spices that season the cakes that they bake in celebration, and these he pounds with laughter and with tears, for with celebration comes mourning and with devotion comes the sudden feeling of loneliness brought on by laughing by oneself.
+
+It is evening and he can feel the sun's arrow striking horizontal by the time he finishes, and when he steps out of his cave, cradling his three amphorae to his chest, he can smell even above the incense Zita sitting at the entrance to the clearing. He walks carefully until he can hear her breathing and then sits cross-legged before her and sets the vases down between the them, and they pray together:
+
+<div class="verse">They who make the world,
+They who end it,
+They who bring the thunder,
+In Tsuari which fell,
+In Tsuari which rose from the ashes,
+We offer up the words of our forefathers,
+We offer up the smoke of our forefathers
+We offer up our hearts to you.
+In Ýng's name we pray,
+In Ýng's world we pray,
+In Ýng's own voice we pray,
+By the light of the sun we pray,
+By the heat of the fire we pray.
+</div>
+
+And on until the sun's arrow has wandered off course and into the night sky.
+
+This week, this week of fasting, Zita has not brought him alms. There are no soft leaves of flatbread or ingredients for incense, just as one year ago there were no leaves of bread, and one year before that, there were no leaves of bread.
+
+This week, Lyut does not smile kindly to Zita as she collects the amphorae and walks the path down the slope to the village, because the fasting of prayer is also a fasting from emotions and worldly attachments.
+
+And the next day, it is truly a fast, for there are no fish in his net, and if there are no fish in his net, he knows that he must not collect the fiddlehead ferns, and instead of savory broth, Lyut drinks only boiled water, hot and cleansed by fire, and he spends the rest of the day in meditation, and he goes to bed hungry.
+
+I watch as he sleeps, fitful, and leave for him two fish in his net for his unknowing devotion to me.
+
+-----
+
 It is the last night of the week of fasting and it is the thirtieth year that Lyut has served Ýng and myself that I have decided to change him and by changing him, change the world, for while I am the god of the water and the god of watching and the god of death, am I not also a trickster god?
 
 I am the trickster god who confounded Ýng in his creation of the smooth plains of the world by carving the land with my rivers. I am the trickster god who confounded the lord by setting the moon in the sky to tug at the waters of Their oceans in tides, even when the moon is not seen. I am the trickster god who brought death to Ýng's ever-living world.
@@ -431,12 +470,11 @@ Zita nods and moves to help Lyut gather his food before remembering that he can 
 
 After the food is put away, both fishers kneel together and begin to pray aloud to Ýng.
 
-'''
-They who make the world,
+<div class="verse">They who make the world,
 They who end it,
 They who bring the thunder,
 In Tsuari which fell...
-'''
+</div>
 
 I let them finish their prayer and bask in the jubilant way that Zita's voice rings out to her lord.
 

@@ -21,6 +21,10 @@ defaultContentLanguage = "en"
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2006"
 
+[markup.goldmark.renderer]
+  unsafe = true
+  xHTML = true
+
 [menu]
   [[menu.nav]]
     name = "Home"
