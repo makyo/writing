@@ -7,7 +7,7 @@ categories:
 - Esperanto
 ---
 
-<div class="verse">
+<pre class="verse">
 Disvolvu mian haŭton el mia karno
 Verŝu mian sangon el mi kiel vino
 Prenu mian vivon, tenu ĝin sub via lango:
@@ -17,4 +17,4 @@ Bruligu min, entombigu min poste
 Loku ŝtonon super kie mi kuŝas
 Lasu tempo manĝi vian memorojn pri mi
     Lasta peceto por gustumi
-</div>
+</pre>

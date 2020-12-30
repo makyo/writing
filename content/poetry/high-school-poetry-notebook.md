@@ -12,7 +12,7 @@ categories:
 
 ### Cleaning Woman
 
-<div class="verse">
+<pre class="verse">
 I'd clean for him
     I would
         but
@@ -29,7 +29,7 @@ But I cleaned for him
         my husband.
 And here I am
 and nothing's changed.
-</div>
+</pre>
 
 -----
 
@@ -37,7 +37,7 @@ and nothing's changed.
 
 > This was also labeled "free ponies :) :) :)" and I only vaguely remember why.
 
-<div class="verse">
+<pre class="verse">
 The eroticism of oranges
     How seductive,
 Freakshows pondering
@@ -50,13 +50,13 @@ The first in somnambulant arms
 
 Live as normal,
 Death by paper.
-</div>
+</pre>
 
 -----
 
 ### Ode to Turn Signals
 
-<div class="verse">
+<pre class="verse">
 A steady white lights
     Stops, none goes;
 Though on blinking happy off
@@ -69,13 +69,13 @@ And behind, those praising
 
 So up or to down leftright
 Click, push and becomes.
-</div>
+</pre>
 
 -----
 
 ### Syntax poem
 
-<div class="verse">
+<pre class="verse">
 Every time I fall,
 The ground tells me I'm in love.
 Be he the tamed?
@@ -93,13 +93,13 @@ And 'cause love is
     All low.
 And love is
     Places.
-</div>
+</pre>
 
 -----
 
 ### Dialog poem
 
-<div class="verse">
+<pre class="verse">
 I love this song.
     What are you saying?
     You hate it.
@@ -118,4 +118,4 @@ I suppose I don't listen to it much.
 That's why I like it.
     I suppose you don't listen to it much.
     That's why you hate it.
-</div>
+</pre>

@@ -9,7 +9,7 @@ tags:
 title: Fair and Square
 ---
 
-<div class="verse">
+<pre class="verse">
 I bought my name fair and square;
 Bespoke, built from whole cloth.
 I wrote it again and again,
@@ -35,4 +35,4 @@ Or the whisper of maple leaves
     Under hurrying paws
 Or the perfect overlap of new buds
     Already sticky with sap.
-</div>
+</pre>

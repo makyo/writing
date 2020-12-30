@@ -8,7 +8,7 @@ tags:
 - Mental health
 ---
 
-<div class="verse">
+<pre class="verse">
 Up cycle
 Down cycle
 Round and round
@@ -56,4 +56,4 @@ Wash cycle
 Up cycle
 Down cycle
 Round and round
-</div>
+</pre>

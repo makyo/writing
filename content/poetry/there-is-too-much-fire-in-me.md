@@ -8,7 +8,7 @@ tags:
 title: There is too much fire in me
 ---
 
-<div class="verse">
+<pre class="verse">
 There is too much fire in me
 to be described by the soldering iron's tip.
 
@@ -26,4 +26,4 @@ Particle would excite particle
     until I'm felt only as warmth on your face.
 
 But even that would not be enough.
-</div>
+</pre>

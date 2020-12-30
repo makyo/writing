@@ -10,7 +10,7 @@ categories:
 
 ### Calcination
 
-<div class="verse">
+<pre class="verse">
 They say the fire cleanses
     That it purifies.
 Then, cool fire, soft fire,
@@ -25,11 +25,11 @@ They say the fire cleanses
     That it purifies.
 Then, cool fire, soft fire,
     Sing me to sleep.
-</div>
+</pre>
 
 ### Dissolution
 
-<div class="verse">
+<pre class="verse">
 Sweet as honey, spiced with time,
     You were me, and I you.
 Aged to perfection, mellowed with the years,
@@ -44,11 +44,11 @@ Sweet as honey, spiced with time,
     You were me, and I you.
 Aged to perfection, mellowed with the years,
     You are at your finest.
-</div>
+</pre>
 
 ### Separation
 
-<div class="verse">
+<pre class="verse">
 With your sigil,
     I draw you from my heart.
 With your name,
@@ -63,11 +63,11 @@ With your sigil,
     I draw you from my heart.
 With your name,
     I commit you to dearest memory.
-</div>
+</pre>
 
 ### Conjugation
 
-<div class="verse">
+<pre class="verse">
 I dedicate my life
     To the memory of you:
 Long passed though you may be,
@@ -82,11 +82,11 @@ To the north, I wash with earth,
     That your den may blossom in spring.
 I dedicate my life
     To the memory of you.
-</div>
+</pre>
 
 ### Fermentation
 
-<div class="verse">
+<pre class="verse">
 Feed, dear fox eat,
     For the meal was prepared by you.
 I bless this meal
@@ -101,11 +101,11 @@ Feed, dear cat, eat,
     For the meal was prepared for you.
 I bless this meal
     That you be sustained by her work.
-</div>
+</pre>
 
 ### Distillation
 
-<div class="verse">
+<pre class="verse">
 “We are not so different, you and I,”
     Said the cat to the fox.
 “We come from the same essence,
@@ -120,11 +120,11 @@ But my time is passed and yours begun.
     Said the cat to the fox.
 “We come from the same essence,
     Two children of the same eternal mother.”
-</div>
+</pre>
 
 ### Coagulation
 
-<div class="verse">
+<pre class="verse">
 Step forth, Uncia, hale and whole,
     For you are truly born this day.
 Alopex has gone to sleep and rest,
@@ -139,11 +139,11 @@ Step forth, Uncia, hale whole,
     For you are truly born this day.
 Alopex has gone to sleep and rest,
     Dancing now only at need.
-</div>
+</pre>
 
 ### Anima mundi
 
-<div class="verse">
+<pre class="verse">
 Out of the flames, into the light,
     I rise, Makyo Uncia called Maddy.
 Makyo Alopex sleeps now,
@@ -158,4 +158,4 @@ Out of the flames, into the light,
     I rise, Makyo Uncia called Maddy.
 Makyo Alopex sleeps now,
     Not forever, but for now.
-</div>
+</pre>

@@ -6,7 +6,7 @@ type: post
 title: Heligoland
 ---
 
-<div class="verse">
+<pre class="verse">
 Too many wine-dark seas need daily traversal,
 And here the shipping forecast calls for rain.
 
@@ -22,6 +22,6 @@ is to tell you southwest gale 8 to storm 10.
 
 I can point at the moon, exhausted, bored, decaying,
 And hope you don't stare blankly at my finger.
-</div>
+</pre>
 
 *Thanks to P.R.*

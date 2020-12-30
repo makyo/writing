@@ -7,7 +7,7 @@ categories:
 - Esperanto
 ---
 
-<div class="verse">
+<pre class="verse">
 Inter ĝuo kaj timo
 Estas loko de tro da signifo.
 Apud kompreno, ekster saĝo,
@@ -17,4 +17,4 @@ Kaj ĝi tro granda estas.
 Nekomprenebla
 Nekontestebla,
 Senmova kaj ĉiam ŝanĝiĝema.
-</div>
+</pre>

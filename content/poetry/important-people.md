@@ -5,7 +5,7 @@ categories:
 - Poem
 ---
 
-<div class="verse">
+<pre class="verse">
 I see your past in cross-processed film,
 in blown-out colors and over-saturation.
 
@@ -32,11 +32,11 @@ in paperback covers reaching towards heaven, in trillions of words.
 
 I see your past with no me in it,
 and wonder if past-you dreamt of us.
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 Resuscitating ancient coins in class, we learned,
 takes a toothbrush and olive oil.
 Slow, steady strokes across, around...
@@ -46,11 +46,11 @@ But no one that day was nearly as blessed,
 seeing a coin shine through
 at the end, full relief brightly expressed,
 as I was to see you smile.
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 When you arrive,
 the whole world gets slow.
 Sluggish, amber-colored air
@@ -59,11 +59,11 @@ Everyone stops, marvels,
 turns eagerly toward you;
 and there are no complaints
 about warming our faces in the sun.
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 We fit together in the strangest ways
 and seem to seek new seams to savor.
 Such joins are hardly perfect,
@@ -72,11 +72,11 @@ unless it's reinforced over and over again.
 We seem to seek new seams to savor,
 and, weak though they are,
 revel in the imperfect unevenness of joining.
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 "Comrade" would I call you,
 and "brave," and "fierce" and "true".
 "Lovely" have I called you,
@@ -88,11 +88,11 @@ I know I cannot hope to offer
 much but word on cloying word,
 dull rhymes I strain to proffer:
 small flowers, small gifts, camaraderie.
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 Complementary, clashing anxieties.
 Dull clamor of intersecting feelings.
 Need, desire, craving, jealousy.
@@ -100,11 +100,11 @@ Worry, fear, care, prayerful fretting.
 Love, lust, friendship, a need to share.
 Emotions on emotions on emotions,
 and, often, comfortable silence.
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 I chose your name.
 To defend, it means. To help.
 I admit, having chosen it,
@@ -140,11 +140,11 @@ and I'll bless you and your new keeper.
 And I'll never stop loving you.
 And I'll never stop loving you.
 And I'll never stop loving you.
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 You, for whom a heart means all feeling &mdash;
 You, for whom yeah is an expletive &mdash;
 You, for whom even computers sing &mdash;
@@ -163,11 +163,11 @@ You, for whom I structure my year &mdash;
 You, for whom understanding of me seems always in grasp &mdash;
 You, for whom my struggles provide no obstacle &mdash;
 You and I, from whom us.
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 Tightly wound springs
 Of very carefully
 Not touching.
@@ -195,11 +195,11 @@ And further dreams?
 And now we're
 Awaiting weeks
 Of careful touches.
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 I could never tell you
 that you feel too much.
 That you feel too hard,
@@ -214,21 +214,21 @@ that I wish I could feel that way.
 All I can tell you
 is how beautiful you are
 when you feel love.
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 <em>Yit'gadal v'yit'kadash sh'mei raba</em>
 Would that I had the faith
 To pray daily.
 Eleven months to let you go,
 And an amen to end the sorrow.
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 When a light so far above me shines down,
 I lose my footing, stop, look around,
 and for once, see my way lit before me.
@@ -265,11 +265,11 @@ Through you,
 When a light so far above me shines down,
 and I fail to shine myself,
 I hope only to reflect what I can.
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 Every time I seek to change
 my life, myself, my love, my name,
 every time I try and broaden my range
@@ -287,11 +287,11 @@ reaffirms so many of my choices,
 and I set about with a will,
 ignoring querulous voices
 in favor of your calm laugh.
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 Between our houses,
 there is a simple fence -
 not a chasm, not a wall.
@@ -302,11 +302,11 @@ Something we can tend,
 something to feel good about,
 something between us
 other than nothing.
-</div>
+</pre>
 
 -----
 
-<div class="verse">
+<pre class="verse">
 I will swallow my love for you.
 I will swallow my love.
 I will swallow my love for you
@@ -316,4 +316,39 @@ Cherish the autolysis
 Of secret cells.
 I will swallow my love for you.
 I will swallow my love.
-</div>
+</pre>
+
+-----
+
+<pre class="verse">
+I live my life in eternal terror
+of the completeness of your own.
+I take up so little space
+and impinge upon it so gently,
+I only hope that there is space enough
+for a 'dear' here and a 'lovely' there.
+If beauty is at the edge of the terrifying,
+I live my life in eternal terror.
+</pre>
+
+-----
+
+<pre class="verse">
+Cover me, crush me, compress me.
+Squeeze me down until I fit in your pocket.
+Let me jangle among your keys,
+or slip between bills in your wallet.
+Forget me, let me fray, let me fall apart.
+And, some day, pull me free,
+dust me off, flatten me out,
+and tell me that you love me.
+</pre>
+
+-----
+
+<pre class="verse">
+Every day, I learn to say "I love you"
+in a whole new way.
+And every day, I fall short
+of being understood.
+</pre>

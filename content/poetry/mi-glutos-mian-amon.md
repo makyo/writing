@@ -7,7 +7,7 @@ categories:
 - Esperanto
 ---
 
-<div class="verse">
+<pre class="verse">
 Mi glutos mian amon por vi.
 Mi glutos mian amon.
 Mi glutos mian amon por vi
@@ -17,4 +17,4 @@ Kaj frandos la ekflamadon de magnezio,
 De sekretaj ĉeloj.
 Mi glutos mian amon por vi.
 Mi glutos mian amon.
-</div>
+</pre>

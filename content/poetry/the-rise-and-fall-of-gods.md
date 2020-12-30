@@ -12,7 +12,7 @@ tags:
 - Language
 ---
 
-<div class="verse">
+<pre class="verse">
 I.
 
 What hath man wrought!
@@ -122,7 +122,7 @@ While not true itself, it is truth lit:
     In the process? What would happen
     In a society misshapen
 If a wrathful god fell and no one cared a whit?
-</div>
+</pre>
 
 <!--
 Notes from the post following this one:

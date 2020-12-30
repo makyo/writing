@@ -8,11 +8,11 @@ tags:
 - Death
 ---
 
-<div class="verse">
+<pre class="verse">
 A flash of coppery sweetness,
 A clearing of the sinuses,
 A burst of unnamed colors,
 A rush of creativity, of wonder,
 Velvety softness, a low hum,
 And then the wave recedes.
-</div>
+</pre>

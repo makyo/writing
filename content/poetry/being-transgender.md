@@ -9,7 +9,7 @@ tags:
 - Transition
 ---
 
-<div class="verse">
+<pre class="verse">
 You get to explain gender to all of your friends &mdash;
     And all of your family &mdash;
     And maybe once more to be sure &mdash;
@@ -59,4 +59,4 @@ You will cry a lot &mdash;
     And talk softer;
 
 And your dogs will still love you.
-</div>
+</pre>

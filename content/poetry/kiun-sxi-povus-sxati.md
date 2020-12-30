@@ -7,7 +7,7 @@ categories:
 - Esperanto
 ---
 
-<div class="verse">
+<pre class="verse">
 Kiun ŝi povus ŝati?
 Kiun ŝi povus ami?
 Ŝi demandis al Ŝi mem:
@@ -31,4 +31,4 @@ Viajn belajn vortojn."
 Ŝi respondis larm'plene.
 "Finfine, mi neniam diras,
 Ke mi ploras por vi ankaŭ."
-</div>
+</pre>

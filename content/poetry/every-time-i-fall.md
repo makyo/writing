@@ -6,7 +6,7 @@ type: post
 title: Every time I fall
 ---
 
-<div class="verse">
+<pre class="verse">
 Every time I fall,
     The ground tells me I'm in love.
 "'Cause love is
@@ -39,4 +39,4 @@ And every time I fall,
     The ground tells me I'm in love.
 And every single time,
     I keep coming back.
-</div>
+</pre>

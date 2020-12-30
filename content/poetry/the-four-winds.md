@@ -9,7 +9,7 @@ tags:
 - Wind
 ---
 
-<div class="verse">
+<pre class="verse">
 I.
 Borne through air,
     Close my eyes.
@@ -116,4 +116,4 @@ Because of the
           Chill
 Wind blows on
           Past.
-</div>
+</pre>

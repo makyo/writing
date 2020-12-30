@@ -4,7 +4,7 @@ date: 2004-04-08
 type: post
 ---
 
-<div class="verse">
+<pre class="verse">
 The undersides
         off gray
     of clouds
@@ -31,4 +31,4 @@ Off
         creates
     word.
 It soothes.
-</div>
+</pre>
