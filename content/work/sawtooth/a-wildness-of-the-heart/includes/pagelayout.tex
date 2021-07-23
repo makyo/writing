@@ -40,3 +40,15 @@
 % Widows and orphans
 \widowpenalty=9000
 \clubpenalty=9000
+
+% Timestamps for You're Gone and other messages
+\newcommand\ygDay[1]{
+    \begin{center}
+        \noindent\rule[0.5ex]{0.5cm}{0.5pt}\hspace{0.5em}{\large \textbf{#1}}\hspace{0.5em}\rule[0.5ex]{0.5cm}{0.5pt}
+    \end{center}
+}
+\newcommand\ygTimestamp[1]{
+    \hspace{-5pt}\emph{\small{#1}}\nopagebreak
+
+    \vspace{-5pt}
+}
