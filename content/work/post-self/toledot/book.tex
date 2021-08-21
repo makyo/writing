@@ -1,0 +1,85 @@
+\documentclass[11pt]{memoir}
+
+\def\watermarkloaded{0}
+
+\input{includes/variables}
+\input{includes/draft}
+\input{includes/frame}
+\input{includes/packages}
+\input{includes/pagelayout}
+\input{includes/geometry}
+\input{includes/toc}
+\input{includes/font}
+\input{includes/title}
+\input{includes/secdiv}
+\input{includes/hyphenation}
+
+\begin{document}
+  \frontmatter
+
+  \thispagestyle{empty}
+  \null
+  \vfill
+  \begin{flushright}
+    \DisplayFont Toledot
+  \end{flushright}
+  \vfill
+  \cleardoublepage
+
+  \pagestyle{plain}
+
+  \doublespacing
+
+  \begin{flushright}
+    \null
+    \vfill
+    {\Huge\DisplayFont Toledot}
+
+    \vfill
+
+    {\Large\DisplayFont Madison Scott-Clary}
+  \end{flushright}
+  \thispagestyle{empty}
+
+  \newpage
+
+  \input{includes/copyright}
+
+  \tableofcontents*
+  \newpage
+  \null
+  \cleardoublepage
+
+  \onehalfspacing
+
+  % \input{content/preface}
+
+  \mainmatter
+
+  \pagestyle{ourbook}
+
+  \cleardoublepage
+  \null
+  \thispagestyle{empty}
+  \vfill
+  \begin{quote}
+    \small
+    \emph{Esau said, ``I am about to die; of what use is a birthright to me?'' \\
+    Jacob said, ``Swear to me first.'' \\
+    So he swore to him, and sold his birthright to Jacob.}
+
+    --- Genesis 25:32-33
+  \end{quote}
+  \vfill
+
+  \backmatter
+
+  %\part{Afterword}
+  \markboth{}{}
+
+  %\input{content/appendix}
+
+  %\cleartoverso
+  \input{content/afterword}
+
+\end{document}
