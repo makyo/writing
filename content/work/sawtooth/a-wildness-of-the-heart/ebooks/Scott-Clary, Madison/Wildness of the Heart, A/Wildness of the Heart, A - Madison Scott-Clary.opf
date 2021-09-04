@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bb2e72c5-d068-4b94-9389-07ada34a9175</dc:identifier>
+        <dc:title>A Wildness of the Heart</dc:title>
+        <dc:creator opf:file-as="Scott-Clary, Madison" opf:role="aut">Madison Scott-Clary</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Madison Scott-Clary&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-09-04T16:59:23.956700+00:00"/>
+        <meta name="calibre:title_sort" content="Wildness of the Heart, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Wildness of the Heart, A - Madison Scott-Clary.jpg"/>
+    </guide>
+</package>
