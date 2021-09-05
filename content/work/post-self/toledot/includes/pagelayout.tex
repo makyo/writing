@@ -7,10 +7,6 @@
 \fancypagestyle{ourbook}{
   % headers
   \fancyhf{}
-  \fancyhf[FRO,FLE]{\TitleFont{\thepage}}
-  % \fancyhf[FRE,FLO]{\emph{Patreon Supporter Edition}}
-  \fancyhf[HLE]{\TitleFont{\leftmark}}
-  \fancyhf[HRO]{\TitleFont{\AuthorFull}}
   \renewcommand{\headrulewidth}{0pt}
   \renewcommand{\printchaptername}{}
   \renewcommand{\chapternamenum}{}
@@ -20,7 +16,13 @@
   \renewcommand{\partnamefont}{\DisplayFont\huge}
   \renewcommand{\partnumfont}{\DisplayFont\huge}
   \renewcommand{\parttitlefont}{\DisplayFont\Huge}
+  \renewcommand{\chaptername}{}
+  \renewcommand{\thechapter}{}
   \setlength{\parskip}{0pt}
+  \fancyhf[FRO,FLE]{\TitleFont{\thepage}}
+  % \fancyhf[FRE,FLO]{\emph{Patreon Supporter Edition}}
+  \fancyhf[HLE]{\TitleFont{\nouppercase\leftmark}}
+  \fancyhf[HRO]{\TitleFont{\AuthorFull}}
 }
 
 % plain style with only page num
