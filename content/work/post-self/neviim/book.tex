@@ -1,0 +1,93 @@
+\documentclass[11pt]{memoir}
+
+\def\watermarkloaded{0}
+
+\input{includes/variables}
+\input{includes/draft}
+\input{includes/frame}
+\input{includes/packages}
+\input{includes/pagelayout}
+\input{includes/geometry}
+\input{includes/toc}
+\input{includes/font}
+\input{includes/title}
+\input{includes/secdiv}
+\input{includes/hyphenation}
+
+\begin{document}
+  \frontmatter
+
+  \thispagestyle{empty}
+  \null
+  \vfill
+  \begin{flushright}
+    \DisplayFont Nevi'im
+  \end{flushright}
+  \vfill
+  \cleardoublepage
+
+  \pagestyle{plain}
+
+  \doublespacing
+
+  \begin{flushright}
+    \null
+    \vfill
+    {\Huge\DisplayFont Nevi'im}
+
+    \vfill
+
+    {\Large\DisplayFont Madison Scott-Clary}
+  \end{flushright}
+  \thispagestyle{empty}
+
+  \newpage
+
+  \input{includes/copyright}
+
+  %\tableofcontents*
+  \newpage
+  \null
+  \cleardoublepage
+
+  %\onehalfspacing
+  %\doublespacing
+
+  % \input{content/preface}
+
+  \mainmatter
+
+  \pagestyle{ourbook}
+
+  \cleardoublepage
+  \null
+  \thispagestyle{empty}
+  \vfill
+  \begin{quote}
+    \small
+    \emph{If you race only with foot-runners and they exhaust you, how then can you compete with horses? If you are secure only in a tranquil land, how will you fare in the jungle of the Jordan?}
+
+    --- Jeremiah 12:5
+  \end{quote}
+  \vfill
+
+  \include{content/local/tycho/001}
+  \include{content/local/codrin/001}
+  \include{content/local/tycho/002}
+  \include{content/local/codrin/002}
+  \include{content/local/tycho/003}
+  \include{content/local/codrin/003}
+
+  \include{content/interlude/001}
+
+  \backmatter
+
+  %\part{Afterword}
+  \markboth{}{}
+
+  %\input{content/appendix}
+
+  %\cleartoverso
+  %\input{content/afterword}
+
+\end{document}
