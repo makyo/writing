@@ -51,5 +51,5 @@ reset: ## reset frame marking, draft watermark, and letter paper
 content: ## build the markdown content into LaTeX
 	@echo "Are you sure you want to do this now?"
 	@echo "Remove the 'false' below to procede"
-	#false
+	false
 	fish fromzk.fish

@@ -2,6 +2,10 @@
 \usepackage[pagestyles]{titlesec}
 \usepackage{fancyhdr}
 \setlength{\headheight}{15.2pt}
+\addtopsmarks{headings}{}{
+  \createmark{chapter}{left}{nonumber}{}{}
+}
+\pagestyle{headings} % activate changes
 
 % ourbook style with fancy headers and chapter headings
 \fancypagestyle{ourbook}{
