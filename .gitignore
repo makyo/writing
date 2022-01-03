@@ -12,3 +12,4 @@ __pycache__
 .bundle
 /public
 /resources
+.hugo_build.lock

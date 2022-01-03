@@ -17,7 +17,7 @@
             {{ .Title }}
           </a>
         </h2>
-        {{ .Description }}
+        {{ .Description | markdownify }}
         <div class="date" style="font-size: 75%">
           {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2006" }}
           <strong aria-hidden="true">Publish date: </strong>{{ .PublishDate.Format $dateFormat }}
