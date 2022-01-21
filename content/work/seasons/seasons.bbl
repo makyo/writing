@@ -19,6 +19,30 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
+    \entry{dwale_haiku}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=901253c8f946f0c0fd0bbb0bfd1c05c2}{%
+           family={Dwale},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{fullhash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{bibnamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{authorbibnamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{authornamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{authorfullhash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://twitter.com/ThornAppleCider/status/1009137826250625029}}
+      \field{note}{Accessed Feb 11, 2021}
+      \field{title}{\emph{untitled haiku}}
+      \field{year}{2018}
+    \endentry
     \entry{leaves}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=901253c8f946f0c0fd0bbb0bfd1c05c2}{%
@@ -34,6 +58,7 @@
       \strng{authorbibnamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
       \strng{authornamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
       \strng{authorfullhash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \field{extraname}{2}
       \field{sortinit}{D}
       \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
       \field{extradatescope}{labelyear}
@@ -42,66 +67,6 @@
       \field{labeltitlesource}{title}
       \field{title}{Face Down in the Leaves}
       \field{year}{2019}
-    \endentry
-    \entry{graves_poems}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6007b93051740bea79d19dabcfc03c4f}{%
-           family={Graves},
-           familyi={G\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Cassell \& Company Ltd}%
-      }
-      \strng{namehash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{fullhash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{bibnamehash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{authorbibnamehash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{authornamehash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{authorfullhash}{6007b93051740bea79d19dabcfc03c4f}
-      \field{sortinit}{G}
-      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Collected poems, 1965}
-      \field{year}{1965}
-    \endentry
-    \entry{issa}{book}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=5d1624e578c8391e128729b6a52b56dc}{%
-           family={Issa},
-           familyi={I\bibinitperiod},
-           given={Kobayashi},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b82ce438af10c66cd77def0884cf2869}{%
-           family={Mackenzie},
-           familyi={M\bibinitperiod},
-           given={Lewis\bibnamedelima (Trans.)},
-           giveni={L\bibinitperiod\bibinitdelim (\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {John Murray (Publishers) Ltd}%
-      }
-      \strng{namehash}{e8974dfcb111d97890d7354e68e5fffc}
-      \strng{fullhash}{e8974dfcb111d97890d7354e68e5fffc}
-      \strng{bibnamehash}{e8974dfcb111d97890d7354e68e5fffc}
-      \strng{authorbibnamehash}{e8974dfcb111d97890d7354e68e5fffc}
-      \strng{authornamehash}{e8974dfcb111d97890d7354e68e5fffc}
-      \strng{authorfullhash}{e8974dfcb111d97890d7354e68e5fffc}
-      \field{sortinit}{I}
-      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Autumn Wind: a selection of poems by Issa}
-      \field{year}{1957}
     \endentry
     \entry{dwale}{misc}{}
       \name{author}{1}{}{%
