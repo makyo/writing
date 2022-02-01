@@ -68,87 +68,32 @@
       \field{title}{Face Down in the Leaves}
       \field{year}{2019}
     \endentry
-    \entry{esch}{misc}{}
+    \entry{emerson}{book}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=cef2cfef5c5bd9cddeb9e162cd2a91ea}{%
-           family={Esch},
+        {{un=0,uniquepart=base,hash=45c10b4d5678c81f72e29ae37704998c}{%
+           family={Emerson},
            familyi={E\bibinitperiod},
-           given={Edward},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{cef2cfef5c5bd9cddeb9e162cd2a91ea}
-      \strng{fullhash}{cef2cfef5c5bd9cddeb9e162cd2a91ea}
-      \strng{bibnamehash}{cef2cfef5c5bd9cddeb9e162cd2a91ea}
-      \strng{authorbibnamehash}{cef2cfef5c5bd9cddeb9e162cd2a91ea}
-      \strng{authornamehash}{cef2cfef5c5bd9cddeb9e162cd2a91ea}
-      \strng{authorfullhash}{cef2cfef5c5bd9cddeb9e162cd2a91ea}
-      \field{sortinit}{E}
-      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
-      \field{labeldatesource}{nodate}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://ericwhitacre.com/music-catalog/winter}}
-      \field{note}{Accessed Jan 10, 2022}
-      \field{title}{Winter}
-    \endentry
-    \entry{graves_intercession}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6007b93051740bea79d19dabcfc03c4f}{%
-           family={Graves},
-           familyi={G\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{fullhash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{bibnamehash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{authorbibnamehash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{authornamehash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{authorfullhash}{6007b93051740bea79d19dabcfc03c4f}
-      \field{extraname}{1}
-      \field{sortinit}{G}
-      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Poetry}
-      \field{number}{1}
-      \field{title}{Intercession in Late October}
-      \field{volume}{71}
-      \field{year}{1947}
-      \field{pages}{23}
-      \range{pages}{1}
-    \endentry
-    \entry{graves_poems}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6007b93051740bea79d19dabcfc03c4f}{%
-           family={Graves},
-           familyi={G\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod},
+           given={Ralph\bibnamedelima Waldo},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {Cassell \& Company Ltd}%
+        {Henry Altemus Company}%
       }
-      \strng{namehash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{fullhash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{bibnamehash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{authorbibnamehash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{authornamehash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{authorfullhash}{6007b93051740bea79d19dabcfc03c4f}
-      \field{extraname}{2}
-      \field{sortinit}{G}
-      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \strng{namehash}{45c10b4d5678c81f72e29ae37704998c}
+      \strng{fullhash}{45c10b4d5678c81f72e29ae37704998c}
+      \strng{bibnamehash}{45c10b4d5678c81f72e29ae37704998c}
+      \strng{authorbibnamehash}{45c10b4d5678c81f72e29ae37704998c}
+      \strng{authornamehash}{45c10b4d5678c81f72e29ae37704998c}
+      \strng{authorfullhash}{45c10b4d5678c81f72e29ae37704998c}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Collected poems, 1965}
-      \field{year}{1965}
+      \field{title}{Essays: Second Series}
+      \field{year}{1890}
     \endentry
     \entry{issa}{book}{}
       \name{author}{2}{}{%
@@ -239,39 +184,6 @@
       \field{note}{Accessed Jan 9, 2022}
       \field{title}{Thirteen Ways of Looking at a Blackbird}
       \field{year}{1917}
-    \endentry
-    \entry{weinberger_paz_2016}{book}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=01780f39b37039e442b35fa2b0a61280}{%
-           family={Weinberger},
-           familyi={W\bibinitperiod},
-           given={Eliot},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3dde37a7ca57fbadf1f1b352355d8948}{%
-           family={Paz},
-           familyi={P\bibinitperiod},
-           given={Octavio},
-           giveni={O\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {New Directions Paperbook}%
-      }
-      \strng{namehash}{8c5e821d8de66d24dc41cf61b46663c2}
-      \strng{fullhash}{8c5e821d8de66d24dc41cf61b46663c2}
-      \strng{bibnamehash}{8c5e821d8de66d24dc41cf61b46663c2}
-      \strng{authorbibnamehash}{8c5e821d8de66d24dc41cf61b46663c2}
-      \strng{authornamehash}{8c5e821d8de66d24dc41cf61b46663c2}
-      \strng{authorfullhash}{8c5e821d8de66d24dc41cf61b46663c2}
-      \field{sortinit}{W}
-      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Nineteen ways of looking at Wang Wei: (with more ways)}
-      \field{year}{2016}
     \endentry
     \entry{dwale}{misc}{}
       \name{author}{1}{}{%
