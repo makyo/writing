@@ -2355,6 +2355,9 @@
     <bcf:citekey order="7">issa</bcf:citekey>
     <bcf:citekey order="8">emerson</bcf:citekey>
     <bcf:citekey order="9">leaves</bcf:citekey>
+    <bcf:citekey order="10">issa</bcf:citekey>
+    <bcf:citekey order="11">issa</bcf:citekey>
+    <bcf:citekey order="12">blackbird</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
