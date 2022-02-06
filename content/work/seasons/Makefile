@@ -9,3 +9,7 @@ full:
 	xelatex seasons.tex
 	xelatex seasons.tex
 
+.PHONY: web
+web:
+	pandoc --citeproc --bibliography seasons.bib --wrap none seasons.tex -o seasons.md
+
