@@ -38,7 +38,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://twitter.com/ThornAppleCider/status/1009137826250625029}}
+      \field{howpublished}{\url{https://makyo.io/dwale-haiku}}
       \field{note}{Accessed Jan 10, 2022}
       \field{title}{\emph{untitled haiku}}
       \field{year}{2018}
@@ -130,6 +130,33 @@
       \field{labeltitlesource}{title}
       \field{title}{The Autumn Wind: a selection of poems by Issa}
       \field{year}{1957}
+    \endentry
+    \entry{keats}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e9aae39e414de10405835be2d87188c3}{%
+           family={Keats},
+           familyi={K\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Modern Library}%
+      }
+      \strng{namehash}{e9aae39e414de10405835be2d87188c3}
+      \strng{fullhash}{e9aae39e414de10405835be2d87188c3}
+      \strng{bibnamehash}{e9aae39e414de10405835be2d87188c3}
+      \strng{authorbibnamehash}{e9aae39e414de10405835be2d87188c3}
+      \strng{authornamehash}{e9aae39e414de10405835be2d87188c3}
+      \strng{authorfullhash}{e9aae39e414de10405835be2d87188c3}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Complete Poems and Selected Letters of John Keats}
+      \field{year}{1820}
     \endentry
     \entry{memorial}{misc}{}
       \true{moreauthor}
