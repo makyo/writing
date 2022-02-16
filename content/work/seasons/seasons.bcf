@@ -2358,9 +2358,16 @@
     <bcf:citekey order="10">issa</bcf:citekey>
     <bcf:citekey order="11">issa</bcf:citekey>
     <bcf:citekey order="12">blackbird</bcf:citekey>
-    <bcf:citekey order="13">keats</bcf:citekey>
-    <bcf:citekey order="14">blackbird</bcf:citekey>
-    <bcf:citekey order="15">leaves</bcf:citekey>
+    <bcf:citekey order="13">plu</bcf:citekey>
+    <bcf:citekey order="14">keats</bcf:citekey>
+    <bcf:citekey order="15">blackbird</bcf:citekey>
+    <bcf:citekey order="16">leaves</bcf:citekey>
+    <bcf:citekey order="17">grief1</bcf:citekey>
+    <bcf:citekey order="18">grief2</bcf:citekey>
+    <bcf:citekey order="19">graves_intercession</bcf:citekey>
+    <bcf:citekey order="20">issa</bcf:citekey>
+    <bcf:citekey order="21">issa</bcf:citekey>
+    <bcf:citekey order="22">purcell</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
