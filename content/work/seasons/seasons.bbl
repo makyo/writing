@@ -77,6 +77,34 @@
       \field{title}{Twitter thread on Americans grieving}
       \field{year}{2022}
     \endentry
+    \entry{carroll}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=158abe6a41d884d94cb4683cee47d48b}{%
+           family={Carroll},
+           familyi={C\bibinitperiod},
+           given={Lewis},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Project Gutenberg}%
+      }
+      \strng{namehash}{158abe6a41d884d94cb4683cee47d48b}
+      \strng{fullhash}{158abe6a41d884d94cb4683cee47d48b}
+      \strng{bibnamehash}{158abe6a41d884d94cb4683cee47d48b}
+      \strng{authorbibnamehash}{158abe6a41d884d94cb4683cee47d48b}
+      \strng{authornamehash}{158abe6a41d884d94cb4683cee47d48b}
+      \strng{authorfullhash}{158abe6a41d884d94cb4683cee47d48b}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.gutenberg.org/files/12/12-h/12-h.htm}}
+      \field{title}{Through the Looking Glass and What Alice Found There}
+      \field{year}{1871}
+    \endentry
     \entry{dwale_haiku}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=901253c8f946f0c0fd0bbb0bfd1c05c2}{%
@@ -153,6 +181,30 @@
       \field{title}{Essays: Second Series}
       \field{year}{1890}
     \endentry
+    \entry{esch}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cef2cfef5c5bd9cddeb9e162cd2a91ea}{%
+           family={Esch},
+           familyi={E\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cef2cfef5c5bd9cddeb9e162cd2a91ea}
+      \strng{fullhash}{cef2cfef5c5bd9cddeb9e162cd2a91ea}
+      \strng{bibnamehash}{cef2cfef5c5bd9cddeb9e162cd2a91ea}
+      \strng{authorbibnamehash}{cef2cfef5c5bd9cddeb9e162cd2a91ea}
+      \strng{authornamehash}{cef2cfef5c5bd9cddeb9e162cd2a91ea}
+      \strng{authorfullhash}{cef2cfef5c5bd9cddeb9e162cd2a91ea}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://ericwhitacre.com/music-catalog/winter}}
+      \field{note}{Accessed Jan 10, 2022}
+      \field{title}{Winter}
+    \endentry
     \entry{graves_intercession}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6007b93051740bea79d19dabcfc03c4f}{%
@@ -168,6 +220,7 @@
       \strng{authorbibnamehash}{6007b93051740bea79d19dabcfc03c4f}
       \strng{authornamehash}{6007b93051740bea79d19dabcfc03c4f}
       \strng{authorfullhash}{6007b93051740bea79d19dabcfc03c4f}
+      \field{extraname}{1}
       \field{sortinit}{G}
       \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
       \field{extradatescope}{labelyear}
@@ -181,6 +234,34 @@
       \field{year}{1947}
       \field{pages}{23}
       \range{pages}{1}
+    \endentry
+    \entry{graves_poems}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6007b93051740bea79d19dabcfc03c4f}{%
+           family={Graves},
+           familyi={G\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cassell \& Company Ltd}%
+      }
+      \strng{namehash}{6007b93051740bea79d19dabcfc03c4f}
+      \strng{fullhash}{6007b93051740bea79d19dabcfc03c4f}
+      \strng{bibnamehash}{6007b93051740bea79d19dabcfc03c4f}
+      \strng{authorbibnamehash}{6007b93051740bea79d19dabcfc03c4f}
+      \strng{authornamehash}{6007b93051740bea79d19dabcfc03c4f}
+      \strng{authorfullhash}{6007b93051740bea79d19dabcfc03c4f}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Collected poems, 1965}
+      \field{year}{1965}
     \endentry
     \entry{issa}{book}{}
       \name{author}{2}{}{%
@@ -348,6 +429,39 @@
       \field{note}{Accessed Jan 9, 2022}
       \field{title}{Thirteen Ways of Looking at a Blackbird}
       \field{year}{1917}
+    \endentry
+    \entry{weinberger_paz_2016}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=01780f39b37039e442b35fa2b0a61280}{%
+           family={Weinberger},
+           familyi={W\bibinitperiod},
+           given={Eliot},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3dde37a7ca57fbadf1f1b352355d8948}{%
+           family={Paz},
+           familyi={P\bibinitperiod},
+           given={Octavio},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {New Directions Paperbook}%
+      }
+      \strng{namehash}{8c5e821d8de66d24dc41cf61b46663c2}
+      \strng{fullhash}{8c5e821d8de66d24dc41cf61b46663c2}
+      \strng{bibnamehash}{8c5e821d8de66d24dc41cf61b46663c2}
+      \strng{authorbibnamehash}{8c5e821d8de66d24dc41cf61b46663c2}
+      \strng{authornamehash}{8c5e821d8de66d24dc41cf61b46663c2}
+      \strng{authorfullhash}{8c5e821d8de66d24dc41cf61b46663c2}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nineteen ways of looking at Wang Wei: (with more ways)}
+      \field{year}{2016}
     \endentry
     \entry{dwale}{misc}{}
       \name{author}{1}{}{%
