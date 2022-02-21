@@ -105,7 +105,7 @@
       \field{title}{Through the Looking Glass and What Alice Found There}
       \field{year}{1871}
     \endentry
-    \entry{dwale_haiku}{misc}{}
+    \entry{behesht}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=901253c8f946f0c0fd0bbb0bfd1c05c2}{%
            family={Dwale},
@@ -120,6 +120,32 @@
       \field{extraname}{1}
       \field{sortinit}{D}
       \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.sofurry.com/view/1317403}}
+      \field{note}{Accessed Feb 20, 2022}
+      \field{title}{Behesht}
+      \field{year}{2018}
+    \endentry
+    \entry{dwale_haiku}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=901253c8f946f0c0fd0bbb0bfd1c05c2}{%
+           family={Dwale},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{fullhash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{bibnamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{authorbibnamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{authornamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{authorfullhash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -144,7 +170,7 @@
       \strng{authorbibnamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
       \strng{authornamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
       \strng{authorfullhash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{D}
       \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
       \field{extradatescope}{labelyear}
@@ -348,8 +374,36 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{http://opera.stanford.edu/Purcell/FairyQueen/libretto.html}}
+      \field{note}{Accessed Feb 13, 2022}
       \field{title}{The Fairy Queen}
       \field{year}{1692}
+    \endentry
+    \entry{arkie}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
+           family={Scott-Clary},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
+      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://makyo.ink/haiku/}}
+      \field{note}{Accessed Feb 20, 2022}
+      \field{title}{Arctic fox's den}
+      \field{year}{2016}
     \endentry
     \entry{memorial}{misc}{}
       \true{moreauthor}
@@ -394,6 +448,7 @@
       \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
+      \field{extraname}{2}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{extradatescope}{labelyear}
@@ -401,6 +456,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://makyo.ink/please-look-up/}}
+      \field{note}{Accessted Feb 13, 2022}
       \field{title}{Please look Up}
       \field{year}{2021}
     \endentry
@@ -430,7 +486,7 @@
       \field{title}{Thirteen Ways of Looking at a Blackbird}
       \field{year}{1917}
     \endentry
-    \entry{weinberger_paz_2016}{book}{}
+    \entry{wangwei}{book}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=01780f39b37039e442b35fa2b0a61280}{%
            family={Weinberger},
