@@ -1,15 +1,15 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'seasons.blg'
-[51] biber:340> INFO - === Sun Feb 20, 2022, 20:01:24
-[60] Biber.pm:415> INFO - Reading 'seasons.bcf'
-[107] Biber.pm:952> INFO - Found 19 citekeys in bib section 0
-[115] Biber.pm:4340> INFO - Processing section 0
-[122] Biber.pm:4531> INFO - Looking for bibtex format file 'seasons.bib' for section 0
-[123] bibtex.pm:1689> INFO - LaTeX decoding ...
-[136] bibtex.pm:1494> INFO - Found BibTeX data source 'seasons.bib'
-[217] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[217] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[217] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[217] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
-[227] bbl.pm:654> INFO - Writing 'seasons.bbl' with encoding 'UTF-8'
-[232] bbl.pm:757> INFO - Output to seasons.bbl
+[59] biber:340> INFO - === Mon Feb 21, 2022, 14:04:12
+[70] Biber.pm:415> INFO - Reading 'seasons.bcf'
+[125] Biber.pm:952> INFO - Found 19 citekeys in bib section 0
+[136] Biber.pm:4340> INFO - Processing section 0
+[144] Biber.pm:4531> INFO - Looking for bibtex format file 'seasons.bib' for section 0
+[145] bibtex.pm:1689> INFO - LaTeX decoding ...
+[161] bibtex.pm:1494> INFO - Found BibTeX data source 'seasons.bib'
+[256] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[256] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[256] Biber.pm:4168> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[256] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[268] bbl.pm:654> INFO - Writing 'seasons.bbl' with encoding 'UTF-8'
+[275] bbl.pm:757> INFO - Output to seasons.bbl
