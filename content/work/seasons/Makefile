@@ -11,5 +11,4 @@ full:
 
 .PHONY: web
 web:
-	pandoc --citeproc --bibliography seasons.bib --wrap none seasons.tex -o seasons.md
-
+	pandoc --citeproc --bibliography seasons.bib --wrap none -t markdown-citations seasons.tex 
