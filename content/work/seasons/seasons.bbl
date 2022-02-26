@@ -99,7 +99,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://leonardbernstein.com/works/view/48/symphony-no-3-kaddish}}
-      \field{note}{Accessed, Feb 24, 2022}
+      \field{note}{Accessed Feb 24, 2022}
       \field{title}{Symphony No. 3 --- ``Kaddish''}
       \field{year}{1977}
     \endentry
@@ -455,6 +455,60 @@
       \field{title}{Arctic fox's den}
       \field{year}{2016}
     \endentry
+    \entry{rush}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
+           family={Scott-Clary},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
+      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://makyo.ink/rush}}
+      \field{note}{Accessed Feb 26, 2022}
+      \field{title}{Rush}
+      \field{year}{2019}
+    \endentry
+    \entry{pale_she}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
+           family={Scott-Clary},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
+      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
+      \field{extraname}{3}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://writing.drab-makyo.com/poetry/pale-she/}}
+      \field{note}{Accessed Jan 10, 2022}
+      \field{title}{Pale She}
+      \field{year}{2020}
+    \endentry
     \entry{memorial}{misc}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -498,7 +552,7 @@
       \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{2}
+      \field{extraname}{4}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{extradatescope}{labelyear}
@@ -525,9 +579,10 @@
       \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{3}
+      \field{extraname}{5}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -535,6 +590,35 @@
       \field{howpublished}{\url{https://makyo.ink/penguins/}}
       \field{note}{Accessed Feb 24, 2022}
       \field{title}{Penguins}
+      \field{year}{2022}
+    \endentry
+    \entry{toledot}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
+           family={Scott-Clary},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {self published}%
+      }
+      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
+      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
+      \field{extraname}{6}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Toledot}
       \field{year}{2022}
     \endentry
     \entry{blackbird}{misc}{}
