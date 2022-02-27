@@ -455,7 +455,7 @@
       \field{title}{Arctic fox's den}
       \field{year}{2016}
     \endentry
-    \entry{rush}{misc}{}
+    \entry{uvaip}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
            family={Scott-Clary},
@@ -471,6 +471,33 @@
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
       \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://writing.drab-makyo.com/poetry/important-people/}}
+      \field{note}{Accessed Feb 26, 2022}
+      \field{title}{Unimportant Verse About Important People}
+      \field{year}{2017}
+    \endentry
+    \entry{rush}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
+           family={Scott-Clary},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
+      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
+      \field{extraname}{3}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{extradatescope}{labelyear}
@@ -497,7 +524,7 @@
       \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{extradatescope}{labelyear}
@@ -552,7 +579,7 @@
       \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{extradatescope}{labelyear}
@@ -579,7 +606,7 @@
       \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{extradate}{1}
@@ -610,7 +637,7 @@
       \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{S}
       \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
       \field{extradate}{2}
