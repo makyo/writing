@@ -20,10 +20,12 @@ fate: engage-draft
 .PHONY: plain
 plain: ## full document of the book with no proofing marks
 	xelatex book.tex
+	fd -I 'aux' content/ -x rm \{\} \;
 
 .PHONY: toc
 toc: plain ## full book with ToC re-rendering in case of page changes
 	xelatex book.tex
+	fd -I 'aux' content/ -x rm \{\} \;
 
 .PHONY: ebook
 ebook: ## render ePub file from LaTeX
