@@ -1,0 +1,110 @@
+\documentclass[11pt]{memoir}
+
+\def\watermarkloaded{0}
+
+\input{includes/variables}
+\input{includes/draft}
+\input{includes/frame}
+\input{includes/packages}
+\input{includes/pagelayout}
+\input{includes/geometry}
+\input{includes/toc}
+\input{includes/font}
+\input{includes/title}
+\input{includes/secdiv}
+\input{includes/hyphenation}
+
+\begin{document}
+  \frontmatter
+
+  \thispagestyle{empty}
+  \null
+  \vfill
+  \begin{flushright}
+    \DisplayFont Mitzvot
+    
+    \vspace{1ex}
+
+    {\footnotesize and Selected Letters}
+  \end{flushright}
+  \vfill
+  \cleardoublepage
+
+  \pagestyle{plain}
+
+  \doublespacing
+
+  \begin{flushright}
+    \null
+    \vfill
+    {\Huge\DisplayFont Mitzvot}
+
+    \vspace{1ex}
+
+    {\Large\DisplayFont and Selected Letters}
+
+    {\DisplayFont Post-Self book IV}
+
+    \vfill
+
+    {\Large\DisplayFont Madison Scott-Clary}
+  \end{flushright}
+  \thispagestyle{empty}
+
+  \newpage
+
+  \input{includes/copyright}
+
+  \tableofcontents*
+  \newpage
+  \null
+  \cleardoublepage
+
+  %\onehalfspacing
+  %\doublespacing
+
+  % \input{content/preface}
+
+  \mainmatter
+
+  \pagestyle{ourbook}
+
+  \cleardoublepage
+  \null
+  \thispagestyle{empty}
+  \vfill
+  \begin{quote}
+    \small
+    \emph{When you make a vow to your God {\HebFont יהוה}\,, do not put off fulfilling it, for your God {\HebFont יהוה} will require it of you, and you will have incurred guilt; whereas you incur no guilt if you refrain from vowing. You must fulfill what has crossed your lips and perform what you have voluntarily vowed to your God {\HebFont יהוה}\,, having made the promise with your own mouth.}
+
+    --- Deuteronomy 23:22--24
+  \end{quote}
+  \vfill
+
+  \part*{Mitzvot}
+  \addcontentsline{toc}{part}{Mitzvot}
+
+  \input{content/001}
+
+  \chapter*{Snippets}
+  \input{content/0x1}
+  \input{content/0x2}
+
+  \part*{Selected Letters}
+  \addcontentsline{toc}{part}{Selected Letters}
+
+  \chapter*{Exocortex\#99732a6 \\ Selected correspondences of the Bălan clade \\ systime 222-232}
+
+  \input{content/letters/sorina/001}
+
+  \backmatter
+
+  %\part{Afterword}
+  \markboth{}{}
+
+  %\input{content/appendix}
+
+  %\cleartoverso
+  \input{content/afterword}
+
+\end{document}
