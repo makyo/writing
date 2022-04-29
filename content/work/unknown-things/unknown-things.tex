@@ -1,0 +1,52 @@
+\documentclass[12pt,oneside]{memoir}
+
+\usepackage{fontspec}
+\setmainfont{Gentium Book Basic}
+%\setmainfont{Coelacanth}
+\setmonofont{Ubuntu Mono}
+%\newfontfamily\IPAfont{Liberation Serif}
+\newfontfamily\IPAfont{Coelacanth}
+\newfontfamily\Warnfont{Noto Serif CJK JP}
+\newcommand\Warn{\Warnfont ⚠\normalfont}
+
+\frenchspacing
+
+\usepackage{multicol}
+
+\usepackage[backend=biber,style=authoryear-ibid]{biblatex}
+\bibliography{unknown-things}
+
+\usepackage[hidelinks]{hyperref}
+
+\usepackage[letterpaper]{geometry}
+%\usepackage[
+%  paperwidth=5.5in,
+%  paperheight=8.5in,
+%  layoutwidth=5.5in,
+%  layoutheight=8.5in,
+%  vmargin=0.5in,
+%  outer=0.5in,
+%  inner=0.75in,
+%  includeheadfoot,
+%  twoside,
+%  showcrop
+%]{geometry}
+
+\title{The Elevation of Unknown Things}
+\author{Madison Scott-Clary}
+
+\begin{document}
+%\OnehalfSpacing
+\DoubleSpacing
+
+\maketitle
+
+\input{1-framing-devices}
+
+
+\printbibliography
+
+
+\end{document}
+
+% vim: spell
