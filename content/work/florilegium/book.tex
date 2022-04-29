@@ -1,0 +1,85 @@
+\documentclass[10pt]{memoir}
+
+\def\watermarkloaded{0}
+
+\input{includes/variables}
+\input{includes/draft}
+\input{includes/frame}
+\input{includes/packages}
+\input{includes/pagelayout}
+\input{includes/geometry}
+\input{includes/toc}
+\input{includes/font}
+\input{includes/title}
+\input{includes/secdiv}
+\input{includes/hyphenation}
+
+\bibliography{book}
+
+\begin{document}
+  \frontmatter
+
+  \thispagestyle{empty}
+  \null
+  \vfill
+  \begin{flushright}
+    \DisplayFont Florilegium
+  \end{flushright}
+  \vfill
+  \cleardoublepage
+
+  \pagestyle{plain}
+
+  \doublespacing
+
+  \begin{flushright}
+    \null
+    \vfill
+    {\Huge\DisplayFont Florilegium}
+
+    \vfill
+
+    {\Large\DisplayFont Madison Scott-Clary}
+  \end{flushright}
+  \thispagestyle{empty}
+
+  \newpage
+
+  \input{includes/copyright}
+
+  \tableofcontents*
+  \newpage
+  \null
+  \cleardoublepage
+
+  \onehalfspacing
+  %\doublespacing
+
+  % \input{content/preface}
+
+  \mainmatter
+
+  \pagestyle{ourbook}
+
+  \chapter*{Seasons}
+  \markboth{Seasons}{}
+  \input{seasons/she-knew}
+  \input{seasons/content}
+
+  \chapter*{The Elevation of Unknown Things}
+  \markboth{The Elevation of Unknown Things}{}
+  \setcounter{footnote}{0}
+  \input{unknown-things/1-framing-devices}
+
+  \backmatter
+
+  %\part{Afterword}
+  \markboth{}{}
+
+  %\input{content/appendix}
+
+  %\cleartoverso
+  %\input{content/afterword}
+  \printbibliography[title={Works cited}]
+
+\end{document}

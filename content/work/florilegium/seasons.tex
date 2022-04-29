@@ -4,18 +4,11 @@
 % * Maybe something about Quaker funeral
 % * Dwale asking for spooky music
 
-\usepackage{fontspec}
-\setmainfont{Gentium Book Basic}
-\newfontfamily\HeaderFont{Coelacanth}
-\setmonofont{Ubuntu Mono}
-%\newfontfamily\IPAfont{Liberation Serif}
-\newfontfamily\IPAfont{Coelacanth}
-\newfontfamily\Warnfont{Noto Serif CJK JP}
-\newcommand\Warn{\Warnfont ⚠\normalfont}
+\input{includes/font}
 
 \usepackage{titlesec}
 \titleformat{\section}
-  {\HeaderFont\bfseries\Large}
+  {\TitleFont\Large}
   {\thesection}{1em}{}
 
 \frenchspacing
@@ -49,7 +42,8 @@
 
 \maketitle
 
-\input{content}
+\input{seasons/she-knew}
+\input{seasons/content}
 
 \printbibliography
 
