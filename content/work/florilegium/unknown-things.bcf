@@ -2350,14 +2350,19 @@
     <bcf:citekey order="2">alter</bcf:citekey>
     <bcf:citekey order="3">noab</bcf:citekey>
     <bcf:citekey order="4">alter</bcf:citekey>
-    <bcf:citekey order="5">alter</bcf:citekey>
-    <bcf:citekey order="6">noab</bcf:citekey>
-    <bcf:citekey order="7">apocrypals</bcf:citekey>
-    <bcf:citekey order="8">alter</bcf:citekey>
-    <bcf:citekey order="9">intro-to-job</bcf:citekey>
-    <bcf:citekey order="10">alter</bcf:citekey>
-    <bcf:citekey order="11">noab</bcf:citekey>
-    <bcf:citekey order="12">apocrypals</bcf:citekey>
+    <bcf:citekey order="5">noab</bcf:citekey>
+    <bcf:citekey order="6">alter</bcf:citekey>
+    <bcf:citekey order="7">noab</bcf:citekey>
+    <bcf:citekey order="8">apocrypals</bcf:citekey>
+    <bcf:citekey order="9">b4np</bcf:citekey>
+    <bcf:citekey order="10">eigengrau</bcf:citekey>
+    <bcf:citekey order="11">alter</bcf:citekey>
+    <bcf:citekey order="12">intro-to-job</bcf:citekey>
+    <bcf:citekey order="13">alter</bcf:citekey>
+    <bcf:citekey order="14">noab</bcf:citekey>
+    <bcf:citekey order="15">apocrypals</bcf:citekey>
+    <bcf:citekey order="16">b4np</bcf:citekey>
+    <bcf:citekey order="17">eigengrau</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

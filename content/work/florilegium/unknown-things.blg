@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'unknown-things.blg'
-[70] biber:340> INFO - === Thu Apr 28, 2022, 23:22:20
-[84] Biber.pm:418> INFO - Reading 'unknown-things.bcf'
-[148] Biber.pm:972> INFO - Found 4 citekeys in bib section 0
-[160] Biber.pm:4383> INFO - Processing section 0
-[170] Biber.pm:4574> INFO - Looking for bibtex file 'unknown-things.bib' for section 0
-[171] bibtex.pm:1713> INFO - LaTeX decoding ...
-[177] bibtex.pm:1518> INFO - Found BibTeX data source 'unknown-things.bib'
-[229] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[229] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[229] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[229] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[233] bbl.pm:654> INFO - Writing 'unknown-things.bbl' with encoding 'UTF-8'
-[235] bbl.pm:757> INFO - Output to unknown-things.bbl
+[75] biber:340> INFO - === Sat Apr 30, 2022, 16:58:44
+[89] Biber.pm:418> INFO - Reading 'unknown-things.bcf'
+[157] Biber.pm:972> INFO - Found 6 citekeys in bib section 0
+[171] Biber.pm:4383> INFO - Processing section 0
+[181] Biber.pm:4574> INFO - Looking for bibtex file 'unknown-things.bib' for section 0
+[182] bibtex.pm:1713> INFO - LaTeX decoding ...
+[190] bibtex.pm:1518> INFO - Found BibTeX data source 'unknown-things.bib'
+[252] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[252] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[252] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[252] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[258] bbl.pm:654> INFO - Writing 'unknown-things.bbl' with encoding 'UTF-8'
+[261] bbl.pm:757> INFO - Output to unknown-things.bbl

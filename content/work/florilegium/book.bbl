@@ -369,6 +369,38 @@
       \field{title}{Essays: Second Series}
       \field{year}{1890}
     \endentry
+    \entry{b4np}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c5cbcbd14b91eb8894ec0d66d3276805}{%
+           family={Enns},
+           familyi={E\bibinitperiod},
+           given={Pete},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7bf20776e8b18447a24b9450e3713caf}{%
+           family={Byas},
+           familyi={B\bibinitperiod},
+           given={Jared},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a7e963c60d8ca9d222c6ad3bf97e3fa9}
+      \strng{fullhash}{a7e963c60d8ca9d222c6ad3bf97e3fa9}
+      \strng{bibnamehash}{a7e963c60d8ca9d222c6ad3bf97e3fa9}
+      \strng{authorbibnamehash}{a7e963c60d8ca9d222c6ad3bf97e3fa9}
+      \strng{authornamehash}{a7e963c60d8ca9d222c6ad3bf97e3fa9}
+      \strng{authorfullhash}{a7e963c60d8ca9d222c6ad3bf97e3fa9}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://peteenns.com/episode-200-pete-enns-jared-byas-does-the-bible-still-matter/}}
+      \field{journaltitle}{The Bible for Normal People}
+      \field{title}{Ep. 200: Does the Bible Still Matter?}
+      \field{year}{2022}
+    \endentry
     \entry{esch}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=cef2cfef5c5bd9cddeb9e162cd2a91ea}{%
@@ -621,6 +653,37 @@
       \field{title}{Rush}
       \field{year}{2019}
     \endentry
+    \entry{eigengrau}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
+           family={Scott-Clary},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {self published}%
+      }
+      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
+      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
+      \field{extraname}{4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Eigengrau: Poems 2015--2020}
+      \field{year}{2020}
+      \field{pages}{68\bibrangedash 71}
+      \range{pages}{4}
+    \endentry
     \entry{pale_she}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
@@ -636,9 +699,10 @@
       \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -691,7 +755,7 @@
       \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{5}
+      \field{extraname}{6}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -718,7 +782,7 @@
       \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{6}
+      \field{extraname}{7}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradate}{1}
@@ -749,7 +813,7 @@
       \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradate}{2}
