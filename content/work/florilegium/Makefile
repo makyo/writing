@@ -36,3 +36,8 @@ full-book:
 	biber book
 	xelatex book.tex
 	xelatex book.tex
+	
+@PHONY: content
+content:
+	pandoc ~/sparkleup/zk/writing/3/unknown-things/iyov/1-framing-devices.md -o unknown-things/1-framing-devices.tex --wrap none
+	pandoc ~/sparkleup/zk/writing/3/unknown-things/iyov/3-interpolations.md -o unknown-things/3-interpolations.tex --wrap none

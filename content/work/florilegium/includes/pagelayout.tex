@@ -6,6 +6,9 @@
 \titleformat{\section}
   {\TitleFont\bfseries\Large}
   {\thesection}{1em}{}
+\titleformat{\chapter}
+  {\TitleFont\bfseries\huge}
+  {\thechapter}{2em}{}
 
 % ourbook style with fancy headers and chapter headings
 \fancypagestyle{ourbook}{
@@ -20,8 +23,8 @@
   \renewcommand{\partnamefont}{\DisplayFont\huge}
   \renewcommand{\partnumfont}{\DisplayFont\huge}
   \renewcommand{\parttitlefont}{\DisplayFont\Huge}
-  \renewcommand{\chaptername}{}
-  \renewcommand{\thechapter}{}
+  %\renewcommand{\chaptername}{}
+  %\renewcommand{\thechapter}{}
   \setlength{\parskip}{0pt}
   \fancyhf[FRO,FLE]{\DisplayFont{\thepage}}
   % \fancyhf[FRE,FLO]{\emph{Patreon Supporter Edition}}

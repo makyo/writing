@@ -2351,18 +2351,23 @@
     <bcf:citekey order="3">noab</bcf:citekey>
     <bcf:citekey order="4">alter</bcf:citekey>
     <bcf:citekey order="5">noab</bcf:citekey>
-    <bcf:citekey order="6">alter</bcf:citekey>
-    <bcf:citekey order="7">noab</bcf:citekey>
-    <bcf:citekey order="8">apocrypals</bcf:citekey>
-    <bcf:citekey order="9">b4np</bcf:citekey>
-    <bcf:citekey order="10">eigengrau</bcf:citekey>
-    <bcf:citekey order="11">alter</bcf:citekey>
-    <bcf:citekey order="12">intro-to-job</bcf:citekey>
+    <bcf:citekey order="6">ally-making-of</bcf:citekey>
+    <bcf:citekey order="7">alter</bcf:citekey>
+    <bcf:citekey order="8">noab</bcf:citekey>
+    <bcf:citekey order="9">apocrypals</bcf:citekey>
+    <bcf:citekey order="10">b4np</bcf:citekey>
+    <bcf:citekey order="11">eigengrau</bcf:citekey>
+    <bcf:citekey order="12">alter</bcf:citekey>
     <bcf:citekey order="13">alter</bcf:citekey>
-    <bcf:citekey order="14">noab</bcf:citekey>
-    <bcf:citekey order="15">apocrypals</bcf:citekey>
-    <bcf:citekey order="16">b4np</bcf:citekey>
-    <bcf:citekey order="17">eigengrau</bcf:citekey>
+    <bcf:citekey order="14">alter</bcf:citekey>
+    <bcf:citekey order="15">noab</bcf:citekey>
+    <bcf:citekey order="16">intro-to-job</bcf:citekey>
+    <bcf:citekey order="17">alter</bcf:citekey>
+    <bcf:citekey order="18">noab</bcf:citekey>
+    <bcf:citekey order="19">ally-making-of</bcf:citekey>
+    <bcf:citekey order="20">apocrypals</bcf:citekey>
+    <bcf:citekey order="21">b4np</bcf:citekey>
+    <bcf:citekey order="22">eigengrau</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
