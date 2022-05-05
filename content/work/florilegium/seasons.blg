@@ -1,15 +1,17 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'seasons.blg'
-[85] biber:340> INFO - === Mon May  2, 2022, 19:50:57
-[103] Biber.pm:418> INFO - Reading 'seasons.bcf'
-[188] Biber.pm:972> INFO - Found 26 citekeys in bib section 0
-[203] Biber.pm:4383> INFO - Processing section 0
-[216] Biber.pm:4574> INFO - Looking for bibtex file 'seasons.bib' for section 0
-[217] bibtex.pm:1713> INFO - LaTeX decoding ...
-[247] bibtex.pm:1518> INFO - Found BibTeX data source 'seasons.bib'
-[440] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[440] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[440] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[440] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[462] bbl.pm:654> INFO - Writing 'seasons.bbl' with encoding 'UTF-8'
-[475] bbl.pm:757> INFO - Output to seasons.bbl
+[74] biber:340> INFO - === Tue May  3, 2022, 21:46:37
+[87] Biber.pm:418> INFO - Reading 'seasons.bcf'
+[158] Biber.pm:972> INFO - Found 26 citekeys in bib section 0
+[171] Biber.pm:4383> INFO - Processing section 0
+[181] Biber.pm:4574> INFO - Looking for bibtex file 'book.bib' for section 0
+[182] bibtex.pm:1713> INFO - LaTeX decoding ...
+[213] bibtex.pm:1518> INFO - Found BibTeX data source 'book.bib'
+[359] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[359] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[359] Biber.pm:4203> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[359] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[378] bbl.pm:654> INFO - Writing 'seasons.bbl' with encoding 'UTF-8'
+[389] bbl.pm:757> INFO - Output to seasons.bbl
+[389] Biber.pm:130> WARN - Duplicate entry key: 'eigengrau' in file 'book.bib', skipping ...
+[390] Biber.pm:132> INFO - WARNINGS: 1

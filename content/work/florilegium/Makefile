@@ -14,6 +14,7 @@ full-seasons:
 	biber seasons
 	xelatex seasons.tex
 	xelatex seasons.tex
+	pandoc --citeproc --bibliography book.bib --wrap none --reference-doc ../mfa/content.ott -o seasons.odt seasons.tex
 
 @PHONY: once-unknown-things
 once-unknown-things:
@@ -25,6 +26,7 @@ full-unknown-things:
 	biber unknown-things
 	xelatex unknown-things.tex
 	xelatex unknown-things.tex
+	pandoc --citeproc --bibliography book.bib --wrap none --reference-doc ../mfa/content.ott -o unknown-things.odt unknown-things.tex
 
 @PHONY: once-book
 once-book:
@@ -36,6 +38,7 @@ full-book:
 	biber book
 	xelatex book.tex
 	xelatex book.tex
+	pandoc --citeproc --bibliography book.bib --wrap none --reference-doc ../mfa/content.ott -o book.odt book.tex
 	
 @PHONY: content
 content:

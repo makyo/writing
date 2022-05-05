@@ -163,7 +163,32 @@
       \field{title}{Ep. 200: Does the Bible Still Matter?}
       \field{year}{2022}
     \endentry
-    \entry{eigengrau}{book}{}
+    \entry{maconix-bibles}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6940bd9a5afc02385aaddd4ba9e153ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Mackenzie},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6940bd9a5afc02385aaddd4ba9e153ef}
+      \strng{fullhash}{6940bd9a5afc02385aaddd4ba9e153ef}
+      \strng{bibnamehash}{6940bd9a5afc02385aaddd4ba9e153ef}
+      \strng{authorbibnamehash}{6940bd9a5afc02385aaddd4ba9e153ef}
+      \strng{authornamehash}{6940bd9a5afc02385aaddd4ba9e153ef}
+      \strng{authorfullhash}{6940bd9a5afc02385aaddd4ba9e153ef}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://vm.tiktok.com/ZTdbWEMtW/}}
+      \field{title}{TikTok on Bible translations}
+      \field{year}{2021}
+    \endentry
+    \entry{ally-making-of}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
            family={Scott-Clary},
@@ -184,14 +209,15 @@
       \field{extraname}{1}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Eigengrau}
-      \field{year}{2019}
+      \field{title}{ally from Start to Finish}
+      \field{year}{2020}
     \endentry
-    \entry{ally-making-of}{book}{}
+    \entry{eigengrau}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
            family={Scott-Clary},
@@ -201,7 +227,7 @@
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {self-published}%
+        {self published}%
       }
       \strng{namehash}{6385af222fcf07f42cb1773253369d15}
       \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
@@ -212,12 +238,74 @@
       \field{extraname}{2}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{ally from Start to Finish}
+      \field{title}{Eigengrau: Poems 2015--2020}
       \field{year}{2020}
+      \field{pages}{68\bibrangedash 71}
+      \range{pages}{4}
+    \endentry
+    \entry{blackbird}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0ccfb9aa706d3e1ee6de3a8dfc327144}{%
+           family={Stevens},
+           familyi={S\bibinitperiod},
+           given={Wallace},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0ccfb9aa706d3e1ee6de3a8dfc327144}
+      \strng{fullhash}{0ccfb9aa706d3e1ee6de3a8dfc327144}
+      \strng{bibnamehash}{0ccfb9aa706d3e1ee6de3a8dfc327144}
+      \strng{authorbibnamehash}{0ccfb9aa706d3e1ee6de3a8dfc327144}
+      \strng{authornamehash}{0ccfb9aa706d3e1ee6de3a8dfc327144}
+      \strng{authorfullhash}{0ccfb9aa706d3e1ee6de3a8dfc327144}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://en.wikisource.org/wiki/Thirteen_Ways_of_Looking_at_a_Blackbird}}
+      \field{note}{Accessed Jan 9, 2022}
+      \field{title}{Thirteen Ways of Looking at a Blackbird}
+      \field{year}{1917}
+    \endentry
+    \entry{wangwei}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=01780f39b37039e442b35fa2b0a61280}{%
+           family={Weinberger},
+           familyi={W\bibinitperiod},
+           given={Eliot},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3dde37a7ca57fbadf1f1b352355d8948}{%
+           family={Paz},
+           familyi={P\bibinitperiod},
+           given={Octavio},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {New Directions Paperbook}%
+      }
+      \strng{namehash}{8c5e821d8de66d24dc41cf61b46663c2}
+      \strng{fullhash}{8c5e821d8de66d24dc41cf61b46663c2}
+      \strng{bibnamehash}{8c5e821d8de66d24dc41cf61b46663c2}
+      \strng{authorbibnamehash}{8c5e821d8de66d24dc41cf61b46663c2}
+      \strng{authornamehash}{8c5e821d8de66d24dc41cf61b46663c2}
+      \strng{authorfullhash}{8c5e821d8de66d24dc41cf61b46663c2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nineteen ways of looking at Wang Wei: (with more ways)}
+      \field{year}{2016}
     \endentry
   \enddatalist
 \endrefsection

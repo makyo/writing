@@ -81,7 +81,7 @@
       <file>seasons.bcf</file>
     </requires>
     <requires type="editable">
-      <file>seasons.bib</file>
+      <file>book.bib</file>
     </requires>
   </external>
 </requests>

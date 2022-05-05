@@ -546,6 +546,31 @@
       \field{title}{Complete Poems and Selected Letters of John Keats}
       \field{year}{1820}
     \endentry
+    \entry{maconix-bibles}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6940bd9a5afc02385aaddd4ba9e153ef}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Mackenzie},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6940bd9a5afc02385aaddd4ba9e153ef}
+      \strng{fullhash}{6940bd9a5afc02385aaddd4ba9e153ef}
+      \strng{bibnamehash}{6940bd9a5afc02385aaddd4ba9e153ef}
+      \strng{authorbibnamehash}{6940bd9a5afc02385aaddd4ba9e153ef}
+      \strng{authornamehash}{6940bd9a5afc02385aaddd4ba9e153ef}
+      \strng{authorfullhash}{6940bd9a5afc02385aaddd4ba9e153ef}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://vm.tiktok.com/ZTdbWEMtW/}}
+      \field{title}{TikTok on Bible translations}
+      \field{year}{2021}
+    \endentry
     \entry{purcell}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=56e0143e581df0b6c4fdf52c988e14b3}{%

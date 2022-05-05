@@ -81,7 +81,7 @@
       <file>unknown-things.bcf</file>
     </requires>
     <requires type="editable">
-      <file>unknown-things.bib</file>
+      <file>book.bib</file>
     </requires>
   </external>
 </requests>
