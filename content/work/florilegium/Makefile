@@ -20,8 +20,12 @@ full-seasons:
 once-unknown-things:
 	xelatex unknown-things.tex
 
+@PHONY: content
+content:
+	cp ~/sparkleup/zk/writing/3/unknown-things/iyov/*.tex unknown-things/
+
 @PHONY: full-unknown-things
-full-unknown-things:
+full-unknown-things: content
 	xelatex unknown-things.tex
 	biber unknown-things
 	xelatex unknown-things.tex
@@ -32,10 +36,6 @@ full-unknown-things:
 once-florilegium:
 	xelatex florilegium.tex
 	
-@PHONY: content
-content:
-	cp ~/sparkleup/zk/writing/3/unknown-things/iyov/*.tex unknown-things/
-
 @PHONY: full-florilegium
 full-florilegium: content
 	xelatex florilegium.tex
