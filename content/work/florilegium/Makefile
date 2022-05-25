@@ -20,10 +20,6 @@ full-seasons:
 once-unknown-things:
 	xelatex unknown-things.tex
 
-@PHONY: content
-content:
-	cp ~/sparkleup/zk/writing/3/unknown-things/iyov/*.tex unknown-things/
-
 @PHONY: full-unknown-things
 full-unknown-things: content
 	xelatex unknown-things.tex
@@ -31,6 +27,18 @@ full-unknown-things: content
 	xelatex unknown-things.tex
 	xelatex unknown-things.tex
 	pandoc --citeproc --bibliography florilegium.bib --wrap none --reference-doc ../mfa/content.ott -o unknown-things.odt unknown-things.tex
+
+@PHONY: once-terrifying
+once-terrifying:
+	xelatex terrifying.tex
+
+@PHONY: full-terrifying
+full-terrifying: content
+	xelatex terrifying.tex
+	biber terrifying
+	xelatex terrifying.tex
+	xelatex terrifying.tex
+	pandoc --citeproc --bibliography florilegium.bib --wrap none --reference-doc ../mfa/content.ott -o terrifying.odt terrifying.tex
 
 @PHONY: once-florilegium
 once-florilegium:
@@ -48,3 +56,9 @@ full-florilegium: content
 clean:
 	-rm *.bbl *.bcf *.blg *.log *.out *.run.xml *.aux
 	-rm */*.bbl */*.bcf */*.blg */*.log */*.out */*.run.xml */*.aux
+
+@PHONY: content
+content:
+	cp ~/sparkleup/zk/writing/3/unknown-things/iyov/*.tex unknown-things/
+	cp ~/sparkleup/zk/writing/3/seasons/*.tex seasons/
+	cp ~/sparkleup/zk/writing/3/terrifying/*.tex terrifying/

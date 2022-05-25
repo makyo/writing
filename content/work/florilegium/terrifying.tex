@@ -1,9 +1,13 @@
 \documentclass[12pt,oneside]{memoir}
 
+\usepackage{titlesec}
+\titleformat{\section}
+  {\TitleFont\Large}
+  {\thesection}{1em}{}
 
 \frenchspacing
 
-\usepackage{multicol}
+\usepackage{calc}
 
 \usepackage[backend=biber,style=authoryear-ibid]{biblatex}
 \bibliography{florilegium}
@@ -25,21 +29,19 @@
 %]{geometry}
 \input{includes/font}
 
-\title{The Elevation of Unknown Things}
+\usepackage{titling}
+\renewcommand{\maketitlehooka}{\TitleFont}
+
+\title{The Margin of the Terrifying}
 \author{Madison Scott-Clary}
 
 \begin{document}
-%\OnehalfSpacing
-\DoubleSpacing
+%\DoubleSpacing
+\OnehalfSpacing
 
 \maketitle
 
-\input{unknown-things/1-framing-devices}
-\input{unknown-things/3-interpolations}
-\input{unknown-things/2-friends}
-\input{unknown-things/4-unknown}
-\input{unknown-things/5-known}
-
+\input{terrifying/intro}
 
 \printbibliography
 

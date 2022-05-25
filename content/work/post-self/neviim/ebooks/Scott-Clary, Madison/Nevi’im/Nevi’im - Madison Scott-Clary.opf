@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">d214b3b4-198e-405a-a229-1d735504e0b9</dc:identifier>
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">489ca9e0-02ec-4a61-8e8f-fd18e30e46be</dc:identifier>
         <dc:title>Nevi’im</dc:title>
         <dc:creator opf:file-as="Scott-Clary, Madison" opf:role="aut">Madison Scott-Clary</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.37.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>eng</dc:language>
         <meta name="calibre:author_link_map" content="{&quot;Madison Scott-Clary&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Post-Self"/>
         <meta name="calibre:series_index" content="3"/>
-        <meta name="calibre:timestamp" content="2022-03-29T15:07:46.546811+00:00"/>
+        <meta name="calibre:timestamp" content="2022-05-19T05:11:05+00:00"/>
         <meta name="calibre:title_sort" content="Nevi’im"/>
     </metadata>
     <guide>

@@ -389,15 +389,6 @@
   groups    = {Mostly Terrifying},
 }
 
-@Book{dbh-nt,
-  author    = {Hart, David Bently (trans.)},
-  publisher = {Yale University Press},
-  title     = {The New Testament},
-  year      = {2017},
-  address   = {New Haven, CT},
-  groups    = {Mostly Terrifying},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:

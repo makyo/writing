@@ -2346,43 +2346,10 @@
     <bcf:datasource type="file" datatype="bibtex">florilegium.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">intro-to-job</bcf:citekey>
-    <bcf:citekey order="2">alter</bcf:citekey>
-    <bcf:citekey order="3">noab</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">sefaria</bcf:citekey>
-    <bcf:citekey order="5">alter</bcf:citekey>
-    <bcf:citekey order="6">noab</bcf:citekey>
-    <bcf:citekey order="7">ally-making-of</bcf:citekey>
-    <bcf:citekey order="8">alter</bcf:citekey>
-    <bcf:citekey order="9">noab</bcf:citekey>
-    <bcf:citekey order="10">apocrypals</bcf:citekey>
-    <bcf:citekey order="11">b4np</bcf:citekey>
-    <bcf:citekey order="12">eigengrau</bcf:citekey>
-    <bcf:citekey order="13">wangwei</bcf:citekey>
-    <bcf:citekey order="14">maconix-bibles</bcf:citekey>
-    <bcf:citekey order="15">blackbird</bcf:citekey>
-    <bcf:citekey order="16">alter</bcf:citekey>
-    <bcf:citekey order="17">alter</bcf:citekey>
-    <bcf:citekey order="18">alter</bcf:citekey>
-    <bcf:citekey order="19">noab</bcf:citekey>
-    <bcf:citekey order="20">alter</bcf:citekey>
-    <bcf:citekey order="21">wangwei</bcf:citekey>
-    <bcf:citekey order="22" nocite="1">sefaria</bcf:citekey>
-    <bcf:citekey order="23">ortberg</bcf:citekey>
-    <bcf:citekey order="24">wakefield</bcf:citekey>
-    <bcf:citekey order="25">intro-to-job</bcf:citekey>
-    <bcf:citekey order="26">alter</bcf:citekey>
-    <bcf:citekey order="27">noab</bcf:citekey>
-    <bcf:citekey order="28">sefaria</bcf:citekey>
-    <bcf:citekey order="29">ally-making-of</bcf:citekey>
-    <bcf:citekey order="30">apocrypals</bcf:citekey>
-    <bcf:citekey order="31">b4np</bcf:citekey>
-    <bcf:citekey order="32">eigengrau</bcf:citekey>
-    <bcf:citekey order="33">wangwei</bcf:citekey>
-    <bcf:citekey order="34">maconix-bibles</bcf:citekey>
-    <bcf:citekey order="35">blackbird</bcf:citekey>
-    <bcf:citekey order="36">ortberg</bcf:citekey>
-    <bcf:citekey order="37">wakefield</bcf:citekey>
+    <bcf:citekey order="1">helpthankswow</bcf:citekey>
+    <bcf:citekey order="2">dbh-nt</bcf:citekey>
+    <bcf:citekey order="3">helpthankswow</bcf:citekey>
+    <bcf:citekey order="4">dbh-nt</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

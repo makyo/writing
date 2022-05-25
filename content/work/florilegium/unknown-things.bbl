@@ -188,6 +188,33 @@
       \field{title}{TikTok on Bible translations}
       \field{year}{2021}
     \endentry
+    \entry{ortberg}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f89e625998e63aebbd2425b750bae342}{%
+           family={Ortberg},
+           familyi={O\bibinitperiod},
+           given={Daniel\bibnamedelima Mallory},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Atria Books}%
+      }
+      \strng{namehash}{f89e625998e63aebbd2425b750bae342}
+      \strng{fullhash}{f89e625998e63aebbd2425b750bae342}
+      \strng{bibnamehash}{f89e625998e63aebbd2425b750bae342}
+      \strng{authorbibnamehash}{f89e625998e63aebbd2425b750bae342}
+      \strng{authornamehash}{f89e625998e63aebbd2425b750bae342}
+      \strng{authorfullhash}{f89e625998e63aebbd2425b750bae342}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Something That May Shock and Discredit You}
+      \field{year}{2020}
+    \endentry
     \entry{ally-making-of}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
@@ -248,6 +275,28 @@
       \field{pages}{68\bibrangedash 71}
       \range{pages}{4}
     \endentry
+    \entry{sefaria}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ed47a7971091caa190341284fe635ed2}{%
+           family={Sefaria},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ed47a7971091caa190341284fe635ed2}
+      \strng{fullhash}{ed47a7971091caa190341284fe635ed2}
+      \strng{bibnamehash}{ed47a7971091caa190341284fe635ed2}
+      \strng{authorbibnamehash}{ed47a7971091caa190341284fe635ed2}
+      \strng{authornamehash}{ed47a7971091caa190341284fe635ed2}
+      \strng{authorfullhash}{ed47a7971091caa190341284fe635ed2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.sefaria.org/}}
+      \field{title}{The Jewish Bible (JPS) and The William Davidson Talmud}
+      \field{year}{1985}
+    \endentry
     \entry{blackbird}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0ccfb9aa706d3e1ee6de3a8dfc327144}{%
@@ -273,6 +322,31 @@
       \field{note}{Accessed Jan 9, 2022}
       \field{title}{Thirteen Ways of Looking at a Blackbird}
       \field{year}{1917}
+    \endentry
+    \entry{wakefield}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=936851c6c76d7b7b0bd656c92b5273bc}{%
+           family={Wakefield},
+           familyi={W\bibinitperiod},
+           given={Buddy},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{936851c6c76d7b7b0bd656c92b5273bc}
+      \strng{fullhash}{936851c6c76d7b7b0bd656c92b5273bc}
+      \strng{bibnamehash}{936851c6c76d7b7b0bd656c92b5273bc}
+      \strng{authorbibnamehash}{936851c6c76d7b7b0bd656c92b5273bc}
+      \strng{authornamehash}{936851c6c76d7b7b0bd656c92b5273bc}
+      \strng{authorfullhash}{936851c6c76d7b7b0bd656c92b5273bc}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://thenervousbreakdown.com/bwakefield/2010/01/hurling-crowbirds-at-mockingbars-hope-is-not-a-course-of-action/}}
+      \field{title}{Hurling Crowbirds at Mockingbars (Hope is Not a Course of Action)}
+      \field{year}{2010}
     \endentry
     \entry{wangwei}{book}{}
       \name{author}{2}{}{%

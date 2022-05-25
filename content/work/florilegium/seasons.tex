@@ -1,4 +1,4 @@
-\documentclass[12pt]{memoir}
+\documentclass[12pt,oneside]{memoir}
 
 % Todo:
 % * Maybe something about Quaker funeral
@@ -34,16 +34,25 @@
 %]{geometry}
 \input{includes/font}
 
+\usepackage{titling}
+\renewcommand{\maketitlehooka}{\TitleFont}
+
 \title{Seasons}
 \author{Madison Scott-Clary}
 
 \begin{document}
+%\DoubleSpacing
 \OnehalfSpacing
 
 \maketitle
 
 \input{seasons/she-knew}
-\input{seasons/content}
+\input{seasons/intro}
+\input{seasons/spring}
+\input{seasons/summer}
+\input{seasons/autumn}
+\input{seasons/winter}
+\input{seasons/spirals}
 
 \printbibliography
 

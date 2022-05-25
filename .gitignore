@@ -3,6 +3,7 @@ _site/*
 *.log
 *.out
 *.toc
+*.sav.tmp
 .jekyll-metadata
 .DS_Store
 .~*
