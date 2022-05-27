@@ -79,6 +79,66 @@
       \field{title}{Help Thanks Wow: The Three Essential Prayers}
       \field{year}{2012}
     \endentry
+    \entry{timewar}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0fd8af9f418f02f0ab16db442d10d5ab}{%
+           family={El-Mohtar},
+           familyi={E\bibinithyphendelim M\bibinitperiod},
+           given={Amal},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb5459030fe5d0857e0fdbedbfb18717}{%
+           family={Gladstone},
+           familyi={G\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Jo Fletcher Books}%
+      }
+      \strng{namehash}{6f11eb2e875d9e1e37c110bc5ac3f0cd}
+      \strng{fullhash}{6f11eb2e875d9e1e37c110bc5ac3f0cd}
+      \strng{bibnamehash}{6f11eb2e875d9e1e37c110bc5ac3f0cd}
+      \strng{authorbibnamehash}{6f11eb2e875d9e1e37c110bc5ac3f0cd}
+      \strng{authornamehash}{6f11eb2e875d9e1e37c110bc5ac3f0cd}
+      \strng{authorfullhash}{6f11eb2e875d9e1e37c110bc5ac3f0cd}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{This is How You Lose the Time War}
+      \field{year}{2019}
+    \endentry
+    \entry{duino}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=19145cef08f62829c756f82036d4ffaf}{%
+           family={Rilke},
+           familyi={R\bibinitperiod},
+           given={Rainer\bibnamedelima Maria},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Green Integer}%
+      }
+      \strng{namehash}{19145cef08f62829c756f82036d4ffaf}
+      \strng{fullhash}{19145cef08f62829c756f82036d4ffaf}
+      \strng{bibnamehash}{19145cef08f62829c756f82036d4ffaf}
+      \strng{authorbibnamehash}{19145cef08f62829c756f82036d4ffaf}
+      \strng{authornamehash}{19145cef08f62829c756f82036d4ffaf}
+      \strng{authorfullhash}{19145cef08f62829c756f82036d4ffaf}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Duino Elegies\footnote{I mentioned in a previous footnote the difficulty in citing works within the realm of chosen names and modern technology; I wrote a small art-song using the opening lines of Rilke's first elegy, but were I to quote \emph{that} instead, how would I do so? As Matthew? He is dead, his name should be fair game. And yet that was me, was it not? As Madison?}}
+      \field{year}{2003}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

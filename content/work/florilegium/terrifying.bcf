@@ -2348,8 +2348,12 @@
   <bcf:section number="0">
     <bcf:citekey order="1">helpthankswow</bcf:citekey>
     <bcf:citekey order="2">dbh-nt</bcf:citekey>
-    <bcf:citekey order="3">helpthankswow</bcf:citekey>
-    <bcf:citekey order="4">dbh-nt</bcf:citekey>
+    <bcf:citekey order="3">duino</bcf:citekey>
+    <bcf:citekey order="4">timewar</bcf:citekey>
+    <bcf:citekey order="5">helpthankswow</bcf:citekey>
+    <bcf:citekey order="6">dbh-nt</bcf:citekey>
+    <bcf:citekey order="7">duino</bcf:citekey>
+    <bcf:citekey order="8">timewar</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

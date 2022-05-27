@@ -43,7 +43,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The Hebrew Bible --- The Writings}
+      \field{title}{The Hebrew Bible\footnote{Denoted \emph{Alter} when verses are quoted.}}
       \field{year}{2019}
     \endentry
     \entry{apocrypals}{misc}{}
@@ -128,7 +128,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{Cited as NRSV}
-      \field{title}{The New Oxford Annotated Bible with the Apocrypha, Fifth Edition (NRSV)}
+      \field{title}{The New Oxford Annotated Bible with the Apocrypha, Fifth Edition\footnote{Denoted \emph{NRSV} when verses are quoted.}}
       \field{year}{2018}
     \endentry
     \entry{b4np}{misc}{}
@@ -294,7 +294,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.sefaria.org/}}
-      \field{title}{The Jewish Bible (JPS) and The William Davidson Talmud}
+      \field{title}{The Jewish Bible and The William Davidson Talmud\footnote{Denoted \emph{JPS}, \emph{Bava Batra}, and \emph{Taanit} when verses are quoted.}}
       \field{year}{1985}
     \endentry
     \entry{blackbird}{misc}{}

@@ -50,9 +50,9 @@
     \endentry
     \entry{grief1}{misc}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b4745e10a198ec49295dedebd4e81aa8}{%
-           family={@pookleblinky},
-           familyi={@\bibinitperiod},
+        {{un=0,uniquepart=base,hash=7aa50b9ed05fe1e5274e4fb9f496af44}{%
+           family={@pookleblinky\footnote{There\bibnamedelimb is\bibnamedelimb perhaps\bibnamedelimb something\bibnamedelimb to\bibnamedelimb be\bibnamedelimb said\bibnamedelimb about\bibnamedelimb the\bibnamedelimb inflexibility\bibnamedelimb of\bibnamedelimb things\bibnamedelimb such\bibnamedelimb as\bibnamedelimb citation\bibnamedelimb styles\bibnamedelimb when\bibnamedelimb it\bibnamedelimb comes\bibnamedelimb to\bibnamedelimb the\bibnamedelimb combination\bibnamedelimb of\bibnamedelimb modern\bibnamedelimb technology\bibnamedelimb and\bibnamedelimb chosen\bibnamedelimb names.\bibnamedelimi I\bibnamedelimb don't\bibnamedelimb know\bibnamedelimb these\bibnamedelimb users'\bibnamedelimb real\bibnamedelimb names.\bibnamedelimi I\bibnamedelimb don't\bibnamedelimb need\bibnamedelimb to\bibnamedelimb know\bibnamedelimb them.\bibnamedelimi I\bibnamedelimb don't\bibnamedelimb \emph{want}\bibnamedelimb to\bibnamedelimb know\bibnamedelimb them,\bibnamedelimb unless\bibnamedelimb they\bibnamedelimb want\bibnamedelimb to\bibnamedelimb share.\bibnamedelimi What\bibnamedelimb was\bibnamedelimb it\bibnamedelimb Dear\bibnamedelimb said?\bibnamedelimb ``Names\bibnamedelimb bear\bibnamedelimb power.''\bibnamedelimb (Scott-Clary\bibnamedelimb 2020d,\bibnamedelimb p.\bibnamedelimi 74)}},
+           familyi={@\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim p\bibinitperiod\bibinitdelim s\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim b\bibinitperiod\bibinitdelim s\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim s\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim c\bibinitperiod\bibinitdelim s\bibinitperiod\bibinitdelim w\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim c\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim c\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim m\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim c\bibinitperiod\bibinitdelim n\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim k\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim r\bibinitperiod\bibinitdelim n\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim n\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim k\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim \\bibinithyphendelim C\bibinitperiod},
            given={Twitter},
            giveni={T\bibinitperiod},
            givenun=0,
@@ -60,12 +60,12 @@
            prefixi={u\bibinitperiod},
            prefixun=0}}%
       }
-      \strng{namehash}{b4745e10a198ec49295dedebd4e81aa8}
-      \strng{fullhash}{b4745e10a198ec49295dedebd4e81aa8}
-      \strng{bibnamehash}{b4745e10a198ec49295dedebd4e81aa8}
-      \strng{authorbibnamehash}{b4745e10a198ec49295dedebd4e81aa8}
-      \strng{authornamehash}{b4745e10a198ec49295dedebd4e81aa8}
-      \strng{authorfullhash}{b4745e10a198ec49295dedebd4e81aa8}
+      \strng{namehash}{7aa50b9ed05fe1e5274e4fb9f496af44}
+      \strng{fullhash}{7aa50b9ed05fe1e5274e4fb9f496af44}
+      \strng{bibnamehash}{7aa50b9ed05fe1e5274e4fb9f496af44}
+      \strng{authorbibnamehash}{7aa50b9ed05fe1e5274e4fb9f496af44}
+      \strng{authornamehash}{7aa50b9ed05fe1e5274e4fb9f496af44}
+      \strng{authorfullhash}{7aa50b9ed05fe1e5274e4fb9f496af44}
       \field{sortinit}{p}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
       \field{extradatescope}{labelyear}
@@ -101,7 +101,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The Hebrew Bible --- The Writings}
+      \field{title}{The Hebrew Bible\footnote{Denoted \emph{Alter} when verses are quoted.}}
       \field{year}{2019}
     \endentry
     \entry{kaddish}{misc}{}
@@ -240,7 +240,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{Cited as NRSV}
-      \field{title}{The New Oxford Annotated Bible with the Apocrypha, Fifth Edition (NRSV)}
+      \field{title}{The New Oxford Annotated Bible with the Apocrypha, Fifth Edition\footnote{Denoted \emph{NRSV} when verses are quoted.}}
       \field{year}{2018}
     \endentry
     \entry{behesht}{misc}{}
@@ -421,7 +421,7 @@
       \field{labeldatesource}{nodate}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://ericwhitacre.com/music-catalog/winter}}
+      \field{howpublished}{\url{https://ericwhitacre.com/music-catalog/winter}\footnote{I could find no other reference to this work. This piece is in all ways beautiful, however, so this will stand.}}
       \field{note}{Accessed Jan 10, 2022}
       \field{title}{Winter}
     \endentry
@@ -632,6 +632,39 @@
       \field{title}{Help Thanks Wow: The Three Essential Prayers}
       \field{year}{2012}
     \endentry
+    \entry{timewar}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0fd8af9f418f02f0ab16db442d10d5ab}{%
+           family={El-Mohtar},
+           familyi={E\bibinithyphendelim M\bibinitperiod},
+           given={Amal},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb5459030fe5d0857e0fdbedbfb18717}{%
+           family={Gladstone},
+           familyi={G\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Jo Fletcher Books}%
+      }
+      \strng{namehash}{6f11eb2e875d9e1e37c110bc5ac3f0cd}
+      \strng{fullhash}{6f11eb2e875d9e1e37c110bc5ac3f0cd}
+      \strng{bibnamehash}{6f11eb2e875d9e1e37c110bc5ac3f0cd}
+      \strng{authorbibnamehash}{6f11eb2e875d9e1e37c110bc5ac3f0cd}
+      \strng{authornamehash}{6f11eb2e875d9e1e37c110bc5ac3f0cd}
+      \strng{authorfullhash}{6f11eb2e875d9e1e37c110bc5ac3f0cd}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{This is How You Lose the Time War}
+      \field{year}{2019}
+    \endentry
     \entry{maconix-bibles}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6940bd9a5afc02385aaddd4ba9e153ef}{%
@@ -710,6 +743,33 @@
       \field{title}{The Fairy Queen}
       \field{year}{1692}
     \endentry
+    \entry{duino}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=19145cef08f62829c756f82036d4ffaf}{%
+           family={Rilke},
+           familyi={R\bibinitperiod},
+           given={Rainer\bibnamedelima Maria},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Green Integer}%
+      }
+      \strng{namehash}{19145cef08f62829c756f82036d4ffaf}
+      \strng{fullhash}{19145cef08f62829c756f82036d4ffaf}
+      \strng{bibnamehash}{19145cef08f62829c756f82036d4ffaf}
+      \strng{authorbibnamehash}{19145cef08f62829c756f82036d4ffaf}
+      \strng{authornamehash}{19145cef08f62829c756f82036d4ffaf}
+      \strng{authorfullhash}{19145cef08f62829c756f82036d4ffaf}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Duino Elegies\footnote{I mentioned in a previous footnote the difficulty in citing works within the realm of chosen names and modern technology; I wrote a small art-song using the opening lines of Rilke's first elegy, but were I to quote \emph{that} instead, how would I do so? As Matthew? He is dead, his name should be fair game. And yet that was me, was it not? As Madison?}}
+      \field{year}{2003}
+    \endentry
     \entry{arkie}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
@@ -734,7 +794,7 @@
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://makyo.ink/haiku/}}
       \field{note}{Accessed Feb 20, 2022}
-      \field{title}{Arctic fox's den}
+      \field{title}{Arctic fox's den\footnote{I thought long and hard about whether or not I would cite my own works. I talked about it with my mentor, even. We came to the conclusion that part of the point of these essays is that I am taking a step back and observing myself, thinking about what I am feeling, and putting that in context of Madison Scott-Clary writ large. These are \emph{her} works; all I am doing is reading them.}}
       \field{year}{2016}
     \endentry
     \entry{uvaip}{misc}{}
@@ -879,6 +939,35 @@
       \field{title}{Pale She}
       \field{year}{2020}
     \endentry
+    \entry{qoheleth}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
+           family={Scott-Clary},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {self-published}%
+      }
+      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
+      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
+      \field{extraname}{7}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Qoheleth}
+      \field{year}{2020}
+    \endentry
     \entry{memorial}{misc}{}
       \true{moreauthor}
       \true{morelabelname}
@@ -922,7 +1011,7 @@
       \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{7}
+      \field{extraname}{8}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -949,7 +1038,7 @@
       \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{8}
+      \field{extraname}{9}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradate}{1}
@@ -980,7 +1069,7 @@
       \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{9}
+      \field{extraname}{10}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradate}{2}
@@ -1010,7 +1099,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.sefaria.org/}}
-      \field{title}{The Jewish Bible (JPS) and The William Davidson Talmud}
+      \field{title}{The Jewish Bible and The William Davidson Talmud\footnote{Denoted \emph{JPS}, \emph{Bava Batra}, and \emph{Taanit} when verses are quoted.}}
       \field{year}{1985}
     \endentry
     \entry{blackbird}{misc}{}
