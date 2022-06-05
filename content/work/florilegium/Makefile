@@ -45,7 +45,7 @@ once-florilegium:
 	xelatex florilegium.tex
 	
 @PHONY: full-florilegium
-full-florilegium: content
+full-florilegium: #content
 	xelatex florilegium.tex
 	biber florilegium
 	xelatex florilegium.tex

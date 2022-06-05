@@ -243,6 +243,28 @@
       \field{title}{The New Oxford Annotated Bible with the Apocrypha, Fifth Edition\footnote{Denoted \emph{NRSV} when verses are quoted.}}
       \field{year}{2018}
     \endentry
+    \entry{eeaao}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=71fdacd5b1a48b94976ec2c4371f2413}{%
+           family={Daniels},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{71fdacd5b1a48b94976ec2c4371f2413}
+      \strng{fullhash}{71fdacd5b1a48b94976ec2c4371f2413}
+      \strng{bibnamehash}{71fdacd5b1a48b94976ec2c4371f2413}
+      \strng{authorbibnamehash}{71fdacd5b1a48b94976ec2c4371f2413}
+      \strng{authornamehash}{71fdacd5b1a48b94976ec2c4371f2413}
+      \strng{authorfullhash}{71fdacd5b1a48b94976ec2c4371f2413}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{film}
+      \field{title}{Everything Everywhere All At Once}
+      \field{year}{2022}
+    \endentry
     \entry{behesht}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=901253c8f946f0c0fd0bbb0bfd1c05c2}{%
@@ -483,6 +505,36 @@
       \field{title}{Collected poems, 1965}
       \field{year}{1965}
     \endentry
+    \entry{greenstein}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bdd755ec7e78836655f618c495b91f85}{%
+           family={Greenstein},
+           familyi={G\bibinitperiod},
+           given={Edward\bibnamedelima L.},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New Haven, CT}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{bdd755ec7e78836655f618c495b91f85}
+      \strng{fullhash}{bdd755ec7e78836655f618c495b91f85}
+      \strng{bibnamehash}{bdd755ec7e78836655f618c495b91f85}
+      \strng{authorbibnamehash}{bdd755ec7e78836655f618c495b91f85}
+      \strng{authornamehash}{bdd755ec7e78836655f618c495b91f85}
+      \strng{authorfullhash}{bdd755ec7e78836655f618c495b91f85}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Job: A New Translation\footnote{Denoted \emph{Greenstein} when verses are quoted.}}
+      \field{year}{2019}
+    \endentry
     \entry{brosh}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f55d7e88e0bf808588917a8dac1044e4}{%
@@ -536,7 +588,7 @@
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{The New Testament}
+      \field{title}{The New Testament\footnote{Denoted \emph{Hart} when verses are quoted.}}
       \field{year}{2017}
     \endentry
     \entry{issa}{book}{}
@@ -1080,6 +1132,34 @@
       \field{title}{Toledot}
       \field{year}{2022}
     \endentry
+    \entry{mitzvot}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
+           family={Scott-Clary},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {self published}%
+      }
+      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
+      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
+      \field{extraname}{11}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mitzvot}
+      \field{year}{2023}
+    \endentry
     \entry{sefaria}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ed47a7971091caa190341284fe635ed2}{%
@@ -1127,6 +1207,29 @@
       \field{note}{Accessed Jan 9, 2022}
       \field{title}{Thirteen Ways of Looking at a Blackbird}
       \field{year}{1917}
+    \endentry
+    \entry{septuagint}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f22794f69ce5910cb4be68ff9026570d}{%
+           family={Various},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{f22794f69ce5910cb4be68ff9026570d}
+      \strng{fullhash}{f22794f69ce5910cb4be68ff9026570d}
+      \strng{bibnamehash}{f22794f69ce5910cb4be68ff9026570d}
+      \strng{authorbibnamehash}{f22794f69ce5910cb4be68ff9026570d}
+      \strng{authornamehash}{f22794f69ce5910cb4be68ff9026570d}
+      \strng{authorfullhash}{f22794f69ce5910cb4be68ff9026570d}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{{\url{https://2001translation.org/read/job}}}
+      \field{note}{Accessed May 29, 2022}
+      \field{title}{The 2001 Translation\footnote{Denoted \emph{Septuagint 2001} when verses are quoted.}}
+      \field{year}{2001}
     \endentry
     \entry{wakefield}{misc}{}
       \name{author}{1}{}{%

@@ -4,6 +4,8 @@ title = "Writing | Madison Scott-Clary"
 theme = "cupper-hugo-theme"
 defaultContentLanguage = "en"
 
+ignorefiles = "content/work/.*"
+
 [taxonomies]
   tag = "tags"
   category = "categories"

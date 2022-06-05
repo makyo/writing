@@ -2365,24 +2365,34 @@
     <bcf:citekey order="17">alter</bcf:citekey>
     <bcf:citekey order="18">alter</bcf:citekey>
     <bcf:citekey order="19">noab</bcf:citekey>
-    <bcf:citekey order="20">alter</bcf:citekey>
-    <bcf:citekey order="21">wangwei</bcf:citekey>
-    <bcf:citekey order="22" nocite="1">sefaria</bcf:citekey>
-    <bcf:citekey order="23">ortberg</bcf:citekey>
-    <bcf:citekey order="24">wakefield</bcf:citekey>
-    <bcf:citekey order="25">intro-to-job</bcf:citekey>
-    <bcf:citekey order="26">alter</bcf:citekey>
-    <bcf:citekey order="27">noab</bcf:citekey>
-    <bcf:citekey order="28">sefaria</bcf:citekey>
-    <bcf:citekey order="29">ally-making-of</bcf:citekey>
-    <bcf:citekey order="30">apocrypals</bcf:citekey>
-    <bcf:citekey order="31">b4np</bcf:citekey>
-    <bcf:citekey order="32">eigengrau</bcf:citekey>
-    <bcf:citekey order="33">wangwei</bcf:citekey>
-    <bcf:citekey order="34">maconix-bibles</bcf:citekey>
-    <bcf:citekey order="35">blackbird</bcf:citekey>
-    <bcf:citekey order="36">ortberg</bcf:citekey>
-    <bcf:citekey order="37">wakefield</bcf:citekey>
+    <bcf:citekey order="20">greenstein</bcf:citekey>
+    <bcf:citekey order="21">greenstein</bcf:citekey>
+    <bcf:citekey order="22">greenstein</bcf:citekey>
+    <bcf:citekey order="23" nocite="1">septuagint</bcf:citekey>
+    <bcf:citekey order="24">alter</bcf:citekey>
+    <bcf:citekey order="25">wangwei</bcf:citekey>
+    <bcf:citekey order="26" nocite="1">sefaria</bcf:citekey>
+    <bcf:citekey order="27">ortberg</bcf:citekey>
+    <bcf:citekey order="28">wakefield</bcf:citekey>
+    <bcf:citekey order="29" nocite="1">eeaao</bcf:citekey>
+    <bcf:citekey order="30">mitzvot</bcf:citekey>
+    <bcf:citekey order="31">intro-to-job</bcf:citekey>
+    <bcf:citekey order="32">alter</bcf:citekey>
+    <bcf:citekey order="33">noab</bcf:citekey>
+    <bcf:citekey order="34">sefaria</bcf:citekey>
+    <bcf:citekey order="35">ally-making-of</bcf:citekey>
+    <bcf:citekey order="36">apocrypals</bcf:citekey>
+    <bcf:citekey order="37">b4np</bcf:citekey>
+    <bcf:citekey order="38">eigengrau</bcf:citekey>
+    <bcf:citekey order="39">wangwei</bcf:citekey>
+    <bcf:citekey order="40">maconix-bibles</bcf:citekey>
+    <bcf:citekey order="41">blackbird</bcf:citekey>
+    <bcf:citekey order="42">greenstein</bcf:citekey>
+    <bcf:citekey order="43">septuagint</bcf:citekey>
+    <bcf:citekey order="44">ortberg</bcf:citekey>
+    <bcf:citekey order="45">wakefield</bcf:citekey>
+    <bcf:citekey order="46">eeaao</bcf:citekey>
+    <bcf:citekey order="47">mitzvot</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

@@ -1,4 +1,4 @@
-\documentclass[10pt]{memoir}
+\documentclass[10pt,oneside]{memoir}
 
 \def\watermarkloaded{0}
 
@@ -7,7 +7,8 @@
 \input{includes/frame}
 \input{includes/packages}
 \input{includes/pagelayout}
-\input{includes/geometry}
+%\input{includes/geometry}
+\usepackage[letterpaper]{geometry}
 \input{includes/toc}
 \input{includes/font}
 \input{includes/title}
@@ -52,7 +53,7 @@
   \null
   \cleardoublepage
 
-  %\onehalfspacing
+  \onehalfspacing
   %\doublespacing
 
   % \input{content/preface}
