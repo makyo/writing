@@ -18,65 +18,7 @@
 
 
 \refsection{0}
-  \datalist[entry]{nyt/global//global/global}
-    \entry{grief2}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d5c39560bd81522d08837b99e5af7e54}{%
-           family={@Karnythia},
-           familyi={@\bibinitperiod},
-           given={Twitter},
-           giveni={T\bibinitperiod},
-           givenun=0,
-           prefix={user},
-           prefixi={u\bibinitperiod},
-           prefixun=0}}%
-      }
-      \strng{namehash}{d5c39560bd81522d08837b99e5af7e54}
-      \strng{fullhash}{d5c39560bd81522d08837b99e5af7e54}
-      \strng{bibnamehash}{d5c39560bd81522d08837b99e5af7e54}
-      \strng{authorbibnamehash}{d5c39560bd81522d08837b99e5af7e54}
-      \strng{authornamehash}{d5c39560bd81522d08837b99e5af7e54}
-      \strng{authorfullhash}{d5c39560bd81522d08837b99e5af7e54}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://twitter.com/Karnythia/status/1492874765702512643}}
-      \field{note}{Accessed Feb 13, 2022}
-      \field{title}{Twitter thread on African American grieving}
-      \field{year}{2022}
-    \endentry
-    \entry{grief1}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=7aa50b9ed05fe1e5274e4fb9f496af44}{%
-           family={@pookleblinky\footnote{There\bibnamedelimb is\bibnamedelimb perhaps\bibnamedelimb something\bibnamedelimb to\bibnamedelimb be\bibnamedelimb said\bibnamedelimb about\bibnamedelimb the\bibnamedelimb inflexibility\bibnamedelimb of\bibnamedelimb things\bibnamedelimb such\bibnamedelimb as\bibnamedelimb citation\bibnamedelimb styles\bibnamedelimb when\bibnamedelimb it\bibnamedelimb comes\bibnamedelimb to\bibnamedelimb the\bibnamedelimb combination\bibnamedelimb of\bibnamedelimb modern\bibnamedelimb technology\bibnamedelimb and\bibnamedelimb chosen\bibnamedelimb names.\bibnamedelimi I\bibnamedelimb don't\bibnamedelimb know\bibnamedelimb these\bibnamedelimb users'\bibnamedelimb real\bibnamedelimb names.\bibnamedelimi I\bibnamedelimb don't\bibnamedelimb need\bibnamedelimb to\bibnamedelimb know\bibnamedelimb them.\bibnamedelimi I\bibnamedelimb don't\bibnamedelimb \emph{want}\bibnamedelimb to\bibnamedelimb know\bibnamedelimb them,\bibnamedelimb unless\bibnamedelimb they\bibnamedelimb want\bibnamedelimb to\bibnamedelimb share.\bibnamedelimi What\bibnamedelimb was\bibnamedelimb it\bibnamedelimb Dear\bibnamedelimb said?\bibnamedelimb ``Names\bibnamedelimb bear\bibnamedelimb power.''\bibnamedelimb (Scott-Clary\bibnamedelimb 2020d,\bibnamedelimb p.\bibnamedelimi 74)}},
-           familyi={@\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim p\bibinitperiod\bibinitdelim s\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim b\bibinitperiod\bibinitdelim s\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim s\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim c\bibinitperiod\bibinitdelim s\bibinitperiod\bibinitdelim w\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim c\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim c\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim m\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim c\bibinitperiod\bibinitdelim n\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim k\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim r\bibinitperiod\bibinitdelim n\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim n\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim k\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim \\bibinithyphendelim C\bibinitperiod},
-           given={Twitter},
-           giveni={T\bibinitperiod},
-           givenun=0,
-           prefix={user},
-           prefixi={u\bibinitperiod},
-           prefixun=0}}%
-      }
-      \strng{namehash}{7aa50b9ed05fe1e5274e4fb9f496af44}
-      \strng{fullhash}{7aa50b9ed05fe1e5274e4fb9f496af44}
-      \strng{bibnamehash}{7aa50b9ed05fe1e5274e4fb9f496af44}
-      \strng{authorbibnamehash}{7aa50b9ed05fe1e5274e4fb9f496af44}
-      \strng{authornamehash}{7aa50b9ed05fe1e5274e4fb9f496af44}
-      \strng{authorfullhash}{7aa50b9ed05fe1e5274e4fb9f496af44}
-      \field{sortinit}{p}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://twitter.com/pookleblinky/status/1492695182445326338}}
-      \field{note}{Accessed Feb 12, 2022}
-      \field{title}{Twitter thread on American grieving}
-      \field{year}{2022}
-    \endentry
+  \datalist[entry]{nty/global//global/global}
     \entry{alter}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c2e6e90179d6e312588ede120148ea56}{%
@@ -97,8 +39,7 @@
       \strng{authorfullhash}{c2e6e90179d6e312588ede120148ea56}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Hebrew Bible\footnote{Denoted \emph{Alter} when verses are quoted.}}
@@ -121,8 +62,7 @@
       \strng{authorfullhash}{b4ed94c6cc6351862239407be65b2e1b}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://leonardbernstein.com/works/view/48/symphony-no-3-kaddish}}
@@ -150,8 +90,7 @@
       \strng{authorfullhash}{158abe6a41d884d94cb4683cee47d48b}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.gutenberg.org/files/12/12-h/12-h.htm}}
@@ -181,8 +120,7 @@
       \strng{authorfullhash}{a157187c760bfc74787444337b4942e0}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://apocrypals.libsyn.com/101-the-apocrypals-solve-theodicy-the-book-of-job}}
@@ -207,8 +145,7 @@
       \strng{authorfullhash}{3c549a2ba263356037e5ab343dd5ef20}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.chesterton.org/introduction-to-job/}}
@@ -225,7 +162,7 @@
            givenun=0}}%
       }
       \list{publisher}{1}{%
-        {Oxford University Press USA}%
+        {Oxford UP USA}%
       }
       \strng{namehash}{0cde8fc454f3b30926b9394b783a156e}
       \strng{fullhash}{0cde8fc454f3b30926b9394b783a156e}
@@ -235,8 +172,7 @@
       \strng{authorfullhash}{0cde8fc454f3b30926b9394b783a156e}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{annotation}{Cited as NRSV}
@@ -257,8 +193,7 @@
       \strng{authorfullhash}{71fdacd5b1a48b94976ec2c4371f2413}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{film}
@@ -280,9 +215,6 @@
       \field{extraname}{1}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.sofurry.com/view/1317403}}
@@ -290,11 +222,14 @@
       \field{title}{Behesht}
       \field{year}{2018}
     \endentry
-    \entry{dwale_haiku}{misc}{}
+    \entry{leaves}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=901253c8f946f0c0fd0bbb0bfd1c05c2}{%
            family={Dwale},
            familyi={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Weasel P}%
       }
       \strng{namehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
       \strng{fullhash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
@@ -305,36 +240,6 @@
       \field{extraname}{2}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://twitter.com/ThornAppleCider/status/1009137826250625029}}
-      \field{note}{Accessed Jan 10, 2022}
-      \field{title}{\emph{untitled haiku}}
-      \field{year}{2018}
-    \endentry
-    \entry{leaves}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=901253c8f946f0c0fd0bbb0bfd1c05c2}{%
-           family={Dwale},
-           familyi={D\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Weasel Press}%
-      }
-      \strng{namehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
-      \strng{fullhash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
-      \strng{bibnamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
-      \strng{authorbibnamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
-      \strng{authornamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
-      \strng{authorfullhash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
-      \field{extraname}{3}
-      \field{sortinit}{D}
-      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Face Down in the Leaves}
@@ -352,17 +257,37 @@
       \strng{authorbibnamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
       \strng{authornamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
       \strng{authorfullhash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
-      \field{extraname}{4}
+      \field{extraname}{3}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://twitter.com/ThornAppleCider/status/1400884139121840132}}
       \field{note}{Accessed, Feb 21, 2022}
       \field{title}{Tweet on the topic of dead leaves}
       \field{year}{2021}
+    \endentry
+    \entry{dwale_haiku}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=901253c8f946f0c0fd0bbb0bfd1c05c2}{%
+           family={Dwale},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{fullhash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{bibnamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{authorbibnamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{authornamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{authorfullhash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \field{extraname}{4}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://twitter.com/ThornAppleCider/status/1009137826250625029}}
+      \field{note}{Accessed Jan 10, 2022}
+      \field{title}{\emph{untitled haiku}}
+      \field{year}{2018}
     \endentry
     \entry{emerson}{book}{}
       \name{author}{1}{}{%
@@ -384,8 +309,7 @@
       \strng{authorfullhash}{45c10b4d5678c81f72e29ae37704998c}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Essays: Second Series}
@@ -414,8 +338,7 @@
       \strng{authorfullhash}{a7e963c60d8ca9d222c6ad3bf97e3fa9}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://peteenns.com/episode-200-pete-enns-jared-byas-does-the-bible-still-matter/}}
@@ -440,42 +363,12 @@
       \strng{authorfullhash}{cef2cfef5c5bd9cddeb9e162cd2a91ea}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{labeldatesource}{nodate}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://ericwhitacre.com/music-catalog/winter}\footnote{I could find no other reference to this work. This piece is in all ways beautiful, however, so this will stand.}}
       \field{note}{Accessed Jan 10, 2022}
       \field{title}{Winter}
-    \endentry
-    \entry{graves_intercession}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6007b93051740bea79d19dabcfc03c4f}{%
-           family={Graves},
-           familyi={G\bibinitperiod},
-           given={Robert},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{fullhash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{bibnamehash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{authorbibnamehash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{authornamehash}{6007b93051740bea79d19dabcfc03c4f}
-      \strng{authorfullhash}{6007b93051740bea79d19dabcfc03c4f}
-      \field{extraname}{1}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Poetry}
-      \field{number}{1}
-      \field{title}{Intercession in Late October}
-      \field{volume}{71}
-      \field{year}{1947}
-      \field{pages}{23}
-      \range{pages}{1}
     \endentry
     \entry{graves_poems}{book}{}
       \name{author}{1}{}{%
@@ -495,15 +388,41 @@
       \strng{authorbibnamehash}{6007b93051740bea79d19dabcfc03c4f}
       \strng{authornamehash}{6007b93051740bea79d19dabcfc03c4f}
       \strng{authorfullhash}{6007b93051740bea79d19dabcfc03c4f}
-      \field{extraname}{2}
+      \field{extraname}{1}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Collected poems, 1965}
       \field{year}{1965}
+    \endentry
+    \entry{graves_intercession}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6007b93051740bea79d19dabcfc03c4f}{%
+           family={Graves},
+           familyi={G\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6007b93051740bea79d19dabcfc03c4f}
+      \strng{fullhash}{6007b93051740bea79d19dabcfc03c4f}
+      \strng{bibnamehash}{6007b93051740bea79d19dabcfc03c4f}
+      \strng{authorbibnamehash}{6007b93051740bea79d19dabcfc03c4f}
+      \strng{authornamehash}{6007b93051740bea79d19dabcfc03c4f}
+      \strng{authorfullhash}{6007b93051740bea79d19dabcfc03c4f}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Poetry}
+      \field{number}{1}
+      \field{title}{Intercession in Late October}
+      \field{volume}{71}
+      \field{year}{1947}
+      \field{pages}{23}
+      \range{pages}{1}
     \endentry
     \entry{greenstein}{book}{}
       \name{author}{1}{}{%
@@ -518,7 +437,7 @@
         {New Haven, CT}%
       }
       \list{publisher}{1}{%
-        {Yale University Press}%
+        {Yale UP}%
       }
       \strng{namehash}{bdd755ec7e78836655f618c495b91f85}
       \strng{fullhash}{bdd755ec7e78836655f618c495b91f85}
@@ -528,8 +447,7 @@
       \strng{authorfullhash}{bdd755ec7e78836655f618c495b91f85}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Job: A New Translation\footnote{Denoted \emph{Greenstein} when verses are quoted.}}
@@ -552,8 +470,7 @@
       \strng{authorfullhash}{f55d7e88e0bf808588917a8dac1044e4}
       \field{sortinit}{G}
       \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://freshairarchive.org/guests/allie-brosh}}
@@ -574,7 +491,7 @@
         {New Haven, CT}%
       }
       \list{publisher}{1}{%
-        {Yale University Press}%
+        {Yale UP}%
       }
       \strng{namehash}{35fec84ed23a26d03f9feba989cfe868}
       \strng{fullhash}{35fec84ed23a26d03f9feba989cfe868}
@@ -584,8 +501,7 @@
       \strng{authorfullhash}{35fec84ed23a26d03f9feba989cfe868}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The New Testament\footnote{Denoted \emph{Hart} when verses are quoted.}}
@@ -620,8 +536,7 @@
       \strng{authorfullhash}{94e6e93ac92c788c3227efe766d46875}
       \field{sortinit}{I}
       \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Autumn Wind: a selection of poems by Issa}
@@ -647,8 +562,7 @@
       \strng{authorfullhash}{e9aae39e414de10405835be2d87188c3}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Complete Poems and Selected Letters of John Keats}
@@ -677,8 +591,7 @@
       \strng{authorfullhash}{0ceaef54b4b175305865c98fd5d99819}
       \field{sortinit}{L}
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Help Thanks Wow: The Three Essential Prayers}
@@ -710,8 +623,7 @@
       \strng{authorfullhash}{6f11eb2e875d9e1e37c110bc5ac3f0cd}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{This is How You Lose the Time War}
@@ -734,8 +646,7 @@
       \strng{authorfullhash}{6940bd9a5afc02385aaddd4ba9e153ef}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://vm.tiktok.com/ZTdbWEMtW/}}
@@ -762,8 +673,7 @@
       \strng{authorfullhash}{f89e625998e63aebbd2425b750bae342}
       \field{sortinit}{O}
       \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Something That May Shock and Discredit You}
@@ -786,8 +696,7 @@
       \strng{authorfullhash}{56e0143e581df0b6c4fdf52c988e14b3}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{http://opera.stanford.edu/Purcell/FairyQueen/libretto.html}}
@@ -815,93 +724,11 @@
       \strng{authorfullhash}{19145cef08f62829c756f82036d4ffaf}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Duino Elegies\footnote{I mentioned in a previous footnote the difficulty in citing works within the realm of chosen names and modern technology; I wrote a small art-song using the opening lines of Rilke's first elegy, but were I to quote \emph{that} instead, how would I do so? As Matthew? He is dead, his name should be fair game. And yet that was me, was it not? As Madison?}}
       \field{year}{2003}
-    \endentry
-    \entry{arkie}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
-           family={Scott-Clary},
-           familyi={S\bibinithyphendelim C\bibinitperiod},
-           given={Madison},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
-      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{1}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://makyo.ink/haiku/}}
-      \field{note}{Accessed Feb 20, 2022}
-      \field{title}{Arctic fox's den\footnote{I thought long and hard about whether or not I would cite my own works. I talked about it with my mentor, even. We came to the conclusion that part of the point of these essays is that I am taking a step back and observing myself, thinking about what I am feeling, and putting that in context of Madison Scott-Clary writ large. These are \emph{her} works; all I am doing is reading them.}}
-      \field{year}{2016}
-    \endentry
-    \entry{uvaip}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
-           family={Scott-Clary},
-           familyi={S\bibinithyphendelim C\bibinitperiod},
-           given={Madison},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
-      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{2}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://writing.drab-makyo.com/poetry/important-people/}}
-      \field{note}{Accessed Feb 26, 2022}
-      \field{title}{Unimportant Verse About Important People}
-      \field{year}{2017}
-    \endentry
-    \entry{rush}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
-           family={Scott-Clary},
-           familyi={S\bibinithyphendelim C\bibinitperiod},
-           given={Madison},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
-      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{3}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://makyo.ink/rush}}
-      \field{note}{Accessed Feb 26, 2022}
-      \field{title}{Rush}
-      \field{year}{2019}
     \endentry
     \entry{ally-making-of}{book}{}
       \name{author}{1}{}{%
@@ -921,16 +748,38 @@
       \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{4}
+      \field{extraname}{1}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{ally from Start to Finish}
       \field{year}{2020}
+    \endentry
+    \entry{arkie}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
+           family={Scott-Clary},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
+      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://makyo.ink/haiku/}}
+      \field{note}{Accessed Feb 20, 2022}
+      \field{title}{Arctic fox's den\footnote{I thought long and hard about whether or not I would cite my own works. I talked about it with my mentor, even. We came to the conclusion that part of the point of these essays is that I am taking a step back and observing myself, thinking about what I am feeling, and putting that in context of Madison Scott-Clary writ large. These are \emph{her} works; all I am doing is reading them.}}
+      \field{year}{2016}
     \endentry
     \entry{eigengrau}{book}{}
       \name{author}{1}{}{%
@@ -950,75 +799,15 @@
       \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{5}
+      \field{extraname}{3}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Eigengrau: Poems 2015--2020}
       \field{year}{2020}
       \field{pages}{68\bibrangedash 71}
       \range{pages}{4}
-    \endentry
-    \entry{pale_she}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
-           family={Scott-Clary},
-           familyi={S\bibinithyphendelim C\bibinitperiod},
-           given={Madison},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
-      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{6}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradate}{3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://writing.drab-makyo.com/poetry/pale-she/}}
-      \field{note}{Accessed Jan 10, 2022}
-      \field{title}{Pale She}
-      \field{year}{2020}
-    \endentry
-    \entry{qoheleth}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
-           family={Scott-Clary},
-           familyi={S\bibinithyphendelim C\bibinitperiod},
-           given={Madison},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {self-published}%
-      }
-      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
-      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
-      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{7}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradate}{4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Qoheleth}
-      \field{year}{2020}
     \endentry
     \entry{memorial}{misc}{}
       \true{moreauthor}
@@ -1039,14 +828,89 @@
       \strng{authorfullhash}{6917946cfa5440d43e28e388442b2baa}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://forums.furrywritersguild.com/t/in-memory-of-dwale/2359}}
       \field{note}{Accessed Jan 29, 2022}
       \field{title}{In Memory of Dwale}
       \field{year}{2021}
+    \endentry
+    \entry{mitzvot}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
+           family={Scott-Clary},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {self published}%
+      }
+      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
+      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
+      \field{extraname}{4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mitzvot}
+      \field{year}{2023}
+    \endentry
+    \entry{pale_she}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
+           family={Scott-Clary},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
+      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
+      \field{extraname}{5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://writing.drab-makyo.com/poetry/pale-she/}}
+      \field{note}{Accessed Jan 10, 2022}
+      \field{title}{Pale She}
+      \field{year}{2020}
+    \endentry
+    \entry{penguins}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
+           family={Scott-Clary},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
+      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
+      \field{extraname}{6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://makyo.ink/penguins/}}
+      \field{note}{Accessed Feb 24, 2022}
+      \field{title}{Penguins}
+      \field{year}{2022}
     \endentry
     \entry{plu}{misc}{}
       \name{author}{1}{}{%
@@ -1063,11 +927,9 @@
       \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
       \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
-      \field{extraname}{8}
+      \field{extraname}{7}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://makyo.ink/please-look-up/}}
@@ -1075,7 +937,33 @@
       \field{title}{Please look Up}
       \field{year}{2021}
     \endentry
-    \entry{penguins}{misc}{}
+    \entry{qoheleth}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
+           family={Scott-Clary},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {self-published}%
+      }
+      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
+      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
+      \field{extraname}{8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Qoheleth}
+      \field{year}{2020}
+    \endentry
+    \entry{rush}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
            family={Scott-Clary},
@@ -1093,15 +981,12 @@
       \field{extraname}{9}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{howpublished}{\url{https://makyo.ink/penguins/}}
-      \field{note}{Accessed Feb 24, 2022}
-      \field{title}{Penguins}
-      \field{year}{2022}
+      \field{howpublished}{\url{https://makyo.ink/rush}}
+      \field{note}{Accessed Feb 26, 2022}
+      \field{title}{Rush}
+      \field{year}{2019}
     \endentry
     \entry{toledot}{book}{}
       \name{author}{1}{}{%
@@ -1124,15 +1009,12 @@
       \field{extraname}{10}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Toledot}
       \field{year}{2022}
     \endentry
-    \entry{mitzvot}{book}{}
+    \entry{uvaip}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
            family={Scott-Clary},
@@ -1140,9 +1022,6 @@
            given={Madison},
            giveni={M\bibinitperiod},
            givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {self published}%
       }
       \strng{namehash}{6385af222fcf07f42cb1773253369d15}
       \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
@@ -1153,12 +1032,12 @@
       \field{extraname}{11}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Mitzvot}
-      \field{year}{2023}
+      \field{howpublished}{\url{https://writing.drab-makyo.com/poetry/important-people/}}
+      \field{note}{Accessed Feb 26, 2022}
+      \field{title}{Unimportant Verse About Important People}
+      \field{year}{2017}
     \endentry
     \entry{sefaria}{misc}{}
       \name{author}{1}{}{%
@@ -1174,8 +1053,7 @@
       \strng{authorfullhash}{ed47a7971091caa190341284fe635ed2}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://www.sefaria.org/}}
@@ -1199,14 +1077,67 @@
       \strng{authorfullhash}{0ccfb9aa706d3e1ee6de3a8dfc327144}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://en.wikisource.org/wiki/Thirteen_Ways_of_Looking_at_a_Blackbird}}
       \field{note}{Accessed Jan 9, 2022}
       \field{title}{Thirteen Ways of Looking at a Blackbird}
       \field{year}{1917}
+    \endentry
+    \entry{grief2}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d5c39560bd81522d08837b99e5af7e54}{%
+           family={@Karnythia},
+           familyi={@\bibinitperiod},
+           given={Twitter},
+           giveni={T\bibinitperiod},
+           givenun=0,
+           prefix={user},
+           prefixi={u\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5c39560bd81522d08837b99e5af7e54}
+      \strng{fullhash}{d5c39560bd81522d08837b99e5af7e54}
+      \strng{bibnamehash}{d5c39560bd81522d08837b99e5af7e54}
+      \strng{authorbibnamehash}{d5c39560bd81522d08837b99e5af7e54}
+      \strng{authornamehash}{d5c39560bd81522d08837b99e5af7e54}
+      \strng{authorfullhash}{d5c39560bd81522d08837b99e5af7e54}
+      \field{sortinit}{u}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://twitter.com/Karnythia/status/1492874765702512643}}
+      \field{note}{Accessed Feb 13, 2022}
+      \field{title}{Twitter thread on African American grieving}
+      \field{year}{2022}
+    \endentry
+    \entry{grief1}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7aa50b9ed05fe1e5274e4fb9f496af44}{%
+           family={@pookleblinky\footnote{There\bibnamedelimb is\bibnamedelimb perhaps\bibnamedelimb something\bibnamedelimb to\bibnamedelimb be\bibnamedelimb said\bibnamedelimb about\bibnamedelimb the\bibnamedelimb inflexibility\bibnamedelimb of\bibnamedelimb things\bibnamedelimb such\bibnamedelimb as\bibnamedelimb citation\bibnamedelimb styles\bibnamedelimb when\bibnamedelimb it\bibnamedelimb comes\bibnamedelimb to\bibnamedelimb the\bibnamedelimb combination\bibnamedelimb of\bibnamedelimb modern\bibnamedelimb technology\bibnamedelimb and\bibnamedelimb chosen\bibnamedelimb names.\bibnamedelimi I\bibnamedelimb don't\bibnamedelimb know\bibnamedelimb these\bibnamedelimb users'\bibnamedelimb real\bibnamedelimb names.\bibnamedelimi I\bibnamedelimb don't\bibnamedelimb need\bibnamedelimb to\bibnamedelimb know\bibnamedelimb them.\bibnamedelimi I\bibnamedelimb don't\bibnamedelimb \emph{want}\bibnamedelimb to\bibnamedelimb know\bibnamedelimb them,\bibnamedelimb unless\bibnamedelimb they\bibnamedelimb want\bibnamedelimb to\bibnamedelimb share.\bibnamedelimi What\bibnamedelimb was\bibnamedelimb it\bibnamedelimb Dear\bibnamedelimb said?\bibnamedelimb ``Names\bibnamedelimb bear\bibnamedelimb power.''\bibnamedelimb (Scott-Clary\bibnamedelimb 2020d,\bibnamedelimb p.\bibnamedelimi 74)}},
+           familyi={@\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim p\bibinitperiod\bibinitdelim s\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim b\bibinitperiod\bibinitdelim s\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim s\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim c\bibinitperiod\bibinitdelim s\bibinitperiod\bibinitdelim w\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim c\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim c\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim m\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim c\bibinitperiod\bibinitdelim n\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim k\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim r\bibinitperiod\bibinitdelim n\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim n\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim k\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim \\bibinithyphendelim C\bibinitperiod},
+           given={Twitter},
+           giveni={T\bibinitperiod},
+           givenun=0,
+           prefix={user},
+           prefixi={u\bibinitperiod}}}%
+      }
+      \strng{namehash}{7aa50b9ed05fe1e5274e4fb9f496af44}
+      \strng{fullhash}{7aa50b9ed05fe1e5274e4fb9f496af44}
+      \strng{bibnamehash}{7aa50b9ed05fe1e5274e4fb9f496af44}
+      \strng{authorbibnamehash}{7aa50b9ed05fe1e5274e4fb9f496af44}
+      \strng{authornamehash}{7aa50b9ed05fe1e5274e4fb9f496af44}
+      \strng{authorfullhash}{7aa50b9ed05fe1e5274e4fb9f496af44}
+      \field{sortinit}{u}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://twitter.com/pookleblinky/status/1492695182445326338}}
+      \field{note}{Accessed Feb 12, 2022}
+      \field{title}{Twitter thread on American grieving}
+      \field{year}{2022}
     \endentry
     \entry{septuagint}{misc}{}
       \name{author}{1}{}{%
@@ -1222,8 +1153,7 @@
       \strng{authorfullhash}{f22794f69ce5910cb4be68ff9026570d}
       \field{sortinit}{V}
       \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{{\url{https://2001translation.org/read/job}}}
@@ -1248,8 +1178,7 @@
       \strng{authorfullhash}{936851c6c76d7b7b0bd656c92b5273bc}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://thenervousbreakdown.com/bwakefield/2010/01/hurling-crowbirds-at-mockingbars-hope-is-not-a-course-of-action/}}
@@ -1282,8 +1211,7 @@
       \strng{authorfullhash}{8c5e821d8de66d24dc41cf61b46663c2}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Nineteen ways of looking at Wang Wei: (with more ways)}
@@ -1303,7 +1231,7 @@
       \strng{authorfullhash}{c07c27a9ae9cdfd516caa7d0cac9884b}
       \field{sortinit}{W}
       \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{labeldatesource}{nodate}
+      \true{singletitle}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://en.wikifur.com/wiki/Dwale}}

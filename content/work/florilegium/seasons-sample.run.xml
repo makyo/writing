@@ -44,44 +44,41 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>florilegium.bcf</file>
+      <file>seasons-sample.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>florilegium.bbl</file>
+      <file>seasons-sample.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
-      <file>mla.dbx</file>
       <file>blx-unicode.def</file>
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
       <file>standard.bbx</file>
-      <file>mla-strict.bbx</file>
-      <file>mla.bbx</file>
-      <file>mla-footnotes.cbx</file>
-      <file>mla.cbx</file>
+      <file>authoryear.bbx</file>
+      <file>authoryear-ibid.bbx</file>
+      <file>authoryear-ibid.cbx</file>
       <file>biblatex.cfg</file>
       <file>english.lbx</file>
-      <file>english-mla.lbx</file>
     </requires>
   </internal>
   <external package="biblatex" priority="5" active="0">
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>florilegium</infile>
+      <infile>seasons-sample</infile>
     </cmdline>
     <input>
-      <file>florilegium.bcf</file>
+      <file>seasons-sample.bcf</file>
     </input>
     <output>
-      <file>florilegium.bbl</file>
+      <file>seasons-sample.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>florilegium.bbl</file>
+      <file>seasons-sample.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>florilegium.bcf</file>
+      <file>seasons-sample.bcf</file>
     </requires>
     <requires type="editable">
       <file>florilegium.bib</file>
