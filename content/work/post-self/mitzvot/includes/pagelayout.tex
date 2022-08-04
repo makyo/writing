@@ -24,6 +24,12 @@
   \fancyhf[HLE]{\TitleFont{\nouppercase\leftmark}}
   \fancyhf[HRO]{\TitleFont{\AuthorFull}}
 }
+  \nopartblankpage
+  \makeatletter
+  \renewcommand*{\beforepartskip}{\null\vfill\thispagestyle{empty}}
+  \renewcommand*{\afterpartskip}{\par\vskip1cm%
+  \@afterindentfalse\@afterheading}
+  \makeatother
 
 % plain style with only page num
 \fancypagestyle{plain}{
