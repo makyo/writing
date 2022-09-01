@@ -1,0 +1,216 @@
+\documentclass[12pt,letterpaper]{article}
+
+\def\WorkTitle{Mitzvot}
+\def\WorkAuthor{Madison Scott-Clary}
+\def\WorkType{novel}
+\def\Artist{Iris Jay}
+\def\ArtType{two interior illustrations}
+\def\UpFront{\$220 USD}
+\def\AtCompletion{\$440 USD}
+\def\FlatFee{\$220 USD}
+\def\PrintRoyalties{25\%}
+\def\DigitalRoyalties{50\%}
+\def\PaymentMechanism{PayPal} % Or check, etc.
+\def\CopyrightDate{February 25, 2018}
+\def\PublicationDate{January 21, 2023}
+\def\ContractNumber{1}
+\def\RelatedContract{1}
+
+\usepackage[dvipsnames]{xcolor}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage{color,soul}
+
+%%% Draft mode
+\usepackage{draftwatermark}
+\SetWatermarkText{DRAFT}
+\usepackage[top=1.25in, bottom=1.25in, right=2in, left=1in, marginparwidth=1.5in]{geometry}
+\usepackage[colorinlistoftodos]{todonotes}
+\newcommand{\NB}[1]{\todo[linecolor=blue,backgroundcolor=blue!25,bordercolor=blue]{#1}}
+%%% Final mode
+% \usepackage[top=1.25in, bottom=1.25in, right=1in, left=1in]{geometry}
+% \newcommand{\NB}[1]{\null}
+
+\pagestyle{fancy}
+\fancyhf{}
+\chead{Illustration contract --- \WorkTitle}
+\cfoot{\thepage\ of \pageref{LastPage}}
+
+\usepackage{fontspec}
+\setmainfont{Gentium Book Basic}
+\newfontfamily\HybridFamily{Ubuntu}
+
+\newdimen\longline
+\longline=\textwidth\advance\longline-4cm
+
+\def\LayoutTextField#1#2{#2} % override default in hyperref
+
+\def\lbl#1{\hbox to 4cm{#1\dotfill\strut}}%
+\def\labelline#1#2{\lbl{#1}\vbox{\hbox{\TextField[name=#1,width=#2]{\null}}\kern2pt\hrule}}
+
+\def\q#1{\hbox to \hsize{\labelline{#1}{\longline}}\vskip1.4ex}
+
+\begin{document}
+
+\noindent AGREEMENT between \textbf{\WorkAuthor} (``the Author'') and \textbf{\Artist} (``the Artist''). The parties to this Agreement wish to provide \ArtType\ (``the Pieces'') for the \WorkType\ \textbf{``\WorkTitle''} (``the Work'').
+
+\section{Duration}
+
+This Agreement governs all rights granted herein in perpetuity.
+
+\section{Rights}
+
+\paragraph{Artist's rights}
+
+The Artist retains all rights to the Pieces not granted to the Author below.
+
+\paragraph{Author's rights}
+
+The Artist grants rights to use the Pieces as \WorkType\ to be published in conjunction with the Work in print and digital formats, and to be used in marketing and publication.
+
+\paragraph{Copyright}
+
+Copyright will remain with the Artist with only the above rights licensed.
+
+\paragraph{Artist use}
+
+The Artist will not sell or display\NB{Patreon should be fine}\ the Pieces or reproductions prior to the publication date without the Author's written consent. The Artist will not sell or display the Pieces a reproductions without reference to the Work and the Author visible on or attached the Pieces or reproductions.
+
+\section{Indemnifications}
+
+The Artist attests that they are the sole creator of the Pieces and that the Pieces, to the best of their knowledge:
+
+\begin{itemize}
+    \item Will not infringe on the personal rights of a third party, and
+    \item Will not give rise to claims in defamation, privacy, infringement of copyright or trademark, etc.
+\end{itemize}
+
+The Artist indemnifies and holds harmless the Author against any and all claims, actions, demands, etc. arising from the publication of the Pieces. This includes, but is not limited to, actions involving plagiarism, fraud, and theft.
+
+\paragraph{Components}
+
+The Artist may use related assets, including but not limited to fonts, brushes, or stock imagery, as components in the Pieces in accordance to the licenses, including but not limited to reproduction or publication rights, of those assets.
+
+\section{Duties}
+
+\paragraph{Artist duties}
+
+The Artist shall:
+
+\begin{itemize}
+    \item Deliver complete \ArtType\ as a high-resolution digital asset,
+    \item Work with the Author, the Author, and any representatives during the pre-publication process, and
+    \item Promote and market the Work as they see fit post-publication.
+\end{itemize}
+
+\section{Compensation}
+
+\paragraph{Flat fee}
+
+The Author agrees to pay \UpFront\ up front and \AtCompletion\ to the Artist upon receipt of the high-resolution Piece for a total of a flat fee of \FlatFee. The Author will furnish payment via \PaymentMechanism.\NB{Or whatever's best.}
+
+%
+% \paragraph{Royalties}
+%
+% The Publisher agrees to pay royalties on net sales according to the following:
+%
+% \begin{center}
+% \begin{tabular}{r c}
+%     \textbf{Edition} & \textbf{Royalties} \\ \hline
+%     Trade Paperback & \PrintRoyalties \\
+%     E-book & \DigitalRoyalties \\
+%     \hline
+% \end{tabular}
+% \end{center}
+%
+% \paragraph{Payment schedule}
+%
+% The Publisher will pay the Artist quarterly by way of \PaymentMechanism.
+%
+% \paragraph{Statement of account}
+%
+% The Publisher will furnish a statement of account along with each quarterly payment.
+
+\section{Direct Copies}
+
+\paragraph{At publication} The Author will ship copies of The Work to the Artist prior to publication for their own sale or use.
+
+\paragraph{Post-publication} The Artist will have the right to purchase additional copies at cost plus shipping for sale at their discretion.
+
+\section{Publication}
+
+\paragraph{Publication date}
+
+Publication of the Work will not take place after \PublicationDate. Receipt of the Pieces will be no later than November 1, 2022.\NB{Somewhat flexible; printing date for other books may be later than for \emph{Mitzvot}.}
+
+\paragraph{Reasonable delay}
+
+Publication may be reasonably delayed due to unforeseeable circumstances through no fault of the Author such as, but not limited to, criminal action, labor disputes, etc.
+
+\paragraph{Sunset}
+
+If the publication date is not met by \PublicationDate\ plus 90 days, this contract will sunset and all rights revert back to the Artist.
+
+\section{Competing works}
+
+The Artist agrees that they shall publish no other work, during the terms of this contract, that includes any characters, likenesses, or any other material related to the Work mentioned herein, unless agreed upon by the Author (e.g., the Artist may not illustrate subsequent piece with another publisher without prior consent of the Author).\NB{Some boilerplate. The setting is open for all, mostly just re: the characters.}
+
+\section{Reversion}
+
+If the Work is out-of-print and the Author receives a written request for reversion of rights to the Pieces from the Artist, the Author shall agree to revert, in writing, to the Artist all rights granted to the Author in this Agreement.
+
+\section{Termination}
+
+Other than the mechanisms outlined above, this Agreement may only be terminated by written agreement signed by both the Artist and the Author.
+
+\section{Additional regulations}
+
+This Agreement is subject to the laws and regulations of the State of Washington.
+
+\newpage
+
+When Artist enters the information below and emails this contract back to the Author, the parties agree that the contract is digitally signed:
+
+\begin{Form}
+    \q{Full Name}
+    \q{Today's Date}
+    \q{Email}
+\end{Form}
+
+\hrule
+
+\vspace{12pt}
+
+\noindent \textit{Author:}
+
+Madison Scott-Clary
+
+32920 Sultan Basin Rd
+
+Sultan, WA 98294
+
+%\section*{Signed}
+%
+%\begin{tabular}{p{3in} | p{3in}}
+%    \vspace{0.5in}\emph{Madison Scott-Clary} & \vspace{0.5in}\emph{Iris Jay}\\ \hline
+%    Printed name of representative of the Author & Printed name of the Artist \\
+%    \vspace{0.5in} & \\ \hline
+%    Signature of representative of the Author & Signature of the Artist \\
+%    \vspace{0.5in} & \\ \hline
+%    Date & Date \\
+%\end{tabular}
+%
+%\section*{Witnessed}
+%
+%\begin{tabular}{l}
+%    \vspace{0.5in} \\ \hline
+%    Printed name of witness/lawyer \\
+%    \vspace{0.5in} \\ \hline
+%    Signature of witness/lawyer \\
+%    \vspace{0.5in} \\ \hline
+%    Date \\
+%\end{tabular}
+
+\end{document}

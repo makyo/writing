@@ -1,0 +1,111 @@
+\documentclass[11pt]{memoir}
+
+\def\watermarkloaded{0}
+
+\input{includes/variables}
+\input{includes/draft}
+\input{includes/frame}
+\input{includes/packages}
+\input{includes/pagelayout}
+\input{includes/geometry}
+\input{includes/toc}
+\input{includes/font}
+\input{includes/title}
+\input{includes/secdiv}
+\input{includes/hyphenation}
+
+\begin{document}
+  \frontmatter
+  \pagestyle{empty}
+
+
+  \begin{flushright}
+  \null
+  \vfill
+  \large{\TitleFont{When the World Was Young}}
+  
+  \TitleFont{A Prehistoric Anthology}
+  \vfill
+  \end{flushright}
+
+  \cleardoublepage
+  \doublespacing
+
+  \begin{center}
+    \TitleFamily
+    \Huge{When the World Was Young}
+
+    \vfill
+
+    \large{ A Prehistoric Anthology}
+    
+    \vfill
+
+    \includegraphics{assets/toy-bw.png}
+    
+    \vfill
+  
+    \normalfont\small
+    Madison Scott-Clary $\bullet$
+    J.S. Hawthorne $\bullet$
+    Rob MacWolf $\bullet$
+    NightEyes DaySpring $\bullet$
+    Huldra $\bullet$
+    Pascal Farful $\bullet$
+    SakaraFox $\bullet$
+    Utunu $\bullet$
+    Huskyteer $\bullet$
+    J.F.R. Coates $\bullet$
+    Darius Davis $\bullet$
+    Thomas ``Faux'' Steele $\bullet$
+    Casimir Laski $\bullet$
+    Kayodé Lycaon
+  \end{center}
+  \thispagestyle{empty}
+
+  \newpage
+
+  \input{includes/copyright}
+
+  \newpage
+  \null
+  \cleardoublepage
+  \tableofcontents*
+  \newpage
+  \null
+  \cleardoublepage
+
+  %\onehalfspacing
+  \null
+  \vfill
+  
+  \noindent\emph{When The World Was Young} is a collaborative project by the authors of the stories, with each of us chipping in to help with the process of editing, organizing, and decision-making. Thanks is given to each author in turn for their contributions, and we all hope that you enjoy the fruits of our labor.
+
+  \vfill
+
+  \textbf{Content warnings:}
+
+  \mainmatter
+
+  \pagestyle{ourbook}
+  \input{content/speaketh-fate}
+  \input{content/worn-out-tools}
+  \input{content/unseeing}
+  \input{content/requiem}
+	\input{content/the-last-giant}
+	\input{content/eyeshine}
+	\input{content/8-days}
+	\input{content/breathless}
+	\input{content/lids}
+	\input{content/howling-to-the-moon}
+	\input{content/eternal-spring}
+	\input{content/shrine}
+	\input{content/stranger}
+	\input{content/ritual}
+
+  \backmatter
+  \pagestyle{plain}
+
+  \input{content/bios}
+
+\end{document}
