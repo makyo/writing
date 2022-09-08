@@ -1,13 +1,20 @@
 \documentclass[12pt,letterpaper]{article}
 
+\usepackage[dvipsnames]{xcolor}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage{color,soul}
+
 \def\WorkTitle{The Post-Self Cycle}
 \def\WorkAuthor{Madison Scott-Clary}
 \def\WorkType{novel}
-\def\Artist{Kris Weaver}
-\def\ArtType{two interior illustrations}
-\def\UpFront{\$XXX USD}
-\def\AtCompletion{\$XXX USD}
-\def\FlatFee{\$XXX USD}
+\def\Artist{Grey White}
+\def\ArtType{1-2 interior illustrations}
+\def\UpFront{50\%}
+\def\AtCompletion{50\%}
+\def\FlatFee{\$\TextField[width=1.5cm]}
 \def\PrintRoyalties{25\%}
 \def\DigitalRoyalties{50\%}
 \def\PaymentMechanism{Paypal} % Or check, etc.
@@ -15,13 +22,6 @@
 \def\PublicationDate{January 21, 2023}
 \def\ContractNumber{1}
 \def\RelatedContract{1}
-
-\usepackage[dvipsnames]{xcolor}
-\usepackage{hyperref}
-\usepackage{graphicx}
-\usepackage{lastpage}
-\usepackage{fancyhdr}
-\usepackage{color,soul}
 
 %%% Draft mode
 \usepackage{draftwatermark}
@@ -53,6 +53,7 @@
 \def\q#1{\hbox to \hsize{\labelline{#1}{\longline}}\vskip1.4ex}
 
 \begin{document}
+\Form
 
 \noindent AGREEMENT between \textbf{\WorkAuthor} (``the Author'') and \textbf{\Artist} (``the Artist''). The parties to this Agreement wish to provide \ArtType\ (``the Pieces'') for the \WorkType\ \textbf{``\WorkTitle''} (``the Work'').
 
@@ -173,11 +174,9 @@ This Agreement is subject to the laws and regulations of the State of Washington
 
 When Artist enters the information below and emails this contract back to the Author, the parties agree that the contract is digitally signed:
 
-\begin{Form}
     \q{Full Name}
     \q{Today's Date}
     \q{Email}
-\end{Form}
 
 \hrule
 

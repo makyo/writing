@@ -8,11 +8,11 @@
 \input{includes/packages}
 \input{includes/pagelayout}
 \input{includes/geometry}
-\input{includes/toc}
 \input{includes/font}
 \input{includes/title}
 \input{includes/secdiv}
 \input{includes/hyphenation}
+\input{includes/toc}
 
 \begin{document}
   \frontmatter
@@ -46,20 +46,20 @@
     \vfill
   
     \normalfont\small
-    Madison Scott-Clary $\bullet$
-    J.S. Hawthorne $\bullet$
-    Rob MacWolf $\bullet$
-    NightEyes DaySpring $\bullet$
-    Huldra $\bullet$
-    Pascal Farful $\bullet$
     SakaraFox $\bullet$
     Utunu $\bullet$
     Huskyteer $\bullet$
     J.F.R. Coates $\bullet$
-    Darius Davis $\bullet$
+    NightEyes DaySpring %$\bullet$
+    Rose LaCroix $\bullet$
+    Madison Scott-Clary $\bullet$
+    Kayodé Lycaon $\bullet$
+    Rob MacWolf %$\bullet$
     Thomas ``Faux'' Steele $\bullet$
-    Casimir Laski $\bullet$
-    Kayodé Lycaon
+    J.S. Hawthorne $\bullet$
+    Huldra $\bullet$
+    Pascal Farful \\%$\bullet$
+    Casimir Laski %$\bullet$
   \end{center}
   \thispagestyle{empty}
 
@@ -83,26 +83,66 @@
 
   \vfill
 
-  \textbf{Content warnings:}
+  \textbf{Content warnings:} ``Lids", ``Priest of Lilies'', and ``Mark of the Stranger'' include references to sex; ``The Dance of the Peruvaan'', ``Lids'', ``Worn-Out Tools'', ``The Shrine of T-am-ădad'', ``The Last Giant'', ``Mark of the Stranger'' and ``Unmourned'' include violence, blood, injuries, or death to varying levels of depiction; ``Worn-Out Tools'' includes drug use and, separately, a child in distress.
 
   \mainmatter
 
   \pagestyle{ourbook}
-  \input{content/speaketh-fate}
-  \input{content/worn-out-tools}
-  \input{content/unseeing}
-  \input{content/requiem}
-	\input{content/the-last-giant}
-	\input{content/eyeshine}
-	\input{content/8-days}
-	\input{content/breathless}
-	\input{content/lids}
-	\input{content/howling-to-the-moon}
-	\input{content/eternal-spring}
-	\input{content/shrine}
-	\input{content/stranger}
-	\input{content/ritual}
 
+  \part*{Stone}
+  \thispagestyle{empty}
+  \cftaddtitleline{toc}{part}{\hspace{0.5\textwidth-2em}\TitleFont Stone}{}
+	
+  \input{content/titles/breathless}
+  \input{content/breathless}
+	
+  \input{content/titles/lids}
+  \input{content/lids}
+  
+  \input{content/titles/worn-out-tools}
+  \input{content/worn-out-tools}
+	
+  \input{content/titles/howling-to-the-moon}
+  \input{content/howling-to-the-moon}
+  
+	\input{content/titles/eyeshine}
+	\input{content/eyeshine}
+
+  \input{content/titles/daughter}
+  \input{content/daughter}
+
+  \part*{Bronze}
+  \thispagestyle{empty}
+  \cftaddtitleline{toc}{part}{\hspace{0.5\textwidth-2.2em}\TitleFont Bronze}{}
+  
+  \input{content/titles/unseeing}
+  \input{content/unseeing}
+
+  \input{content/titles/lilies}
+  \input{content/lilies}
+
+  \input{content/titles/speaketh-fate}
+  \input{content/speaketh-fate}
+	
+  \input{content/titles/shrine}
+  \input{content/shrine}
+
+  \part*{Iron}
+  \thispagestyle{empty}
+  \cftaddtitleline{toc}{part}{\hspace{0.5\textwidth-1em}\TitleFont Iron}{}
+  
+	\input{content/titles/the-last-giant}
+	\input{content/the-last-giant}
+	
+  \input{content/titles/8-days}
+  \input{content/8-days}
+  
+  \input{content/titles/requiem}
+  \input{content/requiem}
+	
+  \input{content/titles/stranger}
+  \input{content/stranger}
+	
   \backmatter
   \pagestyle{plain}
 
