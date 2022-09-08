@@ -71,7 +71,7 @@ Please consider carefully if I'm a good fit before asking me to do these, but fe
 
 ### Pricing
 
-Still interested? My pricing is pretty simple! I ask for $20 USD base price, plus 5¢ per word. E.g: a 3,000 word commission is 20+(3000×0.05) = $170 USD.
+Still interested? My pricing is pretty simple! I ask for $20 USD base price, plus 5¢ per word. E.g: a 3,000 word commission is 20+(3000×0.05) = $170 USD.[^pricey]
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf8vH8B-uIEGweHVtUbP4pv9ESAQPjMziTPT0GR_VvywzNTeQ/viewform?embedded=true" width="640" height="1024" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
@@ -81,4 +81,4 @@ Still interested? My pricing is pretty simple! I ask for $20 USD base price, plu
     * I edit about 1,000 words an hour
     * Typesetting a project takes me about an hour
 
-    This works out to about $60 USD an hour before taxes. Groceries for two weeks for two people is about $250--300 USD. A semester of tuition costs $7000. My share of the mortgage and utilities is $3000.
+    This works out to about $60 USD an hour before taxes. Groceries for two weeks for two people is about $250--300 USD. A semester of tuition costs $7000. My share of the mortgage and utilities is $3000. The SFWA word rate is 8¢ per word.
