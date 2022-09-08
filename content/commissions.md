@@ -19,7 +19,7 @@ I am currently **open for one or two 1,000--5,000 word commissions.**
 
 * You send me the form below, which contains requests for character descriptions, events and story ideas, and moods. If I like it, I'll choose it and get in touch with you.
 * I come back to you with a short outline that we can workshop. Once we agree, you pay 50% (refundable).
-* You'll then get a draft for approval, at which point you can make small changes --- rewrites will be $10/1000 words. At final approval, you pay the second 50% (non-refundable). 
+* You'll then get a draft for approval, at which point you can make small changes --- rewrites will be $10 per 1000 words. At final approval, you pay the second 50% (non-refundable). 
 * You get a final version of the story as a fully-typeset PDF, plus whatever formats you want for posting (ODT, Markdown, FA's BBCode, Google Docs, etc).
 
 #### Licensing
