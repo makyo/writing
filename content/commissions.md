@@ -19,7 +19,7 @@ I am currently **open for one or two 1,000--5,000 word commissions.**
 
 * You send me the form below, which contains requests for character descriptions, events and story ideas, and moods. If I like it, I'll choose it and get in touch with you.
 * I come back to you with a short outline that we can workshop. Once we agree, you pay 50% (refundable).
-* You'll then get a draft for approval, at which point you can make small changes --- rewrites will be $10 per 1000 words. At final approval, you pay the second 50% (non-refundable). 
+* You'll then get a draft for approval, at which point you can make small changes --- rewrites will be 2.5¢ per word. At final approval, you pay the second 50% (non-refundable). 
 * You get a final version of the story as a fully-typeset PDF, plus whatever formats you want for posting (ODT, Markdown, FA's BBCode, Google Docs, etc).
 
 #### Licensing
@@ -71,7 +71,7 @@ Please consider carefully if I'm a good fit before asking me to do these, but fe
 
 ### Pricing
 
-Still interested? My pricing is pretty simple! I ask for $20 USD base price, plus $20 USD per 1,000 words. E.g: a 3,000 word commission is $20+(3×$20) = $80.[^pricey]
+Still interested? My pricing is pretty simple! I ask for $20 USD base price, plus 5¢ per word. E.g: a 3,000 word commission is 20+(3000×0.05) = $170 USD.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf8vH8B-uIEGweHVtUbP4pv9ESAQPjMziTPT0GR_VvywzNTeQ/viewform?embedded=true" width="640" height="1024" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
@@ -81,4 +81,4 @@ Still interested? My pricing is pretty simple! I ask for $20 USD base price, plu
     * I edit about 1,000 words an hour
     * Typesetting a project takes me about an hour
 
-    This works out to about $20USD an hour. Groceries for two weeks for two people is about $250--300 USD. If I want to buy two weeks of groceries, that works out to 15 hours or 14,000 words, which is a novelette or three short stories.
+    This works out to about $60 USD an hour before taxes. Groceries for two weeks for two people is about $250--300 USD. A semester of tuition costs $7000. My share of the mortgage and utilities is $3000.
