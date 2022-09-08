@@ -12,7 +12,7 @@ I am currently **open for one or two 1,000--5,000 word commissions.**
 
 * I work as a technical writer by day and an author of various things by night.
 * I'm currently working on my MFA in creative writing from Cornell College.
-* I've published eight books (three short story collections, three novels, a memoir, and a poetry collection) with another novel on the way, edited a short story anthology for Thurston Howl Publications/Bound Tails Press, and helped organize a collaborative anthology. My list of publications is [here](https://makyo.ink/publications).
+* I've published eight books (three short story collections, three novels, a memoir, and a poetry collection with another novel on the way), edited a short story anthology for Thurston Howl Publications/Bound Tails Press, and helped organize a collaborative anthology. My list of publications is [here](https://makyo.ink/publications).
 * I was editor-in-chief of \[adjective\]\[species\] for 7 years and of Hybrid Ink, LLC for 2 years.
 
 ### What you get and how
