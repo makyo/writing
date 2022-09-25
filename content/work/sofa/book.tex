@@ -1,0 +1,57 @@
+\documentclass[11pt]{memoir}
+
+\def\watermarkloaded{0}
+
+\input{includes/variables}
+\input{includes/draft}
+\input{includes/frame}
+\input{includes/packages}
+\input{includes/pagelayout}
+\input{includes/geometry}
+\input{includes/font}
+\input{includes/title}
+\input{includes/secdiv}
+\input{includes/hyphenation}
+\input{includes/toc}
+
+\begin{document}
+  \frontmatter
+  \pagestyle{empty}
+
+
+  \begin{flushright}
+  \null
+  \vfill
+  \large{\TitleFont{Stories to Tell on the Sofa}}
+  \vfill
+  \end{flushright}
+
+  \cleardoublepage
+  \doublespacing
+
+  \begin{center}
+    \TitleFamily
+    \Huge{Stories to Tell on the Sofa}
+    
+    \vfill
+  
+    Dirt Coyote
+  \end{center}
+  \thispagestyle{empty}
+
+  \newpage
+
+  \input{includes/copyright}
+
+  \cleardoublepage
+  \tableofcontents*
+  \newpage
+  \null
+  \cleardoublepage
+  \mainmatter
+  \doublespacing
+  \pagestyle{ourbook}
+
+  \input{content/content}
+
+\end{document}
