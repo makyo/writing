@@ -10,7 +10,7 @@ for i in (fd '0.*' ~/sparkleup/zk/writing/post-self/mitzvot/)
          mkdir -p content/$d
      end
      cp $i src/$o
-    pandoc -f markdown -t latex src/$o --wrap=none --top-level-division=chapter | sed -e 's/\\chapter/\\chapter*/' | sed -e 's/---/—/g' > content/$t; \
+     #pandoc -f markdown -t latex src/$o --wrap=none --top-level-division=chapter | sed -e 's/\\chapter/\\chapter*/' | sed -e 's/---/—/g' > content/$t; \
  end
 for i in (fd '0.*' ~/sparkleup/zk/writing/post-self/selected-letters/)
      set o (echo $i | sed -e 's/.\+selected-letters\///')
