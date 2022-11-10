@@ -1,0 +1,50 @@
+\documentclass[11pt]{memoir}
+
+\def\watermarkloaded{0}
+
+\input{includes/variables}
+\input{includes/draft}
+\input{includes/frame}
+\input{includes/packages}
+\input{includes/pagelayout}
+\input{includes/geometry}
+\input{includes/toc}
+\input{includes/font}
+\input{includes/title}
+\input{includes/secdiv}
+\input{includes/hyphenation}
+
+\begin{document}
+  \frontmatter
+
+  \input{includes/pretitle}
+
+  \pagestyle{plain}
+
+  %\doublespacing
+
+  \maketitle
+  \thispagestyle{empty}
+
+  \newpage
+
+  %\input{includes/copyright}
+
+  \tableofcontents*
+  \newpage
+  \input{content/foreword}
+  \cleartoverso
+
+  %\onehalfspacing
+
+    \mainmatter
+    \pagestyle{fancyplain}
+
+    \input{content/from-the-plume}
+
+  \backmatter
+  \cleardoublepage
+
+  \input{content/afterword}
+
+\end{document}
