@@ -19,8 +19,13 @@ fate: engage-draft
 
 .PHONY: plain
 plain: ## full document of the book with no proofing marks
+	for i in content/letters/0*; do \
+		sed -i.bak $$i -e 's/█████/\\Partner /g'; \
+		sed -i.bak $$i -e 's/\\Partner  /\\Partner\\ /g'; \
+	done
 	xelatex book.tex
 	fd -I 'aux' content/ -x rm \{\} \;
+	fd -I 'bak' content/ -x rm \{\} \;
 
 .PHONY: toc
 toc: plain ## full book with ToC re-rendering in case of page changes
