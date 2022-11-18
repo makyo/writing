@@ -17,12 +17,21 @@ fate: engage-draft
 	xelatex fate.tex
 	xelatex fate.tex
 
-.PHONY: plain
-plain: ## full document of the book with no proofing marks
+.PHONY: partner
+partner: ## Set up Dear/Codrin's partner for TeX
 	for i in content/letters/0*; do \
 		sed -i.bak $$i -e 's/█████/\\Partner /g'; \
 		sed -i.bak $$i -e 's/\\Partner  /\\Partner\\ /g'; \
 	done
+
+.PHONY: departner
+departner: ## Set up Dear/Codrin's partner for epub
+	for i in content/letters/0*; do \
+		sed -i.bak $$i -e 's/\\Partner \?/█████/g'; \
+	done
+
+.PHONY: plain
+plain: partner ## full document of the book with no proofing marks
 	xelatex book.tex
 	fd -I 'aux' content/ -x rm \{\} \;
 	fd -I 'bak' content/ -x rm \{\} \;
@@ -33,7 +42,7 @@ toc: plain ## full book with ToC re-rendering in case of page changes
 	fd -I 'aux' content/ -x rm \{\} \;
 
 .PHONY: ebook
-ebook: ## render ePub file from LaTeX
+ebook: departner ## render ePub file from LaTeX
 	pandoc book.tex -o ebooks/book.epub -t epub3 --wrap=none
 
 .PHONY: frame
@@ -58,5 +67,5 @@ reset: ## reset frame marking, draft watermark, and letter paper
 content: ## build the markdown content into LaTeX
 	@echo "Are you sure you want to do this now?"
 	@echo "Remove the 'false' below to procede"
-	#false
+	false
 	fish fromzk.fish
