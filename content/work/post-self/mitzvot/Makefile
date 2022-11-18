@@ -20,7 +20,7 @@ fate: engage-draft
 .PHONY: partner
 partner: ## Set up Dear/Codrin's partner for TeX
 	for i in content/letters/0*; do \
-		sed -i.bak $$i -e 's/█████/\\Partner /g'; \
+		sed -i.bak $$i -e 's/█████\\\?/\\Partner /g'; \
 		sed -i.bak $$i -e 's/\\Partner  /\\Partner\\ /g'; \
 	done
 
