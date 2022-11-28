@@ -30,6 +30,12 @@ departner: ## Set up Dear/Codrin's partner for epub
 		sed -i.bak $$i -e 's/\\Partner \?/█████/g'; \
 	done
 
+.PHONY: bleed-images
+bleed-images: ## Swap in the full-bleed images for the printers
+	pdftk BOOK=book.pdf MERGE=assets/merge.pdf MAY=assets/may-bar.pdf \
+		cat BOOK1-22 MAY BOOK24-235 MERGE BOOK237-end \
+		output tk.pdf
+
 .PHONY: plain
 plain: partner ## full document of the book with no proofing marks
 	xelatex book.tex
