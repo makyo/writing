@@ -1,0 +1,79 @@
+\documentclass[12pt,oneside]{memoir}
+
+% Todo:
+% * Maybe something about Quaker funeral
+% * Dwale asking for spooky music
+
+
+\usepackage{titlesec}
+\titleformat{\section}
+  {\TitleFont\Large}
+  {\thesection}{1em}{}
+
+\frenchspacing
+
+\usepackage{multicol}
+
+\usepackage[backend=biber,style=mla]{biblatex}
+\bibliography{florilegium}
+
+\usepackage[hidelinks]{hyperref}
+
+\usepackage[letterpaper]{geometry}
+%\usepackage[
+%  paperwidth=5.5in,
+%  paperheight=8.5in,
+%  layoutwidth=5.5in,
+%  layoutheight=8.5in,
+%  vmargin=0.5in,
+%  outer=0.5in,
+%  inner=0.75in,
+%  includeheadfoot,
+%  twoside,
+%  showcrop
+%]{geometry}
+\input{includes/font}
+
+\usepackage{titling}
+\renewcommand{\maketitlehooka}{\TitleFont}
+
+\title{Seasons}
+\author{Madison Scott-Clary}
+
+\begin{document}
+%\OnehalfSpacing
+
+\frontmatter
+
+``Seasons'' is a braided essay of sorts, relying heavily on footnotes for the braid rather than sections or mixed content, a deliberate choice to allow for nested footnotes. This is also why this is being presented as a PDF rather than a GDoc or DOCX, for which I apologize (neither let you nest footnotes, and Word doesn't even let you comment on them, which sure is a choice that they made). Unfortunately, the typesetting program I use, XeLaTeX, doesn't obey line spacing in footnotes (and one of the footnotes in the bibliography got dropped\footnote{On an entry for one of my own works: ``I thought long and hard about whether or not I would cite my own works. I came to the conclusion that part of the point of these essays is that I am taking a step back and observing myself, thinking about what I am feeling, and putting that in context of Madison Scott-Clary writ large. These are \emph{her} works; all I am doing is reading them.''}). Sigh. Nothing's perfect, but the typography is important to me.
+
+I submitted the first two parts to this essay during the previous workshop. Over this last semester, I have been dealing with long COVID which has greatly impacted my ability to concentrate on research, so I've been spending much of that time revising and working on fiction instead. However, this is the piece that I'm most keen on feedback. In particular, I've worked with my mentor on a mix of tones within the text (an academic tone, a poetic tone, and a personal/emotional tone), and I spent a portion of my time on revisions making these flow smoothly one into another---though obviously the emotional tone winds up in the footnotes more frequently---so that they were consistent within each tone without detracting from the overall flow. I'd like to know how well this works for the reader. This also includes the point where I stop talking \emph{about} Dwale and instead talk \emph{to} Dwale in the footnotes. I'm curious how that works for y'all.
+
+To address a concern from a note last workshop, I do have permission from the publisher to use the entirety of each of Dwale's poems, thankfully!
+
+\mainmatter
+
+\DoubleSpacing
+
+\maketitle
+
+\begin{center}
+  \footnotesize \emph{Content note:} this essay contains frank discussions of death and grief, including descriptions of the euthanasia of a pet (marked with \Warn~).\normalsize
+\end{center}
+
+\vskip1cm
+
+\input{seasons/she-knew}
+%\input{seasons/intro}
+%\input{seasons/spring}
+\input{seasons/summer}
+\input{seasons/autumn}
+%\input{seasons/winter}
+%\input{seasons/spirals}
+
+\printbibliography
+
+
+\end{document}
+
+% vim: spell

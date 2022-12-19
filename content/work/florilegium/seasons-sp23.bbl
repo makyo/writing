@@ -1,0 +1,292 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{leaves}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=901253c8f946f0c0fd0bbb0bfd1c05c2}{%
+           family={Dwale},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Weasel P}%
+      }
+      \strng{namehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{fullhash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{bibnamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{authorbibnamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{authornamehash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \strng{authorfullhash}{901253c8f946f0c0fd0bbb0bfd1c05c2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Face Down in the Leaves}
+      \field{year}{2019}
+    \endentry
+    \entry{graves_intercession}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6007b93051740bea79d19dabcfc03c4f}{%
+           family={Graves},
+           familyi={G\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6007b93051740bea79d19dabcfc03c4f}
+      \strng{fullhash}{6007b93051740bea79d19dabcfc03c4f}
+      \strng{bibnamehash}{6007b93051740bea79d19dabcfc03c4f}
+      \strng{authorbibnamehash}{6007b93051740bea79d19dabcfc03c4f}
+      \strng{authornamehash}{6007b93051740bea79d19dabcfc03c4f}
+      \strng{authorfullhash}{6007b93051740bea79d19dabcfc03c4f}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Poetry}
+      \field{number}{1}
+      \field{title}{Intercession in Late October}
+      \field{volume}{71}
+      \field{year}{1947}
+      \field{pages}{23}
+      \range{pages}{1}
+    \endentry
+    \entry{issa}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5d1624e578c8391e128729b6a52b56dc}{%
+           family={Issa},
+           familyi={I\bibinitperiod},
+           given={Kobayashi},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3164259677e3c9e03ab747100383c29f}{%
+           family={Mackenzie},
+           familyi={M\bibinitperiod},
+           given={(Trans.)},
+           giveni={(\bibinitperiod},
+           givenun=0,
+           suffix={Lewis},
+           suffixi={L\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{publisher}{1}{%
+        {John Murray (Publishers) Ltd}%
+      }
+      \strng{namehash}{94e6e93ac92c788c3227efe766d46875}
+      \strng{fullhash}{94e6e93ac92c788c3227efe766d46875}
+      \strng{bibnamehash}{94e6e93ac92c788c3227efe766d46875}
+      \strng{authorbibnamehash}{94e6e93ac92c788c3227efe766d46875}
+      \strng{authornamehash}{94e6e93ac92c788c3227efe766d46875}
+      \strng{authorfullhash}{94e6e93ac92c788c3227efe766d46875}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Autumn Wind: a selection of poems by Issa}
+      \field{year}{1957}
+    \endentry
+    \entry{keats}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e9aae39e414de10405835be2d87188c3}{%
+           family={Keats},
+           familyi={K\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {The Modern Library}%
+      }
+      \strng{namehash}{e9aae39e414de10405835be2d87188c3}
+      \strng{fullhash}{e9aae39e414de10405835be2d87188c3}
+      \strng{bibnamehash}{e9aae39e414de10405835be2d87188c3}
+      \strng{authorbibnamehash}{e9aae39e414de10405835be2d87188c3}
+      \strng{authornamehash}{e9aae39e414de10405835be2d87188c3}
+      \strng{authorfullhash}{e9aae39e414de10405835be2d87188c3}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Complete Poems and Selected Letters of John Keats}
+      \field{year}{1820}
+    \endentry
+    \entry{plu}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
+           family={Scott-Clary},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
+      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://makyo.ink/please-look-up/}}
+      \field{note}{Accessted Feb 13, 2022}
+      \field{title}{Please look Up}
+      \field{year}{2021}
+    \endentry
+    \entry{toledot}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
+           family={Scott-Clary},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {self published}%
+      }
+      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
+      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Toledot}
+      \field{year}{2022}
+    \endentry
+    \entry{uvaip}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6385af222fcf07f42cb1773253369d15}{%
+           family={Scott-Clary},
+           familyi={S\bibinithyphendelim C\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{fullhash}{6385af222fcf07f42cb1773253369d15}
+      \strng{bibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorbibnamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authornamehash}{6385af222fcf07f42cb1773253369d15}
+      \strng{authorfullhash}{6385af222fcf07f42cb1773253369d15}
+      \field{extraname}{3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://writing.drab-makyo.com/poetry/important-people/}}
+      \field{note}{Accessed Feb 26, 2022}
+      \field{title}{Unimportant Verse About Important People}
+      \field{year}{2017}
+    \endentry
+    \entry{blackbird}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0ccfb9aa706d3e1ee6de3a8dfc327144}{%
+           family={Stevens},
+           familyi={S\bibinitperiod},
+           given={Wallace},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0ccfb9aa706d3e1ee6de3a8dfc327144}
+      \strng{fullhash}{0ccfb9aa706d3e1ee6de3a8dfc327144}
+      \strng{bibnamehash}{0ccfb9aa706d3e1ee6de3a8dfc327144}
+      \strng{authorbibnamehash}{0ccfb9aa706d3e1ee6de3a8dfc327144}
+      \strng{authornamehash}{0ccfb9aa706d3e1ee6de3a8dfc327144}
+      \strng{authorfullhash}{0ccfb9aa706d3e1ee6de3a8dfc327144}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://en.wikisource.org/wiki/Thirteen_Ways_of_Looking_at_a_Blackbird}}
+      \field{note}{Accessed Jan 9, 2022}
+      \field{title}{Thirteen Ways of Looking at a Blackbird}
+      \field{year}{1917}
+    \endentry
+    \entry{grief2}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d5c39560bd81522d08837b99e5af7e54}{%
+           family={@Karnythia},
+           familyi={@\bibinitperiod},
+           given={Twitter},
+           giveni={T\bibinitperiod},
+           givenun=0,
+           prefix={user},
+           prefixi={u\bibinitperiod}}}%
+      }
+      \strng{namehash}{d5c39560bd81522d08837b99e5af7e54}
+      \strng{fullhash}{d5c39560bd81522d08837b99e5af7e54}
+      \strng{bibnamehash}{d5c39560bd81522d08837b99e5af7e54}
+      \strng{authorbibnamehash}{d5c39560bd81522d08837b99e5af7e54}
+      \strng{authornamehash}{d5c39560bd81522d08837b99e5af7e54}
+      \strng{authorfullhash}{d5c39560bd81522d08837b99e5af7e54}
+      \field{sortinit}{u}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://twitter.com/Karnythia/status/1492874765702512643}}
+      \field{note}{Accessed Feb 13, 2022}
+      \field{title}{Twitter thread on African American grieving}
+      \field{year}{2022}
+    \endentry
+    \entry{grief1}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7aa50b9ed05fe1e5274e4fb9f496af44}{%
+           family={@pookleblinky\footnote{There\bibnamedelimb is\bibnamedelimb perhaps\bibnamedelimb something\bibnamedelimb to\bibnamedelimb be\bibnamedelimb said\bibnamedelimb about\bibnamedelimb the\bibnamedelimb inflexibility\bibnamedelimb of\bibnamedelimb things\bibnamedelimb such\bibnamedelimb as\bibnamedelimb citation\bibnamedelimb styles\bibnamedelimb when\bibnamedelimb it\bibnamedelimb comes\bibnamedelimb to\bibnamedelimb the\bibnamedelimb combination\bibnamedelimb of\bibnamedelimb modern\bibnamedelimb technology\bibnamedelimb and\bibnamedelimb chosen\bibnamedelimb names.\bibnamedelimi I\bibnamedelimb don't\bibnamedelimb know\bibnamedelimb these\bibnamedelimb users'\bibnamedelimb real\bibnamedelimb names.\bibnamedelimi I\bibnamedelimb don't\bibnamedelimb need\bibnamedelimb to\bibnamedelimb know\bibnamedelimb them.\bibnamedelimi I\bibnamedelimb don't\bibnamedelimb \emph{want}\bibnamedelimb to\bibnamedelimb know\bibnamedelimb them,\bibnamedelimb unless\bibnamedelimb they\bibnamedelimb want\bibnamedelimb to\bibnamedelimb share.\bibnamedelimi What\bibnamedelimb was\bibnamedelimb it\bibnamedelimb Dear\bibnamedelimb said?\bibnamedelimb ``Names\bibnamedelimb bear\bibnamedelimb power.''\bibnamedelimb (Scott-Clary\bibnamedelimb 2020d,\bibnamedelimb p.\bibnamedelimi 74)}},
+           familyi={@\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim p\bibinitperiod\bibinitdelim s\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim b\bibinitperiod\bibinitdelim s\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim s\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim c\bibinitperiod\bibinitdelim s\bibinitperiod\bibinitdelim w\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim c\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim c\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim m\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim a\bibinitperiod\bibinitdelim c\bibinitperiod\bibinitdelim n\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim k\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim r\bibinitperiod\bibinitdelim n\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim n\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim k\bibinitperiod\bibinitdelim t\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim \\bibinithyphendelim C\bibinitperiod},
+           given={Twitter},
+           giveni={T\bibinitperiod},
+           givenun=0,
+           prefix={user},
+           prefixi={u\bibinitperiod}}}%
+      }
+      \strng{namehash}{7aa50b9ed05fe1e5274e4fb9f496af44}
+      \strng{fullhash}{7aa50b9ed05fe1e5274e4fb9f496af44}
+      \strng{bibnamehash}{7aa50b9ed05fe1e5274e4fb9f496af44}
+      \strng{authorbibnamehash}{7aa50b9ed05fe1e5274e4fb9f496af44}
+      \strng{authornamehash}{7aa50b9ed05fe1e5274e4fb9f496af44}
+      \strng{authorfullhash}{7aa50b9ed05fe1e5274e4fb9f496af44}
+      \field{sortinit}{u}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \true{singletitle}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://twitter.com/pookleblinky/status/1492695182445326338}}
+      \field{note}{Accessed Feb 12, 2022}
+      \field{title}{Twitter thread on American grieving}
+      \field{year}{2022}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

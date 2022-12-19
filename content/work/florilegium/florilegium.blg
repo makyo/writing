@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'florilegium.blg'
-[51] biber:340> INFO - === Wed Jul  6, 2022, 13:20:22
-[61] Biber.pm:418> INFO - Reading 'florilegium.bcf'
-[117] Biber.pm:972> INFO - Found 47 citekeys in bib section 0
-[127] Biber.pm:4383> INFO - Processing section 0
-[134] Biber.pm:4574> INFO - Looking for bibtex file 'florilegium.bib' for section 0
-[135] bibtex.pm:1713> INFO - LaTeX decoding ...
-[169] bibtex.pm:1518> INFO - Found BibTeX data source 'florilegium.bib'
-[367] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[367] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[367] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[367] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[415] bbl.pm:654> INFO - Writing 'florilegium.bbl' with encoding 'UTF-8'
-[429] bbl.pm:757> INFO - Output to florilegium.bbl
+[52] biber:340> INFO - === Sun Dec 18, 2022, 14:39:39
+[62] Biber.pm:418> INFO - Reading 'florilegium.bcf'
+[120] Biber.pm:972> INFO - Found 47 citekeys in bib section 0
+[130] Biber.pm:4383> INFO - Processing section 0
+[137] Biber.pm:4574> INFO - Looking for bibtex file 'florilegium.bib' for section 0
+[139] bibtex.pm:1713> INFO - LaTeX decoding ...
+[174] bibtex.pm:1518> INFO - Found BibTeX data source 'florilegium.bib'
+[372] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[372] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[372] Biber.pm:4203> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[372] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[421] bbl.pm:654> INFO - Writing 'florilegium.bbl' with encoding 'UTF-8'
+[435] bbl.pm:757> INFO - Output to florilegium.bbl
