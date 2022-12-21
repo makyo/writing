@@ -17,6 +17,14 @@ fate: engage-draft
 	xelatex fate.tex
 	xelatex fate.tex
 
+.PHONY: bleed-images
+bleed-images: ## Swap in the full-bleed images for the printers
+	pdftk BOOK=book.pdf CAIRNS=assets/cairns.pdf \
+		SPLIT=assets/kris--two-minds--michelle-sasha--G.pdf \
+		DANDELION=assets/ioanmay.pdf \
+		cat BOOK1-44 SPLIT BOOK46-176 DANDELION BOOK178-190 CAIRNS BOOK192-end \
+		output with-illustrations.pdf
+
 .PHONY: plain
 plain: ## full document of the book with no proofing marks
 	xelatex book.tex

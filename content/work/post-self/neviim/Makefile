@@ -17,6 +17,12 @@ fate: engage-draft
 	xelatex fate.tex
 	xelatex fate.tex
 
+.PHONY: bleed-images
+bleed-images: ## Swap in the full-bleed images for the printers
+	pdftk BOOK=book.pdf AWNH=assets/awnh.pdf STOLON=assets/stolon.pdf \
+		cat BOOK1-284 AWNH BOOK286-316 STOLON BOOK318-end \
+		output with-illustrations.pdf
+
 .PHONY: plain
 plain: ## full document of the book with no proofing marks
 	xelatex book.tex

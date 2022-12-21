@@ -17,6 +17,14 @@ fate: engage-draft
 	xelatex fate.tex
 	xelatex fate.tex
 
+.PHONY: bleed-images
+bleed-images: ## Swap in the full-bleed images for the printers
+	pdftk BOOK=book.pdf SMUG=assets/johnny--smug-1--dear--G.pdf \
+		TEA=assets/cadmiumtea--tea--awdae--G.pdf \
+		PRISCA=assets/cadmiumtea--prisca--awdae--G.pdf \
+		cat BOOK1-52 SMUG BOOK54-246 PRISCA BOOK248-274 TEA BOOK276-end \
+		output with-illustrations.pdf
+
 .PHONY: plain
 plain: ## full document of the book with no proofing marks
 	xelatex book.tex
