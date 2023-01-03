@@ -66,7 +66,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>labeldateparts</bcf:key>
-      <bcf:value>1</bcf:value>
+      <bcf:value>0</bcf:value>
     </bcf:option>
     <bcf:option type="multivalued">
       <bcf:key>labeldatespec</bcf:key>
@@ -91,15 +91,15 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>2</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>2</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxsortnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>2</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -139,7 +139,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>singletitle</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>skipbib</bcf:key>
@@ -163,7 +163,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortingtemplatename</bcf:key>
-      <bcf:value>nyt</bcf:value>
+      <bcf:value>nty</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortsets</bcf:key>
@@ -171,11 +171,11 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquelist</bcf:key>
-      <bcf:value>true</bcf:value>
+      <bcf:value>false</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>full</bcf:value>
+      <bcf:value>init</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -195,7 +195,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>useprefix</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>useafterword</bcf:key>
@@ -300,7 +300,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>labeldateparts</bcf:key>
-      <bcf:value>1</bcf:value>
+      <bcf:value>0</bcf:value>
     </bcf:option>
     <bcf:option type="multivalued">
       <bcf:key>labeldatespec</bcf:key>
@@ -317,15 +317,15 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxbibnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>2</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxcitenames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>2</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxsortnames</bcf:key>
-      <bcf:value>3</bcf:value>
+      <bcf:value>2</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>maxitems</bcf:key>
@@ -365,7 +365,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>singletitle</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>skipbib</bcf:key>
@@ -381,11 +381,11 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquelist</bcf:key>
-      <bcf:value>true</bcf:value>
+      <bcf:value>false</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniquename</bcf:key>
-      <bcf:value>full</bcf:value>
+      <bcf:value>init</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>uniqueprimaryauthor</bcf:key>
@@ -405,7 +405,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>useprefix</bcf:key>
-      <bcf:value>0</bcf:value>
+      <bcf:value>1</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>useafterword</bcf:key>
@@ -626,8 +626,19 @@
     <bcf:option datatype="boolean">eprint</bcf:option>
     <bcf:option datatype="boolean">related</bcf:option>
     <bcf:option datatype="boolean">dashed</bcf:option>
-    <bcf:option datatype="boolean">mergedate</bcf:option>
-    <bcf:option datatype="boolean">ibidpage</bcf:option>
+    <bcf:option datatype="boolean">annotation</bcf:option>
+    <bcf:option datatype="boolean">showlocation</bcf:option>
+    <bcf:option datatype="boolean">longdash</bcf:option>
+    <bcf:option datatype="boolean">noremoteinfo</bcf:option>
+    <bcf:option datatype="boolean">isan</bcf:option>
+    <bcf:option datatype="boolean">ismn</bcf:option>
+    <bcf:option datatype="boolean">isrn</bcf:option>
+    <bcf:option datatype="boolean">issn</bcf:option>
+    <bcf:option datatype="boolean">firstlonghand</bcf:option>
+    <bcf:option datatype="boolean">nofullfootnote</bcf:option>
+    <bcf:option datatype="boolean">mancitepar</bcf:option>
+    <bcf:option datatype="boolean">footnoterulestrict</bcf:option>
+    <bcf:option datatype="boolean">mladraft</bcf:option>
     <bcf:option datatype="boolean">bibtexcaseprotection</bcf:option>
     <bcf:option datatype="integer">mincrossrefs</bcf:option>
     <bcf:option datatype="integer">minxrefs</bcf:option>
@@ -709,7 +720,6 @@
     <bcf:option datatype="boolean">doi</bcf:option>
     <bcf:option datatype="boolean">eprint</bcf:option>
     <bcf:option datatype="boolean">related</bcf:option>
-    <bcf:option datatype="boolean">mergedate</bcf:option>
     <bcf:option datatype="boolean">bibtexcaseprotection</bcf:option>
     <bcf:option datatype="xml">labelalphatemplate</bcf:option>
     <bcf:option datatype="xml">translit</bcf:option>
@@ -796,7 +806,11 @@
     <bcf:option datatype="boolean" backendout="1">doi</bcf:option>
     <bcf:option datatype="boolean" backendout="1">eprint</bcf:option>
     <bcf:option datatype="boolean" backendout="1">related</bcf:option>
-    <bcf:option datatype="boolean" backendout="1">mergedate</bcf:option>
+    <bcf:option datatype="boolean" backendout="1">totalnames</bcf:option>
+    <bcf:option datatype="boolean" backendout="1">uniquetranslator</bcf:option>
+    <bcf:option datatype="boolean" backendout="1">showlocation</bcf:option>
+    <bcf:option datatype="boolean" backendout="1">noremoteinfo</bcf:option>
+    <bcf:option datatype="boolean" backendout="1">nodate</bcf:option>
     <bcf:option datatype="boolean" backendout="1">bibtexcaseprotection</bcf:option>
     <bcf:option datatype="integer" backendin="maxcitenames,maxbibnames,maxsortnames">maxnames</bcf:option>
     <bcf:option datatype="integer" backendin="mincitenames,minbibnames,minsortnames">minnames</bcf:option>
@@ -855,6 +869,89 @@
   </bcf:datafieldset>
   <!-- SOURCEMAP -->
   <bcf:sourcemap>
+    <bcf:maps datatype="bibtex" level="style">
+      <bcf:map map_overwrite="1">
+        <bcf:map_step map_field_source="year" map_match="[a-zA-Z]" map_final="1"/>
+        <bcf:map_step map_field_source="year" map_match="(.+)" map_final="1"/>
+        <bcf:map_step map_field_set="addendum" map_field_value="$1"/>
+        <bcf:map_step map_field_set="year" map_null="1"/>
+      </bcf:map>
+      <bcf:map>
+        <bcf:per_type>unpublished</bcf:per_type>
+        <bcf:map_step map_notfield="title" map_final="1"/>
+        <bcf:map_step map_field_source="booktitle" map_match="(.+)" map_final="1"/>
+        <bcf:map_step map_field_set="title" map_field_value="$1" map_final="1"/>
+        <bcf:map_step map_field_set="booktitle" map_null="1"/>
+        <bcf:map_step map_field_set="entrysubtype" map_field_value="book"/>
+      </bcf:map>
+      <bcf:map>
+        <bcf:per_type>patent</bcf:per_type>
+        <bcf:map_step map_notfield="publisher" map_final="1"/>
+        <bcf:map_step map_field_source="type" map_match="patentus" map_final="1"/>
+        <bcf:map_step map_field_set="publisher" map_field_value="United States Patent and Trademark Office"/>
+      </bcf:map>
+      <bcf:map map_overwrite="1">
+        <bcf:map_step map_field_source="edition" map_match="edition" map_replace="ed."/>
+      </bcf:map>
+      <bcf:map map_overwrite="1">
+        <bcf:map_step map_field_source="publisher" map_match="and Company" map_replace=""/>
+        <bcf:map_step map_field_source="publisher" map_match="and Co." map_replace=""/>
+      </bcf:map>
+      <bcf:map>
+        <bcf:map_step map_field_source="publisher" map_match="University Press" map_replace="UP"/>
+        <bcf:map_step map_field_source="publisher" map_match="University" map_replace="U"/>
+        <bcf:map_step map_field_source="publisher" map_match="Press\b" map_replace="P"/>
+        <bcf:map_step map_field_source="publisher" map_match="Corporation|Corp.|Incorporated|Inc.|Limited|Ltd." map_replace=""/>
+        <bcf:map_step map_field_source="url" map_match="http(s)?://" map_replace=""/>
+      </bcf:map>
+      <bcf:map>
+        <bcf:map_step map_field_source="url" map_match="jstor.org" map_final="1"/>
+        <bcf:map_step map_field_set="eprint" map_field_value="JSTOR"/>
+      </bcf:map>
+      <bcf:map>
+        <bcf:map_step map_field_source="url" map_match="muse.jhu.edu" map_final="1"/>
+        <bcf:map_step map_field_set="eprint" map_field_value="Project Muse"/>
+      </bcf:map>
+      <bcf:map>
+        <bcf:map_step map_field_source="url" map_match="ebooks.adelaide.edu.au" map_final="1"/>
+        <bcf:map_step map_field_set="eprint" map_origfieldval="1"/>
+        <bcf:map_step map_field_set="eprinttype" map_field_value="adelaide"/>
+      </bcf:map>
+      <bcf:map>
+        <bcf:map_step map_field_source="url" map_match="books.google" map_final="1"/>
+        <bcf:map_step map_field_set="eprint" map_field_value="Google Books"/>
+      </bcf:map>
+      <bcf:map>
+        <bcf:map_step map_field_source="url" map_match="db=a9h" map_final="1"/>
+        <bcf:map_step map_field_set="eprint" map_field_value="Academic Search Complete"/>
+      </bcf:map>
+      <bcf:map>
+        <bcf:map_step map_field_source="url" map_match="db=fdcaae48" map_final="1"/>
+        <bcf:map_step map_field_set="eprint" map_field_value="LexisNexis Academic"/>
+      </bcf:map>
+      <bcf:map>
+        <bcf:map_step map_field_source="url" map_match="db=mzh" map_final="1"/>
+        <bcf:map_step map_field_set="eprint" map_field_value="MLA International Bibliography"/>
+      </bcf:map>
+      <bcf:map>
+        <bcf:map_step map_field_source="url" map_match="patft.uspto.gov" map_final="1"/>
+        <bcf:map_step map_field_set="eprint" map_field_value="USPTO Patent Full-Text and Image Database"/>
+      </bcf:map>
+      <bcf:map>
+        <bcf:map_step map_field_source="url" map_match="dx.doi.org/(.+)" map_field_target="doi"/>
+        <bcf:map_step map_field_source="doi" map_match="http(s)?://dx.doi.org/(.+)" map_replace="$1"/>
+        <bcf:map_step map_field_source="doi" map_match="dx.doi.org/(.+)" map_replace="$1"/>
+      </bcf:map>
+      <bcf:map>
+        <bcf:map_step map_field_source="isbn" map_final="1"/>
+        <bcf:map_step map_field_set="isbn" map_null="1"/>
+      </bcf:map>
+      <bcf:map>
+        <bcf:map_step map_field_source="doi" map_final="1"/>
+        <bcf:map_step map_field_set="url" map_null="1"/>
+        <bcf:map_step map_field_set="urldate" map_null="1"/>
+      </bcf:map>
+    </bcf:maps>
     <bcf:maps datatype="bibtex" level="driver">
       <bcf:map>
         <bcf:map_step map_field_set="day" map_null="1"/>
@@ -1121,6 +1218,7 @@
       <bcf:entrytype>unpublished</bcf:entrytype>
       <bcf:entrytype>video</bcf:entrytype>
       <bcf:entrytype skip_output="true">xdata</bcf:entrytype>
+      <bcf:entrytype>mlasource</bcf:entrytype>
     </bcf:entrytypes>
     <bcf:fields>
       <bcf:field fieldtype="field" datatype="integer">sortyear</bcf:field>
@@ -1325,6 +1423,24 @@
       <bcf:field fieldtype="field" format="xsv" datatype="option" skip_output="true">relatedoptions</bcf:field>
       <bcf:field fieldtype="field" datatype="range">pages</bcf:field>
       <bcf:field fieldtype="field" datatype="code">execute</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">supplemental</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">titletype</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">titlea</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">contributora</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">versiona</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">numbera</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">publishera</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">datea</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">locationa</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">supplementala</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">titleb</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">contributorb</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">versionb</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">numberb</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">publisherb</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">dateb</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">locationb</bcf:field>
+      <bcf:field fieldtype="field" datatype="literal">supplementalb </bcf:field>
     </bcf:fields>
     <bcf:entryfields>
       <bcf:field>abstract</bcf:field>
@@ -2088,6 +2204,30 @@
       <bcf:field>type</bcf:field>
       <bcf:field>venue</bcf:field>
     </bcf:entryfields>
+    <bcf:entryfields>
+      <bcf:entrytype>mlasource</bcf:entrytype>
+      <bcf:field>jkauthor</bcf:field>
+      <bcf:field>authortype</bcf:field>
+      <bcf:field>title</bcf:field>
+      <bcf:field>titletype</bcf:field>
+      <bcf:field>supplemental</bcf:field>
+      <bcf:field>titlea</bcf:field>
+      <bcf:field>contributora</bcf:field>
+      <bcf:field>versiona</bcf:field>
+      <bcf:field>numbera</bcf:field>
+      <bcf:field>publishera</bcf:field>
+      <bcf:field>datea</bcf:field>
+      <bcf:field>locationa</bcf:field>
+      <bcf:field>supplementala</bcf:field>
+      <bcf:field>titleb</bcf:field>
+      <bcf:field>contributorb</bcf:field>
+      <bcf:field>versionb</bcf:field>
+      <bcf:field>numberb</bcf:field>
+      <bcf:field>publisherb</bcf:field>
+      <bcf:field>dateb</bcf:field>
+      <bcf:field>locationb</bcf:field>
+      <bcf:field>supplementalb </bcf:field>
+    </bcf:entryfields>
     <bcf:multiscriptfields>
       <bcf:field>abstract</bcf:field>
       <bcf:field>addendum</bcf:field>
@@ -2365,68 +2505,69 @@
     <bcf:citekey order="17">plu</bcf:citekey>
     <bcf:citekey order="18">keats</bcf:citekey>
     <bcf:citekey order="19">blackbird</bcf:citekey>
-    <bcf:citekey order="20">leaves</bcf:citekey>
-    <bcf:citekey order="21">grief1</bcf:citekey>
-    <bcf:citekey order="22">grief2</bcf:citekey>
-    <bcf:citekey order="23">uvaip</bcf:citekey>
-    <bcf:citekey order="24">graves_intercession</bcf:citekey>
-    <bcf:citekey order="25">issa</bcf:citekey>
+    <bcf:citekey order="20">toledot</bcf:citekey>
+    <bcf:citekey order="21">leaves</bcf:citekey>
+    <bcf:citekey order="22">grief1</bcf:citekey>
+    <bcf:citekey order="23">grief2</bcf:citekey>
+    <bcf:citekey order="24">uvaip</bcf:citekey>
+    <bcf:citekey order="25">graves_intercession</bcf:citekey>
     <bcf:citekey order="26">issa</bcf:citekey>
-    <bcf:citekey order="27">purcell</bcf:citekey>
-    <bcf:citekey order="28">graves_poems</bcf:citekey>
-    <bcf:citekey order="29">blackbird</bcf:citekey>
-    <bcf:citekey order="30">issa</bcf:citekey>
-    <bcf:citekey order="31">carroll</bcf:citekey>
-    <bcf:citekey order="32">pale_she</bcf:citekey>
-    <bcf:citekey order="33">rush</bcf:citekey>
-    <bcf:citekey order="34">esch</bcf:citekey>
-    <bcf:citekey order="35">pale_she</bcf:citekey>
-    <bcf:citekey order="36">blackbird</bcf:citekey>
-    <bcf:citekey order="37">graves_poems</bcf:citekey>
+    <bcf:citekey order="27">issa</bcf:citekey>
+    <bcf:citekey order="28">purcell</bcf:citekey>
+    <bcf:citekey order="29">graves_poems</bcf:citekey>
+    <bcf:citekey order="30">blackbird</bcf:citekey>
+    <bcf:citekey order="31">issa</bcf:citekey>
+    <bcf:citekey order="32">carroll</bcf:citekey>
+    <bcf:citekey order="33">pale_she</bcf:citekey>
+    <bcf:citekey order="34">rush</bcf:citekey>
+    <bcf:citekey order="35">esch</bcf:citekey>
+    <bcf:citekey order="36">pale_she</bcf:citekey>
+    <bcf:citekey order="37">blackbird</bcf:citekey>
     <bcf:citekey order="38">graves_poems</bcf:citekey>
-    <bcf:citekey order="39">blackbird</bcf:citekey>
-    <bcf:citekey order="40">brosh</bcf:citekey>
-    <bcf:citekey order="41">issa</bcf:citekey>
-    <bcf:citekey order="42">blackbird</bcf:citekey>
-    <bcf:citekey order="43">leaves</bcf:citekey>
-    <bcf:citekey order="44">behesht</bcf:citekey>
-    <bcf:citekey order="45">kaddish</bcf:citekey>
-    <bcf:citekey order="46">arkie</bcf:citekey>
-    <bcf:citekey order="47">toledot</bcf:citekey>
-    <bcf:citekey order="48">wangwei</bcf:citekey>
-    <bcf:citekey order="49">leaves</bcf:citekey>
-    <bcf:citekey order="50">penguins</bcf:citekey>
-    <bcf:citekey order="51">issa</bcf:citekey>
-    <bcf:citekey order="52">leaves</bcf:citekey>
-    <bcf:citekey order="53">dwale</bcf:citekey>
-    <bcf:citekey order="54">dwale_leaves_tweet</bcf:citekey>
-    <bcf:citekey order="55">dwale_haiku</bcf:citekey>
-    <bcf:citekey order="56">blackbird</bcf:citekey>
-    <bcf:citekey order="57">memorial</bcf:citekey>
-    <bcf:citekey order="58">toledot</bcf:citekey>
-    <bcf:citekey order="59">issa</bcf:citekey>
-    <bcf:citekey order="60">emerson</bcf:citekey>
-    <bcf:citekey order="61">plu</bcf:citekey>
-    <bcf:citekey order="62">keats</bcf:citekey>
-    <bcf:citekey order="63">grief1</bcf:citekey>
-    <bcf:citekey order="64">grief2</bcf:citekey>
-    <bcf:citekey order="65">uvaip</bcf:citekey>
-    <bcf:citekey order="66">graves_intercession</bcf:citekey>
-    <bcf:citekey order="67">purcell</bcf:citekey>
-    <bcf:citekey order="68">graves_poems</bcf:citekey>
-    <bcf:citekey order="69">carroll</bcf:citekey>
-    <bcf:citekey order="70">pale_she</bcf:citekey>
-    <bcf:citekey order="71">rush</bcf:citekey>
-    <bcf:citekey order="72">esch</bcf:citekey>
-    <bcf:citekey order="73">brosh</bcf:citekey>
-    <bcf:citekey order="74">behesht</bcf:citekey>
-    <bcf:citekey order="75">kaddish</bcf:citekey>
-    <bcf:citekey order="76">arkie</bcf:citekey>
-    <bcf:citekey order="77">wangwei</bcf:citekey>
-    <bcf:citekey order="78">penguins</bcf:citekey>
+    <bcf:citekey order="39">graves_poems</bcf:citekey>
+    <bcf:citekey order="40">blackbird</bcf:citekey>
+    <bcf:citekey order="41">brosh</bcf:citekey>
+    <bcf:citekey order="42">issa</bcf:citekey>
+    <bcf:citekey order="43">blackbird</bcf:citekey>
+    <bcf:citekey order="44">leaves</bcf:citekey>
+    <bcf:citekey order="45">behesht</bcf:citekey>
+    <bcf:citekey order="46">kaddish</bcf:citekey>
+    <bcf:citekey order="47">arkie</bcf:citekey>
+    <bcf:citekey order="48">toledot</bcf:citekey>
+    <bcf:citekey order="49">wangwei</bcf:citekey>
+    <bcf:citekey order="50">leaves</bcf:citekey>
+    <bcf:citekey order="51">penguins</bcf:citekey>
+    <bcf:citekey order="52">issa</bcf:citekey>
+    <bcf:citekey order="53">leaves</bcf:citekey>
+    <bcf:citekey order="54">dwale</bcf:citekey>
+    <bcf:citekey order="55">dwale_leaves_tweet</bcf:citekey>
+    <bcf:citekey order="56">dwale_haiku</bcf:citekey>
+    <bcf:citekey order="57">blackbird</bcf:citekey>
+    <bcf:citekey order="58">memorial</bcf:citekey>
+    <bcf:citekey order="59">toledot</bcf:citekey>
+    <bcf:citekey order="60">issa</bcf:citekey>
+    <bcf:citekey order="61">emerson</bcf:citekey>
+    <bcf:citekey order="62">plu</bcf:citekey>
+    <bcf:citekey order="63">keats</bcf:citekey>
+    <bcf:citekey order="64">grief1</bcf:citekey>
+    <bcf:citekey order="65">grief2</bcf:citekey>
+    <bcf:citekey order="66">uvaip</bcf:citekey>
+    <bcf:citekey order="67">graves_intercession</bcf:citekey>
+    <bcf:citekey order="68">purcell</bcf:citekey>
+    <bcf:citekey order="69">graves_poems</bcf:citekey>
+    <bcf:citekey order="70">carroll</bcf:citekey>
+    <bcf:citekey order="71">pale_she</bcf:citekey>
+    <bcf:citekey order="72">rush</bcf:citekey>
+    <bcf:citekey order="73">esch</bcf:citekey>
+    <bcf:citekey order="74">brosh</bcf:citekey>
+    <bcf:citekey order="75">behesht</bcf:citekey>
+    <bcf:citekey order="76">kaddish</bcf:citekey>
+    <bcf:citekey order="77">arkie</bcf:citekey>
+    <bcf:citekey order="78">wangwei</bcf:citekey>
+    <bcf:citekey order="79">penguins</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
-  <bcf:sortingtemplate name="nyt">
+  <bcf:sortingtemplate name="nty">
     <bcf:sort order="1">
       <bcf:sortitem order="1">presort</bcf:sortitem>
     </bcf:sort>
@@ -2442,12 +2583,12 @@
       <bcf:sortitem order="6">title</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="4">
-      <bcf:sortitem order="1">sortyear</bcf:sortitem>
-      <bcf:sortitem order="2">year</bcf:sortitem>
-    </bcf:sort>
-    <bcf:sort order="5">
       <bcf:sortitem order="1">sorttitle</bcf:sortitem>
       <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
     </bcf:sort>
     <bcf:sort order="6">
       <bcf:sortitem order="1">volume</bcf:sortitem>
@@ -2456,9 +2597,9 @@
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
   <bcf:datalist section="0"
-                name="nyt/global//global/global"
+                name="nty/global//global/global"
                 type="entry"
-                sortingtemplatename="nyt"
+                sortingtemplatename="nty"
                 sortingnamekeytemplatename="global"
                 labelprefix=""
                 uniquenametemplatename="global"

@@ -42,6 +42,21 @@ reset: ## reset frame marking, draft watermark, and letter paper
 	echo '%' > includes/frame.tex
 	echo '\input{includes/_geometry-trade.tex}' > includes/geometry.tex
 
+.PHONY: images
+images:
+	pdftk BOOK=book.pdf A=assets/7.pdf B=assets/3.pdf C=assets/8.pdf D=assets/6.pdf \
+		E=assets/5.pdf F=assets/10.pdf G=assets/4.pdf H=assets/9.pdf I=assets/11.pdf cat \
+		BOOK1-9 A \
+		BOOK11-35 B \
+		BOOK37-63 C \
+		BOOK65-91 D \
+		BOOK93-123 E \
+		BOOK125-139 F \
+		BOOK141-163 G \
+		BOOK164-171 H \
+		BOOK173-199 I \
+		output with-illustrations.pdf
+
 .PHONY: content
 content: ## build the markdown content into LaTeX
 	false
